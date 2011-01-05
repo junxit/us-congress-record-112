@@ -1,0 +1,37 @@
+---
+granule: CREC-2011-01-05-pt1-PgH42-4
+date: 2011-01-05
+edition: CREC
+section: HOUSE
+page: H42
+citation: 157 Cong. Rec. H42
+---
+
+# Constitutional Authority Statement for H.R. 21
+
+**Measures:** H.R. 21
+
+```
+           By Mr. GARRETT:
+       H.R. 21.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       This bill seeks to strike a provision from the Patient 
+     Protection and Affordable Care Act, the so-called 
+     ``individual mandate,'' which is unconstitutional.
+       The Patient Protection and Affordable Care Act requires 
+     individuals to purchase private health insurance--health 
+     insurance that has been approved by the federal government--
+     or pay a fine. While Congress is granted the authority to 
+     ``regulate commerce . . . among the several states,'' and the 
+     Supreme Court has allowed Congress to regulate and prohibit 
+     ``economic'' activities that are not, strictly speaking, 
+     commerce, this is the first time in our nation's history that 
+     Congress has sought to regulate inactivity. And for the first 
+     time, Congress has mandated that individuals purchase a 
+     private good, approved by the government, as the price of 
+     citizenship. This requirement is plainly unconstitutional, 
+     and, as Federal District Court Judge Henry Hudson recently 
+     wrote in his opinion striking down the individual mandate, 
+     ``is beyond the historical reach of the Commerce Clause.''
+```
