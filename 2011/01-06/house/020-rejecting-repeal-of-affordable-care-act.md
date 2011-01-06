@@ -1,0 +1,37 @@
+---
+granule: CRECB-2011-pt1-Pg138-6
+date: 2011-01-06
+edition: CRECB
+section: HOUSE
+page: 138
+---
+
+# REJECTING REPEAL OF AFFORDABLE CARE ACT
+
+```
+                REJECTING REPEAL OF AFFORDABLE CARE ACT
+
+  (Ms. SCHAKOWSKY asked and was given permission to address the House 
+for 1 minute.)
+  Ms. SCHAKOWSKY. Mr. Speaker, I rise today on behalf of my 
+constituent, David Zoltan-Breiger, 33 years old, who now has coverage 
+under Illinois' Pre-Existing Condition Plan thanks to the Affordable 
+Care Act.
+  David has diabetes. Because of his preexisting condition, he couldn't 
+get
+
+[[Page 139]]
+
+insurance for over 2 years after losing his job. David is absolutely 
+elated that he no longer has to wait for hours in the emergency room to 
+get lifesaving insulin. Without coverage, the ER was his only option. 
+Instead, he now has regular visits with the doctor and can avoid the 
+medical crises that had become a frequent nightmare.
+  What happens to David under repeal of the bill? He, like so many 
+others, would lose coverage and once again be at the mercy of insurance 
+companies.
+  We cannot go back. We must reject the Republican call for repeal of 
+the Affordable Care Act.
+
+                          ____________________
+```
