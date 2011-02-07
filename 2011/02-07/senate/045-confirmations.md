@@ -1,0 +1,26 @@
+---
+granule: CRECB-2011-pt1-Pg1297-6
+date: 2011-02-07
+edition: CRECB
+section: SENATE
+page: 1297
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate, Monday, February 7, 
+2011:
+
+
+                             THE JUDICIARY
+
+       PAUL KINLOCH HOLMES III, OF ARKANSAS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE WESTERN DISTRICT OF ARKANSAS.
+       DIANA SALDANA, OF TEXAS, TO BE UNITED STATES DISTRICT JUDGE 
+     FOR THE SOUTHERN DISTRICT OF TEXAS.
+       MARCO A. HERNANDEZ, OF OREGON, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE DISTRICT OF OREGON.
+```
