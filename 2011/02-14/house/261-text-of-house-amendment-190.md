@@ -1,0 +1,26 @@
+---
+granule: CREC-2011-02-14-pt1-PgH786-25
+date: 2011-02-14
+edition: CREC
+section: HOUSE
+page: H786
+citation: 157 Cong. Rec. H786
+---
+
+# Text of House Amendment 190
+
+**Speaking:** Woolsey, Lynn C. (W000738) [D-CA]
+
+**Measures:** H.R. 1
+
+```
+H.R. 1
+
+                        Offered By: Ms. Woolsey
+
+       Amendment No. 190: At the end of the bill (before the short 
+     title), insert the following:
+       Sec. __.  None of the funds made available by division A of 
+     this Act may be used to research, develop, test, evaluate, or 
+     procure the V-22 Osprey aircraft.
+```

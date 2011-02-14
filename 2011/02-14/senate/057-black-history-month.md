@@ -1,0 +1,100 @@
+---
+granule: CREC-2011-02-14-pt1-PgS702-5
+date: 2011-02-14
+edition: CREC
+section: SENATE
+page: S702
+citation: 157 Cong. Rec. S702
+---
+
+# BLACK HISTORY MONTH
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S.Res. 49
+
+```
+                          BLACK HISTORY MONTH
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Senate 
+proceed
+
+[[Page S703]]
+
+to the immediate consideration of S. Res. 49, submitted earlier today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 49) celebrating Black History Month.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. REID. Mr. President, I ask unanimous consent that the resolution 
+be agreed to, the preamble be agreed to, the motions to reconsider be 
+laid upon the table, with no intervening action or debate, and that any 
+statements relating to the resolution be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 49) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                               S. Res. 49
+
+       Whereas in 1776, the United States of America was imagined, 
+     as stated in the Declaration of Independence, as a new Nation 
+     dedicated to the proposition that ``all men are created 
+     equal, that they are endowed by their Creator with certain 
+     unalienable Rights, that among these are Life, Liberty, and 
+     the pursuit of Happiness'';
+       Whereas on November 19, 1863, President Abraham Lincoln, in 
+     reference to the Declaration of Independence, stated, 
+     ``[f]our score and seven years ago our fathers brought forth, 
+     upon this continent, a new nation, conceived in liberty, and 
+     dedicated to the proposition that all men are created 
+     equal'';
+       Whereas the history of this Nation includes injustices and 
+     the denial of basic, fundamental rights at odds with the 
+     words of the Founders of the Nation and the sacrifices 
+     commemorated at Gettysburg, and these injustices include 
+     nearly 250 years of slavery, 100 years of lynchings, denial 
+     of both fundamental human and civil rights, and withholding 
+     of the basic rights of citizenship;
+       Whereas the vestiges of slavery still exist in the systemic 
+     inequalities and injustices in our society;
+       Whereas for every Shirley Chisholm, Dorothy Height, 
+     Constance Baker Motley, Charles Hamilton Houston, Thurgood 
+     Marshall, Lena Horne, James Baldwin, W.E.B. Du Bois, Harriet 
+     Tubman, Frederick Douglass, Sojourner Truth, Jackie Robinson, 
+     or Ralph Bunche, each of whom lived a life of incandescent 
+     greatness, many African Americans lived, toiled, and died in 
+     obscurity, never achieving the recognition they deserved;
+       Whereas on November 4, 2008, the people of the United 
+     States elected an African American man, Barack Obama, as 
+     President of the United States, and African-Americans 
+     continue to serve our country at the highest levels of our 
+     government and military; and
+       Whereas William H. Hastie, the first African American to be 
+     appointed as a Federal judge, stated, ``[h]istory informs us 
+     of past mistakes from which we can learn without repeating 
+     them. It also inspires us and gives confidence and hope bred 
+     of victories already won'': Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes the importance of Black History Month as an 
+     opportunity to reflect on our Nation's complex history, while 
+     remaining hopeful and confident for the path that lies ahead;
+       (2) acknowledges the significance of Black History Month as 
+     an important opportunity to recognize the tremendous 
+     contributions of African Americans to the Nation's history;
+       (3) encourages the celebration of Black History Month to 
+     provide a continuing opportunity for all people in the United 
+     States to learn from our past and to understand the 
+     experiences that have shaped our Nation; and
+       (4) calls on citizens to remember that, while this Nation 
+     began in division, it must now move forward with purpose, 
+     united tirelessly as one Nation, indivisible, with liberty 
+     and justice for all, and to honor the contribution of all 
+     American pioneers who help ensure the legacy of these great 
+     United States.
+
+                          ____________________
+```
