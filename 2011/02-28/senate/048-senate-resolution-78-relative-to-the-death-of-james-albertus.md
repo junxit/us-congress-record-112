@@ -1,0 +1,73 @@
+---
+granule: CREC-2011-02-28-pt1-PgS978
+date: 2011-02-28
+edition: CREC
+section: SENATE
+page: S978
+citation: 157 Cong. Rec. S978
+---
+
+# SENATE RESOLUTION 78--RELATIVE TO THE DEATH OF JAMES ALBERTUS McCLURE, FORMER UNITED STATES SENATOR FOR THE STATE OF IDAHO
+
+**Measures:** S.Res. 78
+
+```
+SENATE RESOLUTION 78--RELATIVE TO THE DEATH OF JAMES ALBERTUS McCLURE, 
+          FORMER UNITED STATES SENATOR FOR THE STATE OF IDAHO
+
+  Mr. CRAPO (for himself, Mr. Risch, Mr. Akaka, Mr. Alexander, Ms. 
+Ayotte, Mr. Barrasso, Mr. Baucus, Mr. Begich, Mr. Bennet, Mr. Bingaman, 
+Mr. Blumenthal, Mr. Blunt, Mr. Boozman, Mrs. Boxer, Mr. Brown of 
+Massachusetts, Mr. Brown of Ohio, Mr. Burr, Ms. Cantwell, Mr. Cardin, 
+Mr. Carper, Mr. Casey, Mr. Chambliss, Mr. Coats, Mr. Coburn, Mr. 
+Cochran, Ms. Collins, Mr. Conrad, Mr. Coons, Mr. Corker, Mr. Cornyn, 
+Mr. DeMint, Mr. Durbin, Mr. Ensign, Mr. Enzi, Mrs. Feinstein, Mr. 
+Franken, Mrs. Gillibrand, Mr. Graham, Mr. Grassley, Mrs. Hagan, Mr. 
+Harkin, Mr. Hatch, Mr. Hoeven, Mrs. Hutchison, Mr. Inhofe, Mr. Inouye, 
+Mr. Isakson, Mr. Johanns, Mr. Johnson of Wisconsin, Mr. Johnson of 
+South Dakota, Mr. Kerry, Mr. Kirk, Ms. Klobuchar, Mr. Kohl, Mr. Kyl, 
+Ms. Landrieu, Mr. Lautenberg, Mr. Leahy, Mr. Lee, Mr. Levin, Mr. 
+Lieberman, Mr. Lugar, Mr. Manchin, Mr. McCain, Mrs. McCaskill, Mr. 
+McConnell, Mr. Menendez, Mr. Merkley, Ms. Mikulski, Mr. Moran, Ms. 
+Murkowski, Mrs. Murray, Mr. Nelson of Nebraska, Mr. Nelson of Florida, 
+Mr. Paul, Mr. Portman, Mr. Pryor, Mr. Reed of Rhode Island, Mr. Reid of 
+Nevada, Mr. Roberts, Mr. Rockefeller, Mr. Rubio, Mr. Sanders, Mr. 
+Schumer, Mr. Sessions, Mrs. Shaheen, Mr. Shelby, Ms. Snowe, Ms. 
+Stabenow, Mr. Tester, Mr. Thune, Mr. Toomey, Mr. Udall of Colorado, Mr. 
+Udall of New Mexico, Mr. Vitter, Mr. Warner, Mr. Webb, Mr. Whitehouse, 
+Mr. Wicker, and Mr. Wyden) submitted the following resolution; which 
+was considered and agreed to:
+
+                               S. Res. 78
+
+       Whereas James A. McClure served in the United States Navy 
+     during World War II;
+       Whereas James A. McClure served the state of Idaho as a 
+     prosecuting attorney, a city attorney, a member of the Idaho 
+     state Senate, and as a member of the United States House of 
+     Representatives;
+       Whereas James A. McClure served the people of Idaho with 
+     distinction for 18 years in the United States Senate;
+       Whereas James A. McClure served the Senate as Chairman of 
+     the Committee on Energy and Natural Resources in the Ninety-
+     seventh through Ninety-ninth Congresses and Chairman of the 
+     Senate Republican Conference in the Ninety-seventh and 
+     Ninety-eighth Congresses;
+       Whereas James A. McClure served his caucus as a founding 
+     member and Chairman of the Senate Steering Committee in the 
+     Ninety-fourth through Ninety-sixth and Ninety-ninth through 
+     One Hundredth Congresses; Now therefore be it
+       Resolved, That the Senate has heard with profound sorrow 
+     and deep regret the announcement of the death of the 
+     Honorable James Albertus McClure, former member of the United 
+     States Senate.
+       Resolved, That the Secretary of the Senate communicate 
+     these resolutions to the House of Representatives and 
+     transmit an enrolled copy thereof to the family of the 
+     deceased.
+       Resolved, That when the Senate adjourns today, it stand 
+     adjourned as a further mark of respect to the memory of the 
+     Honorable James Albertus McClure.
+
+                          ____________________
+```
