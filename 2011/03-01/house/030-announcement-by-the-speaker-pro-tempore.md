@@ -1,0 +1,18 @@
+---
+granule: CRECB-2011-pt2-Pg2897-2
+date: 2011-03-01
+edition: CRECB
+section: HOUSE
+page: 2897
+---
+
+# ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+```
+                ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+  The SPEAKER pro tempore (Mr. Womack). The Chair will entertain up to 
+15 requests for 1-minute speeches on each side of the aisle.
+
+                          ____________________
+```
