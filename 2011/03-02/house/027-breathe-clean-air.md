@@ -1,0 +1,37 @@
+---
+granule: CRECB-2011-pt3-Pg3068-2
+date: 2011-03-02
+edition: CRECB
+section: HOUSE
+page: 3068
+---
+
+# BREATHE CLEAN AIR
+
+```
+                           BREATHE CLEAN AIR
+
+  (Mr. INSLEE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. INSLEE. Mr. Speaker, one thing we share on a bipartisan basis is 
+Republicans and Democrats like to breathe clean air. We don't want to 
+see our kids exposed to aggravated asthma problems.
+  That's why it's very disappointing that the Republicans are trying to 
+threaten a government shutdown if they don't get to pass their dirty 
+air act. Now, their dirty air act is a bill that they want to pass, and 
+I am not making this up. They want to pass a bill that would make it 
+illegal for the Environmental Protection Agency to enforce the 
+provisions of the Clean Air Act that will reduce air pollution.
+  This is amazing to me. You want to shut down government, if you don't 
+shut down government in enforcing pollution. Now, I always thought that 
+the American people thought that that was a really bad idea.
+  I want to share my colleagues' proof of this. In polls done in 19 
+congressional districts recently, including the Speaker's own district 
+in Ohio, 68 percent of Americans said that we should move forward with 
+the EPA in this; 6 out of 10 said the Republicans' dirty air act is a 
+really bad idea.
+  We need to keep the government to keep this clean air. Reject the 
+Republicans' threat of a government shutdown.
+
+                          ____________________
+```

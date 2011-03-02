@@ -1,0 +1,32 @@
+---
+granule: CRECB-2011-pt3-Pg3059
+date: 2011-03-02
+edition: CRECB
+section: SENATE
+page: 3059
+---
+
+# ORDERS FOR THURSDAY, MARCH 3, 2011
+
+```
+                   ORDERS FOR THURSDAY, MARCH 3, 2011
+
+  Mr. REID. Mr. President, I ask unanimous consent that when the Senate 
+completes its business today, it adjourn until 10 a.m. tomorrow, 
+Thursday, March 3; that following the prayer and pledge, the Journal of 
+proceedings be approved to date, the morning hour be deemed expired, 
+the time for the two leaders be reserved for their use later in the 
+day; that following any leader remarks there be a period of morning 
+business until 11 a.m., with Senators permitted to speak for up to 10 
+minutes each, with the time equally divided and controlled between the 
+two leaders or their designees, with the Republicans controlling the 
+first half and the majority controlling the final half; further, at 11 
+a.m., the Senate resume consideration of S. 23, the America Invents 
+Act; finally, there be a period of morning business from 2 to 4 p.m., 
+with Senators permitted to speak therein for up to 10 minutes each, 
+with the majority controlling the first hour and the Republicans 
+controlling the next hour.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
