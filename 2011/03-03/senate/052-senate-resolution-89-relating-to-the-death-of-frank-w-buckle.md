@@ -1,0 +1,64 @@
+---
+granule: CREC-2011-03-03-pt1-PgS1237-2
+date: 2011-03-03
+edition: CREC
+section: SENATE
+page: S1237
+citation: 157 Cong. Rec. S1237
+---
+
+# SENATE RESOLUTION 89--RELATING TO THE DEATH OF FRANK W. BUCKLES, THE LONGEST SURVIVING UNITED STATES VETERAN OF THE FIRST WORLD WAR
+
+**Measures:** S.Res. 89
+
+```
+ SENATE RESOLUTION 89--RELATING TO THE DEATH OF FRANK W. BUCKLES, THE 
+     LONGEST SURVIVING UNITED STATES VETERAN OF THE FIRST WORLD WAR
+
+  Mr. ROCKEFELLER (for himself, Mr. Burr, Mr. Manchin, Mr. Udall of 
+Colorado, Mr. Begich, Mrs. McCaskill, Mr. Menendez, Mr. Brown of Ohio, 
+Mr. Lieberman, Mr. Nelson of Florida, Mr. Kerry, Mr. Wyden, Ms. 
+Landrieu, Mr. Brown of Massachusetts, Mr. McCain, and Mr. Bingaman) 
+submitted the following resolution; which was considered and agreed to:
+
+                               S. Res. 89
+
+       Whereas Frank Woodruff Buckles is the last known American 
+     World War I veteran, who passed away on February 27, 2011, at 
+     the age of 110, and represents his generation of veterans;
+       Whereas America's support of Great Britain, France, 
+     Belgium, and its other allies in World War I marked the first 
+     time in the Nation's history that American soldiers went 
+     abroad in defense of liberty against foreign aggression, and 
+     it marked the true beginning of the ``American century'';
+       Whereas more than 4,000,000 men and women from the United 
+     States served in uniform during World War I, among them 2 
+     future presidents, Harry S. Truman and Dwight D. Eisenhower;
+       Whereas 2,000,000 individuals from the United States served 
+     overseas during World War I, including 200,000 naval 
+     personnel who served on the seas;
+       Whereas the United States suffered 375,000 casualties 
+     during World War I, including 116,516 deaths;
+       Whereas the events of 1914 through 1918 shaped the world, 
+     the United States, and the lives of millions of people in 
+     countless ways; and
+       Whereas Frank Woodruff Buckles is the last veteran to 
+     represent the extraordinary legacy of the World War I 
+     veterans: Now, therefore, be it
+       Resolved, That--
+       (1) the Senate recognizes the historic contributions of all 
+     United States veterans who served in the First World War; and
+       (2) when the Senate adjourns today, it stand adjourned as a 
+     further mark of respect to the memory of Frank W. Buckles, 
+     the longest surviving United States veteran of the First 
+     World War.
+       Sec. 2.  The Secretary of the Senate is directed to 
+     transmit an enrolled copy of this resolution to the family of 
+     the deceased.
+
+[[Page S1238]]
+
+
+
+                          ____________________
+```
