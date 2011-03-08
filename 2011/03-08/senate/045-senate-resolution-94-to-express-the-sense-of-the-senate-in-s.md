@@ -1,0 +1,63 @@
+---
+granule: CREC-2011-03-08-pt1-PgS1411
+date: 2011-03-08
+edition: CREC
+section: SENATE
+page: S1411
+citation: 157 Cong. Rec. S1411
+---
+
+# SENATE RESOLUTION 94--TO EXPRESS THE SENSE OF THE SENATE IN SUPPORT OF REDUCING ITS BUDGET BY AT LEAST 5 PERCENT
+
+**Measures:** S.Res. 94
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+SENATE RESOLUTION 94--TO EXPRESS THE SENSE OF THE SENATE IN SUPPORT OF 
+               REDUCING ITS BUDGET BY AT LEAST 5 PERCENT
+
+  Mr. WICKER (for himself, Mr. Coats, Mr. Johanns, Mr. Isakson, Mr. 
+Thune, Mr. Portman, Mr. Barrasso, Mr. Cornyn, Mr. Inhofe, Mr. Enzi, Mr. 
+Brown of Massachusetts, Mr. Chambliss, Mr. Corker, and Mr. Manchin) 
+submitted the following resolution; which was referred to the Committee 
+on Rules and Administration:
+
+                               S. Res. 94
+
+       Whereas, the current level Federal spending is 
+     unsustainable and action to reverse this course should not be 
+     delayed;
+       Whereas, in 2010 Federal spending was nearly 24 percent of 
+     the value of all the goods and services produced in the 
+     United States;
+       Whereas, the Federal deficit was over $1 trillion in fiscal 
+     year 2010;
+       Whereas, Federal spending is at its highest percentage 
+     since World War II;
+       Whereas, the Congressional Budget Office estimates if the 
+     United States maintains its current track of Federal 
+     spending, the Federal debt would reach 90 percent of the 
+     value of all the goods and services produced in the United 
+     States by 2020;
+       Whereas, the national debt exceeds $13.9 trillion dollars;
+       Whereas, the United States borrows $44,000 for every person 
+     in the country;
+       Whereas, the unemployment rate was 9.8 percent in December;
+       Whereas, the American people have responded to the economic 
+     downturn by making hard choices and trimming their family 
+     budgets;
+       Whereas, spending in the legislative branch rose nearly 50 
+     percent over the last 10 years; and
+       Whereas, in order to address the nation's fiscal crisis, 
+     the Senate should lead by example and reduce its own 
+     legislative budget: Now, therefore, be it
+       Resolved, That it is the sense of the Senate that it should 
+     lead by example and reduce the budget of the Senate by at 
+     least 5 percent.
+
+                          ____________________
+```
