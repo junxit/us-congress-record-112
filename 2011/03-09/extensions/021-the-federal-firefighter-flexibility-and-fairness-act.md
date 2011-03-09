@@ -1,0 +1,61 @@
+---
+granule: CREC-2011-03-09-pt1-PgE442-2
+date: 2011-03-09
+edition: CREC
+section: EXTENSIONS
+page: E442
+citation: 157 Cong. Rec. E442
+---
+
+# THE FEDERAL FIREFIGHTER FLEXIBILITY AND FAIRNESS ACT
+
+**Speaking:** Sarbanes, John P. (S001168) [D-MD]
+
+```
+          THE FEDERAL FIREFIGHTER FLEXIBILITY AND FAIRNESS ACT
+
+                                 ______
+                                 
+
+                         HON. JOHN P. SARBANES
+
+                              of maryland
+
+                    in the house of representatives
+
+                        Wednesday, March 9, 2011
+
+  Mr. SARBANES. Mr. Speaker, I rise today to re-introduce the Federal 
+Firefighter Flexibility and Fairness Act which passed the House of 
+Representatives by voice vote in the 111th Congress. This legislation 
+would correct a longstanding disparity between professional 
+firefighters who are employed by States, counties, or municipalities 
+and Federal firefighters.
+  In 1985, Congress amended the Fair Labor Standards Act so that 
+firefighters around the country could engage in a practice called 
+``trade time.'' Trade time allows two firefighters, solely at their 
+option and with the approval of their supervisor, to trade shifts 
+without affecting the pay of either firefighter. The Congress made this 
+change because firefighters work uncommon schedules involving 24-hour 
+shifts and 72-hour workweeks, followed by a period of time away from 
+the firehouse. Trade time enables firefighters to meet personal 
+obligations such as attending a child's birthday or assisting a sick 
+family member without exhausting their annual leave. It also ensures 
+that firehouses across the country can maintain staffing requirements 
+and keep our communities safe.
+  Federal firefighters are not covered under the Fair Labor Standards 
+Act and therefore have been ineligible for trade time. I am 
+reintroducing this legislation to amend Federal employee labor law to 
+fix this problem.
+  Federal firefighters work side-by-side with their non-federal 
+colleagues, so this is an issue of equity. Correcting this inequity 
+will help Federal agencies recruit and retain firefighters. Just like 
+other firefighters, Federal firefighters risk their lives on a daily 
+basis. They also accept the irregular hours that their jobs require. 
+This legislation merely gives them some modest flexibility to balance 
+that irregularity and meet their family obligations.
+  I hope my colleagues will support this bipartisan commonsense 
+legislation.
+
+                          ____________________
+```
