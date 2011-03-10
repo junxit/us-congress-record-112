@@ -1,0 +1,29 @@
+---
+granule: CRECB-2011-pt3-Pg3737-3
+date: 2011-03-10
+edition: CRECB
+section: SENATE
+page: 3737
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate March 10, 2011:
+
+
+                             THE JUDICIARY
+
+       MAX OLIVER COGBURN, JR., OF NORTH CAROLINA, TO BE UNITED 
+     STATES DISTRICT JUDGE FOR THE WESTERN DISTRICT OF NORTH 
+     CAROLINA.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       TIMOTHY J. FEIGHERY, OF NEW YORK, TO BE CHAIRMAN OF THE 
+     FOREIGN CLAIMS SETTLEMENT COMMISSION OF THE UNITED STATES FOR 
+     A TERM EXPIRING SEPTEMBER 30, 2012.
+```
