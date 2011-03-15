@@ -1,0 +1,187 @@
+---
+granule: CREC-2011-03-15-pt1-PgS1700
+date: 2011-03-15
+edition: CREC
+section: SENATE
+page: S1700
+citation: 157 Cong. Rec. S1700
+---
+
+# Text of Senate Amendment 209
+
+**Speaking:** Brown, Scott P. (B001268) [R-MA]
+
+```
+  SA 209. Mr. BROWN of Massachusetts submitted an amendment intended to 
+be proposed by him to the bill S. 493, to reauthorize and improve the 
+SBIR and STTR programs, and for other purposes; which was ordered to 
+lie on the table; as follows:
+
+       At the end of title V, add the following:
+
+     SEC. 504. ITEMIZED FEDERAL TAX RECEIPT.
+
+       (a) In General.--Chapter 77 of the Internal Revenue Code of 
+     1986 is amended by adding at the end the following new 
+     section:
+
+     ``SEC. 7529. FEDERAL TAX RECEIPT.
+
+       ``(a) In General.--The Secretary shall send to every 
+     taxpayer who files an individual income tax return for any 
+     taxable year an itemized Federal tax receipt showing a 
+     proportionate allocation (in money terms) of the taxpayer's 
+     total tax payment for such taxable year among major 
+     expenditure categories for the fiscal year ending in such 
+     taxable year. The Federal tax receipt shall also include 2 
+     separate line items showing the amount of Federal debt per 
+     legal United States resident at the end of such fiscal year, 
+     and the amount of additional borrowing per legal United 
+     States resident by the Federal Government in such fiscal 
+     year.
+       ``(b) Total Tax Payments.--For purposes of subsection (a), 
+     the total tax payment of a taxpayer for any taxable year is 
+     equal to the sum of--
+       ``(1) the tax imposed by subtitle A for such taxable year 
+     (as shown on such taxpayer's return), plus
+       ``(2) the tax imposed by section 3101 on wages received by 
+     such taxpayer during such taxable year.
+       ``(c) Determination of Proportionate Allocation of Tax 
+     Payment Among Major Expenditure Categories.--For purposes of 
+     determining a proportionate allocation described in 
+     subsection (a), not later than 60 days after the end of any 
+     fiscal year, the Director of the Congressional Budget Office 
+     shall provide to the Secretary the percentage of Federal 
+     outlays for such fiscal year for the following categories and 
+     subcategories of Federal spending:
+       ``(1) Social Security.
+       ``(2) National defense.
+       ``(A) Overseas combat operations.
+       ``(3) Medicare.
+       ``(4) Low-income assistance programs.
+       ``(A) Housing assistance.
+       ``(B) Food stamps and other food programs.
+       ``(5) Other Federal health programs.
+       ``(A) Medicaid, Children's Health Insurance Program, and 
+     other public health programs.
+       ``(B) National Institutes of Health and other health 
+     research and training programs.
+       ``(C) Food and Drug Administration, Consumer Product Safety 
+     Commission, and other regulatory health and safety 
+     activities.
+       ``(6) Unemployment benefits
+       ``(7) Net interest on the Federal debt.
+       ``(8) Veterans benefits and services.
+       ``(9) Education.
+       ``(A) K-12 and vocational education.
+       ``(B) Higher education.
+       ``(C) Job training and assistance.
+       ``(10) Federal employee retirement and disability benefits.
+       ``(11) Highway, mass transit, and railroad funding.
+       ``(12) Mortgage finance (Federal National Mortgage 
+     Association, Federal Home Loan Mortgage Corporation, Federal 
+     Housing Administration, and other housing finance programs).
+       ``(13) Justice and law enforcement funding, including 
+     Federal Bureau of Investigation, Federal courts, and Federal 
+     prisons.
+       ``(14) Natural resources, land, and water management and 
+     conservation funding, including National Parks.
+       ``(15) Foreign aid.
+
+[[Page S1701]]
+
+       ``(16) Science and technology research and advancement.
+       ``(A) National Aeronautics and Space Administration.
+       ``(17) Air transportation, including Federal Aviation 
+     Administration.
+       ``(18) Farm subsidies.
+       ``(19) Energy funding, including renewable energy and 
+     efficiency programs, Strategic Petroleum Reserve, and Federal 
+     Energy Regulatory Commission.
+       ``(20) Disaster relief and insurance, including Federal 
+     Emergency Management Administration.
+       ``(21) Diplomacy and embassies.
+       ``(22) Environmental Protection Agency and pollution 
+     control programs.
+       ``(23) Internal Revenue Service and United States Treasury 
+     operations.
+       ``(24) Coast Guard and maritime programs.
+       ``(25) Community Development Block Grants.
+       ``(26) Congress and legislative branch activities.
+       ``(27) United States Postal Service.
+       ``(28) Executive Office of the President.
+       ``(29) Other Federal spending.
+       ``(d) Additional Major Expenditure Categories.--With 
+     respect to each fiscal year, the Director of the 
+     Congressional Budget Office shall include additional 
+     categories and subcategories of Federal spending for purposes 
+     of subsection (c), but only if, and only for so long as, each 
+     such additional category or subcategory exceeds 3 percent of 
+     total Federal outlays for the fiscal year.
+       ``(e) Timing of Federal Tax Receipt.--A Federal tax receipt 
+     shall be made available to each taxpayer as soon as 
+     practicable upon the processing of that taxpayer's income tax 
+     return by the Internal Revenue Service.
+       ``(f) Use of Technologies.--The Internal Revenue Service is 
+     encouraged to utilize modern technologies such as electronic 
+     mail and the Internet to minimize the cost of sending Federal 
+     tax receipts to taxpayers. The Internal Revenue Service shall 
+     establish an interactive program on its Internet website to 
+     allow taxpayers to generate Federal tax receipts on their 
+     own.
+       ``(g) Cost.--No charge shall be imposed to cover any cost 
+     associated with the production or distribution of the Federal 
+     tax receipt.
+       ``(h) Regulations.--The Secretary may prescribe such 
+     regulations as may be necessary to carry out this section.''.
+       (b) Clerical Amendment.--The table of sections for chapter 
+     77 of the Internal Revenue Code of 1986 is amended by adding 
+     at the end the following new item:
+
+``Sec. 7529. Federal tax receipt.''.
+
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after the date of the 
+     enactment of this Act.
+
+     SEC. 505. REDUCTION OF GOVERNMENT PRINTING COSTS.
+
+       (a) Strategy and Guidelines.--Not later than 180 days after 
+     the date of the enactment of this Act, the Director of the 
+     Office of Management and Budget shall coordinate with the 
+     heads of the Executive departments and independent 
+     establishments, as those terms are defined in chapter 1 of 
+     title 5, United States Code--
+       (1) to develop a strategy to reduce Government printing 
+     costs during the 10-year period beginning on September 1, 
+     2011; and
+       (2) to issue Government-wide guidelines for printing that 
+     implements the strategy developed under paragraph (1).
+       (b) Considerations.--
+       (1) In general.--In developing the strategy under 
+     subsection (a)(1), the Director of the Office of Management 
+     and Budget and the heads of the Executive departments and 
+     independent establishments shall consider guidelines for--
+       (A) duplex and color printing;
+       (B) the use of digital file systems by Executive 
+     departments and independent establishments; and
+       (C) determining which Government publications might be made 
+     available on Government Web sites instead of being printed.
+       (2) Essential printed documents.--The Director of the 
+     Office of Management and Budget shall ensure that printed 
+     versions of documents that the Director determines are 
+     essential to individuals--
+       (A) who are entitled to or enrolled for benefits under part 
+     A of title XVIII of the Social Security Act (42 U.S.C. 1395 
+     et seq.);
+       (B) who are enrolled for benefits under part B of such 
+     title;
+       (C) who receive old-age survivors' or disability insurance 
+     payments under title II of such Act (42 U.S.C. 401 et seq.), 
+     or
+       (D) who have limited ability to use or access the Internet,
+
+     are available after the issuance of the guidelines under 
+     subsection (a)(2).
+                                 ______
+```

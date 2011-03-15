@@ -1,0 +1,33 @@
+---
+granule: CREC-2011-03-15-pt1-PgH1806
+date: 2011-03-15
+edition: CREC
+section: HOUSE
+page: H1806
+citation: 157 Cong. Rec. H1806
+---
+
+# GAS PRICES
+
+**Speaking:** Johnson, Sam (J000174) [R-TX]
+
+```
+                               GAS PRICES
+
+  (Mr. SAM JOHNSON of Texas asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. SAM JOHNSON of Texas. Mr. Speaker, soaring gas prices are 
+impacting Americans all over the country. With gas costing nearly $4 a 
+gallon, drivers are having to rethink how they get around. With 
+families and businesses tightening their budgets, rising gas prices are 
+exactly what they don't need exactly when they don't need it.
+  That's why I am calling on the IRS to increase the gas mileage 
+deduction, like it did in 2005 and 2008, to ease the pain at the pump 
+for taxpayers. Taxpayers want, need and deserve this fair, simple and 
+commonsense solution: for us to tap America's homegrown energy 
+resources right here, right now.
+  Call the White House. The number is 202-456-1414. Tell them to get 
+with it.
+
+                          ____________________
+```
