@@ -1,0 +1,108 @@
+---
+granule: CRECB-2011-pt4-Pg4495
+date: 2011-03-28
+edition: CRECB
+section: SENATE
+page: 4495
+---
+
+# SENATE RESOLUTION 110--TO REQUIRE THAT ALL LEGISLATIVE MATTERS BE AVAILABLE AND FULLY SCORED BY CBO 48 HOURS BEFORE CONSIDERATION BY ANY SUBCOMMITTEE OR COMMITTEE OF THE SENATE OR ON THE FLOOR OF THE SENATE
+
+```
+   SENATE RESOLUTION 110--TO REQUIRE THAT ALL LEGISLATIVE MATTERS BE 
+AVAILABLE AND FULLY SCORED BY CBO 48 HOURS BEFORE CONSIDERATION BY ANY 
+ SUBCOMMITTEE OR COMMITTEE OF THE SENATE OR ON THE FLOOR OF THE SENATE
+
+  Mr. BROWN of Massachusetts (for himself, Mr. Lieberman, Ms. 
+Murkowski, Mr. Isakson, and Mr. Chambliss) submitted the following 
+resolution; which was referred to the Committee on Rules and 
+Administration:
+
+                              S. Res. 110
+
+       Resolved,
+
+     SECTION 1. PUBLIC AVAILABILITY OF LEGISLATION AND THE COST OF 
+                   THAT LEGISLATION.
+
+       (a) Committees.--Rule XXVI of the Standing Rules of the 
+     Senate is amended by inserting at the end thereof the 
+     following:
+       ``14. (a) It shall not be in order in a subcommittee or 
+     committee to proceed to any legislative matter unless the 
+     legislative matter and a final budget scoring by the 
+     Congressional Budget Office for the legislative matter has 
+     been publically available on the Internet as provided in 
+     subparagraph (b) in searchable form 48 hours (excluding 
+     Saturdays, Sundays and holidays except when the Senate is in 
+     session on such a day) prior to proceeding.
+       ``(b) With respect to the requirements of subparagraph 
+     (a)--
+       ``(1) the legislative matter shall be available on the 
+     official website of the committee; and
+       ``(2) the final score prepared in accordance with section 
+     308(a) of the Congressional Budget Act of 1974 shall be 
+     available on the official website of the Congressional Budget 
+     Office.
+       ``(c) This paragraph may be waived or suspended in the 
+     subcommittee or committee only by an affirmative vote of \3/
+     5\ of the Members of the subcommittee or committee. An 
+     affirmative vote of \3/5\ of the Members of the subcommittee 
+     or committee shall be required to sustain an appeal of the 
+     ruling of the Chair on a point of order raised under this 
+     paragraph.
+       ``(d)(1) It shall not be in order in the Senate to proceed 
+     to a legislative matter if the legislative matter was 
+     proceeded to in a subcommittee or committee in violation of 
+     this paragraph.
+       ``(2) This subparagraph may be waived or suspended in the 
+     Senate only by an affirmative vote of \3/5\ of the Members, 
+     duly chosen and sworn. An affirmative vote of \3/5\ of the 
+     Members of the Senate, duly chosen and sworn, shall be 
+     required in the Senate to sustain an appeal of the ruling of 
+     the Chair on a point of order raised under this subparagraph.
+       ``(e) In this paragraph, the term `legislative matter' 
+     means any bill, joint resolution, concurrent resolution, 
+     complete substitute amendment, conference report, or message 
+     between the Houses.''.
+       (b) Senate.--Rule XVII of the Standing Rules of the Senate 
+     is amended by inserting at the end thereof the following:
+       ``6. (a) It shall not be in order in the Senate to proceed 
+     to any legislative matter, including any matter hotlined, 
+     unless the legislative matter and a final budget scoring by 
+     the Congressional Budget Office for the legislative matter 
+     has been publically available on the Internet as provided in 
+     subparagraph (b) in searchable form 48 hours (excluding 
+     Saturdays, Sundays and holidays except when the Senate is in 
+     session on such a day) prior to proceeding.
+       ``(b) With respect to the requirements of subparagraph 
+     (a)--
+       ``(1) the legislative matter shall be available on the 
+     official website of the committee with jurisdiction over the 
+     subject matter of the legislative matter; and
+       ``(2) the final score prepared in accordance with section 
+     308(a) of the Congressional Budget Act of 1974 shall be 
+     available on the official website of the Congressional Budget 
+     Office.
+       ``(c) This paragraph may be waived or suspended in the 
+     Senate only by an affirmative vote of \3/5\ of the Members, 
+     duly chosen and sworn. An affirmative vote of \3/5\ of the 
+     Members of the Senate, duly chosen and sworn, shall be 
+     required in the Senate to sustain an appeal of the ruling of 
+     the Chair on a point of order raised under this paragraph.
+       ``(d) In this paragraph, the term `legislative matter' 
+     means any bill, joint resolution, concurrent resolution, 
+     complete substitute amendment, conference report, or message 
+     between the Houses.''.
+
+     SEC. 2. PROTECTION OF CLASSIFIED INFORMATION.
+
+       Nothing in this resolution or any amendment made by it 
+     shall be interpreted to require or permit the 
+     declassification or posting on the Internet of classified 
+     information in the custody of the Senate. Such classified 
+     information shall be made available to Members in a timely 
+     manner as appropriate under existing laws and rules.
+
+                          ____________________
+```
