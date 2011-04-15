@@ -1,0 +1,31 @@
+---
+granule: CREC-2011-04-15-pt1-PgH2914-16
+date: 2011-04-15
+edition: CREC
+section: HOUSE
+page: H2914
+citation: 157 Cong. Rec. H2914
+---
+
+# Constitutional Authority Statement for H.R. 1586
+
+**Measures:** H.R. 1586
+
+```
+           By Mr. KING of New York:
+       H.R. 1586.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8, Clause 1 & Clause 18
+       The Congress shall have Power to lay and collect Taxes, 
+     Duties, Imposts and Excises, to pay the Debts and provide for 
+     the common Defence and general Welfare of the United States; 
+     but all Duties, Imposts and Excises shall be uniform 
+     throughout the United States;
+       Article I, Section 8, Clause 18
+       The Congress shall have Power to make all Laws which shall 
+     be necessary and proper for carrying into Execution the 
+     foregoing Powers, and all other Powers vested by this 
+     Constitution in the Government of the United States or in any 
+     Department of Officer thereof.
+```
