@@ -1,0 +1,24 @@
+---
+granule: CRECB-2011-pt5-Pg6598-3
+date: 2011-05-04
+edition: CRECB
+section: SENATE
+page: 6598
+---
+
+# MESSAGE FROM THE HOUSE
+
+```
+                         MESSAGE FROM THE HOUSE
+
+  At 12:10 p.m., a message from the House of Representatives, delivered 
+by Mrs. Cole, one of its reading clerks, announced that the House has 
+passed the following bill, in which it requests the concurrence of the 
+Senate:
+
+       H.R. 1213. An act to repeal mandatory funding provided to 
+     States in the Patient Protection and Affordable Care Act to 
+     establish American Health Benefit Exchanges.
+
+                          ____________________
+```
