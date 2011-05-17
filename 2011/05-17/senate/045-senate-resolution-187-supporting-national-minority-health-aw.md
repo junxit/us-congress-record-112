@@ -1,0 +1,89 @@
+---
+granule: CREC-2011-05-17-pt1-PgS3060
+date: 2011-05-17
+edition: CREC
+section: SENATE
+page: S3060
+citation: 157 Cong. Rec. S3060
+---
+
+# SENATE RESOLUTION 187--SUPPORTING NATIONAL MINORITY HEALTH AWARENESS IN ORDER TO BRING ATTENTION TO THE SEVERE HEALTH DISPARITIES FACED BY MINORITY POPULATIONS SUCH AS AMERICAN INDIANS AND ALASKA...
+
+**Measures:** S.Res. 187
+
+```
+SENATE RESOLUTION 187--SUPPORTING NATIONAL MINORITY HEALTH AWARENESS IN 
+  ORDER TO BRING ATTENTION TO THE SEVERE HEALTH DISPARITIES FACED BY 
+   MINORITY POPULATIONS SUCH AS AMERICAN INDIANS AND ALASKA NATIVES, 
+ ASIANS, BLACKS OR AFRICAN AMERICANS, HISPANICS OR LATINOS, AND NATIVE 
+                 HAWAIIANS AND OTHER PACIFIC ISLANDERS
+
+  Mr. CARDIN (for himself, Ms. Murkowski, and Mr. Begich) submitted the 
+following resolution; which was considered and agreed to:
+
+                              S. Res. 187
+
+       Whereas many minority populations disproportionately 
+     experience health care barriers, exposure to environmental 
+     hazards, mortality, morbidity, behavioral risk factors, 
+     disability status, and unique social determinants of health;
+       Whereas the expected increase in minority populations in 
+     the near future will impact the entire health system of the 
+     United States, making the collective improved health of 
+     minority populations even more critical to the Nation;
+       Whereas the Department of Health and Human Services has 
+     identified 6 main categories in which racial and ethnic 
+     minorities experience the most disparate access and health 
+     outcomes, including infant mortality, cancer screening and 
+     management, cardiovascular disease, diabetes, HIV/AIDS 
+     infection, and immunizations;
+       Whereas according to the Centers for Disease Control and 
+     Prevention, African-American, American Indian, and Puerto 
+     Rican infants have higher mortality rates than White infants;
+       Whereas African-American women are more than twice as 
+     likely to die of cervical cancer than White women and are 
+     more likely to die of breast cancer than women of any other 
+     racial or ethnic group;
+       Whereas in 2006, among adults older than 44, the rate of 
+     death from coronary heart disease was 20 percent higher among 
+     African Americans than among Whites, and the death rate from 
+     stroke was 48 percent higher among African Americans than 
+     among Whites;
+       Whereas in 2008, as compared to non-Hispanic Whites, 
+     African American adults were 6 times more likely to have 
+     medically-diagnosed diabetes, Hispanics were 1.5 times more 
+     likely to have medically-diagnosed diabetes, and Asians were 
+     1.2 times more likely to have medically-diagnosed diabetes;
+       Whereas African Americans and Hispanics represented only 27 
+     percent of the United States population in 2008, but 
+     accounted for an estimated 68 percent of adult AIDS diagnoses 
+     and 71 percent of estimated pediatric AIDS diagnoses in 2008;
+       Whereas in 2008, Hispanics and African Americans age 65 and 
+     older were less likely than non-Hispanic Whites to report 
+     having received influenza and pneumococcal vaccines;
+       Whereas American Indians and Alaska Natives have a life 
+     expectancy that is 5.2 years less than the life expectancy of 
+     the population of the United States overall;
+       Whereas the Department of Health and Human Services has 
+     identified diseases of the heart, malignant neoplasm, 
+     unintentional injuries, diabetes, and cerebrovascular disease 
+     as the 5 leading causes of death among American Indians and 
+     Alaska Natives;
+       Whereas American Indians and Alaska Natives die at higher 
+     rates than other people in the United States from 
+     tuberculosis, diabetes, unintentional injuries, and suicide; 
+     and
+       Whereas health care experts, policymakers and tribal 
+     leaders are seeking to address the disproportionate disease 
+     burden and lower life expectancy for the American Indian and 
+     Alaska Native people by examining various factors that 
+     contribute to health status: Now, therefore, be it
+       Resolved, That the Senate supports national minority health 
+     awareness in order to bring attention to the severe health 
+     disparities faced by minority populations such as American 
+     Indians and Alaska Natives, Asians, Blacks or African 
+     Americans, Hispanics or Latinos, and Native Hawaiians and 
+     other Pacific Islanders.
+
+                          ____________________
+```
