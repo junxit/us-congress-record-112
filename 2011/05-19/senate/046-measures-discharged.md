@@ -1,0 +1,32 @@
+---
+granule: CRECB-2011-pt6-Pg7516-3
+date: 2011-05-19
+edition: CRECB
+section: SENATE
+page: 7516
+---
+
+# MEASURES DISCHARGED
+
+```
+                          MEASURES DISCHARGED
+
+  The following concurrent resolutions were discharged from the 
+Committee on the Budget pursuant to Section 300 of the Congressional 
+Budget Act, and placed on the calendar:
+
+       S. Con. Res. 18. A concurrent resolution setting forth the 
+     President's budget request for the United States Government 
+     for fiscal year 2012, and setting forth the appropriate 
+     budgetary levels for fiscal years 2013 through 2021.
+       S. Con. Res. 19. A concurrent resolution setting forth the 
+     congressional budget for the United States Government for 
+     fiscal year 2012 and setting forth the appropriate budgetary 
+     levels for fiscal years 2013 through 2021.
+       S. Con. Res. 20. A concurrent resolution setting forth the 
+     congressional budget for the United States Government for 
+     fiscal year 2012 and setting forth the appropriate budgetary 
+     levels for fiscal years 2013 through 2016.
+
+                          ____________________
+```

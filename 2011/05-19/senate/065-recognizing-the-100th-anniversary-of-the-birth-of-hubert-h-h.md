@@ -1,0 +1,140 @@
+---
+granule: CRECB-2011-pt6-Pg7550
+date: 2011-05-19
+edition: CRECB
+section: SENATE
+page: 7550
+---
+
+# RECOGNIZING THE 100TH ANNIVERSARY OF THE BIRTH OF HUBERT H. HUMPHREY
+
+```
+  RECOGNIZING THE 100TH ANNIVERSARY OF THE BIRTH OF HUBERT H. HUMPHREY
+
+  Mr. DURBIN. Mr. President, I ask unanimous consent the Judiciary 
+Committee be discharged from further consideration of S. Res. 184, and 
+the Senate proceed to its immediate consideration.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 184) recognizing the life and service 
+     of the Honorable Hubert H. Humphrey, distinguished former 
+     Senator from the State of Minnesota and former Vice President 
+     of the United States, upon the 100th anniversary of his 
+     birth.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. DURBIN. Mr. President, I ask unanimous consent that unless I am 
+already a cosponsor, I be added as a cosponsor.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  Mr. DURBIN. I ask unanimous consent that the Sessions amendment which 
+is at the desk be agreed to, the resolution, as amended, be agreed to, 
+the preamble be agreed to, the motions to reconsider be laid upon the 
+table, with no intervening action or debate, and any statements 
+relating to the matter be printed in the Record.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  The amendment (No. 322) was agreed to as follows:
+
+
+                           AMENDMENT NO. 322
+
+       On page 4, strike lines 10-14.
+
+  The resolution (S. Res. 184), as amended, was agreed to.
+  The preamble was agreed to.
+  The resolution, as amended, with its preamble, reads as follows:
+
+                              S. Res. 184
+
+       Whereas Hubert H. Humphrey was born in Wallace, South 
+     Dakota, on May 27, 1911;
+       Whereas Hubert Humphrey, from his early years, recognized 
+     the importance of public service by becoming a registered 
+     pharmacist and serving his friends and neighbors in the 
+     Humphrey Drug Store in Huron, South Dakota, from 1933 to 
+     1937;
+       Whereas Hubert Humphrey received a Bachelor of Arts degree 
+     in political science from the University of Minnesota in 1939 
+     and a Masters of Arts degree from Louisiana State University 
+     in 1940, subsequently teaching political science at 
+     Macalester College from 1943 to 1944 and at Macalester 
+     College and the University of Minnesota from 1969 to 1970;
+       Whereas Hubert Humphrey served in a variety of leadership 
+     positions in Minnesota during World War II, dealing with war 
+     production, employment, and manpower;
+       Whereas Hubert Humphrey served as Mayor of Minneapolis from 
+     1945 to 1948, and during his tenure as mayor, he drove 
+     organized crime from the city and, among other achievements, 
+     created the Nation's first municipal equal employment 
+     opportunity commission;
+       Whereas Hubert Humphrey was a driving force behind the 
+     creation of the Democratic Farmer-Labor Party in Minnesota 
+     and was a founding member of Americans for Democratic Action 
+     in the aftermath of World War II;
+       Whereas Hubert Humphrey led forces at the 1948 Democratic 
+     National Convention in Philadelphia in support of the 
+     minority platform plank on civil rights and equal 
+     opportunity, challenging the delegates to ``walk out of the 
+     shadow of States' rights into the bright sunshine of human 
+     rights,'' resulting in the convention's adoption of the 
+     minority plank;
+       Whereas in 1948, Hubert Humphrey became the first Democrat 
+     from Minnesota elected to the Senate;
+       Whereas during his total 23 years of service in the Senate 
+     (including service from 1949 to 1964 and service from 1970 to 
+     1978), Hubert Humphrey compiled a record of accomplishment 
+     virtually unmatched in the 20th century, encompassing, among 
+     other issues, civil and human rights, workforce development, 
+     labor rights, health care, arms control and disarmament, the 
+     Peace Corps, small business assistance, education reform, 
+     wilderness preservation, immigration reform, and agriculture;
+       Whereas his service as floor leader during the Senate's 
+     consideration of the Civil Rights Act of 1964 was essential 
+     to the eventual passage of the Act in the aftermath of 
+     breaking the filibuster against this historic legislation;
+       Whereas Hubert Humphrey, although a dedicated leader of the 
+     Democratic Party, always sought bipartisan support for his 
+     legislative goals and routinely shared credit with other 
+     Senators for his legislative victories;
+       Whereas Hubert Humphrey, as Vice President of the United 
+     States, loyally served President Lyndon Baines Johnson and 
+     successfully carried out a number of domestic and overseas 
+     assignments;
+       Whereas Hubert Humphrey, as the Democratic Party's nominee 
+     for President of the United States in 1968, waged one of the 
+     most courageous and hard-fought campaigns in the history of 
+     the United States, losing to Richard Nixon by less than 1 
+     percentage point of the popular vote when he started the 
+     campaign some 15 points behind;
+       Whereas Hubert Humphrey was reelected by the people of 
+     Minnesota (in 1970 and 1976) to 2 additional terms in the 
+     Senate, thereby continuing his extraordinary record of 
+     legislative achievement with passage of such bills as the 
+     Humphrey-Hawkins Full Employment Act;
+       Whereas Hubert Humphrey, terminally ill with cancer, 
+     pursued his active public life with great courage, fortitude, 
+     and good humor, and in the memorable words of Vice President 
+     Walter F. Mondale at Hubert Humphrey's memorial observance in 
+     the rotunda of the United States Capitol, ``Hubert Humphrey 
+     taught us how to live and he taught us how to die''; and
+       Whereas the life and service of Hubert Humphrey were 
+     posthumously honored by Congress with the presentation of the 
+     Congressional Gold Medal, and by the President of the United 
+     States with the award of the Medal of Freedom: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) honors the life, achievements, and distinguished career 
+     of Senator and Vice President Hubert H. Humphrey upon the 
+     occasion of his 100th birthday;
+       (2) recognizes that Hubert H. Humphrey's legislative 
+     achievements helped resolve many of this Nation's most 
+     polarizing issues, such as civil rights, equal opportunity, 
+     and nuclear arms control.
+
+                          ____________________
+```
