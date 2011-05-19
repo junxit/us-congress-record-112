@@ -1,0 +1,195 @@
+---
+granule: CREC-2011-05-19-pt1-PgS3182
+date: 2011-05-19
+edition: CREC
+section: SENATE
+page: S3182
+citation: 157 Cong. Rec. S3182
+---
+
+# Introductory Statement on S. 1040
+
+**Speaking:** Lieberman, Joseph I. (L000304) [ID-CT], McCain, John (M000303) [R-AZ]
+
+**Measures:** S. 1040
+
+```
+      By Mr. LIEBERMAN (for himself and Mr. McCain):
+  S. 1040. A bill to enhance public safety by making more spectrum 
+available to public safety entities, to facilitate the development of a 
+public safety broadband network, to provide standards for the spectrum 
+needs of public safety entities, and for other purposes; to the 
+Committee on Commerce, Science, and Transportation.
+  Mr. LIEBERMAN. Mr. President, I rise today, with my colleague Senator 
+McCain, to introduce legislation to ensure that we take advantage of a 
+once-in-a-lifetime opportunity to build a coast-to-coast communications 
+network for our Nation's first responders that is secure, interoperable 
+and resilient.
+  As it stands now, the mobile device the average teenager carries has 
+more capability than those of the men and women who put their lives on 
+the line for us each and every day and that is just wrong.
+  Today, we introduce the Broadband for First Responders Act of 2011, 
+which will set aside the so-called D Block of spectrum for public 
+safety entities and provide them the bandwidth they need to communicate 
+effectively in an emergency. Companion legislation has been introduced 
+in the House of Representatives by Representatives Peter T. King and 
+Bennie G. Thompson, the Chairman and Ranking Member of the House 
+Committee on Homeland Security.
+  I am proud to stand with the representatives of more than 40 
+organizations representing public safety officials, and with the ``Big 
+7'' associations representing State and local governments, to call on 
+Congress to put the D Block in the hands of public safety. Those groups 
+include the International Association of Chiefs of Police, the 
+International Association of Fire Chiefs, the National Sheriffs 
+Association, the Major Cities Chiefs Association, the Major County 
+Sheriffs Association, the Metropolitan Fire Chiefs Association, the 
+Association of Public-Safety Communications Officials--International, 
+APCO International, the National Emergency Management Association, the 
+National Association of State EMS Officials, the National Governors 
+Association, the National Conference of State Legislatures, the Council 
+of State Governments, the National Association of Counties, the 
+National League of Cities, the U.S. Conference of Mayors, and the 
+International City/County Management Association.
+  I am pleased that President Obama has pledged his commitment to 
+reserve
+
+[[Page S3183]]
+
+the D Block for public safety. I also look forward to working with 
+Senator Rockefeller, the Chairman of the Committee on Commerce, 
+Science, and Transportation, who has championed this cause and has 
+signaled his determination to see a bill move through Congress this 
+year.
+  Today, public safety communicates on slices of scattered spectrum 
+that prevent interoperable communications among agencies and 
+jurisdictions, and that do not allow the large data transmissions that 
+we take for granted in today's commercial communications.
+  Securing the D Block for public safety will allow us to build a 
+nationwide interoperable network for emergency communications that 
+could prevent the kinds of communication meltdowns we had during 9-11 
+and Hurricane Katrina.
+  But setting aside the D Block will also allow first responders to 
+send video, maps, and other large data transmissions over their mobile 
+devices. For example, firefighters' lives may be saved because they 
+will be able to access building specifications on their handhelds and 
+know all the exits of a burning building before they enter it. A police 
+officer at the scene of a crime would be able to feed video back to 
+headquarters. Emergency response officials would be able to exchange 
+data with hospitals while treating patients at the scene of an 
+accident.
+  I do not think it is wise, as the Federal Communications Commission, 
+FCC, proposed in its National Broadband Plan, to auction the D Block to 
+commercial interests and then to hope that public safety will be able 
+to piggy-back on it. In a crisis, first responders need secure, 
+reliable and quick communications that are not disrupted by commercial 
+traffic.
+  The Broadband for First Responders Act of 2011 would ensure that the 
+D Block is licensed to the same public safety broadband licensee that 
+currently holds the license for 10 MHz in the 700 MHz band. The bill 
+would also provide up to $5.5 billion for a construction fund to assist 
+with the costs of constructing the network and up to $5.5 billion for 
+an operation and maintenance fund for long-term maintenance. These 
+funds would come from revenues generated by the auction of different 
+bands of spectrum to commercial carriers. By dedicating those auction 
+revenues to the public safety network, we can help public safety 
+officials build the system they need without adding to the deficit.
+  Under our bill, the FCC would set rules for the public safety 
+network, ensuring interoperability across the nationwide system. The 
+rules would also allow public safety to share spectrum with other 
+governmental and private entities, as long as public safety services 
+retain priority access to the spectrum. This authority would help hold 
+down costs of the system by allowing public safety to leverage existing 
+infrastructure.
+  The grants to build and maintain the public safety network would be 
+administered by the Department of Homeland Security and would be 
+awarded directly to States and municipalities, who are in the best 
+position to know how to deploy the network in their jurisdictions.
+  Achieving nationwide interoperability through adequate spectrum is a 
+major recommendation of the 9/11 Commission that is unfulfilled. We 
+should not let the 10th anniversary of 9/11 pass without legislating to 
+remedy that failure. The Chairman and Vice-Chairman of the Commission, 
+the Honorable Thomas H. Kean and the Honorable Lee H. Hamilton, 
+appeared before our Committee on Homeland Security and Governmental 
+Affairs in March and urged the immediate allocation of the D Block to 
+public safety, bluntly, and rightfully, delivering a message to 
+Congress that further delay is intolerable. I urge my colleagues to 
+take bold action to remedy Congress's past inaction by promptly passing 
+the Broadband for First Responders Act of 2011.
+  Mr. McCAIN. Mr, President, today I share the honor with Chairman 
+Lieberman of introducing the First Responders Protection Act of 2011. 
+This bill would provide 10 MHz of spectrum in the 700 MHz spectrum band 
+to the public safety broadband licensee, make available funding for the 
+construction, operation and maintenance of a nationwide interoperable 
+communications network, and ensure proper governance.
+  In 2004, the 9/11 Commission's Final Report recommended the 
+``expedited and increased assignment of radio spectrum to public safety 
+entities.'' Shortly thereafter, Senator Lieberman and I introduced a 
+bill to provide spectrum to public safety; however the Senate voted 
+down that bill. We reintroduced the bill in 2005, month before 
+Hurricane Katrina hit the Gulf Coast. But our efforts were blocked. 
+Fortunately, Congress finally wrestled some spectrum away from the 
+television broadcasters in 2009 and provided it to public safety. 
+However, public safety has additional spectrum needs.
+  Almost every other recommendation of the 9/11 Commission has been 
+implemented, but this important recommendation remains unfulfilled. I 
+can only imagine how many lives could have been saved on 9/11 if this 
+spectrum had been available at that time. How many firefighters would 
+be alive today if they could have communicated with their battalion 
+chief at the base of the World Trade Center?
+  In 2007, I introduced legislation to auction the remaining public 
+safety spectrum to a commercial carrier that would then build out a 
+network for public safety. The FCC held such an auction, but no bidder 
+met the reserve price. Ten megahertz of spectrum remains available for 
+public safety's needs. The FCC had announced its intention to auction 
+this spectrum to a commercial provider. Thankfully, the White House 
+announced late last year that it now supports the spectrum being 
+provided to first responders for the construction of a nationwide 
+public safety network, as did the Chairman and Ranking Member of the 
+Senate Commerce Committee.
+  Specifically, this legislation would license the remaining spectrum 
+to the public safety broadband licensee that has been previously 
+approved by the FCC as a qualified licensee and represents more than 
+three dozen national public safety organizations. The legislation 
+provides authority to local jurisdictions to make decisions on the 
+spectrum use, network build-out and equipment. The men and women 
+fighting crime and saving lives know what communications systems and 
+technology are best for them. Not Washington.
+  Lastly, this bill provides funds for grants to localities for the 
+construction, operation and maintenance of an interoperable 
+communications network. These funds will come from the proceeds of a 
+commercial spectrum auction, thereby not adding to our Nation's 
+burgeoning debt or raising taxes on all Americans.
+  As we approach the 10 year commemoration of the horrific events on 
+September 11th and the six year remembrance of the devastating tragedy 
+of Hurricane Katrina, it is a disgrace that police officers, sheriffs 
+and fire fighters still don't have a nation-wide interoperable 
+communications system. Our legislation provides the spectrum and 
+funding to first responders, while being fiscally responsible and 
+ensuring local control and conscientious governance.
+  Providing ten megahertz of spectrum to public safety, as this bill 
+does, is supported by the International Association of Chiefs of 
+Police, the International Association of Fire Chiefs, the National 
+Sheriffs Association, the Major Cities Chiefs Association, the Major 
+County Sheriffs Association, the Metropolitan Fire Chiefs Association, 
+the Association of Public-Safety Communications Officials, 
+International, APCO, the National Emergency Managers Association, the 
+National Governors Association, the National Conference of State 
+Legislatures, the Council of State Governments, the National 
+Association of Counties, the National League of Cities, the U.S. 
+Conference of Mayors, and the International City/County Management 
+Association.
+  We have slightly more than one hundred days until the ten year 
+anniversary of the horrific events of 9/11. I hope over the next 100 
+days the Senate Majority Leader will consider bringing this bill to the 
+floor for full consideration and that at that time my colleagues will 
+join me and Senator Lieberman in providing public safety with the 
+interoperable communications network they deserve. It is the least we 
+can do for those who put their lives in danger each and every day to 
+protect all of us.
+
+[[Page S3184]]
+
+
+
+                          ____________________
+```
