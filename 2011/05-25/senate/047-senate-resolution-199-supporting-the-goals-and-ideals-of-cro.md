@@ -1,0 +1,85 @@
+---
+granule: CREC-2011-05-25-pt1-PgS3345-3
+date: 2011-05-25
+edition: CREC
+section: SENATE
+page: S3345
+citation: 157 Cong. Rec. S3345
+---
+
+# SENATE RESOLUTION 199--SUPPORTING THE GOALS AND IDEALS OF "CROHN'S AND COLITIS AWARENESS WEEK"
+
+**Measures:** S.Res. 199
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+SENATE RESOLUTION 199--SUPPORTING THE GOALS AND IDEALS OF ``CROHN'S AND 
+                        COLITIS AWARENESS WEEK''
+
+  Mr. REID of Nevada (for himself, Mr. Reed of Rhode Island, and Mr. 
+Cochran) submitted the following resolution; which was referred to the 
+Committee on Health, Education, Labor, and Pensions:
+
+                              S. Res. 199
+
+       Whereas Crohn's disease and ulcerative colitis are serious, 
+     chronic inflammatory diseases of the gastrointestinal tract;
+       Whereas Crohn's disease and ulcerative colitis, 
+     collectively known as inflammatory bowel disease, afflict 
+     approximately 1,400,000 people in the United States, 30 
+     percent of whom are diagnosed as children;
+       Whereas the cause of Crohn's disease and ulcerative colitis 
+     are unknown and no medical cure exists;
+       Whereas Crohn's disease and ulcerative colitis can affect 
+     anyone, at any age, and is being diagnosed with increased 
+     frequency in children;
+       Whereas Crohn's disease and ulcerative colitis patients are 
+     at high risk for developing colorectal cancer;
+       Whereas a lack of awareness among health professionals and 
+     the general public may
+
+[[Page S3346]]
+
+     contribute to the misdiagnosis and mismanagement of Crohn's 
+     disease and ulcerative colitis;
+       Whereas the annual direct cost of Crohn's disease and 
+     ulcerative colitis in the United States is estimated to be 
+     $6,100,000,000;
+       Whereas the goals of ``Crohn's and Colitis Awareness Week'' 
+     are--
+       (1) to invite and encourage all people in the United States 
+     to join the effort to find a cure for Crohn's disease and 
+     ulcerative colitis;
+       (2) to engage in activities aimed at raising awareness of 
+     Crohn's disease and ulcerative colitis among the general 
+     public and health care providers; and
+       (3) to promote and support biomedical research needed to 
+     find better treatments and a cure for Crohn's disease and 
+     ulcerative colitis; and
+       Whereas the week of December 1, 2011, through December 7, 
+     2011, has been designated ``Crohn's and Colitis Awareness 
+     Week'': Now, therefore, be it
+       Resolved, That the Senate--
+       (1) supports the goals and ideals of ``Crohn's and Colitis 
+     Awareness Week'';
+       (2) encourages media organizations to participate in 
+     ``Crohn's and Colitis Awareness Week'' by helping to educate 
+     the general public about Crohn's disease and ulcerative 
+     colitis;
+       (3) recognizes all people in the United States living with 
+     Crohn's disease and ulcerative colitis and expresses 
+     appreciation to the family members and caregivers who support 
+     them; and
+       (4) commends the dedication of health care professionals 
+     and biomedical researchers who care for Crohn's disease and 
+     ulcerative colitis patients and work to advance basic, 
+     genetic, and clinical research aimed at developing new 
+     treatments and a cure for Crohn's disease and ulcerative 
+     colitis.
+
+                          ____________________
+```
