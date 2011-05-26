@@ -1,0 +1,491 @@
+---
+granule: CRECB-2011-pt6-Pg8250-2
+date: 2011-05-26
+edition: CRECB
+section: SENATE
+page: 8250
+---
+
+# TEXT OF AMENDMENTS SA 386. Mr. LAUTENBERG submitted an amendment intended to be proposed to amendment SA 347 proposed by Mr. Reid to the bill S. 990, to provide for an additional temporary extension of programs under the Small Business Act and the Small Business Investment Act of 1958, and for other purposes; which was ordered to lie on the table; as follows:
+
+```
+      TEXT OF AMENDMENTS
+  SA 386. Mr. LAUTENBERG submitted an amendment intended to be proposed 
+to amendment SA 347 proposed by Mr. Reid to the bill S. 990, to provide 
+for an additional temporary extension of programs under the Small 
+Business Act and the Small Business Investment Act of 1958, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the end, add the following:
+
+     SEC. 3. GRANTING THE ATTORNEY GENERAL THE AUTHORITY TO DENY 
+                   THE SALE, DELIVERY, OR TRANSFER OF A FIREARM OR 
+                   THE ISSUANCE OF A FIREARMS OR EXPLOSIVES 
+                   LICENSE OR PERMIT TO DANGEROUS TERRORISTS.
+
+       (a) Standard for Exercising Attorney General Discretion 
+     Regarding Transferring Firearms or Issuing Firearms Permits 
+     to Dangerous Terrorists.--Chapter 44 of title 18, United 
+     States Code, is amended--
+       (1) by inserting after section 922 the following:
+
+     ``Sec. 922A. Attorney General's discretion to deny transfer 
+       of a firearm
+
+       ``The Attorney General may deny the transfer of a firearm 
+     under section 922(t)(1)(B)(ii) of this title if the Attorney 
+     General--
+       ``(1) determines that the transferee is known (or 
+     appropriately suspected) to be or have been engaged in 
+     conduct constituting, in preparation for, in aid of, or 
+     related to terrorism, or providing material support or 
+     resources for terrorism; and
+       ``(2) has a reasonable belief that the prospective 
+     transferee may use a firearm in connection with terrorism.
+
+     ``Sec. 922B. Attorney General's discretion regarding 
+       applicants for firearm permits which would qualify for the 
+       exemption provided under section 922(t)(3)
+
+       ``The Attorney General may determine that--
+       ``(1) an applicant for a firearm permit which would qualify 
+     for an exemption under section 922(t) is known (or 
+     appropriately suspected) to be or have been engaged in 
+     conduct constituting, in preparation for, in aid of, or 
+     related to terrorism, or providing material support or 
+     resources for terrorism; and
+       ``(2) the Attorney General has a reasonable belief that the 
+     applicant may use a firearm in connection with terrorism.'';
+       (2) in section 921(a), by adding at the end the following:
+       ``(36) The term `terrorism' includes international 
+     terrorism and domestic terrorism, as those terms are defined 
+     in section 2331 of this title.
+       ``(37) The term `material support or resources' has the 
+     same meaning as in section 2339A of this title.
+       ``(38) The term `responsible person' means an individual 
+     who has the power, directly or indirectly, to direct or cause 
+     the direction of the management and policies of the applicant 
+     or licensee pertaining to firearms.''; and
+       (3) in the table of sections, by inserting after the item 
+     relating to section 922 the following:
+
+``922A. Attorney General's discretion to deny transfer of a firearm.
+``922B. Attorney General's discretion regarding applicants for firearm 
+              permits which would qualify for the exemption provided 
+              under section 922(t)(3).''.
+
+       (b) Effect of Attorney General Discretionary Denial Through 
+     the National Instant Criminal Background Check System (NICS) 
+     on Firearms Permits.--Section 922(t) of title 18, United 
+     States Code, is amended--
+       (1) in paragraph (1)(B)(ii), by inserting ``or State law, 
+     or that the Attorney General has determined to deny the 
+     transfer of a firearm pursuant to section 922A of this 
+     title'' before the semicolon;
+       (2) in paragraph (2), in the matter preceding subparagraph 
+     (A), by inserting ``, or if the Attorney General has not 
+     determined to deny the transfer of a firearm pursuant to 
+     section 922A of this title'' after ``or State law'';
+       (3) in paragraph (3)--
+       (A) in subparagraph (A)--
+       (i) in clause (i)--
+
+       (I) in subclause (I), by striking ``and'' at the end; and
+       (II) by adding at the end the following:
+
+       ``(III) was issued after a check of the system established 
+     pursuant to paragraph (1);'';
+       (ii) in clause (ii), by inserting ``and'' after the 
+     semicolon; and
+       (iii) by adding at the end the following:
+       ``(iii) the State issuing the permit agrees to deny the 
+     permit application if such other person is the subject of a 
+     determination by the Attorney General pursuant to section 
+     922B of this title;'';
+       (4) in paragraph (4), by inserting ``, or if the Attorney 
+     General has not determined to deny the transfer of a firearm 
+     pursuant to section 922A of this title'' after ``or State 
+     law''; and
+       (5) in paragraph (5), by inserting ``, or if the Attorney 
+     General has determined to deny the transfer of a firearm 
+     pursuant to section 922A of this title'' after ``or State 
+     law''.
+       (c) Unlawful Sale or Disposition of Firearm Based Upon 
+     Attorney General Discretionary Denial.--Section 922(d) of 
+     title 18, United States Code, is amended--
+       (1) in paragraph (8), by striking ``or'' at the end;
+       (2) in paragraph (9), by striking the period at the end and 
+     inserting ``; or''; and
+       (3) by adding at the end the following:
+       ``(10) has been the subject of a determination by the 
+     Attorney General under section 922A, 922B, 923(d)(3), or 
+     923(e) of this title.''.
+       (d) Attorney General Discretionary Denial as Prohibitor.--
+     Section 922(g) of title 18, United States Code, is amended--
+       (1) in paragraph (8), by striking ``or'' at the end;
+       (2) in paragraph (9), by striking the comma at the end and 
+     inserting ``; or''; and
+       (3) by inserting after paragraph (9) the following:
+       ``(10) who has received actual notice of the Attorney 
+     General's determination made under section 922A, 922B, 
+     923(d)(3) or 923(e) of this title,''.
+       (e) Attorney General Discretionary Denial of Federal 
+     Firearms Licenses.--Section 923(d) of title 18, United States 
+     Code, is amended--
+       (1) in paragraph (1), in the matter preceding subparagraph 
+     (A), by striking ``Any'' and inserting ``Except as provided 
+     in paragraph (3), any''; and
+       (2) by adding at the end the following:
+
+[[Page 8251]]
+
+       ``(3) The Attorney General may deny a license application 
+     if the Attorney General determines that the applicant 
+     (including any responsible person) is known (or appropriately 
+     suspected) to be or have been engaged in conduct 
+     constituting, in preparation for, in aid of, or related to 
+     terrorism, or providing material support or resources for 
+     terrorism, and the Attorney General has a reasonable belief 
+     that the applicant may use a firearm in connection with 
+     terrorism.''.
+       (f) Discretionary Revocation of Federal Firearms 
+     Licenses.--Section 923(e) of title 18, United States Code, is 
+     amended--
+       (1) by inserting ``(1)'' after ``(e)'';
+       (2) by striking ``revoke any license'' and inserting the 
+     following: ``revoke--
+       ``(A) any license'';
+       (3) by striking ``. The Attorney General may, after notice 
+     and opportunity for hearing, revoke the license'' and 
+     inserting the following: ``;
+       ``(B) the license''; and
+       (4) by striking ``. The Secretary's action'' and inserting 
+     the following: ``; or
+       ``(C) any license issued under this section if the Attorney 
+     General determines that the holder of such license (including 
+     any responsible person) is known (or appropriately suspected) 
+     to be or have been engaged in conduct constituting, in 
+     preparation for, in aid of, or related to terrorism or 
+     providing material support or resources for terrorism, and 
+     the Attorney General has a reasonable belief that the 
+     applicant may use a firearm in connection with terrorism.
+       ``(2) The Attorney General's action''.
+       (g) Attorney General's Ability To Withhold Information in 
+     Firearms License Denial and Revocation Suit.--
+       (1) In general.--Section 923(f)(1) of title 18, United 
+     States Code, is amended by inserting after the first sentence 
+     the following: ``However, if the denial or revocation is 
+     pursuant to subsection (d)(3) or (e)(1)(C), any information 
+     upon which the Attorney General relied for this determination 
+     may be withheld from the petitioner, if the Attorney General 
+     determines that disclosure of the information would likely 
+     compromise national security.''.
+       (2) Summaries.--Section 923(f)(3) of title 18, United 
+     States Code, is amended by inserting after the third sentence 
+     the following: ``With respect to any information withheld 
+     from the aggrieved party under paragraph (1), the United 
+     States may submit, and the court may rely upon, summaries or 
+     redacted versions of documents containing information the 
+     disclosure of which the Attorney General has determined would 
+     likely compromise national security.''.
+       (h) Attorney General's Ability To Withhold Information in 
+     Relief From Disabilities Lawsuits.--Section 925(c) of title 
+     18, United States Code, is amended by inserting after the 
+     third sentence the following: ``If the person is subject to a 
+     disability under section 922(g)(10) of this title, any 
+     information which the Attorney General relied on for this 
+     determination may be withheld from the applicant if the 
+     Attorney General determines that disclosure of the 
+     information would likely compromise national security. In 
+     responding to the petition, the United States may submit, and 
+     the court may rely upon, summaries or redacted versions of 
+     documents containing information the disclosure of which the 
+     Attorney General has determined would likely compromise 
+     national security.''.
+       (i) Penalties.--Section 924(k) of title 18, United States 
+     Code, is amended--
+       (1) in paragraph (2), by striking ``or'' at the end;
+       (2) in paragraph (3), by striking the comma at the end and 
+     inserting ``; or''; and
+       (3) by inserting after paragraph (3) the following:
+       ``(4) constitutes an act of terrorism, or providing 
+     material support or resources for terrorism,''.
+       (j) Remedy for Erroneous Denial of Firearm or Firearm 
+     Permit Exemption.--
+       (1) In general.--Section 925A of title 18, United States 
+     Code, is amended--
+       (A) in the section heading, by striking ``Remedy for 
+     erroneous denial of firearm'' and inserting ``Remedies'';
+       (B) by striking ``Any person denied a firearm pursuant to 
+     subsection (s) or (t) of section 922'' and inserting the 
+     following:
+       ``(a) Except as provided in subsection (b), any person 
+     denied a firearm pursuant to subsection (t) of section 922 or 
+     a firearm permit pursuant to a determination made under 
+     section 922B''; and
+       (C) by adding at the end the following:
+       ``(b) In any case in which the Attorney General has denied 
+     the transfer of a firearm to a prospective transferee 
+     pursuant to section 922A of this title or has made a 
+     determination regarding a firearm permit applicant pursuant 
+     to section 922B of this title, an action challenging the 
+     determination may be brought against the United States. The 
+     petition shall be filed not later than 60 days after the 
+     petitioner has received actual notice of the Attorney 
+     General's determination under section 922A or 922B of this 
+     title. The court shall sustain the Attorney General's 
+     determination upon a showing by the United States by a 
+     preponderance of evidence that the Attorney General's 
+     determination satisfied the requirements of section 922A or 
+     922B, as the case may be. To make this showing, the United 
+     States may submit, and the court may rely upon, summaries or 
+     redacted versions of documents containing information the 
+     disclosure of which the Attorney General has determined would 
+     likely compromise national security. Upon request of the 
+     petitioner or the court's own motion, the court may review 
+     the full, undisclosed documents ex parte and in camera. The 
+     court shall determine whether the summaries or redacted 
+     versions, as the case may be, are fair and accurate 
+     representations of the underlying documents. The court shall 
+     not consider the full, undisclosed documents in deciding 
+     whether the Attorney General's determination satisfies the 
+     requirements of section 922A or 922B.''.
+       (2) Technical and conforming amendment.--The table of 
+     sections for chapter 44 of title 18, United States Code, is 
+     amended by striking the item relating to section 925A and 
+     inserting the following:
+
+``925A. Remedies.''.
+
+       (k) Provision of Grounds Underlying Ineligibility 
+     Determination by the National Instant Criminal Background 
+     Check System.--Section 103 of the Brady Handgun Violence 
+     Prevention Act (18 U.S.C. 922 note) is amended--
+       (1) in subsection (f)--
+       (A) by inserting ``or the Attorney General has made a 
+     determination regarding an applicant for a firearm permit 
+     pursuant to section 922B of title 18, United States Code,'' 
+     after ``is ineligible to receive a firearm''; and
+       (B) by inserting ``except any information for which the 
+     Attorney General has determined that disclosure would likely 
+     compromise national security,'' after ``reasons to the 
+     individual,''; and
+       (2) in subsection (g)--
+       (A) the first sentence--
+       (i) by inserting ``or if the Attorney General has made a 
+     determination pursuant to section 922A or 922B of title 18, 
+     United States Code,'' after ``or State law,''; and
+       (ii) by inserting ``, except any information for which the 
+     Attorney General has determined that disclosure would likely 
+     compromise national security'' before the period at the end; 
+     and
+       (B) by adding at the end the following: ``Any petition for 
+     review of information withheld by the Attorney General under 
+     this subsection shall be made in accordance with section 925A 
+     of title 18, United States Code.''.
+       (l) Unlawful Distribution of Explosives Based Upon Attorney 
+     General Discretionary Denial.--Section 842(d) of title 18, 
+     United States Code, is amended--
+       (1) in paragraph (9), by striking the period and inserting 
+     ``; or''; and
+       (2) by adding at the end the following:
+       ``(10) has received actual notice of the Attorney General's 
+     determination made pursuant to subsection (j) or (d)(1)(B) of 
+     section 843 of this title.''.
+       (m) Attorney General Discretionary Denial as Prohibitor.--
+     Section 842(i) of title 18, United States Code, is amended--
+       (1) in paragraph (7), by inserting ``; or'' at the end; and
+       (2) by inserting after paragraph (7) the following:
+       ``(8) who has received actual notice of the Attorney 
+     General's determination made pursuant to subsection (j) or 
+     (d)(1)(B) of section 843 of this title,''.
+       (n) Attorney General Discretionary Denial of Federal 
+     Explosives Licenses and Permits.--Section 843 of title 18, 
+     United States Code, is amended--
+       (1) in subsection (b), by striking ``Upon'' and inserting 
+     ``Except as provided in subsection (j), upon''; and
+       (2) by adding at the end the following:
+       ``(j) The Attorney General may deny the issuance of a 
+     permit or license to an applicant if the Attorney General 
+     determines that the applicant or a responsible person or 
+     employee possessor thereof is known (or appropriately 
+     suspected) to be or have been engaged in conduct 
+     constituting, in preparation of, in aid of, or related to 
+     terrorism, or providing material support or resources for 
+     terrorism, and the Attorney General has a reasonable belief 
+     that the person may use explosives in connection with 
+     terrorism.''.
+       (o) Attorney General Discretionary Revocation of Federal 
+     Explosives Licenses and Permits.--Section 843(d) of title 18, 
+     United States Code, is amended--
+       (1) by inserting ``(1)'' after ``(d)'';
+       (2) by striking ``if in the opinion'' and inserting the 
+     following: ``if--
+       ``(A) in the opinion''; and
+       (3) by striking ``. The Secretary's action'' and inserting 
+     the following: ``; or
+       ``(B) the Attorney General determines that the licensee or 
+     holder (or any responsible person or employee possessor 
+     thereof) is known (or appropriately suspected) to be or have 
+     been engaged in conduct constituting, in preparation for, in 
+     aid of, or related to terrorism, or providing material 
+     support or resources for terrorism, and that the Attorney 
+     General has a reasonable belief that the person may use 
+     explosives in connection with terrorism.
+       ``(2) The Attorney General's action''.
+       (p) Attorney General's Ability To Withhold Information in 
+     Explosives License and Permit Denial and Revocation Suits.--
+     Section 843(e) of title 18, United States Code, is amended--
+       (1) in paragraph (1), by inserting after the first sentence 
+     the following: ``However, if the denial or revocation is 
+     based upon an Attorney General determination under subsection
+
+[[Page 8252]]
+
+     (j) or (d)(1)(B), any information which the Attorney General 
+     relied on for this determination may be withheld from the 
+     petitioner if the Attorney General determines that disclosure 
+     of the information would likely compromise national 
+     security.''; and
+       (2) in paragraph (2), by adding at the end the following: 
+     ``In responding to any petition for review of a denial or 
+     revocation based upon an Attorney General determination under 
+     subsection (j) or (d)(1)(B), the United States may submit, 
+     and the court may rely upon, summaries or redacted versions 
+     of documents containing information the disclosure of which 
+     the Attorney General has determined would likely compromise 
+     national security.''.
+       (q) Ability To Withhold Information in Communications to 
+     Employers.--Section 843(h)(2) of title 18, United States 
+     Code, is amended--
+       (1) in subparagraph (A), by inserting ``or in subsection 
+     (j) of this section (on grounds of terrorism)'' after 
+     ``section 842(i)''; and
+       (2) in subparagraph (B)--
+       (A) in the matter preceding clause (i), by inserting ``or 
+     in subsection (j) of this section,'' after ``section 
+     842(i),''; and
+       (B) in clause (ii), by inserting ``, except that any 
+     information that the Attorney General relied on for a 
+     determination pursuant to subsection (j) may be withheld if 
+     the Attorney General concludes that disclosure of the 
+     information would likely compromise national security'' after 
+     ``determination''.
+       (r) Conforming Amendment to Immigration and Nationality 
+     Act.--Section 101(a)(43)(E)(ii) of the Immigration and 
+     Nationality Act (8 U.S.C. 1101(a)(43)(E)(ii)) is amended by 
+     striking ``or (5)'' and inserting ``(5), or (10)''.
+       (s) Guidelines.--
+       (1) In general.--The Attorney General shall issue 
+     guidelines describing the circumstances under which the 
+     Attorney General will exercise the authority and make 
+     determinations under subsections (d)(1)(B) and (j) of section 
+     843 and sections 922A and 922B of title 18, United States 
+     Code, as amended by this Act.
+       (2) Contents.--The guidelines issued under paragraph (1) 
+     shall--
+       (A) provide accountability and a basis for monitoring to 
+     ensure that the intended goals for, and expected results of, 
+     the grant of authority under subsections (d)(1)(B) and (j) of 
+     section 843 and sections 922A and 922B of title 18, United 
+     States Code, as amended by this Act, are being achieved; and
+       (B) ensure that terrorist watch list records are used in a 
+     manner that safeguards privacy and civil liberties 
+     protections, in accordance with requirements outlines in 
+     Homeland Security Presidential Directive 11 (dated August 27, 
+     2004).
+                                 ______
+                                 
+  SA 387. Mr. SANDERS submitted an amendment intended to be proposed to 
+amendment SA 347 proposed by Mr. Reid to the bill S. 990, to provide 
+for an additional temporary extension of programs under the Small 
+Business Act and the Small Business Investment Act of 1958, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the end, add the following:
+
+     SEC. 3. PROTECTIONS FOR BOOKSTORES AND LIBRARIES.
+
+       (a) Exemption of Bookstores and Libraries From Orders 
+     Requiring the Production of Any Tangible Things for Certain 
+     Foreign Intelligence Investigations.--Section 501 of the 
+     Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 
+     1861) is amended by adding at the end the following new 
+     subsection:
+       ``(i) Prohibition on Searching for or Seizing Material From 
+     a Bookseller or Library.--
+       ``(1) In general.--No application may be made under this 
+     section with either the purpose or effect of searching for, 
+     or seizing from, a bookseller or library documentary 
+     materials that contain personally identifiable information 
+     concerning a patron of a bookseller or library.
+       ``(2) Construction.--Nothing in this subsection shall be 
+     construed as precluding a physical search for documentary 
+     materials referred to in paragraph (1) under other provisions 
+     of law, including under section 303.
+       ``(3) Definitions.--In this subsection:
+       ``(A) Bookseller.--The term `bookseller' means any person 
+     or entity engaged in the sale, rental or delivery of books, 
+     journals, magazines, or other similar forms of communication 
+     in print or digitally.
+       ``(B) Documentary materials.--The term `documentary 
+     materials' means any document, tape or other communication 
+     created by a bookseller or library in connection with print 
+     or digital dissemination of a book, journal, magazine, 
+     newspaper, or other similar form of communication, including 
+     access to the Internet.
+       ``(C) Library.--The term `library' has the meaning given 
+     that term under section 213(2) of the Library Services and 
+     Technology Act (20 U.S.C. 9122(2)) whose services include 
+     access to the Internet, books, journals, magazines, 
+     newspapers, or other similar forms of communication in print 
+     or digitally to patrons for their use, review, examination or 
+     circulation.
+       ``(D) Patron.--The term `patron' means any purchaser, 
+     renter, borrower, user or subscriber of goods or services 
+     from a library or bookseller.
+       ``(E) Personally identifiable information.--The term 
+     `personally identifiable information' includes information 
+     that identifies a person as having used, requested or 
+     obtained specific reading materials or services from a 
+     bookseller or library.''.
+       (b) National Security Letters.--Section 2709(f) of title 
+     18, United States Code, is amended to read as follows:
+       ``(f) Exception for Libraries and Booksellers.--
+       ``(1) In general.--A library or a bookseller is not a wire 
+     or electronic communication service provider for purposes of 
+     this section, regardless of whether the library or bookseller 
+     is providing electronic communication service.
+       ``(2) Definitions.--In this subsection:
+       ``(A) Bookseller.--The term bookseller means any person or 
+     entity engaged in the sale, rental, or delivery of books, 
+     journals, magazines, or other similar forms of communication 
+     in print or digitally.
+       ``(B) Library.--The term library has the meaning given that 
+     term in section 213(1) of the Library Services and Technology 
+     Act (20 U.S.C. 9122(1)).''.
+                                 ______
+                                 
+  SA 388. Ms. KLOBUCHAR (for Mrs. Murray) proposed an amendment to the 
+concurrent resolution S. Con. Res. 4, expressing the sense of Congress 
+that an appropriate site on Chaplains Hill in Arlington National 
+Cemetery should be provided for a memorial marker to honor the memory 
+of the Jewish chaplains who died while on active duty in the Armed 
+Forces of the United States; as follows:
+
+       In the resolving clause, insert before the period at the 
+     end the following: ``and that, in order to preserve, protect, 
+     and maintain the limited amount of space available at 
+     Arlington National Cemetery and ensure that future proposals 
+     for commemorative works are appropriately designed, 
+     constructed, and located and reflect a consensus of the 
+     lasting national significance of the subjects involved, the 
+     President of the United States, as Commander in Chief, should 
+     establish an Arlington National Cemetery Memorial Advisory 
+     Commission and procedures for the evaluation and approval of 
+     new monuments and memorials comparable to those in chapter 89 
+     of title 40, United States Code (commonly referred to as the 
+     `Commemorative Works Act')''.
+
+                          ____________________
+```
