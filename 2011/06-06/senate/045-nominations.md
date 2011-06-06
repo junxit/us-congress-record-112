@@ -1,0 +1,57 @@
+---
+granule: CRECB-2011-pt6-Pg8743-2
+date: 2011-06-06
+edition: CRECB
+section: SENATE
+page: 8743
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                              in the army
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS THE CHAIRMAN 
+     OF THE JOINT CHIEFS OF STAFF AND APPOINTMENT TO THE GRADE 
+     INDICATED WHILE ASSIGNED TO A POSITION OF IMPORTANCE AND 
+     RESPONSIBILITY UNDER TITLE 10, U.S.C., SECTIONS 152 AND 601:
+
+                             To be general
+
+GEN. MARTIN E. DEMPSEY
+
+
+                              in the navy
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS THE VICE 
+     CHAIRMAN OF THE JOINT CHIEFS OF STAFF AND APPOINTMENT TO THE 
+     GRADE INDICATED WHILE
+
+[[Page 8744]]
+
+     ASSIGNED TO A POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER 
+     TITLE 10, U.S.C., SECTIONS 601 AND 154:
+
+                             To be admiral
+
+ADM. JAMES A. WINNEFELD, JR.
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS THE CHIEF OF 
+     STAFF, UNITED STATES ARMY, AND APPOINTMENT TO THE GRADE 
+     INDICATED WHILE ASSIGNED TO A POSITION OF IMPORTANCE AND 
+     RESPONSIBILITY UNDER TITLE 10, U.S.C., SECTIONS 601 AND 3033:
+
+                             To be general
+
+GEN. RAYMOND T. ODIERNO
+
+                          ____________________
+```
