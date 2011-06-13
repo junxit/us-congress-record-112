@@ -1,0 +1,47 @@
+---
+granule: CREC-2011-06-13-pt1-PgE1066
+date: 2011-06-13
+edition: CREC
+section: EXTENSIONS
+page: E1066
+citation: 157 Cong. Rec. E1066
+---
+
+# BRIAN COOPER TRIBUTE
+
+**Speaking:** Tipton, Scott  R. (T000470) [R-CO]
+
+```
+                          BRIAN COOPER TRIBUTE
+
+                                 ______
+                                 
+
+                          HON. SCOTT R. TIPTON
+
+                              of colorado
+
+                    in the house of representatives
+
+                         Monday, June 13, 2011
+
+  Mr. TIPTON. Mr. Speaker, I rise today to recognize and congratulate 
+Brian Cooper for earning the Alamosa Police Department's Lifesaver 
+Award. His quick thinking and decisive action during his regular patrol 
+of the small Colorado town saved the life of another resident.
+  Detective Cooper, a patrol officer at the time, saw one of the town's 
+elderly residents choking. After calling an ambulance, he cleared the 
+man's airway of the food he was choking on and successfully 
+administered CPR. Paramedics credit Officer Cooper for saving the life 
+of a man who would have otherwise died had he not intervened.
+  Detective Cooper is one of only a handful of recipients of the 
+Lifesaver Award. It is not given lightly, but there was little argument 
+against the Detective's merit. A father of two and loving husband to 
+his high school sweetheart, Brian Cooper is an exemplary member of 
+Colorado's police force.
+  Mr. Speaker, it is an honor to recognize Brian Cooper today. Alamosa 
+is deservedly proud of him and I have no doubt that he will continue to 
+expand on his already excellent record.
+
+                          ____________________
+```
