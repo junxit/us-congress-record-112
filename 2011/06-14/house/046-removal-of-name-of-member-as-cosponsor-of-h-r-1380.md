@@ -1,0 +1,21 @@
+---
+granule: CRECB-2011-pt7-Pg9129-3
+date: 2011-06-14
+edition: CRECB
+section: HOUSE
+page: 9129
+---
+
+# REMOVAL OF NAME OF MEMBER AS COSPONSOR OF H.R. 1380
+
+```
+          REMOVAL OF NAME OF MEMBER AS COSPONSOR OF H.R. 1380
+
+  Mr. KELLY. Madam Speaker, I ask unanimous consent to be removed as a 
+cosponsor of H.R. 1380.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Pennsylvania?
+  There was no objection.
+
+                          ____________________
+```
