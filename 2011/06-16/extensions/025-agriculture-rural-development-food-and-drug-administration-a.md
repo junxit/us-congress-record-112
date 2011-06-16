@@ -1,0 +1,82 @@
+---
+granule: CREC-2011-06-16-pt1-PgE1118-4
+date: 2011-06-16
+edition: CREC
+section: EXTENSIONS
+page: E1118
+citation: 157 Cong. Rec. E1118
+---
+
+# AGRICULTURE, RURAL DEVELOPMENT, FOOD AND DRUG ADMINISTRATION, AND RELATED AGENCIES APPROPRIATIONS ACT, 2012
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+**Measures:** H.R. 2112
+
+```
+   AGRICULTURE, RURAL DEVELOPMENT, FOOD AND DRUG ADMINISTRATION, AND 
+               RELATED AGENCIES APPROPRIATIONS ACT, 2012
+
+                                 ______
+                                 
+
+                               speech of
+
+                            HON. JAY INSLEE
+
+                             of washington
+
+                    in the house of representatives
+
+                         Tuesday, June 14, 2011
+
+       The House in Committee of the Whole House on the State of 
+     the Union had under consideration the bill (H.R. 2112) making 
+     appropriations for Agriculture, Rural Development, Food and 
+     Drug Administration, and Related Agencies programs for the 
+     fiscal year ending September 30, 2012, and for other 
+     purposes:
+
+  Mr. INSLEE. Madam Chair, I am concerned about the underlying 
+legislation's attempt to zero out funding for the USDA Biomass Crop 
+Assistance Program (BCAP), in the Agriculture Appropriations bill for 
+FY2012. BCAP is an important economic development program uniquely 
+focused on advanced, next generation biofuels that can be grown, 
+produced, and refined in Washington state. This biomass can be used for 
+heat, power, bio-based products, and biofuels. In fact, it is the only 
+program that helps farmers transition from growing traditional crops to 
+growing energy crops.
+  BCAP is vitally important for the development of the clean domestic 
+biomass energy industry. Authorized in Title IX of the 2008 Farm Bill, 
+BCAP received $552 million in FY 2010, but the final Continuing 
+Resolution that passed into law for FY 2011 reduced BCAP funding to 
+$112 million. Today, the House Agriculture Appropriations bill goes 
+further, proposing to eliminate funding for this program in its 
+entirety. I believe that eliminating this program is the wrong 
+direction, and will hinder job creation in the emerging biomass and 
+biofuels industries.
+  It is widely agreed that developing a robust sustainable biomass and 
+biofuels industry will produce significant jobs and generate revenues 
+in rural areas. One national study has found that producing 475 million 
+gallons of biofuel in 2009 resulted in 23,000 jobs across the economy, 
+$4.1 billion in added GDP growth, $445 million in Federal tax revenues, 
+and $383 million for State and local governments. Feedstock production 
+would likely represent half the direct jobs, boosting employment in 
+rural areas and small communities.
+  For example, in the Pacific Northwest, a coalition of aviation and 
+airline industries, universities, ports and international airports, 
+recently released a report outlining how to commercialize aviation 
+biofuels. Many of the coalition partners are working to bring these 
+aviation biofuels to market and will rely on BCAP, as do countless 
+other biofuel and biomass organizations around the Nation. Because of 
+the prospects for widespread job creation and superb opportunities for 
+positive rural development, I believe that rather than zero out this 
+program, Congress should preserve funding at the Administration's 
+proposed budget of $201 million.
+
+[[Page E1119]]
+
+
+
+                          ____________________
+```

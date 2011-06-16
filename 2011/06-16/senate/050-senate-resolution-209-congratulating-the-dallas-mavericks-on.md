@@ -1,0 +1,104 @@
+---
+granule: CREC-2011-06-16-pt1-PgS3897
+date: 2011-06-16
+edition: CREC
+section: SENATE
+page: S3897
+citation: 157 Cong. Rec. S3897
+---
+
+# SENATE RESOLUTION 209--CONGRATULATING THE DALLAS MAVERICKS ON WINNING THE 2011 NATIONAL BASKETBALL ASSOCIATION CHAMPIONSHIP
+
+**Measures:** S.Res. 209
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+ SENATE RESOLUTION 209--CONGRATULATING THE DALLAS MAVERICKS ON WINNING 
+         THE 2011 NATIONAL BASKETBALL ASSOCIATION CHAMPIONSHIP
+
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S3897, June 16, 2011, in the third column, under the 
+heading SUBMITTED RESOLUTIONS, the following appears: SENATE 
+RESOLUTION 209--CONGRATULATING THE DALLAS MAVERICKS ON WINNING THE 
+2011 NATIONAL BASKETBALL CHAMPIONSHIP
+  
+  The Record has been corrected to read: SENATE RESOLUTION 209--
+CONGRATULATING THE DALLAS MAVERICKS ON WINNING THE 2011 NATIONAL 
+BASKETBALL ASSOCIATION CHAMPIONSHIP
+
+
+ ========================= END NOTE ========================= 
+
+  Mrs. HUTCHISON (for herself and Mr. Cornyn) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 209
+
+       Whereas the Dallas Mavericks finished the 2010-11 National 
+     Basketball Association (NBA) season with a 57-25 record;
+       Whereas, during the 2011 NBA Playoffs, the Mavericks 
+     defeated the Portland Trailblazers, Los Angeles Lakers, 
+     Oklahoma City Thunder, and Miami Heat en route to the NBA 
+     Championship;
+       Whereas the Mavericks epitomized a ``never say die'' 
+     attitude during the 2011 NBA Finals, overcoming losses in 
+     games 1 and 3 of the NBA Finals with thrilling fourth quarter 
+     comebacks in games 2, 4, and 5 to take a 3-2 series lead;
+       Whereas, on June 12, 2011, the Mavericks won the 2011 NBA 
+     Championship in 6 games over the Miami Heat;
+       Whereas the Mavericks owner Mark Cuban never wavered in his 
+     commitment to bring an NBA championship to Dallas, fulfilling 
+     the vision of founding owner Don Carter and past owner Ross 
+     Perot, Jr.;
+       Whereas the President of Basketball Operations and General 
+     Manager Donnie Nelson built a team complete with depth, 
+     versatility, and humility;
+       Whereas third-year Head Coach Rick Carlisle and his 
+     assistants helped transform the Mavericks from a perennial 
+     playoff contender into the NBA's best;
+       Whereas Dirk Nowitzki, who has spent his entire 13-year 
+     career with the Mavericks, overcame injury and illness to 
+     average 26 points and 9.6 rebounds per game during the NBA 
+     Finals, earning the NBA Finals Most Valuable Player Award;
+       Whereas longtime Mavericks guard Jason Terry scored a game 
+     high 27 points in game 6 to carry the Mavericks to the 
+     championship;
+       Whereas 17-year NBA veteran Jason Kidd set the tone for the 
+     Mavericks' success through his patient, calm, and disciplined 
+     leadership;
+       Whereas Shawn Marion, Tyson Chandler, DeShawn Stevenson, 
+     and Jose Juan ``J.J.'' Barea provided balance on offense and 
+     defense to help pave the way to the championship;
+       Whereas the Mavericks bench was pivotal to the team's 
+     championship, with valuable contributions being made by the 
+     entire roster, including guard Rodrigue Beaubois, forward 
+     Corey Brewer, forward Caron Butler, forward Brian Cardinal, 
+     center Brendan Haywood, guard Dominique Jones, center Ian 
+     Mahinmi, and forward Peja Stojakovic; and
+       Whereas the Mavericks gave the city of Dallas its first NBA 
+     Championship, a unique and special accomplishment for 
+     Mavericks fans throughout the Dallas/Fort Worth Metroplex and 
+     around the world: Now, therefore, be it
+
+[[Page S3898]]
+
+       Resolved, That the Senate--
+       (1) congratulates the Dallas Mavericks for their 
+     outstanding heart, resolve, and determination in winning the 
+     2011 National Basketball Association Championship; and
+       (2) respectfully requests the Secretary of the Senate to 
+     transmit an enrolled copy of this resolution to--
+       (A) Mavericks head coach Rick Carlisle;
+       (B) Mavericks general manager Donnie Nelson; and
+       (C) Mavericks owner Mark Cuban.
+
+                          ____________________
+```
