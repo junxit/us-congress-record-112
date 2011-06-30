@@ -1,0 +1,81 @@
+---
+granule: CREC-2011-06-30-pt1-PgS4298-3
+date: 2011-06-30
+edition: CREC
+section: SENATE
+page: S4298
+citation: 157 Cong. Rec. S4298
+---
+
+# SENATE RESOLUTION 225--CONGRATULATING THE UNIVERSITY OF SOUTH CAROLINA BASEBALL TEAM FOR ITS GRITTY AND RECORD-BREAKING PURSUIT OF BACK-TO- BACK NATIONAL COLLEGIATE ATHLETIC ASSOCIATION DIVISION I...
+
+**Measures:** S.Res. 225
+
+```
+SENATE RESOLUTION 225--CONGRATULATING THE UNIVERSITY OF SOUTH CAROLINA 
+  BASEBALL TEAM FOR ITS GRITTY AND RECORD-BREAKING PURSUIT OF BACK-TO-
+   BACK NATIONAL COLLEGIATE ATHLETIC ASSOCIATION DIVISION I BASEBALL 
+                         NATIONAL CHAMPIONSHIPS
+
+  Mr. GRAHAM (for himself and Mr. DeMint) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 225
+
+       Whereas, on June 28, 2011, the University of South Carolina 
+     Gamecocks won the 2011 National Collegiate Athletic 
+     Association College World Series with a 5-2 victory over the 
+     University of Florida Gators at TD Ameritrade Park in Omaha, 
+     Nebraska;
+       Whereas the University of South Carolina baseball team has 
+     secured the University's second national championship in 
+     men's athletics since the founding of the University in 1801;
+       Whereas the University of South Carolina baseball team 
+     became just the sixth team in college baseball history to win 
+     back-to-back national championships;
+       Whereas the University of South Carolina baseball team won 
+     a record 11 consecutive games at the College World Series;
+       Whereas the University of South Carolina baseball team won 
+     a record 16 consecutive games at the National Collegiate 
+     Athletic Association baseball tournament;
+       Whereas the University of South Carolina baseball team, in 
+     its 10th appearance at the College World Series, became the 
+     first team to go 10-0 in the National Collegiate Athletic 
+     Association tournament;
+       Whereas head coach Ray Tanner won his second national title 
+     as Head Coach in his 15th season at the University of South 
+     Carolina;
+       Whereas second baseman Scott Wingo was named Most 
+     Outstanding Player of the 2011 College World Series;
+       Whereas first baseman Christian Walker, catcher Robert 
+     Berry, second baseman Scott Wingo, shortstop Peter Mooney, 
+     pitchers Michael Roth and Matt Price, and designated hitter 
+     Brady Thomas were named to the 2011 College World Series All-
+     Tournament Team;
+       Whereas the State of South Carolina was proud to send the 
+     University of South Carolina baseball team to the College 
+     World Series for the second consecutive season; and
+       Whereas the University of South Carolina baseball team is 
+     the 2011 National Collegiate Athletic Association Division I 
+     Baseball Champion: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) commends the University of South Carolina Gamecocks for 
+     winning the 2011 National Collegiate Athletic Association 
+     College World Series;
+       (2) recognizes the achievement and dedication of all 
+     players, coaches, and support staff who battled and made 
+     winning 2 consecutive national championships possible;
+       (3) congratulates the people of South Carolina, the 
+     University of South Carolina, and Carolina Gamecocks fans 
+     everywhere; and
+       (4) requests that the Secretary of the Senate submit an 
+     enrolled copy of this resolution to--
+       (A) Dr. Harris Pastides, President of the University of 
+     South Carolina;
+       (B) Eric Hyman, Director of Athletics at the University of 
+     South Carolina; and
+       (C) Ray Tanner, Head Coach of the University of South 
+     Carolina baseball team.
+
+                          ____________________
+```
