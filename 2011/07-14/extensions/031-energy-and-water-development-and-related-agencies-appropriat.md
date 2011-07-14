@@ -1,0 +1,85 @@
+---
+granule: CREC-2011-07-14-pt1-PgE1326
+date: 2011-07-14
+edition: CREC
+section: EXTENSIONS
+page: E1326
+citation: 157 Cong. Rec. E1326
+---
+
+# ENERGY AND WATER DEVELOPMENT AND RELATED AGENCIES APPROPRIATIONS ACT, 2012
+
+**Speaking:** Inslee, Jay (I000026) [D-WA]
+
+**Measures:** H.R. 2354
+
+```
+ ENERGY AND WATER DEVELOPMENT AND RELATED AGENCIES APPROPRIATIONS ACT, 
+                                  2012
+
+                                 ______
+                                 
+
+                               speech of
+
+                            HON. JAY INSLEE
+
+                             of washington
+
+                    in the house of representatives
+
+                        Wednesday, July 13, 2011
+
+       The House in Committee of the Whole House on the State of 
+     the Union had under consideration the bill (H.R. 2354) making 
+     appropriations for energy and water development and related 
+     agencies for the fiscal year ending September 30, 2012, and 
+     for other purposes:
+
+  Mr. INSLEE. Mr. Chair, I am concerned about the devastating impact 
+that the underlying legislation will have on the clean energy economy. 
+H.R. 2354 is a disappointment to those working to advance the clean 
+energy economy because it slashes investments--by 40 percent from the 
+President's request--in the new clean energy jobs of the future, 
+ranging from solar to biomass to wind, and new technologies for more 
+energy efficient cars and buildings.
+  Today, more than ever, we need investments in clean energy research, 
+innovation, and manufacturing--investments which can grow new 
+industries, create American jobs, reduce U.S. oil dependence, and 
+increase our national security. H.R. 2354 abandons efforts for a new 
+American energy economy that would lower electricity prices for 
+families, reduce our reliance on foreign energy, and increase energy 
+independence.
+  While I understand the fiscal situation we are in, H.R. 2354 cuts 
+programs that can be targeted to actually grow our economy. The bill 
+slashes Energy Efficiency and Renewable Energy, EERE, by 27 percent, 
+cuts the Advanced Research Projects Agency--Energy, ARPA-E, by 44 
+percent, cuts Weatherization Assistance Grants and associated training 
+programs by 81 percent, all the while increasing funding for fossil 
+fuel research and development. I believe that this demonstrates that 
+the priorities of H.R 2354 are aligned with outdated 20th century 
+energy policies that will not recharge our new economy. A 21st century 
+Energy and Water Appropriations Act should include measures to increase 
+funding for renewable energy and clean technology and these increases 
+should be offset by dollars from fossil energy research and 
+development.
+  To help strengthen our economy and create new jobs, we must rebuild 
+America. In a report released this week by the Brookings Institution 
+entitled ``Sizing the Clean Energy Economy: A National and Regional 
+Green Jobs Assessment,'' it is reported that 2.7 million Americans are 
+now employed in the clean technology economy. The report found that in 
+the State of Washington, there are 83,676 clean energy jobs, with an 
+annual wage of $46,457. The report showed that median wages for clean-
+economy workers are about 13 percent higher than median U.S. wages. The 
+clean technology economy has created export intensive jobs; on average, 
+twice as much value is exported from clean tech jobs than the national 
+average. The potential for future job creation in the clean energy 
+economy is endless and targeted investments in this new economy make 
+sense.
+  As the House of Representatives considers amendments to H.R. 2354, I 
+urge my colleagues to consider the opportunities for economic growth 
+and job creation embodied in the clean energy economy and oppose the 
+misguided priorities in this bill.
+
+                          ____________________
+```

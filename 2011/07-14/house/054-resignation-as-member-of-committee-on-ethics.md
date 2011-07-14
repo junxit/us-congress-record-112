@@ -1,0 +1,49 @@
+---
+granule: CREC-2011-07-14-pt1-PgH5050
+date: 2011-07-14
+edition: CREC
+section: HOUSE
+page: H5050
+citation: 157 Cong. Rec. H5050
+---
+
+# RESIGNATION AS MEMBER OF COMMITTEE ON ETHICS
+
+```
+              RESIGNATION AS MEMBER OF COMMITTEE ON ETHICS
+
+  The SPEAKER pro tempore laid before the House the following 
+resignation as a member of the Committee on Ethics:
+
+                                    Congress of the United States,
+
+
+                                     House of Representatives,
+
+                                    Washington, DC, July 14, 2011.
+     Hon. John Boehner,
+     Speaker of the House of Representatives,
+     Washington, DC.
+       Dear Mr. Speaker: I write to inform you that I have 
+     notified Chairman Bonner and Ranking Member Sanchez of my 
+     resignation from the Ethics Committee of the House of 
+     Representatives.
+       It is because of my high regard for the Ethics Committee 
+     and its vital, non-partisan role enforcing the standards of 
+     official conduct in the House of Representatives that I make 
+     this decision. Having recently announced my candidacy for the 
+     United States Senate, I want to ensure my status as a 
+     candidate for higher office does not in any way cause the 
+     work of the Ethics Committee to become fodder for politics or 
+     partisanship.
+       It has been a privilege and an honor to serve on this 
+     committee.
+           Sincerely,
+                                                  Mazie K. Hirono.
+
+  The SPEAKER pro tempore. Without objection, the resignation is 
+accepted.
+  There was no objection.
+
+                          ____________________
+```
