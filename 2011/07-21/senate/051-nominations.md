@@ -1,0 +1,29 @@
+---
+granule: CRECB-2011-pt8-Pg11665-6
+date: 2011-07-21
+edition: CRECB
+section: SENATE
+page: 11665
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+       ROSLYN ANN MAZER, OF MARYLAND, TO BE INSPECTOR GENERAL, 
+     DEPARTMENT OF HOMELAND SECURITY, VICE RICHARD L. SKINNER, 
+     RESIGNED.
+
+
+                        FEDERAL TRADE COMMISSION
+
+       MAUREEN K. OHLHAUSEN, OF VIRGINIA, TO BE A FEDERAL TRADE 
+     COMMISSIONER FOR A TERM OF SEVEN YEARS FROM SEPTEMBER 26, 
+     2011, VICE WILLIAM E. KOVACIC, TERM EXPIRING.
+```
