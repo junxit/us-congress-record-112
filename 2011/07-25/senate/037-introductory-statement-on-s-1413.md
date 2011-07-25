@@ -1,0 +1,81 @@
+---
+granule: CREC-2011-07-25-pt1-PgS4870-3
+date: 2011-07-25
+edition: CREC
+section: SENATE
+page: S4870
+citation: 157 Cong. Rec. S4870
+---
+
+# Introductory Statement on S. 1413
+
+**Speaking:** Wyden, Ron (W000779) [D-OR]
+
+**Measures:** S. 1413
+
+```
+      By Mr. WYDEN (for himself and Mr. Crapo):
+  S. 1413. A bill to amend the Internal Revenue Code of 1986 to 
+temporarily increase the investment tax credit for geothermal energy 
+property; to the Committee on Finance.
+  Mr. WYDEN. Mr. President, I am pleased to join with my colleague from 
+Idaho, Sen. Mike Crapo, in introducing the Geothermal Tax Parity Act of 
+2011. This legislation will modify an existing investment tax credit 
+for geothermal energy authorized under Section 48 of the Federal tax 
+code. Although both solar energy and geothermal energy projects are 
+eligible for an investment tax credit under Section 48, they are not 
+equal. While I am a strong supporter of solar energy technology and 
+support the solar energy tax credit, I am also a strong advocate for 
+having a level playing field when it comes to government incentives. 
+That is why this bill is called the Geothermal Tax Parity Act, because 
+it will create parity in the tax code for these two important renewable 
+energy resources.
+  This bill would provide geothermal energy with the same 30 percent 
+investment tax credit that is now available to solar energy and fuel 
+cell technologies in Section 48 and extend this 30 percent tax credit 
+for geothermal through December 31, 2016, as it is for these other 
+technologies. Without this legislation, new geothermal energy projects 
+would be allowed only a 10 percent investment tax credit under Section 
+48. This legislation will create a more level playing field among 
+clean, renewable energy technologies and help stimulate investment in 
+geothermal energy projects.
+  Geothermal energy can provide a continuous supply of renewable energy 
+with very few environmental impacts. Although the United States has 
+more geothermal capacity than any other country, this potential energy 
+resource has not been widely developed. This is due in large part to 
+the high initial cost and risk involved in locating and developing 
+geothermal resources. Extending the 30 percent tax credit through 2016 
+will help geothermal developers obtain the financing they need to make 
+investments in exploration and development.
+  This legislation is identical to a bipartisan companion bill, H.R. 
+2408, that our colleagues from the Pacific Northwest, Rep. David 
+Reichert from Washington and Rep. Earl Blumenauer from Oregon have 
+sponsored in the House.
+  Mr. President, I ask unanimous consent that the text of the bill be 
+printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 1413
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Geothermal Tax Parity Act of 
+     2011''.
+
+     SEC. 2. TEMPORARY INCREASE IN INVESTMENT TAX CREDIT FOR 
+                   GEOTHERMAL ENERGY PROPERTY.
+
+       (a) In General.--Subclause (II) of section 48(a)(2)(A)(i) 
+     of the Internal Revenue Code of 1986 is amended by striking 
+     ``paragraph (3)(A)(i)'' and inserting ``clause (i) or (iii) 
+     of paragraph (3)(A)''.
+       (b) Effective Date.--The amendment made by this section 
+     shall apply to property placed in service after the date of 
+     the enactment of this Act.
+
+                          ____________________
+```
