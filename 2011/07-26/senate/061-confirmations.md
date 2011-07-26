@@ -1,0 +1,25 @@
+---
+granule: CREC-2011-07-26-pt1-PgS4915-7
+date: 2011-07-26
+edition: CREC
+section: SENATE
+page: S4915
+citation: 157 Cong. Rec. S4915
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate July 26, 2011:
+
+
+                             THE JUDICIARY
+
+       PAUL A. ENGELMAYER, OF NEW YORK, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF NEW YORK.
+       RAMONA VILLAGOMEZ MANGLONA, OF THE NORTHERN MARIANA 
+     ISLANDS, TO BE JUDGE FOR THE DISTRICT COURT FOR THE NORTHERN 
+     MARIANA ISLANDS FOR A TERM OF TEN YEARS.
+```
