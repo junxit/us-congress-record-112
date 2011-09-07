@@ -1,0 +1,115 @@
+---
+granule: CREC-2011-09-07-pt1-PgS5393
+date: 2011-09-07
+edition: CREC
+section: SENATE
+page: S5393
+citation: 157 Cong. Rec. S5393
+---
+
+# NATIONAL ADULT EDUCATION AND FAMILY LITERACY WEEK
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S.Res. 258
+
+```
+           NATIONAL ADULT EDUCATION AND FAMILY LITERACY WEEK
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of S. Res. 258.
+  The PRESIDING OFFICER. The clerk will report.
+  The assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 258) supporting the designation of 
+     the ``National Adult Education and Family Literacy Week.''
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. REID. Mr. President, I ask unanimous consent that the resolution 
+be agreed to, the preamble be agreed to, the motion to reconsider be 
+laid upon the table, with no intervening action or debate, and that any 
+statements on this matter be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 258) was agreed to.
+  The preamble was agreed to.
+  The resolution, and its preamble, reads as follows:
+
+                              S. Res. 258
+
+       Whereas the National Assessment of Adult Literacy reports 
+     that approximately 90,000,000 adults in the United States 
+     lack the literacy, numeracy, or English language skills 
+     necessary to succeed at home, in the workplace, and in 
+     society;
+       Whereas the literacy of the people of the United States is 
+     essential for the social and economic well-being of the 
+     United States, and literacy allows individuals to benefit 
+     from full participation in society;
+       Whereas the United States reaps the economic benefits from 
+     the efforts of individuals to raise their literacy, numeracy, 
+     and English language skills;
+       Whereas literacy and educational skills are a prerequisite 
+     to individuals reaping the full benefit of opportunities in 
+     the United States;
+       Whereas the economy and the position of the United States 
+     in the world marketplace depend on having a literate, skilled 
+     population;
+       Whereas the unemployment rate in the United States is 
+     highest among individuals without a high school diploma or an 
+     equivalent credential, indicating that education is key to 
+     economic recovery;
+       Whereas parents who are educated and read to their children 
+     directly impact the educational success of their children;
+       Whereas parental involvement is a key predictor of a 
+     child's success, and the level of parental involvement 
+     increases as the education level of the parent increases;
+       Whereas parents in family literacy programs become more 
+     involved in their children's education and gain the tools 
+     necessary to obtain a job or find better employment;
+       Whereas, as a result of family literacy programs, 
+     children's lives become more stable, and success in the 
+     classroom, and in all future endeavors, becomes more likely;
+       Whereas adults need to be part of a long-term solution to 
+     the education challenges of the United States;
+       Whereas many older people in the United States lack the 
+     reading, math, or English language skills necessary to read a 
+     prescription and follow medical instructions, endangering 
+     their lives and the lives of their loved ones;
+       Whereas many individuals who are unemployed, underemployed, 
+     or receive public assistance lack the literacy skills to 
+     obtain and keep a job to sustain their family, continue their 
+     education, or participate in job training programs;
+       Whereas many high school dropouts do not have the literacy 
+     skills to complete their education, transition to 
+     postsecondary education or career and technical training, or 
+     become employed;
+       Whereas a large percentage of individuals in prison have 
+     low educational skills, and prisoners without educational 
+     skills are more likely to return to prison once released;
+       Whereas many immigrants to the United States do not have 
+     the literacy skills necessary to succeed in the United 
+     States;
+       Whereas National Adult Education and Family Literacy week 
+     highlights the need to ensure that each and every citizen has 
+     the necessary literacy and educational skills to succeed at 
+     home, at work, and in society; and
+       Whereas the week beginning September 12, 2011, would be an 
+     appropriate week to designate as National Adult Education and 
+     Family Literacy Week: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) supports the designation of National Adult Education 
+     and Family Literacy Week, including raising public awareness 
+     about the importance of adult education, workforce skills, 
+     and family literacy;
+       (2) encourages people across the United States to support 
+     programs to assist those in need of adult education, 
+     workforce skills upgrading, and family literacy programs; and
+       (3) recognizes the importance of adult education, workforce 
+     skills, and family literacy programs, and calls upon public, 
+     private, and non-profit stakeholders to support increased 
+     access to adult education and family literacy programs to 
+     ensure a literate society.
+
+                          ____________________
+```
