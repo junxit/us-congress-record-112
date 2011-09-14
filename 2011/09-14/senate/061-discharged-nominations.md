@@ -1,0 +1,32 @@
+---
+granule: CREC-2011-09-14-pt1-PgS5635
+date: 2011-09-14
+edition: CREC
+section: SENATE
+page: S5635
+citation: 157 Cong. Rec. S5635
+---
+
+# DISCHARGED NOMINATIONS
+
+```
+                         DISCHARGED NOMINATIONS
+
+  The Senate Committee on Foreign Relations was discharged from further 
+consideration of the following nominations by unanimous consent and the 
+nominations were confirmed:
+
+       MARY B. DEROSA, OF THE DISTRICT OF COLUMBIA, TO BE AN 
+     ALTERNATE REPRESENTATIVE OF THE UNITED STATES OF AMERICA TO 
+     THE SIXTY-SIXTH SESSION OF THE GENERAL ASSEMBLY OF THE UNITED 
+     NATIONS.
+       FRANK E. LOY, OF THE DISTRICT OF COLUMBIA, TO BE AN 
+     ALTERNATE REPRESENTATIVE OF THE UNITED STATES OF AMERICA TO 
+     THE SIXTY-SIXTH SESSION OF THE GENERAL ASSEMBLY OF THE UNITED 
+     NATIONS.
+       KENDRICK B. MEEK, OF FLORIDA, TO BE A REPRESENTATIVE OF THE 
+     UNITED STATES OF AMERICA TO THE SIXTY-SIXTH SESSION OF THE 
+     GENERAL ASSEMBLY OF THE UNITED NATIONS.
+
+                          ____________________
+```
