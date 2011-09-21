@@ -1,0 +1,141 @@
+---
+granule: CREC-2011-09-21-pt1-PgS5845-3
+date: 2011-09-21
+edition: CREC
+section: SENATE
+page: S5845
+citation: 157 Cong. Rec. S5845
+---
+
+# TAIWAN OBSERVER STATUS IN THE INTERNATIONAL CIVIL AVIATION ORGANIZATION
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S.Con.Res. 17
+
+```
+TAIWAN OBSERVER STATUS IN THE INTERNATIONAL CIVIL AVIATION ORGANIZATION
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Senate 
+proceed to the consideration of Calendar No. 115, S. Con. Res. 17.
+  The PRESIDING OFFICER. The clerk will report the concurrent 
+resolution by title.
+  The legislative clerk read as follows:
+
+       A concurrent resolution (S. Con. Res. 17) expressing the 
+     sense of Congress that Taiwan should be accorded observer 
+     status in the International Civil Aviation Organization 
+     (ICAO).
+
+  There being no objection, the Senate proceeded to consider the 
+concurrent resolution.
+  Mr. REID. Mr. President, I know of no further debate on this 
+resolution.
+  The PRESIDING OFFICER. Is there further debate?
+  If not, the question is on the adoption of the concurrent resolution.
+  The concurrent resolution (S. Con. Res. 17) was agreed to.
+  Mr. REID. Mr. President, I ask unanimous consent that the preamble be 
+agreed to, the motions to reconsider be laid upon the table, with no 
+intervening action or debate, and any statements relating to this 
+matter be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                            S. Con. Res. 17
+
+       Whereas the Convention on International Civil Aviation, 
+     signed in Chicago, Illinois, on December 7, 1944, and entered 
+     into force April 4, 1947, approved the establishment of the 
+     International Civil Aviation Organization (ICAO), stating 
+     ``The aims and objectives of the Organization are to develop 
+     the principles and techniques of international
+
+[[Page S5846]]
+
+     air navigation and to foster the planning and development of 
+     international air transport so as to . . . meet the needs of 
+     the peoples of the world for safe, regular, efficient and 
+     economical air transport'';
+       Whereas, following the terrorist attacks of September 11, 
+     2001, the ICAO convened a high-level Ministerial Conference 
+     on Aviation Security that endorsed a global strategy for 
+     strengthening aviation security worldwide and issued a public 
+     declaration that ``a uniform approach in a global system is 
+     essential to ensure aviation security throughout the world 
+     and that deficiencies in any part of the system constitute a 
+     threat to the entire global system,'' and that there should 
+     be a commitment to ``foster international cooperation in the 
+     field of aviation security and harmonize the implementation 
+     of security measures'';
+       Whereas, the 37th ICAO Assembly in October 2010 adopted a 
+     Declaration on Aviation Security largely in response to the 
+     attempted sabotage of Northwest Airlines Flight 253 on 
+     December 25, 2009, which established new criminal penalties 
+     for the use of civil aircraft as a weapon, the use of 
+     dangerous materials to attack aircraft or other targets on 
+     the ground, and the unlawful transport of biological, 
+     chemical, and nuclear weapons and related materials, along 
+     with extradition arrangements that facilitate cooperation 
+     among nations in apprehending and prosecuting those who have 
+     undertaken these and other criminal acts;
+       Whereas, on October 8, 2010, the Department of State 
+     praised the 37th ICAO Assembly on its adoption of the 
+     Declaration on Aviation Security, but noted that ``because 
+     every airport offers a potential entry point into this global 
+     system, every nation faces the threat from gaps in aviation 
+     security throughout the world--and all nations must share the 
+     responsibility for securing that system'';
+       Whereas the Taipei Flight Information Region, under the 
+     jurisdiction of Taiwan, ROC, covers an airspace of 176,000 
+     square nautical miles and provides air traffic control 
+     services to over 1,350,000 flights annually, with the Taiwan 
+     Taoyuan International Airport recognized as the 8th and 18th 
+     largest airport by international cargo volume and number of 
+     international passengers, respectively;
+       Whereas exclusion from the ICAO since 1971 has impeded the 
+     efforts of the Government of Taiwan to maintain civil 
+     aviation practices that comport with evolving international 
+     standards, due to its inability to contact the ICAO for up-
+     to-date information on aviation standards and norms, secure 
+     amendments to the organization's regulations in a timely 
+     manner, obtain sufficient and timely information needed to 
+     prepare for the implementation of new systems and procedures 
+     set forth by the ICAO, receive technical assistance in 
+     implementing new regulations, and participate in technical 
+     and academic seminars hosted by the ICAO;
+       Whereas the United States, in the 1994 Taiwan Policy 
+     Review, clearly declared its support for the participation of 
+     Taiwan in appropriate international organizations, in 
+     particular, on September 27, 1994, with the announcement by 
+     the Assistant Secretary of State for East Asian and Pacific 
+     Affairs that, pursuant to the Review and recognizing Taiwan's 
+     important role in transnational issues, the United States 
+     ``will support its membership in organizations where 
+     statehood is not a prerequisite, and [the United States] will 
+     support opportunities for Taiwan's voice to be heard in 
+     organizations where its membership is not possible''; and
+       Whereas ICAO rules and existing practices have allowed for 
+     the meaningful participation of noncontracting countries as 
+     well as other bodies in its meetings and activities through 
+     granting of observer status: Now, therefore, be it
+       Resolved by the Senate (the House of Representatives 
+     concurring), That it is the sense of Congress that--
+       (1) meaningful participation by the Government of Taiwan as 
+     an observer in the meetings and activities of the 
+     International Civil Aviation Organization (ICAO) will 
+     contribute both to the fulfillment of the ICAO's overarching 
+     mission and to the success of a global strategy to address 
+     aviation security threats based on effective international 
+     cooperation;
+       (2) the United States Government should take a leading role 
+     in garnering international support for the granting of 
+     observer status to Taiwan in the ICAO for the purpose of such 
+     participation; and
+       (3) the Department of State should provide briefings to or 
+     consult with Congress on any efforts conducted by the United 
+     States Government in support of Taiwan's attainment of 
+     observer status in the ICAO.
+
+                          ____________________
+```
