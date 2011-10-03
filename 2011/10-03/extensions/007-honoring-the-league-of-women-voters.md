@@ -1,0 +1,70 @@
+---
+granule: CRECB-2011-pt10-Pg14514-2
+date: 2011-10-03
+edition: CRECB
+section: EXTENSIONS
+page: 14514
+---
+
+# HONORING THE LEAGUE OF WOMEN VOTERS
+
+```
+                  HONORING THE LEAGUE OF WOMEN VOTERS
+
+                                 ______
+                                 
+
+                            HON. BARBARA LEE
+
+                             of california
+
+                    in the house of representatives
+
+                        Monday, October 3, 2011
+
+  Ms. LEE of California. Mr. Speaker, I rise today to honor the League 
+of Women Voters of Oakland, who are celebrating 100 years of women 
+voting in California, starting with the historic and narrowly won 
+California state referendum and the first California Civic League, 
+Berkeley Forum led by Miss Blanche Morse in 1911. It is an immense 
+honor to represent Bay Area communities who have truly been at the 
+forefront of a century's worth of major achievements in social justice.
+  Over the years, the League of Women Voters of Oakland, as well as its 
+sister leagues in Berkeley/Albany/Emeryville, Piedmont and the 
+surrounding Bay Area, have worked tirelessly to advocate, educate and 
+champion citizens' informed and active participation in government and 
+civic affairs.
+  An expansive and well-organized network of committed chapters, over 
+4,000 members in 21 local Leagues comprise the League of Women Voters 
+of the Bay Area (LWVBA), which took shape in 1959. On a national scale, 
+the League of Women Voters of the United States (LWVUS) was founded 
+during the 1920 convention of the National American Woman Suffrage 
+Association, held just 6 months before the 19th amendment was ratified. 
+Thus, after a 72-year struggle, the U.S. Constitution finally reflected 
+what women in the Bay Area and California had fought to achieve a 
+decade earlier.
+  As members of the League of Women Voters, you are part of a 
+magnificent legacy. Additionally, you have pledged to continue to be 
+the kind of bold pioneers and astute advocates who led us to this 
+point. Therefore, I would like to thank you for your dedicated service 
+in guiding and encouraging our community toward civic engagement.
+  Moreover, the League has flexed its power in shaping public policy 
+through the strength of its grassroots organization and by maintaining 
+its important stance of non-partisanship. For example, the Oakland 
+chapter has been a major advocate for ranked choice voting, quality 
+education and accessible housing. Likewise, the Berkeley, Albany, 
+Emeryville chapter has worked extensively on advocating for fair 
+housing and the promotion of social resources, including mental health, 
+education, juvenile justice and senior services. And, the Piedmont 
+chapter holds positions in the areas of social policy, diversity and 
+natural resources, to name a few.
+  On behalf of the residents of California's 9th Congressional 
+District, I would like to congratulate you on this milestone and thank 
+you for the invaluable service you provide to our community. I wish the 
+League of Women Voters' local, state and national members all the best 
+as you forge ahead toward another 100 years of protecting the rights of 
+voters, promoting sound policy and creating a more just and peaceful 
+world.
+
+                          ____________________
+```
