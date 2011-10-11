@@ -1,0 +1,2585 @@
+---
+granule: CREC-2011-10-11-pt1-PgH6745
+date: 2011-10-11
+edition: CREC
+section: HOUSE
+page: H6745
+citation: 157 Cong. Rec. H6745
+---
+
+# UNITED STATES-PANAMA TRADE PROMOTION AGREEMENT IMPLEMENTATION ACT
+
+**Speaking:** Camp, Dave (C000071) [R-MI], Levin, Sander M. (L000263) [D-MI], Kucinich, Dennis J. (K000336) [D-OH], Brady, Kevin (B000755) [R-TX], Kaptur, Marcy (K000009) [D-OH], Kinzinger, Adam (K000378) [R-IL], McDermott, Jim (M000404) [D-WA], Ros-Lehtinen, Ileana (R000435) [R-FL], Cuellar, Henry (C001063) [D-TX], Hochul, Kathleen C. (H001062) [D-NY], Baldwin, Tammy (B001230) [D-WI], Bilbray, Brian P. (B000461) [R-CA]
+
+**Measures:** H.Res. 425, H.R. 3079
+
+```
+   UNITED STATES-PANAMA TRADE PROMOTION AGREEMENT IMPLEMENTATION ACT
+
+  Mr. CAMP. Madam Speaker, pursuant to House Resolution 425, I call up 
+the bill (H.R. 3079) to implement the United States-Panama Trade 
+Promotion Agreement, and ask for its immediate consideration.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. Pursuant to House Resolution 425, the bill 
+is considered read.
+  The text of the bill is as follows:
+
+                               H.R. 3079
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This Act may be cited as the ``United 
+     States-Panama Trade Promotion Agreement Implementation Act''.
+       (b) Table of Contents.--The table of contents for this Act 
+     is as follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Purposes.
+Sec. 3. Definitions.
+
+TITLE I--APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, THE AGREEMENT
+
+Sec. 101. Approval and entry into force of the Agreement.
+Sec. 102. Relationship of the Agreement to United States and State law.
+Sec. 103. Implementing actions in anticipation of entry into force and 
+              initial regulations.
+Sec. 104. Consultation and layover provisions for, and effective date 
+              of, proclaimed actions.
+Sec. 105. Administration of dispute settlement proceedings.
+Sec. 106. Arbitration of claims.
+Sec. 107. Effective dates; effect of termination.
+
+                      TITLE II--CUSTOMS PROVISIONS
+
+Sec. 201. Tariff modifications.
+Sec. 202. Additional duties on certain agricultural goods.
+Sec. 203. Rules of origin.
+Sec. 204. Customs user fees.
+Sec. 205. Disclosure of incorrect information; false certifications of 
+              origin; denial of preferential tariff treatment.
+Sec. 206. Reliquidation of entries.
+Sec. 207. Recordkeeping requirements.
+Sec. 208. Enforcement relating to trade in textile or apparel goods.
+Sec. 209. Regulations.
+
+                     TITLE III--RELIEF FROM IMPORTS
+
+Sec. 301. Definitions.
+
+     Subtitle A--Relief From Imports Benefitting From the Agreement
+
+Sec. 311. Commencing of action for relief.
+Sec. 312. Commission action on petition.
+Sec. 313. Provision of relief.
+Sec. 314. Termination of relief authority.
+Sec. 315. Compensation authority.
+Sec. 316. Confidential business information.
+
+           Subtitle B--Textile and Apparel Safeguard Measures
+
+Sec. 321. Commencement of action for relief.
+Sec. 322. Determination and provision of relief.
+Sec. 323. Period of relief.
+Sec. 324. Articles exempt from relief.
+Sec. 325. Rate after termination of import relief.
+Sec. 326. Termination of relief authority.
+Sec. 327. Compensation authority.
+Sec. 328. Confidential business information.
+
+       Subtitle C--Cases Under Title II of the Trade Act of 1974
+
+Sec. 331. Findings and action on Panamanian articles.
+
+                        TITLE IV--MISCELLANEOUS
+
+Sec. 401. Eligible products.
+Sec. 402. Modification to the Caribbean Basin Economic Recovery Act.
+
+                            TITLE V--OFFSETS
+
+Sec. 501. Extension of customs user fees.
+Sec. 502. Time for payment of corporate estimated taxes.
+
+     SEC. 2. PURPOSES.
+
+       The purposes of this Act are--
+       (1) to approve and implement the free trade agreement 
+     between the United States and Panama entered into under the 
+     authority of section 2103(b) of the Bipartisan Trade 
+     Promotion Authority Act of 2002 (19 U.S.C. 3803(b));
+       (2) to strengthen and develop economic relations between 
+     the United States and Panama for their mutual benefit;
+       (3) to establish free trade between the United States and 
+     Panama through the reduction and elimination of barriers to 
+     trade in goods and services and to investment; and
+       (4) to lay the foundation for further cooperation to expand 
+     and enhance the benefits of the Agreement.
+
+     SEC. 3. DEFINITIONS.
+
+       In this Act:
+       (1) Agreement.--The term ``Agreement'' means the United 
+     States-Panama Trade Promotion Agreement approved by Congress 
+     under section 101(a)(1).
+       (2) Commission.--The term ``Commission'' means the United 
+     States International Trade Commission.
+       (3) HTS.--The term ``HTS'' means the Harmonized Tariff 
+     Schedule of the United States.
+       (4) Textile or apparel good.--The term ``textile or apparel 
+     good'' means a good listed in the Annex to the Agreement on 
+     Textiles and Clothing referred to in section 101(d)(4) of the 
+     Uruguay Round Agreements Act (19 U.S.C. 3511(d)(4)), other 
+     than a good listed in Annex 3.30 of the Agreement.
+
+TITLE I--APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, THE AGREEMENT
+
+     SEC. 101. APPROVAL AND ENTRY INTO FORCE OF THE AGREEMENT.
+
+       (a) Approval of Agreement and Statement of Administrative 
+     Action.--Pursuant to section 2105 of the Bipartisan Trade 
+     Promotion Authority Act of 2002 (19 U.S.C. 3805) and section 
+     151 of the Trade Act of 1974 (19 U.S.C. 2191), Congress 
+     approves--
+       (1) the United States-Panama Trade Promotion Agreement 
+     entered into on June 28, 2007, with the Government of Panama 
+     and submitted to Congress on October 3, 2011; and
+       (2) the statement of administrative action proposed to 
+     implement the Agreement that was submitted to Congress on 
+     October 3, 2011.
+       (b) Conditions for Entry Into Force of the Agreement.--At 
+     such time as the President determines that Panama has taken
+
+[[Page H6746]]
+
+     measures necessary to comply with those provisions of the 
+     Agreement that are to take effect on the date on which the 
+     Agreement enters into force, the President is authorized to 
+     exchange notes with the Government of Panama providing for 
+     the entry into force, on or after January 1, 2012, of the 
+     Agreement with respect to the United States.
+
+     SEC. 102. RELATIONSHIP OF THE AGREEMENT TO UNITED STATES AND 
+                   STATE LAW.
+
+       (a) Relationship of Agreement to United States Law.--
+       (1) United states law to prevail in conflict.--No provision 
+     of the Agreement, nor the application of any such provision 
+     to any person or circumstance, which is inconsistent with any 
+     law of the United States shall have effect.
+       (2) Construction.--Nothing in this Act shall be construed--
+       (A) to amend or modify any law of the United States, or
+       (B) to limit any authority conferred under any law of the 
+     United States,
+
+     unless specifically provided for in this Act.
+       (b) Relationship of Agreement to State Law.--
+       (1) Legal challenge.--No State law, or the application 
+     thereof, may be declared invalid as to any person or 
+     circumstance on the ground that the provision or application 
+     is inconsistent with the Agreement, except in an action 
+     brought by the United States for the purpose of declaring 
+     such law or application invalid.
+       (2) Definition of state law.--For purposes of this 
+     subsection, the term ``State law'' includes--
+       (A) any law of a political subdivision of a State; and
+       (B) any State law regulating or taxing the business of 
+     insurance.
+       (c) Effect of Agreement With Respect to Private Remedies.--
+     No person other than the United States--
+       (1) shall have any cause of action or defense under the 
+     Agreement or by virtue of congressional approval thereof; or
+       (2) may challenge, in any action brought under any 
+     provision of law, any action or inaction by any department, 
+     agency, or other instrumentality of the United States, any 
+     State, or any political subdivision of a State, on the ground 
+     that such action or inaction is inconsistent with the 
+     Agreement.
+
+     SEC. 103. IMPLEMENTING ACTIONS IN ANTICIPATION OF ENTRY INTO 
+                   FORCE AND INITIAL REGULATIONS.
+
+       (a) Implementing Actions.--
+       (1) Proclamation authority.--After the date of the 
+     enactment of this Act--
+       (A) the President may proclaim such actions, and
+       (B) other appropriate officers of the United States 
+     Government may issue such regulations,
+
+     as may be necessary to ensure that any provision of this Act, 
+     or amendment made by this Act, that takes effect on the date 
+     on which the Agreement enters into force is appropriately 
+     implemented on such date, but no such proclamation or 
+     regulation may have an effective date earlier than the date 
+     on which the Agreement enters into force.
+       (2) Effective date of certain proclaimed actions.--Any 
+     action proclaimed by the President under the authority of 
+     this Act that is not subject to the consultation and layover 
+     provisions under section 104 may not take effect before the 
+     15th day after the date on which the text of the proclamation 
+     is published in the Federal Register.
+       (3) Waiver of 15-day restriction.--The 15-day restriction 
+     contained in paragraph (2) on the taking effect of proclaimed 
+     actions is waived to the extent that the application of such 
+     restriction would prevent the taking effect on the date the 
+     Agreement enters into force of any action proclaimed under 
+     this section.
+       (b) Initial Regulations.--Initial regulations necessary or 
+     appropriate to carry out the actions required by or 
+     authorized under this Act or proposed in the statement of 
+     administrative action submitted under section 101(a)(2) to 
+     implement the Agreement shall, to the maximum extent 
+     feasible, be issued within 1 year after the date on which the 
+     Agreement enters into force. In the case of any implementing 
+     action that takes effect on a date after the date on which 
+     the Agreement enters into force, initial regulations to carry 
+     out that action shall, to the maximum extent feasible, be 
+     issued within 1 year after such effective date.
+
+     SEC. 104. CONSULTATION AND LAYOVER PROVISIONS FOR, AND 
+                   EFFECTIVE DATE OF, PROCLAIMED ACTIONS.
+
+       If a provision of this Act provides that the implementation 
+     of an action by the President by proclamation is subject to 
+     the consultation and layover requirements of this section, 
+     such action may be proclaimed only if--
+       (1) the President has obtained advice regarding the 
+     proposed action from--
+       (A) the appropriate advisory committees established under 
+     section 135 of the Trade Act of 1974 (19 U.S.C. 2155); and
+       (B) the Commission;
+       (2) the President has submitted to the Committee on Finance 
+     of the Senate and the Committee on Ways and Means of the 
+     House of Representatives a report that sets forth--
+       (A) the action proposed to be proclaimed and the reasons 
+     therefor; and
+       (B) the advice obtained under paragraph (1);
+       (3) a period of 60 calendar days, beginning on the first 
+     day on which the requirements set forth in paragraphs (1) and 
+     (2) have been met, has expired; and
+       (4) the President has consulted with the committees 
+     referred to in paragraph (2) regarding the proposed action 
+     during the period referred to in paragraph (3).
+
+     SEC. 105. ADMINISTRATION OF DISPUTE SETTLEMENT PROCEEDINGS.
+
+       (a) Establishment or Designation of Office.--The President 
+     is authorized to establish or designate within the Department 
+     of Commerce an office that shall be responsible for providing 
+     administrative assistance to panels established under chapter 
+     20 of the Agreement. The office shall not be considered to be 
+     an agency for purposes of section 552 of title 5, United 
+     States Code.
+       (b) Authorization of Appropriations.--There are authorized 
+     to be appropriated for each fiscal year after fiscal year 
+     2011 to the Department of Commerce up to $150,000 for the 
+     establishment and operations of the office established or 
+     designated under subsection (a) and for the payment of the 
+     United States share of the expenses of panels established 
+     under chapter 20 of the Agreement.
+
+     SEC. 106. ARBITRATION OF CLAIMS.
+
+       The United States is authorized to resolve any claim 
+     against the United States covered by article 10.16.1(a)(i)(C) 
+     or article 10.16.1(b)(i)(C) of the Agreement, pursuant to the 
+     Investor-State Dispute Settlement procedures set forth in 
+     section B of chapter 10 of the Agreement.
+
+     SEC. 107. EFFECTIVE DATES; EFFECT OF TERMINATION.
+
+       (a) Effective Dates.--Except as provided in subsection (b), 
+     this Act and the amendments made by this Act take effect on 
+     the date on which the Agreement enters into force.
+       (b) Exceptions.--
+       (1) In general.--Sections 1 through 3, this title, and 
+     title V take effect on the date of the enactment of this Act.
+       (2) Certain amendatory provisions.--The amendments made by 
+     sections 204, 205, 207, and 401 of this Act take effect on 
+     the date of the enactment of this Act and apply with respect 
+     to Panama on the date on which the Agreement enters into 
+     force.
+       (c) Termination of the Agreement.--On the date on which the 
+     Agreement terminates, this Act (other than this subsection 
+     and title V) and the amendments made by this Act (other than 
+     the amendments made by title V) shall cease to have effect.
+
+                      TITLE II--CUSTOMS PROVISIONS
+
+     SEC. 201. TARIFF MODIFICATIONS.
+
+       (a) Tariff Modifications Provided for in the Agreement.--
+       (1) Proclamation authority.--The President may proclaim--
+       (A) such modifications or continuation of any duty,
+       (B) such continuation of duty-free or excise treatment, or
+       (C) such additional duties,
+
+     as the President determines to be necessary or appropriate to 
+     carry out or apply articles 3.3, 3.5, 3.6, 3.26, 3.27, 3.28, 
+     and 3.29, and Annex 3.3, of the Agreement.
+       (2) Effect on gsp status.--Notwithstanding section 
+     502(a)(1) of the Trade Act of 1974 (19 U.S.C. 2462(a)(1)), 
+     the President shall, on the date on which the Agreement 
+     enters into force, terminate the designation of Panama as a 
+     beneficiary developing country for purposes of title V of the 
+     Trade Act of 1974 (19 U.S.C. 2461 et seq.).
+       (3) Effect on cbera status.--
+       (A) In general.--Notwithstanding section 212(a) of the 
+     Caribbean Basin Economic Recovery Act (19 U.S.C. 2702(a)), 
+     the President shall, on the date on which the Agreement 
+     enters into force, terminate the designation of Panama as a 
+     beneficiary country for purposes of that Act.
+       (B) Exception.--Notwithstanding subparagraph (A), Panama 
+     shall be considered a beneficiary country under section 
+     212(a) of the Caribbean Basin Economic Recovery Act, for 
+     purposes of--
+       (i) sections 771(7)(G)(ii)(III) and 771(7)(H) of the Tariff 
+     Act of 1930 (19 U.S.C. 1677(7)(G)(ii)(III) and 1677(7)(H));
+       (ii) the duty-free treatment provided under paragraph 4 of 
+     the General Notes to the Schedule of the United States to 
+     Annex 3.3 of the Agreement; and
+       (iii) section 274(h)(6)(B) of the Internal Revenue Code of 
+     1986.
+       (b) Other Tariff Modifications.--Subject to the 
+     consultation and layover provisions of section 104, the 
+     President may proclaim--
+       (1) such modifications or continuation of any duty,
+       (2) such modifications as the United States may agree to 
+     with Panama regarding the staging of any duty treatment set 
+     forth in Annex 3.3 of the Agreement,
+       (3) such continuation of duty-free or excise treatment, or
+       (4) such additional duties,
+
+     as the President determines to be necessary or appropriate to 
+     maintain the general level of reciprocal and mutually 
+     advantageous concessions with respect to Panama provided for 
+     by the Agreement.
+       (c) Conversion to Ad Valorem Rates.--For purposes of 
+     subsections (a) and (b), with respect to any good for which 
+     the base rate in the Schedule of the United States to Annex 
+     3.3 of the Agreement is a specific or compound rate of duty, 
+     the President may substitute for the base rate an ad valorem 
+     rate that the President determines to be equivalent to the 
+     base rate.
+       (d) Tariff Rate Quotas.--In implementing the tariff rate 
+     quotas set forth in Appendix I to the General Notes to the 
+     Schedule of the United States to Annex 3.3 of the Agreement,
+
+[[Page H6747]]
+
+     the President shall take such action as may be necessary to 
+     ensure that imports of agricultural goods do not disrupt the 
+     orderly marketing of commodities in the United States.
+
+     SEC. 202. ADDITIONAL DUTIES ON CERTAIN AGRICULTURAL GOODS.
+
+       (a) Definitions.--In this section:
+       (1) Applicable ntr (mfn) rate of duty.--The term 
+     ``applicable NTR (MFN) rate of duty'' means, with respect to 
+     a safeguard good, a rate of duty equal to the lowest of--
+       (A) the base rate in the Schedule of the United States to 
+     Annex 3.3 of the Agreement;
+       (B) the column 1 general rate of duty that would, on the 
+     day before the date on which the Agreement enters into force, 
+     apply to a good classifiable in the same 8-digit subheading 
+     of the HTS as the safeguard good; or
+       (C) the column 1 general rate of duty that would, at the 
+     time the additional duty is imposed under subsection (b), 
+     apply to a good classifiable in the same 8-digit subheading 
+     of the HTS as the safeguard good.
+       (2) Safeguard good.--The term ``safeguard good'' means a 
+     good--
+       (A) that is included in the Schedule of the United States 
+     to Annex 3.17 of the Agreement;
+       (B) that qualifies as an originating good under section 
+     203; and
+       (C) for which a claim for preferential tariff treatment 
+     under the Agreement has been made.
+       (3) Schedule rate of duty.--The term ``schedule rate of 
+     duty'' means, with respect to a safeguard good, the rate of 
+     duty for that good that is set forth in the Schedule of the 
+     United States to Annex 3.3 of the Agreement.
+       (4) Trigger level.--
+       (A) In general.--The term ``trigger level'' means--
+       (i) in the case of a safeguard good classified under 
+     subheading 0201.10.50, 0201.20.80, 0201.30.80, 0202.10.50, 
+     0202.20.80, or 0202.30.80 of the HTS--
+
+       (I) in year 1 of the Agreement, 330 metric tons; and
+       (II) in year 2 of the Agreement through year 14 of the 
+     Agreement, a quantity equal to 110 percent of the trigger 
+     level for that safeguard good for the preceding calendar 
+     year; and
+
+       (ii) in the case of any other safeguard good, 115 percent 
+     of the quantity that is provided for that safeguard good in 
+     the corresponding calendar year in the applicable table 
+     contained in Appendix I to the General Notes to the Schedule 
+     of the United States to Annex 3.3 of the Agreement.
+       (B) Relationship to table.--For purposes of subparagraph 
+     (A)(ii), year 1 in the applicable table contained in Appendix 
+     I to the General Notes to the Schedule of the United States 
+     to Annex 3.3 of the Agreement corresponds to year 1 of the 
+     Agreement.
+       (5) Year 1 of the agreement.--The term ``year 1 of the 
+     Agreement'' means the period beginning on the date, in a 
+     calendar year, on which the Agreement enters into force and 
+     ending on December 31 of that calendar year.
+       (6) Years other than year 1 of the agreement.--Any 
+     reference to a year of the Agreement subsequent to year 1 of 
+     the Agreement shall be deemed to be a reference to the 
+     corresponding calendar year in which the Agreement is in 
+     force.
+       (b) Additional Duties on Safeguard Goods.--
+       (1) In general.--In addition to any duty proclaimed under 
+     subsection (a) or (b) of section 201, the Secretary of the 
+     Treasury shall assess a duty, in the amount determined under 
+     paragraph (2), on a safeguard good imported into the United 
+     States in a calendar year if the Secretary determines that, 
+     prior to such importation, the total volume of that safeguard 
+     good that is imported into the United States in that calendar 
+     year exceeds the trigger level for that good for that 
+     calendar year.
+       (2) Calculation of additional duty.--The additional duty on 
+     a safeguard good under this subsection shall be--
+       (A) in the case of a good classified under subheading 
+     0201.10.50, 0201.20.80, 0201.30.80, 0202.10.50, 0202.20.80, 
+     or 0202.30.80 of the HTS--
+       (i) in year 1 of the Agreement through year 6 of the 
+     Agreement, an amount equal to 100 percent of the excess of 
+     the applicable NTR (MFN) rate of duty over the schedule rate 
+     of duty; and
+       (ii) in year 7 of the Agreement through year 14 of the 
+     Agreement, an amount equal to 50 percent of the excess of the 
+     applicable NTR (MFN) rate of duty over the schedule rate of 
+     duty;
+       (B) in the case of a good classified under subheading 
+     0406.10.08, 0406.10.88, 0406.20.91, 0406.30.91, 0406.90.97, 
+     or 2105.00.20 of the HTS--
+       (i) in year 1 of the Agreement through year 11 of the 
+     Agreement, an amount equal to 100 percent of the excess of 
+     the applicable NTR (MFN) rate of duty over the schedule rate 
+     of duty; and
+       (ii) in year 12 of the Agreement through year 14 of the 
+     Agreement, an amount equal to 50 percent of the excess of the 
+     applicable NTR (MFN) rate of duty over the schedule rate of 
+     duty; and
+       (C) in the case of any other safeguard good--
+       (i) in year 1 of the Agreement through year 13 of the 
+     Agreement, an amount equal to 100 percent of the excess of 
+     the applicable NTR (MFN) rate of duty over the schedule rate 
+     of duty; and
+       (ii) in year 14 of the Agreement through year 16 of the 
+     Agreement, an amount equal to 50 percent of the excess of the 
+     applicable NTR (MFN) rate of duty over the schedule rate of 
+     duty.
+       (3) Notice.--Not later than 60 days after the date on which 
+     the Secretary of the Treasury first assesses an additional 
+     duty in a calendar year on a good under this subsection, the 
+     Secretary shall notify the Government of Panama in writing of 
+     such action and shall provide to that Government data 
+     supporting the assessment of the additional duty.
+       (c) Exceptions.--No additional duty shall be assessed on a 
+     good under subsection (b) if, at the time of entry, the good 
+     is subject to import relief under--
+       (1) subtitle A of title III of this Act; or
+       (2) chapter 1 of title II of the Trade Act of 1974 (19 
+     U.S.C. 2251 et seq.).
+       (d) Termination.--The assessment of an additional duty on a 
+     good under subsection (b) shall cease to apply to that good 
+     on the date on which duty-free treatment must be provided to 
+     that good under the Schedule of the United States to Annex 
+     3.3 of the Agreement.
+
+     SEC. 203. RULES OF ORIGIN.
+
+       (a) Application and Interpretation.--In this section:
+       (1) Tariff classification.--The basis for any tariff 
+     classification is the HTS.
+       (2) Reference to hts.--Whenever in this section there is a 
+     reference to a chapter, heading, or subheading, such 
+     reference shall be a reference to a chapter, heading, or 
+     subheading of the HTS.
+       (3) Cost or value.--Any cost or value referred to in this 
+     section shall be recorded and maintained in accordance with 
+     the generally accepted accounting principles applicable in 
+     the territory of the country in which the good is produced 
+     (whether Panama or the United States).
+       (b) Originating Goods.--For purposes of this Act and for 
+     purposes of implementing the preferential tariff treatment 
+     provided for under the Agreement, except as otherwise 
+     provided in this section, a good is an originating good if--
+       (1) the good is a good wholly obtained or produced entirely 
+     in the territory of Panama, the United States, or both;
+       (2) the good--
+       (A) is produced entirely in the territory of Panama, the 
+     United States, or both, and--
+       (i) each of the nonoriginating materials used in the 
+     production of the good undergoes an applicable change in 
+     tariff classification specified in Annex 4.1 of the 
+     Agreement; or
+       (ii) the good otherwise satisfies any applicable regional 
+     value-content or other requirements specified in Annex 4.1 of 
+     the Agreement; and
+       (B) satisfies all other applicable requirements of this 
+     section; or
+       (3) the good is produced entirely in the territory of 
+     Panama, the United States, or both, exclusively from 
+     materials described in paragraph (1) or (2).
+       (c) Regional Value-content.--
+       (1) In general.--For purposes of subsection (b)(2), the 
+     regional value-content of a good referred to in Annex 4.1 of 
+     the Agreement, except for goods to which paragraph (4) 
+     applies, shall be calculated by the importer, exporter, or 
+     producer of the good, on the basis of the build-down method 
+     described in paragraph (2) or the build-up method described 
+     in paragraph (3).
+       (2) Build-down method.--
+       (A) In general.--The regional value-content of a good may 
+     be calculated on the basis of the following build-down 
+     method:
+
+
+                                            AV-VNM
+                                                RVC = --------------  100
+                                                AV
+ 
+
+       (B) Definitions.--In subparagraph (A):
+       (i) RVC.--The term ``RVC'' means the regional value-content 
+     of the good, expressed as a percentage.
+       (ii) AV.--The term ``AV'' means the adjusted value of the 
+     good.
+       (iii) VNM.--The term ``VNM'' means the value of 
+     nonoriginating materials that are acquired and used by the 
+     producer in the production of the good, but does not include 
+     the value of a material that is self-produced.
+       (3) Build-up method.--
+       (A) In general.--The regional value-content of a good may 
+     be calculated on the basis of the following build-up method:
+
+
+                                               VOM
+                                                RVC = -------------- 100
+                                                AV
+ 
+
+       (B) Definitions.--In subparagraph (A):
+       (i) RVC.--The term ``RVC'' means the regional value-content 
+     of the good, expressed as a percentage.
+       (ii) AV.--The term ``AV'' means the adjusted value of the 
+     good.
+       (iii) VOM.--The term ``VOM'' means the value of originating 
+     materials that are acquired or self-produced, and used by the 
+     producer in the production of the good.
+       (4) Special rule for certain automotive goods.--
+       (A) In general.--For purposes of subsection (b)(2), the 
+     regional value-content of an automotive good referred to in 
+     Annex 4.1 of the Agreement may be calculated by the importer, 
+     exporter, or producer of the good on the basis of the build-
+     down method described in paragraph (2), the build-up method 
+     described in paragraph (3), or the following net cost method:
+
+
+                                                 NC-VNM
+                                                RVC = -------------- 100
+                                                 NC
+ 
+
+       (B) Definitions.--In subparagraph (A):
+       (i) Automotive good.--The term ``automotive good'' means a 
+     good provided for in
+
+[[Page H6748]]
+
+     any of subheadings 8407.31 through 8407.34, subheading 
+     8408.20, heading 8409, or any of headings 8701 through 8708.
+       (ii) RVC.--The term ``RVC'' means the regional value-
+     content of the automotive good, expressed as a percentage.
+       (iii) NC.--The term ``NC'' means the net cost of the 
+     automotive good.
+       (iv) VNM.--The term ``VNM'' means the value of 
+     nonoriginating materials that are acquired and used by the 
+     producer in the production of the automotive good, but does 
+     not include the value of a material that is self-produced.
+       (C) Motor vehicles.--
+       (i) Basis of calculation.--For purposes of determining the 
+     regional value-content under subparagraph (A) for an 
+     automotive good that is a motor vehicle provided for in any 
+     of headings 8701 through 8705, an importer, exporter, or 
+     producer may average the amounts calculated under the net 
+     cost formula contained in subparagraph (A), over the 
+     producer's fiscal year--
+
+       (I) with respect to all motor vehicles in any one of the 
+     categories described in clause (ii); or
+       (II) with respect to all motor vehicles in any such 
+     category that are exported to the territory of Panama or the 
+     United States.
+
+       (ii) Categories.--A category is described in this clause if 
+     it--
+
+       (I) is the same model line of motor vehicles, is in the 
+     same class of motor vehicles, and is produced in the same 
+     plant in the territory of Panama or the United States, as the 
+     good described in clause (i) for which regional value-content 
+     is being calculated;
+       (II) is the same class of motor vehicles, and is produced 
+     in the same plant in the territory of Panama or the United 
+     States, as the good described in clause (i) for which 
+     regional value-content is being calculated; or
+       (III) is the same model line of motor vehicles produced in 
+     the territory of Panama or the United States as the good 
+     described in clause (i) for which regional value-content is 
+     being calculated.
+
+       (D) Other automotive goods.--For purposes of determining 
+     the regional value-content under subparagraph (A) for 
+     automotive materials provided for in any of subheadings 
+     8407.31 through 8407.34, in subheading 8408.20, or in heading 
+     8409, 8706, 8707, or 8708, that are produced in the same 
+     plant, an importer, exporter, or producer may--
+       (i) average the amounts calculated under the net cost 
+     formula contained in subparagraph (A) over--
+
+       (I) the fiscal year of the motor vehicle producer to whom 
+     the automotive goods are sold,
+       (II) any quarter or month, or
+       (III) the fiscal year of the producer of such goods,
+
+     if the goods were produced during the fiscal year, quarter, 
+     or month that is the basis for the calculation;
+       (ii) determine the average referred to in clause (i) 
+     separately for such goods sold to 1 or more motor vehicle 
+     producers; or
+       (iii) make a separate determination under clause (i) or 
+     (ii) for such goods that are exported to the territory of 
+     Panama or the United States.
+       (E) Calculating net cost.--The importer, exporter, or 
+     producer of an automotive good shall, consistent with the 
+     provisions regarding allocation of costs provided for in 
+     generally accepted accounting principles, determine the net 
+     cost of the automotive good under subparagraph (B) by--
+       (i) calculating the total cost incurred with respect to all 
+     goods produced by the producer of the automotive good, 
+     subtracting any sales promotion, marketing, and after-sales 
+     service costs, royalties, shipping and packing costs, and 
+     nonallowable interest costs that are included in the total 
+     cost of all such goods, and then reasonably allocating the 
+     resulting net cost of those goods to the automotive good;
+       (ii) calculating the total cost incurred with respect to 
+     all goods produced by that producer, reasonably allocating 
+     the total cost to the automotive good, and then subtracting 
+     any sales promotion, marketing, and after-sales service 
+     costs, royalties, shipping and packing costs, and 
+     nonallowable interest costs that are included in the portion 
+     of the total cost allocated to the automotive good; or
+       (iii) reasonably allocating each cost that forms part of 
+     the total cost incurred with respect to the automotive good 
+     so that the aggregate of these costs does not include any 
+     sales promotion, marketing, and after-sales service costs, 
+     royalties, shipping and packing costs, or nonallowable 
+     interest costs.
+       (d) Value of Materials.--
+       (1) In general.--For the purpose of calculating the 
+     regional value-content of a good under subsection (c), and 
+     for purposes of applying the de minimis rules under 
+     subsection (f), the value of a material is--
+       (A) in the case of a material that is imported by the 
+     producer of the good, the adjusted value of the material;
+       (B) in the case of a material acquired in the territory in 
+     which the good is produced, the value, determined in 
+     accordance with Articles 1 through 8, Article 15, and the 
+     corresponding interpretive notes, of the Agreement on 
+     Implementation of Article VII of the General Agreement on 
+     Tariffs and Trade 1994 referred to in section 101(d)(8) of 
+     the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(8)), as 
+     set forth in regulations promulgated by the Secretary of the 
+     Treasury providing for the application of such Articles in 
+     the absence of an importation by the producer; or
+       (C) in the case of a material that is self-produced, the 
+     sum of--
+       (i) all expenses incurred in the production of the 
+     material, including general expenses; and
+       (ii) an amount for profit equivalent to the profit added in 
+     the normal course of trade.
+       (2) Further adjustments to the value of materials.--
+       (A) Originating material.--The following expenses, if not 
+     included in the value of an originating material calculated 
+     under paragraph (1), may be added to the value of the 
+     originating material:
+       (i) The costs of freight, insurance, packing, and all other 
+     costs incurred in transporting the material within or between 
+     the territory of Panama, the United States, or both, to the 
+     location of the producer.
+       (ii) Duties, taxes, and customs brokerage fees on the 
+     material paid in the territory of Panama, the United States, 
+     or both, other than duties or taxes that are waived, 
+     refunded, refundable, or otherwise recoverable, including 
+     credit against duty or tax paid or payable.
+       (iii) The cost of waste and spoilage resulting from the use 
+     of the material in the production of the good, less the value 
+     of renewable scrap or byproducts.
+       (B) Nonoriginating material.--The following expenses, if 
+     included in the value of a nonoriginating material calculated 
+     under paragraph (1), may be deducted from the value of the 
+     nonoriginating material:
+       (i) The costs of freight, insurance, packing, and all other 
+     costs incurred in transporting the material within or between 
+     the territory of Panama, the United States, or both, to the 
+     location of the producer.
+       (ii) Duties, taxes, and customs brokerage fees on the 
+     material paid in the territory of Panama, the United States, 
+     or both, other than duties or taxes that are waived, 
+     refunded, refundable, or otherwise recoverable, including 
+     credit against duty or tax paid or payable.
+       (iii) The cost of waste and spoilage resulting from the use 
+     of the material in the production of the good, less the value 
+     of renewable scrap or byproducts.
+       (iv) The cost of originating materials used in the 
+     production of the nonoriginating material in the territory of 
+     Panama, the United States, or both.
+       (e) Accumulation.--
+       (1) Originating materials used in production of goods of 
+     the other country.--Originating materials from the territory 
+     of Panama or the United States that are used in the 
+     production of a good in the territory of the other country 
+     shall be considered to originate in the territory of such 
+     other country.
+       (2) Multiple producers.--A good that is produced in the 
+     territory of Panama, the United States, or both, by 1 or more 
+     producers, is an originating good if the good satisfies the 
+     requirements of subsection (b) and all other applicable 
+     requirements of this section.
+       (f) De Minimis Amounts of Nonoriginating Materials.--
+       (1) In general.--Except as provided in paragraphs (2) and 
+     (3), a good that does not undergo a change in tariff 
+     classification pursuant to Annex 4.1 of the Agreement is an 
+     originating good if--
+       (A) the value of all nonoriginating materials that--
+       (i) are used in the production of the good, and
+       (ii) do not undergo the applicable change in tariff 
+     classification (set forth in Annex 4.1 of the Agreement),
+
+     does not exceed 10 percent of the adjusted value of the good;
+       (B) the good meets all other applicable requirements of 
+     this section; and
+       (C) the value of such nonoriginating materials is included 
+     in the value of nonoriginating materials for any applicable 
+     regional value-content requirement for the good.
+       (2) Exceptions.--Paragraph (1) does not apply to the 
+     following:
+       (A) A nonoriginating material provided for in chapter 4, or 
+     a nonoriginating dairy preparation containing over 10 percent 
+     by weight of milk solids provided for in subheading 1901.90 
+     or 2106.90, that is used in the production of a good provided 
+     for in chapter 4.
+       (B) A nonoriginating material provided for in chapter 4, or 
+     a nonoriginating dairy preparation containing over 10 percent 
+     by weight of milk solids provided for in subheading 1901.90, 
+     that is used in the production of the following goods:
+       (i) Infant preparations containing over 10 percent by 
+     weight of milk solids provided for in subheading 1901.10.
+       (ii) Mixes and doughs, containing over 25 percent by weight 
+     of butterfat, not put up for retail sale, provided for in 
+     subheading 1901.20.
+       (iii) Dairy preparations containing over 10 percent by 
+     weight of milk solids provided for in subheading 1901.90 or 
+     2106.90.
+       (iv) Goods provided for in heading 2105.
+       (v) Beverages containing milk provided for in subheading 
+     2202.90.
+       (vi) Animal feeds containing over 10 percent by weight of 
+     milk solids provided for in subheading 2309.90.
+       (C) A nonoriginating material provided for in heading 0805, 
+     or any of subheadings 2009.11 through 2009.39, that is used 
+     in the production of a good provided for in any of 
+     subheadings 2009.11 through 2009.39, or in fruit or vegetable 
+     juice of any single fruit or vegetable, fortified with 
+     minerals or vitamins,
+
+[[Page H6749]]
+
+     concentrated or unconcentrated, provided for in subheading 
+     2106.90 or 2202.90.
+       (D) A nonoriginating material provided for in heading 0901 
+     or 2101 that is used in the production of a good provided for 
+     in heading 0901 or 2101.
+       (E) A nonoriginating material provided for in heading 1006 
+     that is used in the production of a good provided for in 
+     heading 1102 or 1103 or subheading 1904.90.
+       (F) A nonoriginating material provided for in chapter 15 
+     that is used in the production of a good provided for in 
+     chapter 15.
+       (G) A nonoriginating material provided for in heading 1701 
+     that is used in the production of a good provided for in any 
+     of headings 1701 through 1703.
+       (H) A nonoriginating material provided for in chapter 17 
+     that is used in the production of a good provided for in 
+     subheading 1806.10.
+       (I) Except as provided in subparagraphs (A) through (H) and 
+     Annex 4.1 of the Agreement, a nonoriginating material used in 
+     the production of a good provided for in any of chapters 1 
+     through 24, unless the nonoriginating material is provided 
+     for in a different subheading than the good for which origin 
+     is being determined under this section.
+       (3) Textile or apparel goods.--
+       (A) In general.--Except as provided in subparagraph (B), a 
+     textile or apparel good that is not an originating good 
+     because certain fibers or yarns used in the production of the 
+     component of the good that determines the tariff 
+     classification of the good do not undergo an applicable 
+     change in tariff classification, set forth in Annex 4.1 of 
+     the Agreement, shall be considered to be an originating good 
+     if--
+       (i) the total weight of all such fibers or yarns in that 
+     component is not more than 10 percent of the total weight of 
+     that component; or
+       (ii) the yarns are those described in section 
+     204(b)(3)(B)(vi)(IV) of the Andean Trade Preference Act (19 
+     U.S.C. 3203(b)(3)(B)(vi)(IV)) (as in effect on February 12, 
+     2011).
+       (B) Certain textile or apparel goods.--A textile or apparel 
+     good containing elastomeric yarns in the component of the 
+     good that determines the tariff classification of the good 
+     shall be considered to be an originating good only if such 
+     yarns are wholly formed and finished in the territory of 
+     Panama, the United States, or both.
+       (C) Fabric, yarn, or fiber.--For purposes of this 
+     paragraph, in the case of a good that is a fabric, yarn, or 
+     fiber, the term ``component of the good that determines the 
+     tariff classification of the good'' means all of the fibers 
+     in the good.
+       (g) Fungible Goods and Materials.--
+       (1) In general.--
+       (A) Claim for preferential tariff treatment.--A person 
+     claiming that a fungible good or fungible material is an 
+     originating good may base the claim either on the physical 
+     segregation of the fungible good or fungible material or by 
+     using an inventory management method with respect to the 
+     fungible good or fungible material.
+       (B) Inventory management method.--In this subsection, the 
+     term ``inventory management method'' means--
+       (i) averaging;
+       (ii) ``last-in, first-out'';
+       (iii) ``first-in, first-out''; or
+       (iv) any other method--
+
+       (I) recognized in the generally accepted accounting 
+     principles of the country in which the production is 
+     performed (whether Panama or the United States); or
+       (II) otherwise accepted by that country.
+
+       (2) Election of inventory method.--A person selecting an 
+     inventory management method under paragraph (1) for a 
+     particular fungible good or fungible material shall continue 
+     to use that method for that fungible good or fungible 
+     material throughout the fiscal year of such person.
+       (h) Accessories, Spare Parts, or Tools.--
+       (1) In general.--Subject to paragraphs (2) and (3), 
+     accessories, spare parts, or tools delivered with a good that 
+     form part of the good's standard accessories, spare parts, or 
+     tools shall--
+       (A) be treated as originating goods if the good is an 
+     originating good; and
+       (B) be disregarded in determining whether all the 
+     nonoriginating materials used in the production of the good 
+     undergo the applicable change in tariff classification set 
+     forth in Annex 4.1 of the Agreement.
+       (2) Conditions.--Paragraph (1) shall apply only if--
+       (A) the accessories, spare parts, or tools are classified 
+     with and not invoiced separately from the good, regardless of 
+     whether such accessories, spare parts, or tools are specified 
+     or are separately identified in the invoice for the good; and
+       (B) the quantities and value of the accessories, spare 
+     parts, or tools are customary for the good.
+       (3) Regional value-content.--If the good is subject to a 
+     regional value-content requirement, the value of the 
+     accessories, spare parts, or tools shall be taken into 
+     account as originating or nonoriginating materials, as the 
+     case may be, in calculating the regional value-content of the 
+     good.
+       (i) Packaging Materials and Containers for Retail Sale.--
+     Packaging materials and containers in which a good is 
+     packaged for retail sale, if classified with the good, shall 
+     be disregarded in determining whether all the nonoriginating 
+     materials used in the production of the good undergo the 
+     applicable change in tariff classification set forth in Annex 
+     4.1 of the Agreement, and, if the good is subject to a 
+     regional value-content requirement, the value of such 
+     packaging materials and containers shall be taken into 
+     account as originating or nonoriginating materials, as the 
+     case may be, in calculating the regional value-content of the 
+     good.
+       (j) Packing Materials and Containers for Shipment.--Packing 
+     materials and containers for shipment shall be disregarded in 
+     determining whether a good is an originating good.
+       (k) Indirect Materials.--An indirect material shall be 
+     treated as an originating material without regard to where it 
+     is produced.
+       (l) Transit and Transhipment.--A good that has undergone 
+     production necessary to qualify as an originating good under 
+     subsection (b) shall not be considered to be an originating 
+     good if, subsequent to that production, the good--
+       (1) undergoes further production or any other operation 
+     outside the territory of Panama or the United States, other 
+     than unloading, reloading, or any other operation necessary 
+     to preserve the good in good condition or to transport the 
+     good to the territory of Panama or the United States; or
+       (2) does not remain under the control of customs 
+     authorities in the territory of a country other than Panama 
+     or the United States.
+       (m) Goods Classifiable as Goods Put up in Sets.--
+     Notwithstanding the rules set forth in Annex 4.1 of the 
+     Agreement, goods classifiable as goods put up in sets for 
+     retail sale as provided for in General Rule of Interpretation 
+     3 of the HTS shall not be considered to be originating goods 
+     unless--
+       (1) each of the goods in the set is an originating good; or
+       (2) the total value of the nonoriginating goods in the set 
+     does not exceed--
+       (A) in the case of textile or apparel goods, 10 percent of 
+     the adjusted value of the set; or
+       (B) in the case of goods, other than textile or apparel 
+     goods, 15 percent of the adjusted value of the set.
+       (n) Definitions.--In this section:
+       (1) Adjusted value.--The term ``adjusted value'' means the 
+     value determined in accordance with Articles 1 through 8, 
+     Article 15, and the corresponding interpretive notes, of the 
+     Agreement on Implementation of Article VII of the General 
+     Agreement on Tariffs and Trade 1994 referred to in section 
+     101(d)(8) of the Uruguay Round Agreements Act (19 U.S.C. 
+     3511(d)(8)), adjusted, if necessary, to exclude any costs, 
+     charges, or expenses incurred for transportation, insurance, 
+     and related services incident to the international shipment 
+     of the merchandise from the country of exportation to the 
+     place of importation.
+       (2) Class of motor vehicles.--The term ``class of motor 
+     vehicles'' means any one of the following categories of motor 
+     vehicles:
+       (A) Motor vehicles provided for in subheading 8701.20, 
+     8704.10, 8704.22, 8704.23, 8704.32, or 8704.90, or heading 
+     8705 or 8706, or motor vehicles for the transport of 16 or 
+     more persons provided for in subheading 8702.10 or 8702.90.
+       (B) Motor vehicles provided for in subheading 8701.10 or 
+     any of subheadings 8701.30 through 8701.90.
+       (C) Motor vehicles for the transport of 15 or fewer persons 
+     provided for in subheading 8702.10 or 8702.90, or motor 
+     vehicles provided for in subheading 8704.21 or 8704.31.
+       (D) Motor vehicles provided for in any of subheadings 
+     8703.21 through 8703.90.
+       (3) Fungible good or fungible material.--The term 
+     ``fungible good'' or ``fungible material'' means a good or 
+     material, as the case may be, that is interchangeable with 
+     another good or material for commercial purposes and the 
+     properties of which are essentially identical to such other 
+     good or material.
+       (4) Generally accepted accounting principles.--The term 
+     ``generally accepted accounting principles''--
+       (A) means the recognized consensus or substantial 
+     authoritative support given in the territory of Panama or the 
+     United States, as the case may be, with respect to the 
+     recording of revenues, expenses, costs, assets, and 
+     liabilities, the disclosure of information, and the 
+     preparation of financial statements; and
+       (B) may encompass broad guidelines for general application 
+     as well as detailed standards, practices, and procedures.
+       (5) Good wholly obtained or produced entirely in the 
+     territory of panama, the united states, or both.--The term 
+     ``good wholly obtained or produced entirely in the territory 
+     of Panama, the United States, or both'' means any of the 
+     following:
+       (A) Plants and plant products harvested or gathered in the 
+     territory of Panama, the United States, or both.
+       (B) Live animals born and raised in the territory of 
+     Panama, the United States, or both.
+       (C) Goods obtained in the territory of Panama, the United 
+     States, or both from live animals.
+       (D) Goods obtained from hunting, trapping, fishing, or 
+     aquaculture conducted in the territory of Panama, the United 
+     States, or both.
+       (E) Minerals and other natural resources not included in 
+     subparagraphs (A) through (D) that are extracted or taken 
+     from the territory of Panama, the United States, or both.
+       (F) Fish, shellfish, and other marine life taken from the 
+     sea, seabed, or subsoil outside the territory of Panama or 
+     the United States by--
+       (i) a vessel that is registered or recorded with Panama and 
+     flying the flag of Panama; or
+       (ii) a vessel that is documented under the laws of the 
+     United States.
+
+[[Page H6750]]
+
+       (G) Goods produced on board a factory ship from goods 
+     referred to in subparagraph (F), if such factory ship--
+       (i) is registered or recorded with Panama and flies the 
+     flag of Panama; or
+       (ii) is a vessel that is documented under the laws of the 
+     United States.
+       (H)(i) Goods taken by Panama or a person of Panama from the 
+     seabed or subsoil outside the territorial waters of Panama, 
+     if Panama has rights to exploit such seabed or subsoil.
+       (ii) Goods taken by the United States or a person of the 
+     United States from the seabed or subsoil outside the 
+     territorial waters of the United States, if the United States 
+     has rights to exploit such seabed or subsoil.
+       (I) Goods taken from outer space, if the goods are obtained 
+     by Panama or the United States or a person of Panama or the 
+     United States and not processed in the territory of a country 
+     other than Panama or the United States.
+       (J) Waste and scrap derived from--
+       (i) manufacturing or processing operations in the territory 
+     of Panama, the United States, or both; or
+       (ii) used goods collected in the territory of Panama, the 
+     United States, or both, if such goods are fit only for the 
+     recovery of raw materials.
+       (K) Recovered goods derived in the territory of Panama, the 
+     United States, or both from used goods, and used in the 
+     territory of Panama, the United States, or both, in the 
+     production of remanufactured goods.
+       (L) Goods, at any stage of production, produced in the 
+     territory of Panama, the United States, or both, exclusively 
+     from--
+       (i) goods referred to in any of subparagraphs (A) through 
+     (J), or
+       (ii) the derivatives of goods referred to in clause (i).
+       (6) Identical goods.--The term ``identical goods'' means 
+     goods that are the same in all respects relevant to the rule 
+     of origin that qualifies the goods as originating goods.
+       (7) Indirect material.--The term ``indirect material'' 
+     means a good used in the production, testing, or inspection 
+     of another good but not physically incorporated into that 
+     other good, or a good used in the maintenance of buildings or 
+     the operation of equipment associated with the production of 
+     another good, including--
+       (A) fuel and energy;
+       (B) tools, dies, and molds;
+       (C) spare parts and materials used in the maintenance of 
+     equipment or buildings;
+       (D) lubricants, greases, compounding materials, and other 
+     materials used in production or used to operate equipment or 
+     buildings;
+       (E) gloves, glasses, footwear, clothing, safety equipment, 
+     and supplies;
+       (F) equipment, devices, and supplies used for testing or 
+     inspecting the good;
+       (G) catalysts and solvents; and
+       (H) any other good that is not incorporated into the other 
+     good but the use of which in the production of the other good 
+     can reasonably be demonstrated to be a part of that 
+     production.
+       (8) Material.--The term ``material'' means a good that is 
+     used in the production of another good, including a part or 
+     an ingredient.
+       (9) Material that is self-produced.--The term ``material 
+     that is self-produced'' means an originating material that is 
+     produced by a producer of a good and used in the production 
+     of that good.
+       (10) Model line of motor vehicles.--The term ``model line 
+     of motor vehicles'' means a group of motor vehicles having 
+     the same platform or model name.
+       (11) Net cost.--The term ``net cost'' means total cost 
+     minus sales promotion, marketing, and after-sales service 
+     costs, royalties, shipping and packing costs, and 
+     nonallowable interest costs that are included in the total 
+     cost.
+       (12) Nonallowable interest costs.--The term ``nonallowable 
+     interest costs'' means interest costs incurred by a producer 
+     that exceed 700 basis points above the applicable official 
+     interest rate for comparable maturities of the country in 
+     which the producer is located.
+       (13) Nonoriginating good or nonoriginating material.--The 
+     term ``nonoriginating good'' or ``nonoriginating material'' 
+     means a good or material, as the case may be, that does not 
+     qualify as originating under this section.
+       (14) Packing materials and containers for shipment.--The 
+     term ``packing materials and containers for shipment'' means 
+     goods used to protect another good during its transportation 
+     and does not include the packaging materials and containers 
+     in which the other good is packaged for retail sale.
+       (15) Preferential tariff treatment.--The term 
+     ``preferential tariff treatment'' means the customs duty 
+     rate, and the treatment under article 3.10.4 of the 
+     Agreement, that are applicable to an originating good 
+     pursuant to the Agreement.
+       (16) Producer.--The term ``producer'' means a person who 
+     engages in the production of a good in the territory of 
+     Panama or the United States.
+       (17) Production.--The term ``production'' means growing, 
+     mining, harvesting, fishing, raising, trapping, hunting, 
+     manufacturing, processing, assembling, or disassembling a 
+     good.
+       (18) Reasonably allocate.--The term ``reasonably allocate'' 
+     means to apportion in a manner that would be appropriate 
+     under generally accepted accounting principles.
+       (19) Recovered goods.--The term ``recovered goods'' means 
+     materials in the form of individual parts that are the result 
+     of--
+       (A) the disassembly of used goods into individual parts; 
+     and
+       (B) the cleaning, inspecting, testing, or other processing 
+     that is necessary for improvement to sound working condition 
+     of such individual parts.
+       (20) Remanufactured good.--The term ``remanufactured good'' 
+     means a good that is classified under chapter 84, 85, 87, or 
+     90, or heading 9402, other than a good classified under 
+     heading 8418 or 8516, and that--
+       (A) is entirely or partially comprised of recovered goods; 
+     and
+       (B) has a similar life expectancy and enjoys a factory 
+     warranty similar to such a good that is new.
+       (21) Total cost.--The term ``total cost'' means all product 
+     costs, period costs, and other costs for a good incurred in 
+     the territory of Panama, the United States, or both.
+       (22) Used.--The term ``used'' means utilized or consumed in 
+     the production of goods.
+       (o) Presidential Proclamation Authority.--
+       (1) In general.--The President is authorized to proclaim, 
+     as part of the HTS--
+       (A) the provisions set forth in Annex 4.1 of the Agreement; 
+     and
+       (B) any additional subordinate category that is necessary 
+     to carry out this title consistent with the Agreement.
+       (2) Fabrics, yarns, or fibers not available in commercial 
+     quantities in the united states.--The President is authorized 
+     to proclaim that a fabric, yarn, or fiber is added to the 
+     list in Annex 3.25 of the Agreement in an unrestricted 
+     quantity, as provided in article 3.25.4(e) of the Agreement.
+       (3) Modifications.--
+       (A) In general.--Subject to the consultation and layover 
+     provisions of section 104, the President may proclaim 
+     modifications to the provisions proclaimed under the 
+     authority of paragraph (1)(A), other than provisions of 
+     chapters 50 through 63 (as included in Annex 4.1 of the 
+     Agreement).
+       (B) Additional proclamations.--Notwithstanding subparagraph 
+     (A), and subject to the consultation and layover provisions 
+     of section 104, the President may proclaim before the end of 
+     the 1-year period beginning on the date on which the 
+     Agreement enters into force, modifications to correct any 
+     typographical, clerical, or other nonsubstantive technical 
+     error regarding the provisions of chapters 50 through 63 (as 
+     included in Annex 4.1 of the Agreement).
+       (4) Fabrics, yarns, or fibers not available in commercial 
+     quantities in panama and the united states.--
+       (A) In general.--Notwithstanding paragraph (3)(A), the list 
+     of fabrics, yarns, and fibers set forth in Annex 3.25 of the 
+     Agreement may be modified as provided for in this paragraph.
+       (B) Definitions.--In this paragraph:
+       (i) Interested entity.--The term ``interested entity'' 
+     means the Government of Panama, a potential or actual 
+     purchaser of a textile or apparel good, or a potential or 
+     actual supplier of a textile or apparel good.
+       (ii) Day; days.--All references to ``day'' and ``days'' 
+     exclude Saturdays, Sundays, and legal holidays observed by 
+     the Government of the United States.
+       (C) Requests to add fabrics, yarns, or fibers.--
+       (i) In general.--An interested entity may request the 
+     President to determine that a fabric, yarn, or fiber is not 
+     available in commercial quantities in a timely manner in 
+     Panama and the United States and to add that fabric, yarn, or 
+     fiber to the list in Annex 3.25 of the Agreement in a 
+     restricted or unrestricted quantity.
+       (ii) Determinations.--After receiving a request under 
+     clause (i), the President may determine whether--
+
+       (I) the fabric, yarn, or fiber is available in commercial 
+     quantities in a timely manner in Panama or the United States; 
+     or
+       (II) any interested entity objects to the request.
+
+       (iii) Proclamation authority.--The President may, within 
+     the time periods specified in clause (iv), proclaim that the 
+     fabric, yarn, or fiber that is the subject of the request is 
+     added to the list in Annex 3.25 of the Agreement in an 
+     unrestricted quantity, or in any restricted quantity that the 
+     President may establish, if the President has determined 
+     under clause (ii) that--
+
+       (I) the fabric, yarn, or fiber is not available in 
+     commercial quantities in a timely manner in Panama and the 
+     United States; or
+       (II) no interested entity has objected to the request.
+
+       (iv) Time periods.--The time periods within which the 
+     President may issue a proclamation under clause (iii) are--
+
+       (I) not later than 30 days after the date on which a 
+     request is submitted under clause (i); or
+       (II) not later than 44 days after the request is submitted, 
+     if the President determines, within 30 days after the date on 
+     which the request is submitted, that the President does not 
+     have sufficient information to make a determination under 
+     clause (ii).
+
+       (v) Effective date.--Notwithstanding section 103(a)(2), a 
+     proclamation made under clause (iii) shall take effect on the 
+     date on which the text of the proclamation is published in 
+     the Federal Register.
+       (vi) Elimination of restriction.--Not later than 6 months 
+     after proclaiming under clause (iii) that a fabric, yarn, or 
+     fiber is added to the list in Annex 3.25 of the Agreement in 
+     a restricted quantity, the President may eliminate the 
+     restriction if the President determines that the fabric, 
+     yarn, or
+
+[[Page H6751]]
+
+     fiber is not available in commercial quantities in a timely 
+     manner in Panama and the United States.
+       (D) Deemed approval of request.--If, after an interested 
+     entity submits a request under subparagraph (C)(i), the 
+     President does not, within the applicable time period 
+     specified in subparagraph (C)(iv), make a determination under 
+     subparagraph (C)(ii) regarding the request, the fabric, yarn, 
+     or fiber that is the subject of the request shall be 
+     considered to be added, in an unrestricted quantity, to the 
+     list in Annex 3.25 of the Agreement beginning--
+       (i) 45 days after the date on which the request is 
+     submitted; or
+       (ii) 60 days after the date on which the request is 
+     submitted, if the President made a determination under 
+     subparagraph (C)(iv)(II).
+       (E) Requests to restrict or remove fabrics, yarns, or 
+     fibers.--
+       (i) In general.--Subject to clause (ii), an interested 
+     entity may request the President to restrict the quantity of, 
+     or remove from the list in Annex 3.25 of the Agreement, any 
+     fabric, yarn, or fiber--
+
+       (I) that has been added to that list in an unrestricted 
+     quantity pursuant to paragraph (2) or subparagraph (C)(iii) 
+     or (D) of this paragraph; or
+       (II) with respect to which the President has eliminated a 
+     restriction under subparagraph (C)(vi).
+
+       (ii) Time period for submission.--An interested entity may 
+     submit a request under clause (i) at any time beginning on 
+     the date that is 6 months after the date of the action 
+     described in subclause (I) or (II) of that clause.
+       (iii) Proclamation authority.--Not later than 30 days after 
+     the date on which a request under clause (i) is submitted, 
+     the President may proclaim an action provided for under 
+     clause (i) if the President determines that the fabric, yarn, 
+     or fiber that is the subject of the request is available in 
+     commercial quantities in a timely manner in Panama or the 
+     United States.
+       (iv) Effective date.--A proclamation issued under clause 
+     (iii) may not take effect earlier than the date that is 6 
+     months after the date on which the text of the proclamation 
+     is published in the Federal Register.
+       (F) Procedures.--The President shall establish procedures--
+       (i) governing the submission of a request under 
+     subparagraphs (C) and (E); and
+       (ii) providing an opportunity for interested entities to 
+     submit comments and supporting evidence before the President 
+     makes a determination under subparagraph (C) (ii) or (vi) or 
+     (E)(iii).
+
+     SEC. 204. CUSTOMS USER FEES.
+
+       Section 13031(b) of the Consolidated Omnibus Budget 
+     Reconciliation Act of 1985 (19 U.S.C. 58c(b)) is amended by 
+     adding after paragraph (20) the following:
+       ``(21) No fee may be charged under subsection (a)(9) or 
+     (10) with respect to goods that qualify as originating goods 
+     under section 203 of the United States-Panama Trade Promotion 
+     Agreement Implementation Act. Any service for which an 
+     exemption from such fee is provided by reason of this 
+     paragraph may not be funded with money contained in the 
+     Customs User Fee Account.''.
+
+     SEC. 205. DISCLOSURE OF INCORRECT INFORMATION; FALSE 
+                   CERTIFICATIONS OF ORIGIN; DENIAL OF 
+                   PREFERENTIAL TARIFF TREATMENT.
+
+       (a) Disclosure of Incorrect Information.--Section 592 of 
+     the Tariff Act of 1930 (19 U.S.C. 1592) is amended--
+       (1) in subsection (c)--
+       (A) by redesignating paragraph (13) as paragraph (14); and
+       (B) by inserting after paragraph (12) the following new 
+     paragraph:
+       ``(13) Prior disclosure regarding claims under the united 
+     states-panama trade promotion agreement.--An importer shall 
+     not be subject to penalties under subsection (a) for making 
+     an incorrect claim that a good qualifies as an originating 
+     good under section 203 of the United States-Panama Trade 
+     Promotion Agreement Implementation Act if the importer, in 
+     accordance with regulations issued by the Secretary of the 
+     Treasury, promptly and voluntarily makes a corrected 
+     declaration and pays any duties owing with respect to that 
+     good.''; and
+       (2) by adding at the end the following new subsection:
+       ``(l) False Certifications of Origin Under the United 
+     States-Panama Trade Promotion Agreement.--
+       ``(1) In general.--Subject to paragraph (2), it is unlawful 
+     for any person to certify falsely, by fraud, gross 
+     negligence, or negligence, in a Panama TPA certification of 
+     origin (as defined in section 508 of this Act) that a good 
+     exported from the United States qualifies as an originating 
+     good under the rules of origin provided for in section 203 of 
+     the United States-Panama Trade Promotion Agreement 
+     Implementation Act. The procedures and penalties of this 
+     section that apply to a violation of subsection (a) also 
+     apply to a violation of this subsection.
+       ``(2) Prompt and voluntary disclosure of incorrect 
+     information.--No penalty shall be imposed under this 
+     subsection if, promptly after an exporter or producer that 
+     issued a Panama TPA certification of origin has reason to 
+     believe that such certification contains or is based on 
+     incorrect information, the exporter or producer voluntarily 
+     provides written notice of such incorrect information to 
+     every person to whom the certification was issued.
+       ``(3) Exception.--A person shall not be considered to have 
+     violated paragraph (1) if--
+       ``(A) the information was correct at the time it was 
+     provided in a Panama TPA certification of origin but was 
+     later rendered incorrect due to a change in circumstances; 
+     and
+       ``(B) the person promptly and voluntarily provides written 
+     notice of the change in circumstances to all persons to whom 
+     the person provided the certification.''.
+       (b) Denial of Preferential Tariff Treatment.--Section 514 
+     of the Tariff Act of 1930 (19 U.S.C. 1514) is amended by 
+     adding at the end the following new subsection:
+       ``(l) Denial of Preferential Tariff Treatment Under the 
+     United States-Panama Trade Promotion Agreement.--If U.S. 
+     Customs and Border Protection or U.S. Immigration and Customs 
+     Enforcement of the Department of Homeland Security finds 
+     indications of a pattern of conduct by an importer, exporter, 
+     or producer of false or unsupported representations that 
+     goods qualify under the rules of origin provided for in 
+     section 203 of the United States-Panama Trade Promotion 
+     Agreement Implementation Act, U.S. Customs and Border 
+     Protection, in accordance with regulations issued by the 
+     Secretary of the Treasury, may suspend preferential tariff 
+     treatment under the United States-Panama Trade Promotion 
+     Agreement to entries of identical goods covered by subsequent 
+     representations by that importer, exporter, or producer until 
+     U.S. Customs and Border Protection determines that 
+     representations of that person are in conformity with such 
+     section 203.''.
+
+     SEC. 206. RELIQUIDATION OF ENTRIES.
+
+       Section 520(d) of the Tariff Act of 1930 (19 U.S.C. 
+     1520(d)) is amended in the matter preceding paragraph (1)--
+       (1) by striking ``or''; and
+       (2) by striking ``for which'' and inserting ``, or section 
+     203 of the United States-Panama Trade Promotion Agreement 
+     Implementation Act for which''.
+
+     SEC. 207. RECORDKEEPING REQUIREMENTS.
+
+       Section 508 of the Tariff Act of 1930 (19 U.S.C. 1508) is 
+     amended--
+       (1) by redesignating subsection (k) as subsection (l);
+       (2) by inserting after subsection (j) the following new 
+     subsection:
+       ``(k) Certifications of Origin for Goods Exported Under the 
+     United States-panama Trade Promotion Agreement.--
+       ``(1) Definitions.--In this subsection:
+       ``(A) Records and supporting documents.--The term `records 
+     and supporting documents' means, with respect to an exported 
+     good under paragraph (2), records and documents related to 
+     the origin of the good, including--
+       ``(i) the purchase, cost, and value of, and payment for, 
+     the good;
+       ``(ii) the purchase, cost, and value of, and payment for, 
+     all materials, including indirect materials, used in the 
+     production of the good; and
+       ``(iii) the production of the good in the form in which it 
+     was exported.
+       ``(B) Panama tpa certification of origin.--The term `Panama 
+     TPA certification of origin' means the certification 
+     established under article 4.15 of the United States-Panama 
+     Trade Promotion Agreement that a good qualifies as an 
+     originating good under such Agreement.
+       ``(2) Exports to panama.--Any person who completes and 
+     issues a Panama TPA certification of origin for a good 
+     exported from the United States shall make, keep, and, 
+     pursuant to rules and regulations promulgated by the 
+     Secretary of the Treasury, render for examination and 
+     inspection all records and supporting documents related to 
+     the origin of the good (including the certification or copies 
+     thereof).
+       ``(3) Retention period.--The person who issues a Panama TPA 
+     certification of origin shall keep the records and supporting 
+     documents relating to that certification of origin for a 
+     period of at least 5 years after the date on which the 
+     certification is issued.''; and
+       (3) in subsection (l), as so redesignated, by striking 
+     ``(i), or (j)'' and inserting ``(i), (j), or (k)''.
+
+     SEC. 208. ENFORCEMENT RELATING TO TRADE IN TEXTILE OR APPAREL 
+                   GOODS.
+
+       (a) Action During Verification.--
+       (1) In general.--If the Secretary of the Treasury requests 
+     the Government of Panama to conduct a verification pursuant 
+     to article 3.21 of the Agreement for purposes of making a 
+     determination under paragraph (2), the President may direct 
+     the Secretary to take appropriate action described in 
+     subsection (b) while the verification is being conducted.
+       (2) Determination.--A determination under this paragraph is 
+     a determination of the Secretary that--
+       (A) an enterprise in Panama is complying with applicable 
+     customs laws, regulations, and procedures regarding trade in 
+     textile or apparel goods, or
+       (B) a claim that a textile or apparel good exported or 
+     produced by such enterprise--
+       (i) qualifies as an originating good under section 203, or
+       (ii) is a good of Panama,
+     is accurate.
+       (b) Appropriate Action Described.--Appropriate action under 
+     subsection (a)(1) includes--
+       (1) suspension of preferential tariff treatment under the 
+     Agreement with respect to--
+       (A) any textile or apparel good exported or produced by the 
+     person that is the subject of
+
+[[Page H6752]]
+
+     a verification under subsection (a)(1) regarding compliance 
+     described in subsection (a)(2)(A), if the Secretary of the 
+     Treasury determines that there is insufficient information to 
+     support any claim for preferential tariff treatment that has 
+     been made with respect to any such good; or
+       (B) the textile or apparel good for which a claim of 
+     preferential tariff treatment has been made that is the 
+     subject of a verification under subsection (a)(1) regarding a 
+     claim described in subsection (a)(2)(B), if the Secretary 
+     determines that there is insufficient information to support 
+     that claim;
+       (2) denial of preferential tariff treatment under the 
+     Agreement with respect to--
+       (A) any textile or apparel good exported or produced by the 
+     person that is the subject of a verification under subsection 
+     (a)(1) regarding compliance described in subsection 
+     (a)(2)(A), if the Secretary determines that the person has 
+     provided incorrect information to support any claim for 
+     preferential tariff treatment that has been made with respect 
+     to any such good; or
+       (B) the textile or apparel good for which a claim of 
+     preferential tariff treatment has been made that is the 
+     subject of a verification under subsection (a)(1) regarding a 
+     claim described in subsection (a)(2)(B), if the Secretary 
+     determines that a person has provided incorrect information 
+     to support that claim;
+       (3) detention of any textile or apparel good exported or 
+     produced by the person that is the subject of a verification 
+     under subsection (a)(1) regarding compliance described in 
+     subsection (a)(2)(A) or a claim described in subsection 
+     (a)(2)(B), if the Secretary determines that there is 
+     insufficient information to determine the country of origin 
+     of any such good; and
+       (4) denial of entry into the United States of any textile 
+     or apparel good exported or produced by the person that is 
+     the subject of a verification under subsection (a)(1) 
+     regarding compliance described in subsection (a)(2)(A) or a 
+     claim described in subsection (a)(2)(B), if the Secretary 
+     determines that the person has provided incorrect information 
+     as to the country of origin of any such good.
+       (c) Action on Completion of a Verification.--On completion 
+     of a verification under subsection (a), the President may 
+     direct the Secretary of the Treasury to take appropriate 
+     action described in subsection (d) until such time as the 
+     Secretary receives information sufficient to make the 
+     determination under subsection (a)(2) or until such earlier 
+     date as the President may direct.
+       (d) Appropriate Action Described.--Appropriate action under 
+     subsection (c) includes--
+       (1) denial of preferential tariff treatment under the 
+     Agreement with respect to--
+       (A) any textile or apparel good exported or produced by the 
+     person that is the subject of a verification under subsection 
+     (a)(1) regarding compliance described in subsection 
+     (a)(2)(A), if the Secretary of the Treasury determines that 
+     there is insufficient information to support, or that the 
+     person has provided incorrect information to support, any 
+     claim for preferential tariff treatment that has been made 
+     with respect to any such good; or
+       (B) the textile or apparel good for which a claim of 
+     preferential tariff treatment has been made that is the 
+     subject of a verification under subsection (a)(1) regarding a 
+     claim described in subsection (a)(2)(B), if the Secretary 
+     determines that there is insufficient information to support, 
+     or that a person has provided incorrect information to 
+     support, that claim; and
+       (2) denial of entry into the United States of any textile 
+     or apparel good exported or produced by the person that is 
+     the subject of a verification under subsection (a)(1) 
+     regarding compliance described in subsection (a)(2)(A) or a 
+     claim described in subsection (a)(2)(B), if the Secretary 
+     determines that there is insufficient information to 
+     determine, or that the person has provided incorrect 
+     information as to, the country of origin of any such good.
+       (e) Publication of Name of Person.--In accordance with 
+     article 3.21.9 of the Agreement, the Secretary of the 
+     Treasury may publish the name of any person that the 
+     Secretary has determined--
+       (1) is engaged in intentional circumvention of applicable 
+     laws, regulations, or procedures affecting trade in textile 
+     or apparel goods; or
+       (2) has failed to demonstrate that it produces, or is 
+     capable of producing, the textile or apparel goods that are 
+     the subject of a verification under subsection (a)(1).
+
+     SEC. 209. REGULATIONS.
+
+       The Secretary of the Treasury shall prescribe such 
+     regulations as may be necessary to carry out--
+       (1) subsections (a) through (n) of section 203;
+       (2) the amendment made by section 204; and
+       (3) any proclamation issued under section 203(o).
+
+                     TITLE III--RELIEF FROM IMPORTS
+
+     SEC. 301. DEFINITIONS.
+
+       In this title:
+       (1) Panamanian article.--The term ``Panamanian article'' 
+     means an article that qualifies as an originating good under 
+     section 203(b).
+       (2) Panamanian textile or apparel article.--The term 
+     ``Panamanian textile or apparel article'' means a textile or 
+     apparel good (as defined in section 3(4)) that is a 
+     Panamanian article.
+
+     Subtitle A--Relief From Imports Benefitting From the Agreement
+
+     SEC. 311. COMMENCING OF ACTION FOR RELIEF.
+
+       (a) Filing of Petition.--A petition requesting action under 
+     this subtitle for the purpose of adjusting to the obligations 
+     of the United States under the Agreement may be filed with 
+     the Commission by an entity, including a trade association, 
+     firm, certified or recognized union, or group of workers, 
+     that is representative of an industry. The Commission shall 
+     transmit a copy of any petition filed under this subsection 
+     to the United States Trade Representative.
+       (b) Investigation and Determination.--Upon the filing of a 
+     petition under subsection (a), the Commission, unless 
+     subsection (d) applies, shall promptly initiate an 
+     investigation to determine whether, as a result of the 
+     reduction or elimination of a duty provided for under the 
+     Agreement, a Panamanian article is being imported into the 
+     United States in such increased quantities, in absolute terms 
+     or relative to domestic production, and under such conditions 
+     that imports of the Panamanian article constitute a 
+     substantial cause of serious injury or threat thereof to the 
+     domestic industry producing an article that is like, or 
+     directly competitive with, the imported article.
+       (c) Applicable Provisions.--The following provisions of 
+     section 202 of the Trade Act of 1974 (19 U.S.C. 2252) apply 
+     with respect to any investigation initiated under subsection 
+     (b):
+       (1) Paragraphs (1)(B) and (3) of subsection (b).
+       (2) Subsection (c).
+       (3) Subsection (i).
+       (d) Articles Exempt From Investigation.--No investigation 
+     may be initiated under this section with respect to any 
+     Panamanian article if, after the date on which the Agreement 
+     enters into force, import relief has been provided with 
+     respect to that Panamanian article under this subtitle.
+
+     SEC. 312. COMMISSION ACTION ON PETITION.
+
+       (a) Determination.--Not later than 120 days after the date 
+     on which an investigation is initiated under section 311(b) 
+     with respect to a petition, the Commission shall make the 
+     determination required under that section.
+       (b) Applicable Provisions.--For purposes of this subtitle, 
+     the provisions of paragraphs (1), (2), and (3) of section 
+     330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d) (1), (2), 
+     and (3)) shall be applied with respect to determinations and 
+     findings made under this section as if such determinations 
+     and findings were made under section 202 of the Trade Act of 
+     1974 (19 U.S.C. 2252).
+       (c) Additional Finding and Recommendation if Determination 
+     Affirmative.--
+       (1) In general.--If the determination made by the 
+     Commission under subsection (a) with respect to imports of an 
+     article is affirmative, or if the President may consider a 
+     determination of the Commission to be an affirmative 
+     determination as provided for under paragraph (1) of section 
+     330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)(1)), the 
+     Commission shall find, and recommend to the President in the 
+     report required under subsection (d), the amount of import 
+     relief that is necessary to remedy or prevent the injury 
+     found by the Commission in the determination and to 
+     facilitate the efforts of the domestic industry to make a 
+     positive adjustment to import competition.
+       (2) Limitation on relief.--The import relief recommended by 
+     the Commission under this subsection shall be limited to the 
+     relief described in section 313(c).
+       (3) Voting; separate views.--Only those members of the 
+     Commission who voted in the affirmative under subsection (a) 
+     are eligible to vote on the proposed action to remedy or 
+     prevent the injury found by the Commission. Members of the 
+     Commission who did not vote in the affirmative may submit, in 
+     the report required under subsection (d), separate views 
+     regarding what action, if any, should be taken to remedy or 
+     prevent the injury.
+       (d) Report to President.--Not later than the date that is 
+     30 days after the date on which a determination is made under 
+     subsection (a) with respect to an investigation, the 
+     Commission shall submit to the President a report that 
+     includes--
+       (1) the determination made under subsection (a) and an 
+     explanation of the basis for the determination;
+       (2) if the determination under subsection (a) is 
+     affirmative, any findings and recommendations for import 
+     relief made under subsection (c) and an explanation of the 
+     basis for each recommendation; and
+       (3) any dissenting or separate views by members of the 
+     Commission regarding the determination referred to in 
+     paragraph (1) and any finding or recommendation referred to 
+     in paragraph (2).
+       (e) Public Notice.--Upon submitting a report to the 
+     President under subsection (d), the Commission shall promptly 
+     make public the report (with the exception of information 
+     which the Commission determines to be confidential) and shall 
+     publish a summary of the report in the Federal Register.
+
+     SEC. 313. PROVISION OF RELIEF.
+
+       (a) In General.--Not later than the date that is 30 days 
+     after the date on which the President receives a report of 
+     the Commission in which the Commission's determination under 
+     section 312(a) is affirmative, or which contains a 
+     determination under section 312(a) that the President 
+     considers to be affirmative under paragraph (1) of section 
+     330(d) of the Tariff Act of 1930 (19 U.S.C.
+
+[[Page H6753]]
+
+     1330(d)(1)), the President, subject to subsection (b), shall 
+     provide relief from imports of the article that is the 
+     subject of such determination to the extent that the 
+     President determines necessary to remedy or prevent the 
+     injury found by the Commission and to facilitate the efforts 
+     of the domestic industry to make a positive adjustment to 
+     import competition.
+       (b) Exception.--The President is not required to provide 
+     import relief under this section if the President determines 
+     that the provision of the import relief will not provide 
+     greater economic and social benefits than costs.
+       (c) Nature of Relief.--
+       (1) In general.--The import relief that the President is 
+     authorized to provide under this section with respect to 
+     imports of an article is as follows:
+       (A) The suspension of any further reduction provided for 
+     under Annex 3.3 of the Agreement in the duty imposed on the 
+     article.
+       (B) An increase in the rate of duty imposed on the article 
+     to a level that does not exceed the lesser of--
+       (i) the column 1 general rate of duty imposed under the HTS 
+     on like articles at the time the import relief is provided; 
+     or
+       (ii) the column 1 general rate of duty imposed under the 
+     HTS on like articles on the day before the date on which the 
+     Agreement enters into force.
+       (2) Progressive liberalization.--If the period for which 
+     import relief is provided under this section is greater than 
+     1 year, the President shall provide for the progressive 
+     liberalization (described in article 8.2.3 of the Agreement) 
+     of such relief at regular intervals during the period of its 
+     application.
+       (d) Period of Relief.--
+       (1) In general.--Subject to paragraph (2), any import 
+     relief that the President provides under this section may 
+     not, in the aggregate, be in effect for more than 4 years.
+       (2) Extension.--
+       (A) In general.--If the initial period for any import 
+     relief provided under this section is less than 4 years, the 
+     President, after receiving a determination from the 
+     Commission under subparagraph (B) that is affirmative, or 
+     which the President considers to be affirmative under 
+     paragraph (1) of section 330(d) of the Tariff Act of 1930 (19 
+     U.S.C. 1330(d)(1)), may extend the effective period of any 
+     import relief provided under this section, subject to the 
+     limitation under paragraph (1), if the President determines 
+     that--
+       (i) the import relief continues to be necessary to remedy 
+     or prevent serious injury and to facilitate adjustment by the 
+     domestic industry to import competition; and
+       (ii) there is evidence that the industry is making a 
+     positive adjustment to import competition.
+       (B) Action by commission.--
+       (i) Investigation.--Upon a petition on behalf of the 
+     industry concerned that is filed with the Commission not 
+     earlier than the date that is 9 months, and not later than 
+     the date that is 6 months, before the date on which any 
+     action taken under subsection (a) is to terminate, the 
+     Commission shall conduct an investigation to determine 
+     whether action under this section continues to be necessary 
+     to remedy or prevent serious injury and whether there is 
+     evidence that the industry is making a positive adjustment to 
+     import competition.
+       (ii) Notice and hearing.--The Commission shall publish 
+     notice of the commencement of any proceeding under this 
+     subparagraph in the Federal Register and shall, within a 
+     reasonable time thereafter, hold a public hearing at which 
+     the Commission shall afford interested parties and consumers 
+     an opportunity to be present, to present evidence, and to 
+     respond to the presentations of other parties and consumers, 
+     and otherwise to be heard.
+       (iii) Report.--The Commission shall submit to the President 
+     a report on its investigation and determination under this 
+     subparagraph not later than 60 days before the action under 
+     subsection (a) is to terminate, unless the President 
+     specifies a different date.
+       (e) Rate After Termination of Import Relief.--When import 
+     relief under this section is terminated with respect to an 
+     article--
+       (1) the rate of duty on that article after such termination 
+     and on or before December 31 of the year in which such 
+     termination occurs shall be the rate that, according to the 
+     Schedule of the United States to Annex 3.3 of the Agreement, 
+     would have been in effect 1 year after the provision of 
+     relief under subsection (a); and
+       (2) the rate of duty for that article after December 31 of 
+     the year in which such termination occurs shall be, at the 
+     discretion of the President, either--
+       (A) the applicable rate of duty for that article set forth 
+     in the Schedule of the United States to Annex 3.3 of the 
+     Agreement; or
+       (B) the rate of duty resulting from the elimination of the 
+     tariff in equal annual stages ending on the date set forth in 
+     the Schedule of the United States to Annex 3.3 of the 
+     Agreement for the elimination of the tariff.
+       (f) Articles Exempt From Relief.--No import relief may be 
+     provided under this section on--
+       (1) any article that is subject to import relief under--
+       (A) subtitle B; or
+       (B) chapter 1 of title II of the Trade Act of 1974 (19 
+     U.S.C. 2251 et seq.); or
+       (2) any article on which an additional duty assessed under 
+     section 202(b) is in effect.
+
+     SEC. 314. TERMINATION OF RELIEF AUTHORITY.
+
+       (a) General Rule.--Subject to subsection (b), no import 
+     relief may be provided under this subtitle after the date 
+     that is 10 years after the date on which the Agreement enters 
+     into force.
+       (b) Exception.--If an article for which relief is provided 
+     under this subtitle is an article for which the period for 
+     tariff elimination, set forth in the Schedule of the United 
+     States to Annex 3.3 of the Agreement, is greater than 10 
+     years, no relief under this subtitle may be provided for that 
+     article after the date on which that period ends.
+
+     SEC. 315. COMPENSATION AUTHORITY.
+
+       For purposes of section 123 of the Trade Act of 1974 (19 
+     U.S.C. 2133), any import relief provided by the President 
+     under section 313 shall be treated as action taken under 
+     chapter 1 of title II of such Act (19 U.S.C. 2251 et seq.).
+
+     SEC. 316. CONFIDENTIAL BUSINESS INFORMATION.
+
+       Section 202(a)(8) of the Trade Act of 1974 (19 U.S.C. 
+     2252(a)(8)) is amended in the first sentence--
+       (1) by striking ``and''; and
+       (2) by inserting before the period at the end ``, and title 
+     III of the United States-Panama Trade Promotion Agreement 
+     Implementation Act''.
+
+           Subtitle B--Textile and Apparel Safeguard Measures
+
+     SEC. 321. COMMENCEMENT OF ACTION FOR RELIEF.
+
+       (a) In General.--A request for action under this subtitle 
+     for the purpose of adjusting to the obligations of the United 
+     States under the Agreement may be filed with the President by 
+     an interested party. Upon the filing of a request, the 
+     President shall review the request to determine, from 
+     information presented in the request, whether to commence 
+     consideration of the request.
+       (b) Publication of Request.--If the President determines 
+     that the request under subsection (a) provides the 
+     information necessary for the request to be considered, the 
+     President shall publish in the Federal Register a notice of 
+     commencement of consideration of the request, and notice 
+     seeking public comments regarding the request. The notice 
+     shall include a summary of the request and the dates by which 
+     comments and rebuttals must be received.
+
+     SEC. 322. DETERMINATION AND PROVISION OF RELIEF.
+
+       (a) Determination.--
+       (1) In general.--If a positive determination is made under 
+     section 321(b), the President shall determine whether, as a 
+     result of the elimination of a duty under the Agreement, a 
+     Panamanian textile or apparel article is being imported into 
+     the United States in such increased quantities, in absolute 
+     terms or relative to the domestic market for that article, 
+     and under such conditions as to cause serious damage, or 
+     actual threat thereof, to a domestic industry producing an 
+     article that is like, or directly competitive with, the 
+     imported article.
+       (2) Serious damage.--In making a determination under 
+     paragraph (1), the President--
+       (A) shall examine the effect of increased imports on the 
+     domestic industry, as reflected in changes in such relevant 
+     economic factors as output, productivity, utilization of 
+     capacity, inventories, market share, exports, wages, 
+     employment, domestic prices, profits, and investment, no one 
+     of which is necessarily decisive; and
+       (B) shall not consider changes in consumer preference or 
+     changes in technology as factors supporting a determination 
+     of serious damage or actual threat thereof.
+       (3) Deadline for determination.--The President shall make 
+     the determination under paragraph (1) not later than 30 days 
+     after the completion of any consultations held pursuant to 
+     article 3.24.4 of the Agreement.
+       (b) Provision of Relief.--
+       (1) In general.--If a determination under subsection (a) is 
+     affirmative, the President may provide relief from imports of 
+     the article that is the subject of such determination, as 
+     provided in paragraph (2), to the extent that the President 
+     determines necessary to remedy or prevent the serious damage 
+     and to facilitate adjustment by the domestic industry.
+       (2) Nature of relief.--The relief that the President is 
+     authorized to provide under this subsection with respect to 
+     imports of an article is an increase in the rate of duty 
+     imposed on the article to a level that does not exceed the 
+     lesser of--
+       (A) the column 1 general rate of duty imposed under the HTS 
+     on like articles at the time the import relief is provided; 
+     or
+       (B) the column 1 general rate of duty imposed under the HTS 
+     on like articles on the day before the date on which the 
+     Agreement enters into force.
+
+     SEC. 323. PERIOD OF RELIEF.
+
+       (a) In General.--Subject to subsection (b), any import 
+     relief that the President provides under section 322(b) may 
+     not, in the aggregate, be in effect for more than 3 years.
+       (b) Extension.--If the initial period for any import relief 
+     provided under section 322 is less than 3 years, the 
+     President may extend the effective period of any import 
+     relief provided under that section, subject to the limitation 
+     set forth in subsection (a), if the President determines 
+     that--
+       (1) the import relief continues to be necessary to remedy 
+     or prevent serious damage
+
+[[Page H6754]]
+
+     and to facilitate adjustment by the domestic industry to 
+     import competition; and
+       (2) there is evidence that the industry is making a 
+     positive adjustment to import competition.
+
+     SEC. 324. ARTICLES EXEMPT FROM RELIEF.
+
+       The President may not provide import relief under this 
+     subtitle with respect to an article if--
+       (1) import relief previously has been provided under this 
+     subtitle with respect to that article; or
+       (2) the article is subject to import relief under--
+       (A) subtitle A; or
+       (B) chapter 1 of title II of the Trade Act of 1974 (19 
+     U.S.C. 2251 et seq.).
+
+     SEC. 325. RATE AFTER TERMINATION OF IMPORT RELIEF.
+
+       On the date on which import relief under this subtitle is 
+     terminated with respect to an article, the rate of duty on 
+     that article shall be the rate that would have been in effect 
+     but for the provision of such relief.
+
+     SEC. 326. TERMINATION OF RELIEF AUTHORITY.
+
+       No import relief may be provided under this subtitle with 
+     respect to any article after the date that is 5 years after 
+     the date on which the Agreement enters into force.
+
+     SEC. 327. COMPENSATION AUTHORITY.
+
+       For purposes of section 123 of the Trade Act of 1974 (19 
+     U.S.C. 2133), any import relief provided by the President 
+     under this subtitle shall be treated as action taken under 
+     chapter 1 of title II of such Act (19 U.S.C. 2251 et seq.).
+
+     SEC. 328. CONFIDENTIAL BUSINESS INFORMATION.
+
+       The President may not release information received in 
+     connection with an investigation or determination under this 
+     subtitle which the President considers to be confidential 
+     business information unless the party submitting the 
+     confidential business information had notice, at the time of 
+     submission, that such information would be released by the 
+     President, or such party subsequently consents to the release 
+     of the information. To the extent a party submits 
+     confidential business information, the party shall also 
+     provide a nonconfidential version of the information in which 
+     the confidential business information is summarized or, if 
+     necessary, deleted.
+
+       Subtitle C--Cases Under Title II of the Trade Act of 1974
+
+     SEC. 331. FINDINGS AND ACTION ON PANAMANIAN ARTICLES.
+
+       (a) Effect of Imports.--If, in any investigation initiated 
+     under chapter 1 of title II of the Trade Act of 1974 (19 
+     U.S.C. 2251 et seq.), the Commission makes an affirmative 
+     determination (or a determination which the President may 
+     treat as an affirmative determination under such chapter by 
+     reason of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 
+     1330(d))), the Commission shall also find (and report to the 
+     President at the time such injury determination is submitted 
+     to the President) whether imports of the Panamanian article 
+     are a substantial cause of serious injury or threat thereof.
+       (b) Presidential Determination Regarding Imports of 
+     Panamanian Articles.--In determining the nature and extent of 
+     action to be taken under chapter 1 of title II of the Trade 
+     Act of 1974 (19 U.S.C. 2251 et seq.), the President may 
+     exclude from the action Panamanian articles with respect to 
+     which the Commission has made a negative finding under 
+     subsection (a).
+
+                        TITLE IV--MISCELLANEOUS
+
+     SEC. 401. ELIGIBLE PRODUCTS.
+
+       Section 308(4)(A) of the Trade Agreements Act of 1979 (19 
+     U.S.C. 2518(4)(A)) is amended--
+       (1) by striking ``or'' at the end of clause (viii);
+       (2) by striking the period at the end of clause (ix) and 
+     inserting ``; or''; and
+       (3) by adding at the end the following new clause:
+       ``(x) a party to the United States-Panama Trade Promotion 
+     Agreement, a product or service of that country or 
+     instrumentality which is covered under that agreement for 
+     procurement by the United States.''.
+
+     SEC. 402. MODIFICATION TO THE CARIBBEAN BASIN ECONOMIC 
+                   RECOVERY ACT.
+
+       (a) In General.--Section 212(b) of the Caribbean Basin 
+     Economic Recovery Act (19 U.S.C. 2702(b)) is amended by 
+     striking ``Panama'' from the list of countries eligible for 
+     designation as beneficiary countries.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     takes effect on the date on which the President terminates 
+     the designation of Panama as a beneficiary country pursuant 
+     to section 201(a)(3) of this Act.
+
+                            TITLE V--OFFSETS
+
+     SEC. 501. EXTENSION OF CUSTOMS USER FEES.
+
+       Section 13031(j)(3) of the Consolidated Omnibus Budget 
+     Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)) is amended 
+     by adding at the end the following:
+       ``(D) Notwithstanding subparagraph (B)(i), fees may be 
+     charged under paragraphs (1) through (8) of subsection (a) 
+     during the period beginning on September 1, 2021, and ending 
+     on September 30, 2021.''.
+
+     SEC. 502. TIME FOR PAYMENT OF CORPORATE ESTIMATED TAXES.
+
+       Notwithstanding section 6655 of the Internal Revenue Code 
+     of 1986, in the case of a corporation with assets of not less 
+     than $1,000,000,000 (determined as of the end of the 
+     preceding taxable year)--
+       (1) the amount of any required installment of corporate 
+     estimated tax which is otherwise due in July, August, or 
+     September of 2012 shall be increased by 0.25 percent of such 
+     amount (determined without regard to any increase in such 
+     amount not contained in such Code);
+       (2) the amount of any required installment of corporate 
+     estimated tax which is otherwise due in July, August, or 
+     September of 2016 shall be increased by 0.25 percent of such 
+     amount (determined without regard to any increase in such 
+     amount not contained in such Code); and
+       (3) the amount of the next required installment after an 
+     installment referred to in paragraph (1) or (2) shall be 
+     appropriately reduced to reflect the amount of the increase 
+     by reason of such paragraph.
+
+  The SPEAKER pro tempore. The bill shall be debatable for 90 minutes, 
+with 30 minutes controlled by the gentleman from Michigan (Mr. Camp), 
+30 minutes controlled by the gentleman from Michigan (Mr. Levin), and 
+30 minutes controlled by the gentleman from Ohio (Mr. Kucinich).
+  The Chair recognizes the gentleman from Michigan (Mr. Camp).
+
+
+                             General Leave
+
+  Mr. CAMP. Madam Speaker, I ask unanimous consent that all Members 
+have 5 legislative days in which to revise and extend their remarks.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Michigan?
+  There was no objection.
+  Mr. CAMP. I yield myself such time as I may consume.
+  Madam Speaker, I urge rapid passage of this legislation to implement 
+the U.S.-Panama Trade Promotion Agreement. This agreement enjoys broad 
+bipartisan support, and it's clear why. It levels the trade playing 
+field between the U.S. and Panama. It is good for U.S. companies, 
+workers, and farmers; and it advances our national security and 
+leadership in the Western Hemisphere.
+  Right now, Panama enjoys almost total duty-free access to the United 
+States market because it is a beneficiary of various trade preference 
+programs. Given the importance of a stable and prosperous Panama, 
+giving Panama this market access is warranted. However, U.S. industrial 
+and consumer products going to Panama face an average duty of 7 
+percent, and U.S. agricultural exports face an average tariff of 15 
+percent. Implementing this agreement will level the playing field for 
+U.S. exporters by drastically reducing or ending Panama's tariff on 
+U.S. goods. Most U.S. consumer and industrial products will immediately 
+become duty-free, as will half of U.S. farm exports. Any remaining 
+tariffs will decrease quickly thereafter.
+  Opening Panama's market will be a boon for U.S. companies, workers, 
+and farmers. The Panamanian economy is rapidly growing and is expected 
+to more than double by 2020. Panama is already one of the largest 
+markets for some U.S. exporters and service firms. The importance of 
+Panama will only grow for these firms and others as we gain greater 
+access to this expanding economy. This is also true for our farmers, 
+whose exports to Panama are expected to significantly increase under 
+the agreement. Not only will American farmers benefit from lower 
+tariffs into Panama, but they will also benefit from the removal of 
+nontariff and regulatory barriers that discriminate against U.S. 
+agricultural products. Best of all, the agreement will create new jobs 
+and greater prosperity in the United States without adding to the 
+deficit.
+  Finally, the benefits of the U.S.-Panama Trade Promotion Agreement 
+are not only economic. The agreement is critical to fostering our 
+commitment to Latin America, enhancing our leadership in the Western 
+Hemisphere, and reaffirming our relationship with a close friend. 
+Panama is obviously a vital ally in terms of port and maritime 
+security. It is also an important partner in combating drug trafficking 
+and terrorism. Of course there is also Panama's crown jewel, the canal. 
+The United States is the largest user of the canal, and canal security 
+is paramount to our national security and broadly to open sea routes. 
+Panama's cooperation in maintaining the security of the canal has been 
+vital to our security and the region.
+  Madam Speaker, for all of these reasons, the time to wait has passed. 
+We urgently need to pass this important job-creating legislation and 
+move forward on an aggressive trade agenda once again.
+
+[[Page H6755]]
+
+  I urge all of my colleagues to support this bipartisan legislation, 
+and I reserve the balance of my time.
+  Mr. LEVIN. Madam Speaker, I yield myself 1 minute.
+  As I said with regard to Colombia, each of these agreements should be 
+taken on their own. The Panama FTA, as originally negotiated by the 
+Bush administration, failed to address serious concerns about Panama's 
+labor laws and status as a tax haven. It has been changed through the 
+efforts of congressional Democrats and the Obama administration, and it 
+now deserves our support.
+  Fully enforceable labor and environmental standards are included in 
+the core of this agreement. Panama has brought its laws into full 
+compliance with ILO standards. And late last year, Panama signed a tax 
+exchange information agreement, and they have changed their laws to 
+implement this agreement. Republicans negotiated a flawed agreement. It 
+has been fixed. It now deserves our support.
+  I reserve the balance of my time.
+  Mr. KUCINICH. Madam Speaker, I yield myself such time as I may 
+consume.
+  I rise in strong opposition to H.R. 3079, the United States-Panama 
+Trade Promotion Agreement Implementation Act. With our Nation's 
+unemployment continuing to hover around 9 percent, it is unconscionable 
+that we are considering a NAFTA clone free trade agreement. This 
+agreement would further facilitate the outsourcing of American jobs and 
+undermine the rights of American workers. Proponents of free trade 
+agreements like to purport that they're good for the American economy 
+and will create jobs. But history is on the side of those of us who 
+opposed NAFTA, CAFTA, and other damaging trade agreements over the last 
+decade.
+
+                              {time}  2110
+
+  Free trade agreements play a significant role in exacerbating the 
+negative effects of globalization, including the rapid privatization of 
+vital public resources that has resulted in the loss of domestic jobs 
+and manufacturing industries and in significant decreases in labor and 
+environmental standards.
+  In addition, free trade agreements result in significant job loss and 
+privatization of labor-intensive industries for countries we enter into 
+the trade agreements with. Unionizing in countries like Mexico and 
+Colombia has resulted in death or imprisonment of union leaders. Every 
+State in this country has been affected negatively by our destructive 
+trade policies. The Economic Policy Institute estimates that nearly 
+700,000 U.S. jobs have been displaced since the passage of NAFTA in the 
+1990s. The majority of the jobs displaced, 60 percent were in the 
+manufacturing sector. My home State of Ohio is one of the top 10 States 
+with the most jobs displaced by NAFTA, having lost 34,900 jobs.
+  Our rapidly increasing trade deficits with countries like China have 
+resulted in the loss of over 5 million jobs in the last decade. Of that 
+5 million, the State of Ohio has lost 103,000 jobs as a result of the 
+increase of our trade deficit with China.
+  This is not a debate about being for trade or against trade, as some 
+of my colleagues have framed it. This is a debate about learning from 
+the free trade policies we pursued over the last decade that have 
+proven to be significantly damaging to the American economy and 
+American workers. The numbers speak for themselves. I urge my 
+colleagues to oppose this agreement.
+  I reserve the balance of my time.
+  Mr. CAMP. I yield 2 minutes to the distinguished chairman of the 
+Trade Subcommittee, the gentleman from Texas (Mr. Brady).
+  Mr. BRADY of Texas. Madam Speaker, I rise in strong support of this 
+bipartisan legislation to create jobs in America and to strengthen our 
+relationship with a strong, long-standing ally in our hemisphere, 
+Panama.
+  Why wouldn't we sign this sales agreement? Panama is a growing 
+market; almost a 9 percent growth in their economy and in a major way 
+in our backyard. They are an economy that matches up beautifully with 
+America. Most of its economy is the services sector, like the United 
+States, and it provides brand new markets, new customers, not just for 
+manufacturing, not just for agriculture, as important as they are, but 
+for our services sector, which is critical to so many communities 
+across this country.
+  It's time to act now because we're falling behind. While America has 
+been off the trade agenda, other countries have moved forward very 
+aggressively. And Panama, recognizing its strategic importance and its 
+economic growth, has signed similar sales agreements with Taiwan and 
+Singapore, and with Europe and Canada, and many more are in line. Every 
+day we wait, American manufacturers, American farmers, American 
+technology companies lose out.
+  Finally, Panama has done so much to tackle issues, like labor rights. 
+They have strong commitment to labor rights, having recently passed 
+under President Martinelli almost a dozen laws strengthening labor 
+rights in Panama.
+  And to address the issue of tax avoidance and tax havens, Panama has 
+signed many agreements, including with the United States, to be 
+transparent to the point where they are now recognized internationally 
+as being as committed to open tax treaties and tax treatments as the 
+United States is today.
+  Madam Speaker, there is no reason to wait. Implementing the Panama 
+agreement will benefit our economy, it will benefit the Panamanian 
+economy, and strengthen this crucial ally and keep America from falling 
+further behind.
+  Mr. KUCINICH. Madam Speaker, since I came to Congress, I've worked 
+together with Congresswoman Kaptur in challenging these unfair trade 
+agreements, and I am proud to yield 4 minutes to the gentlelady from 
+Ohio for her presentation.
+  Ms. KAPTUR. I want to thank my good friend from Ohio for yielding me 
+the time and for his steadfast opposition to these free trade 
+agreements, and I rise in strong opposition to this proposed Panama 
+Free Trade Agreement. Who in their right mind could believe any free 
+trade agreements modeled on NAFTA would create jobs in our country?
+  I remember during the 1990s fighting the first NAFTA accord here, and 
+Newt Gingrich saying at that time NAFTA would help the United States 
+``by increasing American jobs through world sales.'' Sure.
+  Here's what NAFTA yielded: a trillion dollars in accumulated trade 
+deficit, and hundreds and hundreds of thousands of lost American jobs 
+that moved from Cleveland and moved from Avon Lake and moved from 
+Sandusky and moved from Toledo and moved from Madeira to other places 
+in this world south of the border. Why don't we go back and fix this?
+  Now, let's be honest. Panama's entire GDP equals about 6 percent of 
+the economy of the Washington, D.C., metropolitan area. So what could 
+this Panama agreement actually be about? Well, letters we've received 
+give us some insight into what it might be about. With Panama, we know 
+the country has a long-standing money laundering problem and that it is 
+a tax haven for corporations. How convenient.
+  In 2008, the Government Accountability Office included Panama on its 
+50-country tax haven list. Get the picture? Starting to clear some of 
+the fog? We all know about some of these Cayman Island accounts. Well, 
+why don't we add Panama right to the stack. Panama was long on the 
+OECD's gray list of countries that failed to implement internationally 
+agreed upon tax standards. These guys have got something really good 
+going. But you know what? In this country it would be illegal.
+  According to Public Citizen, approximately 400,000 firms and numerous 
+wealthy individuals use Panama's offshore financial services industry 
+to dodge paying their taxes. I thought we were supposed to be for 
+returning those tax dollars to the United States, not giving them 
+another escape hatch. AFSCME has said that Panama has a history of 
+failing to protect workers and enforce labor rights. And the Sierra 
+Club points out that the Panama free trade agreement has the same 
+investment chapters proposed in other trade agreements that allow 
+foreign investors and corporations to directly challenge public 
+interest laws for compensation before international tribunals, 
+bypassing domestic courts. In other words, the rule of law gets 
+shredded piece by piece by piece.
+
+[[Page H6756]]
+
+  Why does America keep shooting itself in the foot? As the building 
+and construction trades at the AFL-CIO have noted, the Panama proposed 
+agreement, like all others, ``undermine the Buy America policies that 
+reinvested our taxes in our communities.''
+  You know, it's really sad when an institution and an administration 
+keeps doing the same thing over and over and over again that is 
+hollowing out the jobs in the United States of America. We want to make 
+it in America. We don't want to outsource more jobs, provide more tax 
+havens, provide more escape hatches.
+  When you campaign and you try to represent the people in places like 
+Ohio, as Congressman Kucinich knows, we've tried so very hard, every 
+time you create 100 jobs, they snatch away 300. And then they say to 
+the workers: You know what, you're earning too much money; $14 an hour, 
+you're going down to $9. You don't like that? Well, there's the door 
+because there are 7,000 workers lined up for part-time jobs in places 
+like northern Ohio.
+  This Congress had better wake up and renegotiate these trade deals 
+that have cost the middle class across this country their ability to 
+earn a living in America.
+  I thank the gentleman for yielding me the time and look forward to 
+the continuing debate.
+  Mr. CAMP. Madam Speaker, I yield 2 minutes to the gentleman from 
+Illinois (Mr. Kinzinger).
+  Mr. KINZINGER of Illinois. I thank the chairman for yielding.
+  America is talking so much now, and there's such a need right now for 
+jobs. There is such a need. Over 9 percent of this country is begging 
+every day for the opportunity to go out and work and earn a living. We 
+have a middle class that is feeling the squeeze because we see 
+disappearing manufacturing. And that's something I'm very concerned 
+about.
+  In my district in Illinois, we have a very heavy manufacturing base, 
+and when you look at that heavy manufacturing base and the fact that 
+they produce a lot of goods that need to be exported, you have to find 
+a consumer base in order to sell it, and 95 percent of the world's 
+consumers live outside of our country. It would only make sense to 
+create an environment where we can take our goods and in a fair way 
+export them to other countries. Panama, an ally of the United States, 
+currently has a situation where they can charge tariffs on our imports 
+and we don't charge tariffs on imports from them.
+
+                              {time}  2120
+
+  This agreement would bring that to a level playing field and allow 
+the people in my district, who literally sweat every day wondering if 
+they're going to have a paycheck tomorrow, the opportunity to enhance 
+their exports, to enhance those American goods that are made in 
+America, but it's great for somebody in the other country to read the 
+product that they buy that also says ``Made in America,'' too.
+  We have a heavy agricultural district in my area, too. When I look at 
+the farmers and their opportunity to sell overseas their goods and 
+products that we create every day, that's very important. As you know, 
+in business, the ability to be successful means you have to be on the 
+cutting edge and constantly finding markets and places to sell your 
+goods. This does that for us.
+  I think it's sad that it's taken us this many years to get to this 
+point, and I think we've lost a lot of opportunity costs in the 
+process, but I'm pleased that today we are finally taking up these 
+three agreements. I'm pleased that we're taking up this trade agreement 
+with Panama and that we have an opportunity to really strengthen a bond 
+with a strong ally of the United States, strengthen our exports, and 
+I'm excited that the tens of thousands of people that rely on trade in 
+my district will have an opportunity to sell more goods.
+  Mr. LEVIN. I yield 4 minutes to the distinguished gentleman from 
+Washington (Mr. McDermott), the ranking member on our Trade 
+Subcommittee.
+  (Mr. McDERMOTT asked and was given permission to revise and extend 
+his remarks.)
+  Mr. McDERMOTT. Madam Speaker, I agree with the last gentleman. We 
+ought to be talking about the jobs bill. The President put a bill out 
+here. We can't get the Republican leadership to even bring it up. But 
+we will bring up the Panama free trade agreement. Now, this is a break 
+from trade policies in the past. It reflects the hard work of many of 
+us to change U.S. trade policy.
+  There are five reasons to support this agreement:
+  First, it has strong enforceable labor and environmental obligations. 
+Many of us fought for years to get these commitments into our trade 
+agreements. We lost those battles in 1995. I was here when NAFTA passed 
+and the debate over CAFTA 6 years ago, which is why in that agreement 
+15 Democrats voted for it--because it wouldn't take care of workers. 
+Now, that all changed in 2007 when the Democrats took over the House. 
+The last administration finally accepted our demands on labor, the 
+environment, and other issues, such as access to medicine. This 
+agreement includes all of those.
+  We, secondly, have used the leverage of this agreement to eliminate a 
+tax haven. No one denies that Panama was a great tax haven. But they 
+have ratified the Tax Information Agreement with us, which The Wall 
+Street Journal says is ``the most significant step to date on the road 
+to ending four decades of virtually watertight banking secrecy laws in 
+Panama.''
+  Third, we worked with Panama to bring its labor rights up to 
+standard.
+  Fourth, the investment provisions of this agreement do more to 
+protect the governments' rights to regulate those found in past 
+agreements, such as chapter 11 of NAFTA. For example, this agreement 
+clarifies that the environmental regulations generally are not 
+``expropriations'' and that foreign investors do not have greater 
+rights than U.S. investors under U.S. law.
+  Finally, the United States has consistently maintained a trade 
+surplus with Panama for 20 years, and this agreement expects to 
+increase that.
+  I support the agreement. Panama has done what they have asked, and 
+they should enjoy the benefits of a free trade agreement. But make no 
+mistake, we need to do more to improve our U.S. trade policy. We have 
+to get the Republican leadership in the House and the Senate to admit 
+that we're going to have to have a jobs bill.
+  We've been in session for 300 days after an election in which all we 
+heard was the Democrats didn't get jobs, jobs, jobs. And now, 300 
+days--silence. Silence on the Republican side. Not one single bill. 
+When is it coming, folks? That ought to be the next bill that comes up 
+to the floor.
+  I urge my colleagues to vote for this.
+  Mr. CAMP. I yield 2 minutes to the distinguished chairman of the 
+Foreign Affairs Committee, the gentlewoman from Florida (Ms. Ros-
+Lehtinen).
+  Ms. ROS-LEHTINEN. I thank the esteemed chairman for the time.
+  Madam Speaker, I rise in strong support of the U.S.-Panama free trade 
+agreement. In my home district of Miami-Dade, Panama is among its top 
+25 trading partners. In Florida as a whole, it ranks number one among 
+all of the States in exports to that country--incredible numbers. And 
+these figures, Madam Speaker, will only increase once the FTA has been 
+approved and American businesses no longer face heavy tariffs and other 
+artificial barriers to trade.
+  But in addition to the potential economic growth stemming from this 
+agreement, Panama is a key strategic ally in the region. Ever since the 
+Panama Canal was completed a century ago, Panama's importance to the 
+U.S. has only increased as a major transportation route, with two-
+thirds of its traffic consisting of shipments between our west and east 
+coast. For these reasons--expanded exports, increased jobs, closer ties 
+with a strategic ally--I hope that my colleagues on both sides of the 
+aisle will pass this free trade agreement.
+  Madam Speaker, we have been waiting for this agreement for far too 
+long, years of lost opportunities. But now we have a chance to repair 
+that damage. In the past year alone, Panama's economy grew 6.2 percent, 
+making it one of the fastest growing in Latin America and an expanding 
+opportunity for American businesses. Currently, U.S. industrial exports 
+face an average tariff of 7 percent, but some tariffs go as high as 
+over 80 percent. But once this agreement goes into effect, 87 percent 
+of all U.S. goods exported to Panama will become duty-free immediately.
+
+[[Page H6757]]
+
+  In the past 4 years since the trade agreement was signed, American 
+companies have paid millions upon millions of dollars in tariffs to the 
+Panamanian Government. These dollars are needlessly spent by U.S. 
+businesses to foreign governments when they could have been paid here 
+in the United States to beef up our businesses.
+  Madam Speaker, I rise in strong support of the U.S.-Panama Free Trade 
+Agreement.
+  We have been waiting to vote on this agreement since it was first 
+signed, which means years of lost opportunities.
+  But now we have a chance to repair that damage.
+  In the past year alone, Panama's economy grew 6.2 percent, making it 
+one of the fast growing in Latin America and an expanding opportunity 
+for American exporters.
+  Panama is already among Miami-Dade county's top 25 trading partners 
+and Florida as a whole ranks number one among the 50 states in exports 
+to that country.
+  These figures will only increase once the FTA has been approved and 
+American businesses no longer face heavy tariffs and other artificial 
+barriers to trade.
+  Currently, U.S. industrial exports face an average tariff of 7 
+percent, with some tariffs as high as 81 percent.
+  Once this agreement goes into effect, 87 percent of all U.S. goods 
+exported to Panama will become duty-free immediately.
+  In the past 4 years since the U.S.-Panama Free Trade Agreement was 
+signed, American companies have paid millions upon millions of dollars 
+in tariffs to the Panamanian government.
+  Those are dollars needlessly spent by U.S. businesses, which they 
+could have used for investments and expansion here in the U.S. instead 
+of paying fees to a foreign government.
+  Approval of the U.S.-Panama FTA will eliminate this transfer of 
+wealth, increase U.S. exports, and create new jobs here at home that so 
+many Americans are desperately searching for.
+  The agreement also has many other provisions of importance to U.S. 
+businesses, especially strengthening intellectual property rights, 
+which are under assault around the world.
+  In addition to the potential economic growth stemming from this 
+agreement, Panama is a key strategic ally in the region.
+  Ever since the Panama Canal was completed a century ago, Panama's 
+importance to the U.S. has only increased as a major transportation 
+route with two-thirds of its traffic consisting of shipments between 
+our west and east coasts.
+  For these many reasons--expanded exports, increased jobs, and closer 
+ties with a strategic ally--I strongly urge my colleagues on both sides 
+of the aisle to vote in favor of the U.S.-Panama Free Trade Agreement.
+  Mr. LEVIN. Could I ask how much time is remaining?
+  The SPEAKER pro tempore. The gentleman from Michigan (Mr. Levin) has 
+26 minutes remaining, the gentleman from Ohio has 23 minutes remaining, 
+and the gentleman from Michigan (Mr. Camp) has 21 minutes remaining.
+  Mr. LEVIN. I now yield 2\1/2\ minutes to the distinguished gentleman 
+from Texas (Mr. Cuellar).
+  Mr. CUELLAR. By leveling the playing field with 21st century trade 
+deals with Panama, Colombia, and South Korea, we will increase American 
+exports abroad and spur domestic job creation. Now, more than ever, the 
+U.S. needs trade to fuel growth, create jobs, and preserve America's 
+position as a leader of the greater economy.
+  I represent a border region of Texas where trade is part of daily 
+life. I understand the importance of trade to my hometown's value in 
+supporting the local economy. As the chairman of the Pro-Trade Caucus 
+and representing a trade-centric district, I support all three pending 
+trade agreements.
+  Today, trade supports over 50 million American jobs, according to the 
+U.S. Department of the Treasury. These pending FTAs would create an 
+additional quarter of a million new jobs in industries like 
+manufacturing, agriculture, and service sectors, according to the U.S. 
+Chamber of Commerce. Last week, The Wall Street Journal reported the 
+FTAs could boost U.S. exports by $13 billion annually. To grow, we must 
+be an export powerhouse.
+  The U.S.-Panama FTA would remove barriers to American goods entering 
+into Panama. According to the U.S. Trade Representative, over 87 
+percent of U.S. exports of consumer and industrial products to Panama 
+will become duty-free immediately, with the remaining tariffs phased 
+out over the following 10 years.
+  The U.S. International Trade Commission estimates passage of the 
+U.S.-Korea Free Trade Agreement would increase U.S. exports by over $10 
+billion and create 70,000 jobs. According to the National Association 
+of Manufacturers, the U.S. exports to Korea would grow by more than 
+one-third. The U.S.-Colombia FTA would expand exports by more than $1.1 
+billion with the tariff reductions, according to the International 
+Trade Commission. Without the U.S.-Colombia FTA, the U.S. cotton 
+exporters to Colombia will have unnecessarily paid over $14 million in 
+tariffs.
+  Lawmakers have a choice. Pass the deals or allow America to lose the 
+opportunity to emerge in the constantly growing global market. Pass the 
+deals or miss the chance to create 250,000 jobs. Pass the deals or 
+allow American businesses to sit on the sidelines while foreign 
+countries forge ahead.
+  America must pass the Colombia, Korea, and Panama trade deals, or we 
+will fall behind.
+
+                              {time}  2130
+
+  Mr. KUCINICH. Madam Speaker, I yield 1 minute to the gentlelady from 
+New York, who has made a real impact in this Congress in her first 
+year, Representative Hochul.
+  Ms. HOCHUL. I thank my colleague from Ohio.
+  I'm here to stand up on behalf of the working men and women of the 
+26th District of New York, people like the woman at the Buffalo Airport 
+this morning who served me my energy drink as I boarded the flight. She 
+told me she works at the airport because she lost her job of 23 years 
+at a textile factory in downtown Buffalo. First the jobs went south, 
+then they went overseas, jobs gone forever. As I left for my flight she 
+said to me, Keep fighting for our jobs. Don't forget us. Well, I won't 
+forget her. If I thought any of these fair trade agreements would help 
+that woman and help others in my district, I'd be all in favor. But in 
+western New York, we know better. We were promised prosperity with 
+earlier trade agreements, but while the companies became more 
+prosperous, the jobs were sucked away from our community to foreign 
+shores, lost forever.
+  As they say in the immortal song made famous by The Who, ``we won't 
+get fooled again.'' I encourage my colleagues to oppose these 
+agreements.
+  Mr. CAMP. At this time, I reserve the balance of my time.
+  Mr. LEVIN. I yield 1 minute to the gentlelady from Wisconsin (Ms. 
+Baldwin).
+  Ms. BALDWIN. Madam Speaker, I rise today in opposition to this free 
+trade agreement with Panama and to the two others that we are 
+considering this week with South Korea and Colombia.
+  Trade agreements should be in the best interests of our Nation and 
+its people, but sadly this has not been the case with the past free 
+trade agreements. Have some of our wealthiest corporations profited 
+from them? Indeed. But the rest of America, especially the middle 
+class, has struggled with job loss, closed factories, and economic and 
+emotional anguish across the country.
+  I hear from Wisconsin families every day that are struggling 
+mightily, struggling to pay the mortgage, put food on the table, and 
+send their kids to college, especially during these uncertain economic 
+times. The solution is to put our people back to work and preserve 
+American jobs.
+  When done right, trade agreements can help bolster our manufacturing 
+and high-skilled technology industries and create jobs as they increase 
+exports and help our economy recover. Done wrong, trade agreements send 
+these same jobs offshore, leaving Americans out of work. Unfortunately, 
+I believe these trade agreements with South Korea, Panama, and Colombia 
+will exacerbate the U.S. trade deficit and further erode our 
+manufacturing base.
+  Mr. CAMP. I continue to reserve the balance of my time.
+  Mr. KUCINICH. Madam Speaker, I yield myself 1 minute.
+  The U.S.-Panama Free Trade Agreement requires the U.S. to waive Buy 
+America requirements for all Panamanian incorporated firms and even 
+many Chinese and other foreign firms incorporated in Panama that are 
+there to exploit the tax system. This means that work that should go to 
+U.S. workers can be offshored because of the
+
+[[Page H6758]]
+
+rules which forbid Buy America preferences requiring U.S. employees to 
+perform contract work by a Federal agency in the Federal procurement 
+process. According to Global Trade Watch, the U.S. would be waiving Buy 
+America requirements for trillions in U.S. Government contracts for any 
+corporations established in Panama, and in exchange would get almost no 
+new procurement contract opportunities in Panama for U.S. companies.
+  This trade deal is in the NAFTA tradition of weakening offshore 
+protections, limiting financial service regulations, banning Buy 
+America procurement preferences, limiting environmental, food, and 
+product safety safeguards, and undermining U.S. workers and our 
+economy.
+  We have to defeat this. We have to be able to Buy America or it's 
+``bye bye America.''
+  Mr. CAMP. Madam Speaker, I understand that I have 21 minutes 
+remaining.
+  I yield 1 minute to the distinguished gentleman from California (Mr. 
+Bilbray).
+  Mr. BILBRAY. Madam Speaker, first of all, this is not offshore, this 
+proposal is next door. These are our neighbors.
+  Second of all, this is not just about great opportunities 
+economically for America, but we hear people talk about the 
+environment. When you recycle, so-called ``replace'' your cell phones, 
+where do you think they go? They get rebuilt and they get shipped down 
+to our neighbors to the south so they can have the economic 
+opportunities, they can have the learning opportunities. This is the 
+kind of cooperation we want to see in our hemisphere.
+  But to attack Panama, which is the leader of showing how they can 
+stimulate an economy, with almost 10 percent growth, to attack Panama, 
+allowing the working class access to recycled material, environmentally 
+friendly but economically upper lifting, to attack that kind of 
+agreement on this floor and then say that you're for the environment 
+and you're for helping the poor, don't come to this floor and say you 
+care about the environment, you care about the needy, and you care 
+about our neighbors and oppose this proposal.
+  Mr. LEVIN. Madam Speaker, could I inquire as to how much time I have 
+remaining?
+  The SPEAKER pro tempore. The gentleman from Michigan (Mr. Levin) has 
+22\1/2\ minutes remaining.
+  Mr. LEVIN. I yield myself 2\1/2\ minutes.
+  I voted against NAFTA. I led the battle against CAFTA on this floor. 
+I did so because in those agreements there were not enforceable 
+international worker rights. We face this in Panama.
+  As originally negotiated, there was not the implementation of those 
+rights in Panama. They had certain provisions relating to newer 
+businesses. They also had restrictions in terms of trade zones. And 
+what we said to the Panamanians was, bring your laws up to 
+international standards. That's exactly what they did. This is the 
+opposite, in that respect, of NAFTA and CAFTA. So it is not accurate to 
+say this is a NAFTA-type agreement. It simply is not.
+  In terms of government procurement, we want access for our companies 
+and workers to the construction that's going on in the Panama Canal 
+zone. It's vital for our companies. And so essentially in this 
+agreement there is a provision that we can have access there, with 
+limits, as they can, with limits, to us. It's mutually beneficial.
+  Lastly, there has been reference to the tax haven. Panama was a tax 
+haven, one of the most striking in the world. And we insisted that they 
+enact a TIEA. They've done exactly that. So if we take these one at a 
+time, this is an agreement that meets our standards and changes the 
+agreement from the way it was negotiated by the Bush administration. We 
+should support this agreement.
+
+                              {time}  2140
+
+  Mr. KUCINICH. I yield myself 1 minute.
+  Panama is one the world's worst tax havens, allowing rich U.S. 
+individuals and corporations to skirt their responsibility to pay taxes 
+that are vital to the local communities that depend on these revenues. 
+This agreement does nothing to address this issue. At a time when 
+austerity measures are being proposed to balance the budget, we should 
+not be considering a free trade agreement that fails to deal with an 
+issue critical to addressing our deficit.
+  This free trade agreement includes provisions that undermine our own 
+laws to combat tax haven activity. Public Citizen's Global Trade Watch 
+reports that the ``FTA's Services, Financial Services and Investment 
+Chapters include provisions that forbid limits on transfers of money 
+between the U.S. and Panama. Yet, such limits are the strongest tools 
+that the U.S. has to enforce policies aimed at stopping international 
+tax avoidance.''
+  The agreement fails to hold Panama and corporations accountable for 
+tax evasion. The agreement only requires Panama to stop refusing to 
+provide information to U.S. officials in specific cases if U.S. 
+officials know to inquire who's telling. There's a significant 
+exception that allows Panama to reject requests for information if it's 
+contrary to the national interest.
+  Do not reward corporations who offshore jobs and practice 
+international tax avoidance. Do not hurt American workers and the 
+economy. Defeat this trade agreement.
+  The SPEAKER pro tempore. Pursuant to clause 1(c) of rule XIX, further 
+consideration of H.R. 3079 is postponed.
+
+                          ____________________
+```
