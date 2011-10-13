@@ -1,0 +1,105 @@
+---
+granule: CRECB-2011-pt11-Pg15503-3
+date: 2011-10-13
+edition: CRECB
+section: SENATE
+page: 15503
+---
+
+# MAKING A CORRECTION IN THE ENROLLMENT OF S. 1280
+
+```
+            MAKING A CORRECTION IN THE ENROLLMENT OF S. 1280
+
+  Mr. REID. Madam President, I ask unanimous consent that the Senate 
+now proceed to the consideration of S. Con. Res. 31.
+  The PRESIDING OFFICER. The clerk will report the concurrent 
+resolution by title.
+  The bill clerk read as follows:
+
+       A concurrent resolution (S. Con. Res. 31) directing the 
+     Secretary of the Senate to make a correction in the 
+     enrollment of S. 1280.
+
+  There being no objection, the Senate proceeded to consider the 
+concurrent resolution.
+  Mr. REID. Madam President, I ask unanimous consent that the 
+resolution be agreed to and the motion to reconsider be laid upon the 
+table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The concurrent resolution (S. Con. Res. 31) was agreed to, as 
+follows:
+
+                            S. Con. Res. 31
+
+       Resolved by the Senate (the House of Representatives 
+     concurring), That, in the enrollment of the bill (S. 1280) to 
+     amend the Peace Corps Act to require sexual assault risk-
+     reduction and response training, the development of a sexual 
+     assault policy, the establishment of an Office of Victim 
+     Advocacy, the establishment of a Sexual Assault Advisory 
+     Council, and for other purposes, the Secretary of the Senate 
+     shall make the following corrections:
+        Amend section 8C of the Peace Corps Act, in the quoted 
+     material in section 2 of the bill, by adding at the end the 
+     following new subsection:
+       ``(e) Sunset.--This section shall cease to be effective on 
+     October 1, 2018.''.
+       Amend section 8D of the Peace Corps Act, in the quoted 
+     material in section 2 of the bill, by adding at the end the 
+     following new subsection:
+       ``(g) Sunset.--This section shall cease to be effective on 
+     October 1, 2018.''.
+       Amend section 8E of the Peace Corps Act, in the quoted 
+     material in section 2 of the bill--
+       (1) in subsection (c), by striking ``The President shall 
+     annually conduct'' and inserting ``Annually through September 
+     30, 2018, the President shall conduct'';
+       (2) in subsection (d)--
+       (A) in subparagraph (A), by striking ``a biennial report'' 
+     and inserting ``a report, not later than one year after the 
+     date of the enactment of this section, and biennially through 
+     September 30, 2018,''; and
+       (B) in subparagraph (B), by striking ``not later than two 
+     years after the date of the enactment of this section and 
+     every three years thereafter'' and inserting ``not later than 
+     two years and five years after the date of the enactment of 
+     this section''; and
+       (3) by adding at the end the following new subsection:
+       ``(e) Portfolio Reviews.--
+       ``(1) In general.--The President shall, at least once every 
+     3 years, perform a review to evaluate the allocation and 
+     delivery of resources across the countries the Peace Corps 
+     serves or is considering for service. Such portfolio reviews 
+     shall at a minimum include the following with respect to each 
+     such country:
+       ``(A) An evaluation of the country's commitment to the 
+     Peace Corps program.
+       ``(B) An analysis of the safety and security of volunteers.
+       ``(C) An evaluation of the country's need for assistance.
+       ``(D) An analysis of country program costs.
+       ``(E) An evaluation of the effectiveness of management of 
+     each post within a country.
+       ``(F) An evaluation of the country's congruence with the 
+     Peace Corp's mission and strategic priorities.
+       ``(2) Briefing.--Upon request of the Chairman and Ranking 
+     Member of the Committee on Foreign Relations of the Senate or 
+     the Committee on Foreign Affairs of the House of 
+     Representatives, the President shall brief such committees on 
+     each portfolio review required under paragraph (1). If 
+     requested, each such briefing shall discuss performance 
+     measures and sources of data used (such as project status 
+     reports, volunteer surveys, impact studies, reports of 
+     Inspector General of the Peace Corps, and any relevant 
+     external sources) in making the findings and conclusions in 
+     such review.''.
+       Amend section 8I(a) of the Peace Corps Act, in the quoted 
+     material in section 2, by inserting ``through September 30, 
+     2018,'' after ``annually''.
+       Strike section 8.
+       Redesignate sections 9 and 10 as sections 8 and 9, 
+     respectively.
+       Strike section 11.
+
+                          ____________________
+```
