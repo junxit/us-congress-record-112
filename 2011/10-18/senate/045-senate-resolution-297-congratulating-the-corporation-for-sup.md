@@ -1,0 +1,79 @@
+---
+granule: CREC-2011-10-18-pt1-PgS6672-2
+date: 2011-10-18
+edition: CREC
+section: SENATE
+page: S6672
+citation: 157 Cong. Rec. S6672
+---
+
+# SENATE RESOLUTION 297--CONGRATULATING THE CORPORATION FOR SUPPORTIVE HOUSING ON THE 20TH ANNIVERSARY OF ITS FOUNDING
+
+**Measures:** S.Res. 297
+
+```
+ SENATE RESOLUTION 297--CONGRATULATING THE CORPORATION FOR SUPPORTIVE 
+            HOUSING ON THE 20TH ANNIVERSARY OF ITS FOUNDING
+
+  Mr. MENENDEZ (for himself and Mr. Portman) submitted the following 
+resolution; which was referred to the Committee on the Judiciary:
+
+                              S. Res. 297
+
+       Whereas the Corporation for Supportive Housing was founded 
+     in 1991 with a mission of ending homelessness through the 
+     creation of permanent housing connected to quality supportive 
+     services;
+       Whereas the Corporation for Supportive Housing has been an 
+     industry leader in advancing the supportive housing model;
+       Whereas supportive housing is a proven solution for ending 
+     homelessness among various populations including individuals, 
+     families, veterans, youth aging out of foster care, Native 
+     Americans, those re-entering communities following 
+     incarceration, and the chronically homeless;
+       Whereas targeting supportive housing to frequent users of 
+     publicly funded emergency systems is a highly cost-effective 
+     use of public funds;
+       Whereas the Corporation for Supportive Housing is a 
+     Community Development Financial Institution approved by the 
+     Treasury Department;
+       Whereas the Corporation for Supportive Housing has 
+     committed more than $300,000,000 in grants and low-interest 
+     loans to support the development of supportive housing;
+       Whereas the Ohio office of Corporation for Supportive 
+     Housing has invested more than $11,000,000 to further the 
+     development of approximately 1,500 units of supportive 
+     housing in the State of Ohio and the New Jersey office of 
+     Corporation for Supportive Housing has invested more than 
+     $40,000,000 to further the development of approximately 3,800 
+     units of supportive housing in the State of New Jersey;
+       Whereas the Corporation for Supportive Housing has engaged 
+     in lending, grant making, and project-specific assistance 
+     resulting in approximately 50,000 new units of supportive 
+     housing for the homeless that have either been developed 
+     since the founding of the Corporation for Supportive Housing, 
+     or are in development;
+       Whereas approximately 32,727 formerly homeless adults and 
+     children live in supportive housing units directly supported 
+     by the Corporation for Supportive Housing; and
+       Whereas the Corporation for Supportive Housing has staff 
+     located in 14 States and has worked in every State in the 
+     United States to help further the creation of supportive 
+     housing to prevent and end homelessness: Now, therefore, be 
+     it
+       Resolved, That the Senate--
+       (1) congratulates the Corporation for Supportive Housing on 
+     the 20th anniversary of its founding;
+       (2) supports the Corporation for Supportive Housing's 
+     mission of preventing and ending homelessness in the United 
+     States; and
+       (3) encourages the staff of the Corporation for Supportive 
+     Housing to continue their tireless efforts on behalf of the 
+     people in the United States without a home.
+
+[[Page S6673]]
+
+     
+
+                          ____________________
+```

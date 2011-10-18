@@ -1,0 +1,98 @@
+---
+granule: CREC-2011-10-18-pt1-PgS6693
+date: 2011-10-18
+edition: CREC
+section: SENATE
+page: S6693
+citation: 157 Cong. Rec. S6693
+---
+
+# NATIONAL DAY ON WRITING
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S.Res. 298
+
+```
+                        NATIONAL DAY ON WRITING
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of S. Res. 298.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 298) expressing support for the 
+     designation of October 20, 2011, as the ``National Day on 
+     Writing.''
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. REID. I ask unanimous consent the resolution be agree to, the 
+preamble be agreed to, and the motion to reconsider be laid upon the 
+table, that there be no intervening action or debate, and any 
+statements related to the resolution be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 298) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 298
+
+       Whereas people in the 21st century are writing more than 
+     ever before for personal, professional, and civic purposes;
+       Whereas the social nature of writing invites people of 
+     every age, profession, and walk of life to create meaning 
+     through composing;
+       Whereas more and more people in every occupation deem 
+     writing as essential and influential in their work;
+       Whereas writers continue to learn how to write for 
+     different purposes, audiences, and occasions throughout their 
+     lifetimes;
+       Whereas developing digital technologies expand the 
+     possibilities for composing in multiple media at a faster 
+     pace than ever before;
+       Whereas young people are leading the way in developing new 
+     forms of composing by using different forms of digital media;
+       Whereas effective communication contributes to building a 
+     global economy and a global community;
+       Whereas the National Council of Teachers of English, in 
+     conjunction with its many national and local partners, honors 
+     and celebrates the importance of writing through the National 
+     Day on Writing;
+       Whereas the National Day on Writing celebrates the 
+     foundational place of writing in the personal, professional, 
+     and civic lives of the people of the United States;
+       Whereas the National Day on Writing provides an opportunity 
+     for individuals across the United States to share and exhibit 
+     their written works through the National Gallery of Writing;
+       Whereas the National Day on Writing highlights the 
+     importance of writing instruction and practice at every 
+     educational level and in every subject area;
+       Whereas the National Day on Writing emphasizes the lifelong 
+     process of learning to write and compose for different 
+     audiences, purposes, and occasions;
+       Whereas the National Day on Writing honors the use of the 
+     full range of media for composing, from traditional tools 
+     like print, audio, and video, to Web 2.0 tools like blogs, 
+     wikis, and podcasts; and
+       Whereas the National Day on Writing encourages all people 
+     of the United States to write, as well as to enjoy and learn 
+     from the writing of others: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) supports the designation of October 20, 2011, as the 
+     ``National Day on Writing'';
+       (2) strongly affirms the purposes of the National Day on 
+     Writing;
+       (3) encourages participation in the National Galley of 
+     Writing, which serves as an exemplary living archive of the 
+     centrality of writing in the lives of the people of the 
+     United States; and
+       (4) encourages educational institutions, businesses, 
+     community and civic associations, and other organizations to 
+     promote awareness of the National Day on Writing and 
+     celebrate the writing of the members those organizations 
+     through individual submissions to the National Gallery of 
+     Writing.
+
+                          ____________________
+```
