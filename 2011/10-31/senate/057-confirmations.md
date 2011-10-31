@@ -1,0 +1,42 @@
+---
+granule: CRECB-2011-pt11-Pg16301
+date: 2011-10-31
+edition: CRECB
+section: SENATE
+page: 16301
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate October 31, 2011:
+
+
+                         DEPARTMENT OF COMMERCE
+
+       ERIC L. HIRSCHHORN, OF MARYLAND, TO BE UNDER SECRETARY OF 
+     COMMERCE FOR EXPORT ADMINISTRATION.
+
+
+                             THE JUDICIARY
+
+       STEPHEN A. HIGGINSON, OF LOUISIANA, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE FIFTH CIRCUIT.
+
+
+                       DEPARTMENT OF THE TREASURY
+
+       CYRUS AMIR-MOKRI, OF NEW YORK, TO BE AN ASSISTANT SECRETARY 
+     OF THE TREASURY.
+
+
+              UNITED STATES INTERNATIONAL TRADE COMMISSION
+
+       DAVID S. JOHANSON, OF TEXAS, TO BE A MEMBER OF THE UNITED 
+     STATES INTERNATIONAL TRADE COMMISSION FOR A TERM EXPIRING 
+     DECEMBER 16, 2018.
+
+                          ____________________
+```
