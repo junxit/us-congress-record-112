@@ -1,0 +1,20 @@
+---
+granule: CRECB-2011-pt11-Pg16414
+date: 2011-11-01
+edition: CRECB
+section: SENATE
+page: 16414
+---
+
+# EXTENSION OF MORNING BUSINESS
+
+```
+                     EXTENSION OF MORNING BUSINESS
+
+  Mr. BROWN of Ohio. Mr. President, I ask unanimous consent that the 
+period for morning business be extended until 6:45 p.m. with Senators 
+permitted to speak for up to 10 minutes each.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

@@ -1,0 +1,27 @@
+---
+granule: CRECB-2011-pt11-Pg16434
+date: 2011-11-01
+edition: CRECB
+section: SENATE
+page: 16434
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate November 1, 2011:
+
+
+                EXPORT-IMPORT BANK OF THE UNITED STATES
+
+       PATRICIA M. LOUI, OF HAWAII, TO BE A MEMBER OF THE BOARD OF 
+     DIRECTORS OF THE EXPORT-IMPORT BANK OF THE UNITED STATES FOR 
+     A TERM EXPIRING JANUARY 20, 2015.
+       LARRY W. WALTHER, OF ARKANSAS, TO BE A MEMBER OF THE BOARD 
+     OF DIRECTORS OF THE EXPORT-IMPORT BANK OF THE UNITED STATES 
+     FOR A TERM EXPIRING JANUARY 20, 2013.
+
+                          ____________________
+```
