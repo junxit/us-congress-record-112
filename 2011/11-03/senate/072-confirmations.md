@@ -1,0 +1,30 @@
+---
+granule: CREC-2011-11-03-pt1-PgS7144
+date: 2011-11-03
+edition: CREC
+section: SENATE
+page: S7144
+citation: 157 Cong. Rec. S7144
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate November 3, 2011:
+
+
+                             THE JUDICIARY
+
+       SCOTT WESLEY SKAVDAHL, OF WYOMING, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF WYOMING.
+       RICHARD G. ANDREWS, OF DELAWARE, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF DELAWARE.
+
+
+                   EXECUTIVE OFFICE OF THE PRESIDENT
+
+       ALAN B. KRUEGER, OF NEW JERSEY, TO BE A MEMBER OF THE 
+     COUNCIL OF ECONOMIC ADVISERS.
+```

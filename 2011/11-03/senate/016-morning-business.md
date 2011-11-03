@@ -1,0 +1,24 @@
+---
+granule: CREC-2011-11-03-pt1-PgS7116-2
+date: 2011-11-03
+edition: CREC
+section: SENATE
+page: S7116
+citation: 157 Cong. Rec. S7116
+---
+
+# MORNING BUSINESS
+
+**Speaking:** Leahy, Patrick J. (L000174) [D-VT]
+
+```
+                            MORNING BUSINESS
+
+  Mr. LEAHY. Madam President, I ask unanimous consent that the Senate 
+be in a period of morning business, with Senators permitted to speak 
+therein for up to 10 minutes each.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The Senator from Oklahoma is recognized.
+
+                          ____________________
+```
