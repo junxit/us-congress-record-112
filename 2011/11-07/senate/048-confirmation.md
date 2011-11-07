@@ -1,0 +1,22 @@
+---
+granule: CRECB-2011-pt12-Pg16842-7
+date: 2011-11-07
+edition: CRECB
+section: SENATE
+page: 16842
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate November 7, 2011:
+
+
+            OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE
+
+       IRVIN CHARLES MCCULLOUGH III, OF MARYLAND, TO BE INSPECTOR 
+     GENERAL OF THE INTELLIGENCE COMMUNITY, OFFICE OF THE DIRECTOR 
+     OF NATIONAL INTELLIGENCE.
+```
