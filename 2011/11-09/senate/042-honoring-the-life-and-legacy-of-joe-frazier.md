@@ -1,0 +1,100 @@
+---
+granule: CREC-2011-11-09-pt1-PgS7304-4
+date: 2011-11-09
+edition: CREC
+section: SENATE
+page: S7304
+citation: 157 Cong. Rec. S7304
+---
+
+# HONORING THE LIFE AND LEGACY OF JOE FRAZIER
+
+**Speaking:** Bennet, Michael F. (B001267) [D-CO]
+
+**Measures:** S.Res. 319
+
+```
+              HONORING THE LIFE AND LEGACY OF JOE FRAZIER
+
+  Mr. BENNET. Mr. President, I ask unanimous consent that the Senate 
+now proceed to the consideration of S. Res. 319, which was submitted 
+earlier today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 319) honoring the life and legacy of 
+     Joe Frazier.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. BENNET. Mr. President, I ask unanimous consent that the 
+resolution be agreed to, the preamble be agreed to, and the motions to 
+reconsider be laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 319) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 319
+
+       Whereas boxing legend ``Smokin' '' Joe Frazier lost a 
+     battle with liver cancer on November 7, 2011;
+       Whereas, with the passing of Joe Frazier, the State of 
+     South Carolina and the United States lost 1 of the greatest 
+     heavyweight boxing champions of the modern era;
+       Whereas Joe Frazier was born on January 12, 1944, to a 
+     farmer in Beaufort, South Carolina;
+       Whereas, in Beaufort, South Carolina, Joe Frazier 
+     discovered the passion for boxing that would ultimately lead 
+     him to greatness;
+       Whereas Joe Frazier left his childhood home and began to 
+     work in a meat packing company based in Philadelphia, 
+     Pennsylvania;
+       Whereas Joe Frazier trained in a Philadelphia Police 
+     Athletic League gymnasium to prepare for his first amateur 
+     fights;
+       Whereas, in 1964, Joe Frazier became the only United States 
+     athlete to win an Olympic gold medal for boxing during the 
+     Summer Olympic Games in Japan, despite breaking a thumb and 
+     fighting with a broken hand;
+       Whereas, upon becoming a professional boxer in 1965, Joe 
+     Frazier was known for having a powerful left hook, which led 
+     Frazier to defeat his first 11 opponents;
+       Whereas Joe Frazier defeated Jimmy Ellis, the World Boxing 
+     Association heavyweight champion, in 1970 and held the 
+     heavyweight title until 1973;
+       Whereas, on March 8, 1971 in Madison Square Garden, Joe 
+     Frazier became the first boxer to defeat Muhammad Ali, 
+     throwing a devastating left hook in the 15th round that 
+     ultimately led to a victory by decision;
+       Whereas, in 1971, Joe Frazier became the first African-
+     American man since the Civil War to address the South 
+     Carolina State Legislature in Columbia, South Carolina;
+       Whereas, in 1975, arch-rivals Joe Frazier and Muhammad Ali 
+     met in the ``Thrilla in Manilla'' for the third and final 
+     fight between the two men, and a battered, bruised, and 
+     nearly blind Frazier lost by technical knockout when his 
+     trainer pulled him from the fight in the 14th round;
+       Whereas, after retiring from boxing, Joe Frazier mentored 
+     youth boxers in Philadelphia and encouraged the boxers to 
+     lead productive lives and avoid violence;
+       Whereas Joe Frazier personified the fighting spirit of the 
+     city of Philadelphia;
+       Whereas Joe Frazier was inducted into the International 
+     Boxing Hall of Fame in 1990;
+       Whereas Joe Frazier finished his boxing career with 32 
+     wins, of which 27 were knockouts, 4 losses, and 1 draw; and
+       Whereas ``Smokin' '' Joe Frazier epitomized 1 of the 
+     greatest eras in boxing, rising from humble origins on a 
+     South Carolina farm to become the heavyweight boxing world 
+     champion, and inspiring a generation of Americans: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) mourns the loss of Joe Frazier;
+       (2) honors the life and accomplishments of Joe Frazier, an 
+     American champion and a world renowned boxing legend; and
+       (3) offers the deepest condolences of the Senate to the 
+     family of Joe Frazier.
+
+                          ____________________
+```
