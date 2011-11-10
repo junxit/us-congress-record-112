@@ -1,0 +1,117 @@
+---
+granule: CRECB-2011-pt12-Pg17085-3
+date: 2011-11-10
+edition: CRECB
+section: SENATE
+page: 17085
+---
+
+# AUTHORIZING CONVEYANCE OF NOAA PROPERTY TO CITY OF PASCAGOULA, MISSISSIPPI
+
+```
+    AUTHORIZING CONVEYANCE OF NOAA PROPERTY TO CITY OF PASCAGOULA, 
+                              MISSISSIPPI
+
+  Ms. CANTWELL. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of Calendar No. 226, S. 363.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The legislative clerk read as follows:
+
+       A bill (S. 363) to authorize the Secretary of Commerce to 
+     convey property of the National Oceanic and Atmospheric 
+     Administration to the City of Pascagoula, Mississippi, and 
+     for other purposes.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Ms. CANTWELL. Mr. President, I ask unanimous consent that the Wicker 
+amendment at the desk be agreed to; the bill, as amended, be read a 
+third time and passed, the motion to reconsider be laid upon the table, 
+and any statements related to the bill be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 942) was agreed to, as follows:
+
+       Beginning on page 4, strike line 6, after ``able'', through 
+     line 11 and insert the following: ``to the Secretary, subject 
+     to appropriation, for activities related to the operations 
+     of, or capital improvements to, property of the 
+     Administration.''.
+
+  The bill (S. 363), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and passed, as follows:
+
+                                 S. 363
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. EXCHANGE OF NATIONAL OCEANIC AND ATMOSPHERIC 
+                   ADMINISTRATION PROPERTY IN PASCAGOULA, 
+                   MISSISSIPPI.
+
+       (a) In General.--Notwithstanding any other provision of 
+     law, if the Secretary of Commerce determines that it is in 
+     the best interest of the National Oceanic and Atmospheric 
+     Administration and the Federal Government to do so, the 
+     Secretary may convey to the City of Pascagoula, Mississippi, 
+     by standard quitclaim deed, real property consisting of 
+     parcels, or portions of parcels, under the administrative 
+     jurisdiction of the Under Secretary for Oceans and 
+     Atmosphere, including land and improvements thereon, within a 
+     tract roughly bounded by--
+       (1) Delmas Avenue to the south;
+       (2) Pascagoula River to the west;
+       (3) Pol Street to the north; and
+       (4) real property owned by the City of Pascagoula to the 
+     east.
+       (b) Consideration.--
+       (1) In general.--For a conveyance under subsection (a), the 
+     Secretary shall require that the United States receive 
+     consideration of not less than the fair market value of the 
+     property or rights conveyed.
+       (2) Form.--Consideration under this subsection may include 
+     any combination of--
+       (A) property (either real or personal), including tracts of 
+     real property and buildings, owned by the City of Pascagoula, 
+     that are located in such city south of Delmas Avenue, as well 
+     as a contiguous portion of the street known as Delmas Avenue 
+     adjacent to real property under the administrative 
+     jurisdiction of the Under Secretary for Oceans and 
+     Atmosphere;
+       (B) cash or cash equivalents; and
+       (C) consideration in-kind, including--
+       (i) provision of space, goods, or services of benefit, 
+     including construction, repair, remodeling, or other physical 
+     improvements;
+       (ii) maintenance of property;
+       (iii) provision of office, storage, or other useable space; 
+     or
+       (iv) relocation services associated with conveyance of 
+     property under this section.
+       (3) Determination of fair market value.--The Secretary 
+     shall determine fair market value for purposes of paragraph 
+     (1) based on a highest- and best-use appraisal of the 
+     properties conveyed under subsection (a) conducted in 
+     conformance with the Uniform Appraisal Standards for 
+     Professional Appraisal Practice.
+       (c) Use of Proceeds.--Any amounts received under subsection 
+     (b)(2)(A) by the United States as proceeds of any conveyance 
+     under this section shall be available to the Secretary, 
+     subject to appropriation, for activities related to the 
+     operations of, or capital improvements to, property of the 
+     Administration.
+       (d) Additional Terms and Conditions.--
+       (1) In general.--The Secretary may require such additional 
+     terms and conditions with the exchange of property by the 
+     United States under subsection (a) as the Secretary considers 
+     appropriate to protect the interest of the United States.
+
+[[Page 17086]]
+
+       (2) Easements or rights of way.--The Secretary may grant or 
+     convey to the City of Pascagoula a right of way or easement 
+     if the Secretary determines such grant or conveyance is in 
+     the best interest of the Administration and the Federal 
+     Government.
+
+                          ____________________
+```
