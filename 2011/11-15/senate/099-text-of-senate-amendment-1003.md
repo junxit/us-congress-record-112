@@ -1,0 +1,67 @@
+---
+granule: CREC-2011-11-15-pt1-PgS7579-2
+date: 2011-11-15
+edition: CREC
+section: SENATE
+page: S7579
+citation: 157 Cong. Rec. S7579
+---
+
+# Text of Senate Amendment 1003
+
+**Speaking:** Roberts, Pat (R000307) [R-KS]
+
+```
+  SA 1003. Mr. ROBERTS (for himself, Mr. Johanns, and Mr. Boozman) 
+submitted an amendment intended to be proposed to amendment SA 957 
+proposed by Mr. Reid to the bill H.R. 2354, making appropriations for 
+energy and water development and related agencies for the fiscal year 
+ending September 30, 2012, and for other purposes; which was ordered to 
+lie on the table; as follows:
+
+       On page 37, between lines 15 and 16, insert the following:
+       Sec. 2__. (a) Use of Authorized Pesticides.--Section 3(f) 
+     of the Federal Insecticide, Fungicide, and Rodenticide Act (7 
+     U.S.C. 136a(f)) is amended by adding at the end the 
+     following:
+       ``(5) Use of authorized pesticides.--Except as provided in 
+     section 402(s) of the Federal Water Pollution Control Act, 
+     the Administrator or a State may not require a permit under 
+     that Act for a discharge from a point source into navigable 
+     waters of a pesticide authorized for sale, distribution, or 
+     use under this Act, or the residue of such a pesticide, 
+     resulting from the application of the pesticide.''.
+       (b) Discharges of Pesticides.--Section 402 of the Federal 
+     Water Pollution Control Act (33 U.S.C. 1342) is amended by 
+     adding at the end the following:
+       ``(s) Discharges of Pesticides.--
+       ``(1) No permit requirement.--Except as provided in 
+     paragraph (2), a permit shall not be required by the 
+     Administrator or a State under this Act for a discharge from 
+     a point source into navigable waters of a pesticide 
+     authorized for sale, distribution, or use under the Federal 
+     Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et 
+     seq.), or the residue of such a pesticide, resulting from the 
+     application of the pesticide.
+       ``(2) Exceptions.--Paragraph (1) shall not apply to the 
+     following discharges of a pesticide or pesticide residue:
+       ``(A) A discharge resulting from the application of a 
+     pesticide in violation of a provision of the Federal 
+     Insecticide, Fungicide, and Rodenticide Act that is relevant 
+     to protecting water quality, if--
+       ``(i) the discharge would not have occurred but for the 
+     violation; or
+       ``(ii) the quantity of pesticide or pesticide residue in 
+     the discharge is greater than would have occurred without the 
+     violation.
+       ``(B) Stormwater discharges subject to regulation under 
+     subsection (p).
+       ``(C) The following discharges subject to regulation under 
+     this section:
+       ``(i) Manufacturing or industrial effluent.
+       ``(ii) Treatment works effluent.
+       ``(iii) Discharges incidental to the normal operation of a 
+     vessel, including a discharge resulting from ballasting 
+     operations or vessel biofouling prevention.''.
+                                 ______
+```

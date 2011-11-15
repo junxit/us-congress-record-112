@@ -1,0 +1,107 @@
+---
+granule: CREC-2011-11-15-pt1-PgS7583-6
+date: 2011-11-15
+edition: CREC
+section: SENATE
+page: S7583
+citation: 157 Cong. Rec. S7583
+---
+
+# SUPPORT FOR NATIONAL INFORMATION AND REFERRAL SERVICES DAY
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S.Res. 241
+
+```
+       SUPPORT FOR NATIONAL INFORMATION AND REFERRAL SERVICES DAY
+
+  Mr. REID. Mr. President, I ask unanimous consent that the HELP 
+Committee be discharged from further consideration of S. Res. 241 and 
+that the Senate proceed to its immediate consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 241) expressing support for the 
+     designation of November 16, 2011, as National Information and 
+     Referral Services Day.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. REID. Mr. President, I ask unanimous consent that the resolution 
+be agreed to, the preamble be agreed to, the motions to reconsider be 
+laid upon table, with no intervening action or debate, and that any 
+statements related to the matter be printed in the Record.
+
+[[Page S7584]]
+
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 241) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 241
+
+       Whereas information and referral services link the consumer 
+     who has a need or problem with the most appropriate service 
+     to address that need or solve that problem;
+       Whereas quality information and referral services are the 
+     keystone point of entry to the entire human services 
+     structure delivery system;
+       Whereas information and referral services have been 
+     recognized in Federal legislation for more than 35 years 
+     since the 1973 reauthorization of the Older Americans Act of 
+     1965 (42 U.S.C. 3001 et seq.), and the subsequent 
+     establishment of the national Eldercare Locator and the 
+     development of Aging and Disability Resource Centers;
+       Whereas, as of the date of agreement to this resolution, 
+     the United States is served by information and referral 
+     through 2-1-1 programs, aging information and referral 
+     services, Aging and Disability Resource Centers, child care 
+     resource and referral services, military family centers, and 
+     other specialty information and referral services;
+       Whereas individuals who understand the variety of services 
+     available are better equipped to make decisions;
+       Whereas, in 1997, the national 2-1-1 initiative began with 
+     the United Way of Metropolitan Atlanta creating the first 24-
+     hour telephone information and referral service using the 
+     easy-to-remember 2-1-1 dialing code for access;
+       Whereas, in 2000, the Federal Communications Commission 
+     reserved the 2-1-1 dialing code for community information and 
+     referral services, intended as an easy-to-remember and 
+     universally recognizable number that would serve as a vital 
+     connection between individuals and families in need, and 
+     appropriate community-based organizations and government 
+     agencies, on a regular basis and in times of disaster;
+       Whereas the Alliance of Information and Referral Systems 
+     has been providing professional standards and credentialing 
+     programs for those operating information and referral 
+     services;
+       Whereas expanding access to information about, and 
+     referrals to, services provides individuals with lower cost 
+     and safer options for managing their needs, and is likely to 
+     reduce confusion, frustration, and inaccessibility to 
+     services; and
+       Whereas requests for assistance through information and 
+     referral services and 2-1-1 have increased across the United 
+     States due to the economic crisis: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) expresses support for the designation of November 16, 
+     2011, as National Information and Referral Services Day--
+       (A) to raise public awareness about the existence and 
+     importance of information and referral services available to 
+     all people in the United States; and
+       (B) to more effectively target those services to reach 
+     individuals most in need;
+       (2) encourages activities in communities across the United 
+     States involving schools, nonprofit organizations, 
+     businesses, and other entities to ensure information and 
+     referral services are part of everyday life in addition to 
+     emergency preparedness programs; and
+       (3) reaffirms the importance of clear and consistent 
+     professional standards to govern every aspect of quality 
+     information and referral services.
+
+                          ____________________
+```
