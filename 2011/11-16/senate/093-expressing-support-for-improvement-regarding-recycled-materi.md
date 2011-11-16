@@ -1,0 +1,165 @@
+---
+granule: CREC-2011-11-16-pt1-PgS7627-4
+date: 2011-11-16
+edition: CREC
+section: SENATE
+page: S7627
+citation: 157 Cong. Rec. S7627
+---
+
+# EXPRESSING SUPPORT FOR IMPROVEMENT REGARDING RECYCLED MATERIALS IN THE UNITED STATES
+
+**Speaking:** Whitehouse, Sheldon (W000802) [D-RI]
+
+**Measures:** S.Res. 251
+
+```
+EXPRESSING SUPPORT FOR IMPROVEMENT REGARDING RECYCLED MATERIALS IN THE 
+                             UNITED STATES
+
+  Mr. WHITEHOUSE. Mr. President, I ask unanimous consent that the 
+Environment and Public Works Committee be discharged from further 
+consideration of S. Res. 251 and the Senate proceed to its immediate 
+consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 251) expressing support for 
+     improvement in the collection, processing, and consumption of 
+     recycled materials throughout the United States.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. WHITEHOUSE. Mr. President, I ask unanimous consent that the 
+resolution be agreed to, the preamble be agreed to, the motions to 
+reconsider be laid upon the table with no intervening action or debate, 
+and that any statements related to the measure be printed in the 
+Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 251) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 251
+
+       Whereas maximizing the recycling economy in the United 
+     States will create and sustain additional well-paying jobs in 
+     the United States, further stimulate the economy of the 
+     United States, save energy, and conserve valuable natural 
+     resources;
+       Whereas recycling is an important action that people in the 
+     United States can take to be environmental stewards;
+       Whereas municipal recycling rates in the United States 
+     steadily increased from 6.6 percent in 1970 to 28.6 percent 
+     in 2000, but since 2000, the rate of increase has slowed 
+     considerably;
+       Whereas a decline in manufacturing in the United States has 
+     reduced both the supply of and demand for recycled materials;
+       Whereas recycling allows the United States to recover the 
+     critical materials necessary to sustain the recycling economy 
+     and protect national security interests in the United States;
+
+[[Page S7628]]
+
+       Whereas recycling plays an integral role in the sustainable 
+     management of materials throughout the life-cycle of a 
+     product;
+       Whereas 46 States have laws promoting the recycling of 
+     materials that would otherwise be incinerated or sent to a 
+     landfill;
+       Whereas more than 10,000 communities in the United States 
+     have residential recycling and drop-off programs that collect 
+     a wide variety of recyclable materials, including paper, 
+     steel, aluminum, plastic, glass, and electronics;
+       Whereas, in addition to residential recycling, the scrap 
+     recycling industry in the United States manufactures 
+     recyclable materials collected from businesses into 
+     commodity-grade materials;
+       Whereas those commodity-grade materials are used as 
+     feedstock to produce new basic materials and finished 
+     products in the United States and throughout the world;
+       Whereas recycling stimulates the economy and plays an 
+     integral role in sustaining manufacturing in the United 
+     States;
+       Whereas, in 2010, the United States recycling industry 
+     collected, processed, and consumed over 130,000,000 metric 
+     tons of recyclable material, valued at $77,000,000,000;
+       Whereas many manufacturers use recycled commodities to make 
+     products, saving energy and reducing the need for raw 
+     materials, which are generally higher-priced;
+       Whereas the recycling industry in the United States helps 
+     balance the trade deficit and provides emerging economies 
+     with the raw materials needed to build countries and 
+     participate in the global economy;
+       Whereas, in 2010, the scrap recycling industry in the 
+     United States sold over 44,000,000 metric tons of commodity-
+     grade materials, valued at almost $30,000,000,000, to over 
+     154 countries;
+       Whereas recycling saves energy by decreasing the amount of 
+     energy needed to manufacture the products that people build, 
+     buy, and use;
+       Whereas using recycled materials in place of raw materials 
+     can result in energy savings of 92 percent for aluminum cans, 
+     87 percent for mixed plastics, 63 percent for steel cans, 45 
+     percent for recycled newspaper, and 34 percent for recycled 
+     glass; and
+       Whereas a bipartisan Senate Recycling Caucus and a 
+     bipartisan House Recycling Caucus were established in 2006 to 
+     provide a permanent and long-term way for members of Congress 
+     to obtain in-depth knowledge about the recycling industry and 
+     to help promote the many benefits of recycling: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) expresses support for improvement in the collection, 
+     processing, and consumption of recyclable material throughout 
+     the United States in order to create well-paying jobs, foster 
+     innovation and investment in the United States recycling 
+     infrastructure, and stimulate the economy of the United 
+     States;
+       (2) expresses support for strengthening the manufacturing 
+     base in the United States in order to rebuild the domestic 
+     economy, which will increase the supply, demand, and 
+     consumption of recyclable and recycled materials in the 
+     United States;
+       (3) expresses support for a competitive marketplace for 
+     recyclable materials;
+       (4) expresses support for the trade of recyclable 
+     commodities, which is an integral part of the domestic and 
+     global economy;
+       (5) expresses support for policies in the United States 
+     that promote recycling of materials, including paper, which 
+     is commonly recycled rather than thermally combusted or sent 
+     to a landfill;
+       (6) expresses support for policies in the United States 
+     that recognize and promote recyclable materials as essential 
+     economic commodities, rather than wastes;
+       (7) expresses support for policies in the United States 
+     that promote using recyclable materials as feedstock to 
+     produce new basic materials and finished products throughout 
+     the world;
+       (8) expresses support for research and development of new 
+     technologies to more efficiently and effectively recycle 
+     materials such as automobile shredder residue and cathode ray 
+     tubes;
+       (9) expresses support for research and development of new 
+     technologies to remove materials that are impediments to 
+     recycling, such as radioactive material, polychlorinated 
+     biphenyls, mercury-containing devices, and 
+     chlorofluorocarbons;
+       (10) expresses support for Design for Recycling, to improve 
+     the design and manufacture of goods to ensure that, at the 
+     end of a useful life, a good can, to the maximum extent 
+     practicable, be recycled safely and economically;
+       (11) recognizes that the scrap recycling industry in the 
+     United States is a manufacturing industry that is critical to 
+     the future of the United States;
+       (12) expresses support for policies in the United States 
+     that establish the equitable treatment of recycled materials; 
+     and
+       (13) expresses support for the participation of households, 
+     businesses, and governmental entities in the United States in 
+     recycling programs, where available.
+
+                          ____________________
+```
