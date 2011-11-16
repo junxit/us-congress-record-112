@@ -1,0 +1,17 @@
+---
+granule: CRECB-2011-pt12-Pg17631-5
+date: 2011-11-16
+edition: CRECB
+section: SENATE
+page: 17631
+---
+
+# RECOGNITION OF THE MAJORITY LEADER
+
+```
+                   RECOGNITION OF THE MAJORITY LEADER
+
+  The ACTING PRESIDENT pro tempore. The majority leader is recognized.
+
+                          ____________________
+```

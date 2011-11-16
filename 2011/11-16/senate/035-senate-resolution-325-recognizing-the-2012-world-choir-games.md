@@ -1,0 +1,72 @@
+---
+granule: CRECB-2011-pt12-Pg17663-2
+date: 2011-11-16
+edition: CRECB
+section: SENATE
+page: 17663
+---
+
+# SENATE RESOLUTION 325--RECOGNIZING THE 2012 WORLD CHOIR GAMES IN CINCINNATI, OHIO, AS A GLOBAL EVENT OF CULTURAL SIGNIFICANCE TO THE UNITED STATES AND EXPRESSING SUPPORT FOR DESIGNATION OF JULY 2012 AS WORLD CHOIR GAMES MONTH IN THE UNITED STATES
+
+```
+   SENATE RESOLUTION 325--RECOGNIZING THE 2012 WORLD CHOIR GAMES IN 
+  CINCINNATI, OHIO, AS A GLOBAL EVENT OF CULTURAL SIGNIFICANCE TO THE 
+ UNITED STATES AND EXPRESSING SUPPORT FOR DESIGNATION OF JULY 2012 AS 
+              WORLD CHOIR GAMES MONTH IN THE UNITED STATES
+
+  Mr. PORTMAN (for himself and Mr. Brown of Ohio) submitted the 
+following resolution; which was referred to the Committee on Foreign 
+Relations:
+
+                              S. Res. 325
+
+       Whereas the World Choir Games, the largest choral 
+     competition in the world, takes place every 2 years, is known 
+     as the ``Olympics of choral music'', and has the goal of 
+     uniting people from all countries through singing in peaceful 
+     competition;
+       Whereas, from July 4 through July 14, 2012, Cincinnati, 
+     Ohio, will be first city in the United States to host the 
+     World Choir Games;
+       Whereas the Seventh World Choir Games are expected to 
+     include more than 400 choirs from more than 70 countries, 
+     20,000 official participants, including performers, event 
+     officials, delegations, and international jury members, and 
+     up to 200,000 spectators;
+       Whereas choirs will compete in 23 different musical genres 
+     evaluated by an impartial international jury of choral music 
+     experts;
+       Whereas the genres of barbershop and show choir will be 
+     added as competition categories for the first time in 
+     recognition of their popularity in the United States;
+       Whereas the uniting of the people of the world through 
+     singing in peaceful competition in the United States in 2012 
+     affirms the commitment of the United States to global 
+     cultural awareness, understanding, and appreciation; and
+       Whereas it is appropriate to designate July 2012 as World 
+     Choir Games Month in the United States: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes the global significance of the Seventh World 
+     Choir Games to be hosted in Cincinnati, Ohio, from July 4 
+     through July 14, 2012;
+       (2) recognizes Interkultur, the Cincinnati Organizing 
+     Committee for the Seventh World Choir Games, the Cincinnati 
+     USA Convention and Visitors Bureau, the city of Cincinnati, 
+     and the State of Ohio for their efforts to secure and host 
+     the World Choir Games;
+       (3) expresses appreciation to all people of the world who 
+     will participate in the World Choir Games, either in 
+     competition or as visitors, and to all of the volunteers who 
+     will welcome the participants and other visitors to the 
+     United States;
+
+[[Page 17664]]
+
+       (4) supports the designation of July 2012 as World Choir 
+     Games Month in the United States; and
+       (5) renews the commitment of the United States to world 
+     peace and friendship and increasing global cultural 
+     understanding through singing in peaceful competition.
+
+                          ____________________
+```
