@@ -1,0 +1,18 @@
+---
+granule: CREC-2011-11-17-pt1-PgS7638
+date: 2011-11-17
+edition: CREC
+section: SENATE
+page: S7638
+citation: 157 Cong. Rec. S7638
+---
+
+# CONCLUSION OF MORNING BUSINESS
+
+```
+                     CONCLUSION OF MORNING BUSINESS
+
+  The PRESIDING OFFICER. Morning business is closed.
+
+                          ____________________
+```

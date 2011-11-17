@@ -1,0 +1,27 @@
+---
+granule: CREC-2011-11-17-pt1-PgS7784-3
+date: 2011-11-17
+edition: CREC
+section: SENATE
+page: S7784
+citation: 157 Cong. Rec. S7784
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                             THE JUDICIARY
+
+       GERSHWIN A. DRAIN, OF MICHIGAN, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE EASTERN DISTRICT OF MICHIGAN, VICE 
+     BERNARD A. FRIEDMAN, RETIRED.
+       ROY WALLACE MCLEESE III, OF THE DISTRICT OF COLUMBIA, TO BE 
+     AN ASSOCIATE JUDGE OF THE DISTRICT OF COLUMBIA COURT OF 
+     APPEALS FOR THE TERM OF FIFTEEN YEARS, VICE VANESSA RUIZ, 
+     RETIRED.
+```
