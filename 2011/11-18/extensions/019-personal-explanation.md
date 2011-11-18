@@ -1,0 +1,32 @@
+---
+granule: CRECB-2011-pt13-Pg18149
+date: 2011-11-18
+edition: CRECB
+section: EXTENSIONS
+page: 18149
+---
+
+# PERSONAL EXPLANATION
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                            HON. ADAM SMITH
+
+                             of washington
+
+                    in the house of representatives
+
+                       Friday, November 18, 2011
+
+  Mr. SMITH of Washington. Mr. Speaker, on Wednesday, November 16, 
+2011, I was detained in a meeting and inadvertently missed a vote in a 
+series of recorded votes. Had I been present, I would have voted ``no'' 
+on rollcall vote No. 850 (on agreeing to the Cicilline amendment to 
+H.R. 822).
+
+                          ____________________
+```

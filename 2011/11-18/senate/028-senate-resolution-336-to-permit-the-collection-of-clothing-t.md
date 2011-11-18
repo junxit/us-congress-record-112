@@ -1,0 +1,46 @@
+---
+granule: CRECB-2011-pt13-Pg18101
+date: 2011-11-18
+edition: CRECB
+section: SENATE
+page: 18101
+---
+
+# SENATE RESOLUTION 336--TO PERMIT THE COLLECTION OF CLOTHING, TOYS, FOOD, AND HOUSEWARES DURING THE HOLIDAY SEASON FOR CHARITABLE PURPOSES IN SENATE BUILDINGS
+
+```
+  SENATE RESOLUTION 336--TO PERMIT THE COLLECTION OF CLOTHING, TOYS, 
+FOOD, AND HOUSEWARES DURING THE HOLIDAY SEASON FOR CHARITABLE PURPOSES 
+                          IN SENATE BUILDINGS
+
+  Mr. REID of Nevada (for himself and Mr. McConnell) submitted the 
+following resolution; which was considered and agreed to:
+
+                              S. Res. 336
+
+       Resolved,
+
+     SECTION 1. COLLECTION OF CLOTHING, TOYS, FOOD, AND HOUSEWARES 
+                   DURING THE HOLIDAY SEASON FOR CHARITABLE 
+                   PURPOSES IN SENATE BUILDINGS.
+
+       (a) In General.--Notwithstanding any other provision of the 
+     rules or regulations of the Senate--
+       (1) a Senator, officer of the Senate, or employee of the 
+     Senate may collect from another Senator, officer of the 
+     Senate, or employee of the Senate within Senate buildings 
+     nonmonetary donations of clothing, toys, food, and housewares 
+     for charitable purposes related to serving persons in need or 
+     members of the Armed Services and the families of those 
+     members during the holiday season, if the charitable purposes 
+     do not otherwise violate any rule or regulation of the Senate 
+     or of Federal law; and
+       (2) a Senator, officer of the Senate, or employee of the 
+     Senate may work with a nonprofit organization with respect to 
+     the delivery of donations described under paragraph (1).
+       (b) Expiration.--The authority provided by this resolution 
+     shall expire at the end of the first session of the 112th 
+     Congress.
+
+                          ____________________
+```
