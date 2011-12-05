@@ -1,0 +1,29 @@
+---
+granule: CRECB-2011-pt13-Pg18947
+date: 2011-12-05
+edition: CRECB
+section: SENATE
+page: 18947
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate December 5, 2011:
+
+
+                             THE JUDICIARY
+
+       EDGARDO RAMOS, OF CONNECTICUT, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE SOUTHERN DISTRICT OF NEW YORK.
+       ANDREW L. CARTER, JR., OF NEW YORK, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF NEW YORK.
+       JAMES RODNEY GILSTRAP, OF TEXAS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE EASTERN DISTRICT OF TEXAS.
+       DANA L. CHRISTENSEN, OF MONTANA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF MONTANA.
+
+                          ____________________
+```
