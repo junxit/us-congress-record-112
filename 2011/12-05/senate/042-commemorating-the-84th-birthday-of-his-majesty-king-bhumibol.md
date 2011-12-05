@@ -1,0 +1,105 @@
+---
+granule: CREC-2011-12-05-pt1-PgS8342-2
+date: 2011-12-05
+edition: CREC
+section: SENATE
+page: S8342
+citation: 157 Cong. Rec. S8342
+---
+
+# COMMEMORATING THE 84TH BIRTHDAY OF HIS MAJESTY KING BHUMIBOL ADULYADEJ
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S.Res. 343
+
+```
+ COMMEMORATING THE 84TH BIRTHDAY OF HIS MAJESTY KING BHUMIBOL ADULYADEJ
+
+  Mr. REID. Mr. President, I ask unanimous consent to proceed to the 
+consideration of S. Res. 343.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 343) commemorating the 84th birthday 
+     of his Majesty King Bhumibol Adulyadej on December 5, 2011.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. REID. I ask unanimous consent that the resolution be agreed to, 
+the preamble be agreed to, the motions to reconsider be laid upon the 
+table, that there be no intervening action or debate, and any 
+statements be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 343) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 343
+
+       Whereas on June 9, 1946, His Majesty King Bhumibol 
+     Adulyadej ascended to the throne and celebrated his 65th year 
+     as King of Thailand earlier this year;
+       Whereas King Bhumibol is the world's longest-serving 
+     monarch;
+       Whereas King Bhumibol has enjoyed a special relationship 
+     with the United States, having been born in Cambridge, 
+     Massachusetts in 1927, while his father was completing his 
+     studies in the United States;
+       Whereas on March 20, 1833, the United States and Thailand 
+     (then known as Siam) signed the Treaty of Amity and Commerce, 
+     making the Kingdom of Thailand the first treaty ally of the 
+     United States in the Asia-Pacific region;
+       Whereas bilateral trade between Thailand and the United 
+     States grew by 38 percent between 2002 and 2010;
+       Whereas the United States and Thailand have remained strong 
+     security allies for 57 years, as memorialized in the Manila 
+     Pact in 1954, and later expanded under the Thanat-Rusk 
+     Communique of 1962;
+       Whereas President Bush designated Thailand as a major Non-
+     NATO Ally on December 30, 2003;
+       Whereas Secretary of State Hillary Clinton, while in 
+     Bangkok on November 16, 2011, stated ``Our nations are 
+     connected through not only security cooperation and business 
+     ties, but the democratic values we share and the bonds of 
+     family and friendship that link our people.'';
+       Whereas the Fulbright Program, which was established 
+     between Thailand and the United States in 1950, and other 
+     exchanges, provide graduate, undergraduate, and high school 
+     students from each country the opportunity to study in the 
+     other country;
+       Whereas collaboration between Thailand and the United 
+     States has resulted in significant public health 
+     achievements;
+       Whereas in response to the worst flooding in Thailand's 
+     history--
+       (1) the United States Government--
+       (A) has provided humanitarian assistance and disaster 
+     relief;
+       (B) is working to help improve Thailand's capacity to 
+     prepare and respond to such disasters in the future; and
+       (C) has declared the United States will support Thailand's 
+     long-term recovery; and
+       (2) United States citizens and the private sector have 
+     donated to reconstruction efforts; and
+
+       Whereas more than 150,000 people of Thai descent live in 
+     the United States.
+       Now, therefore, be it
+       Resolved, That the Senate--
+       (1) sends warm wishes to the people of Thailand as they 
+     celebrate the 84th birthday of His Majesty King Bhumibol 
+     Adulyadej on December 5, 2011, and commemorate his 65-year 
+     reign as King of Thailand;
+       (2) celebrates the alliance and friendship between Thailand 
+     and the United States that reflects common interests, a 178-
+     year diplomatic history, and, most importantly, shared 
+     values, including democracy, good governance, and the rule of 
+     law; and
+       (3) expresses its deepest sympathies for the recent 
+     historic floods in Thailand, and supports continuing efforts 
+     to provide civilian and military assistance to save lives, 
+     restore health, and facilitate Thailand's economic recovery.
+
+                          ____________________
+```
