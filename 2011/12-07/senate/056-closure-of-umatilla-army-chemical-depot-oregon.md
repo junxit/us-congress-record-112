@@ -1,0 +1,81 @@
+---
+granule: CREC-2011-12-07-pt1-PgS8419-2
+date: 2011-12-07
+edition: CREC
+section: SENATE
+page: S8419
+citation: 157 Cong. Rec. S8419
+---
+
+# CLOSURE OF UMATILLA ARMY CHEMICAL DEPOT, OREGON
+
+**Speaking:** Merkley, Jeff (M001176) [D-OR]
+
+**Measures:** S.Res. 345
+
+```
+            CLOSURE OF UMATILLA ARMY CHEMICAL DEPOT, OREGON
+
+  Mr. MERKLEY. Mr. President, I ask unanimous consent that the Senate 
+proceed to the consideration of S. Res. 345, submitted earlier today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 345) expressing the sense of the 
+     Senate on the closure of Umatilla Army Chemical Depot, 
+     Oregon.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. MERKLEY. Mr. President, I ask unanimous consent that the 
+resolution be agreed to, the preamble be agreed to, the motions to 
+reconsider be laid upon the table, with no intervening action or 
+debate, and any related statements be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 345) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 345
+
+       Whereas, in December 2001, the National Defense 
+     Authorization Act for fiscal year 2002 (Public Law 107-107) 
+     was signed into law, which included authorization for a 2005 
+     round of defense base closure and realignment (BRAC);
+       Whereas, on February 16, 2004, Secretary of Defense Donald 
+     Rumsfeld included the closure of the Umatilla Army Chemical 
+     Depot, Oregon, as one of his recommendations for the 2005 
+     round of defense base closure and realignment;
+       Whereas, on September 8, 2005, the Defense Base Closure and 
+     Realignment Commission, in its report making recommendations 
+     to the President, found that Secretary of Defense Rumsfeld's 
+     assertion that the chemical demilitarization mission at 
+     Umatilla would be complete by the 2nd quarter of 2011 was 
+     optimistic, and wrote, ``An examination of status information 
+     for the depot's mission completion and subsequent closure 
+     revealed that dates may slip beyond the 6-year statutory 
+     period for completion of BRAC actions.'';
+       Whereas, in that same report, the Defense Base Closure and 
+     Realignment Commission took the Secretary of Defense's 
+     recommendation ``Close Umatilla Chemical Depot, OR'' and 
+     changed it to ``On completion of the chemical 
+     demilitarization mission in accordance with treaty 
+     obligations, close Umatilla Chemical Depot, OR'';
+       Whereas, by doing so, the Defense Base Closure and 
+     Realignment Commission acknowledged that the closure of 
+     Umatilla Army Chemical Depot would happen when the 
+     demilitarization mission is completed, even if that is after 
+     September 15, 2011; and
+       Whereas Congress did not pass a joint resolution of 
+     disapproval with respect to the Commission's report, and the 
+     report and recommendations became law: Now, therefore, be it
+       Resolved, That, in light of the clear history, the Senate 
+     reiterates its original intent and reaffirms its direction 
+     that the closure of the Umatilla Army Chemical Depot, Oregon, 
+     and subsequent management and disposal shall be carried out 
+     in accordance with procedures and authorities contained in 
+     the Defense Base Closure and Realignment Act of 1990 (part A 
+     of title XXIX of Public Law 101-510; 10 U.S.C. 2687 note).
+
+                          ____________________
+```
