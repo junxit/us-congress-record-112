@@ -1,0 +1,25 @@
+---
+granule: CREC-2011-12-12-pt1-PgS8492-7
+date: 2011-12-12
+edition: CREC
+section: SENATE
+page: S8492
+citation: 157 Cong. Rec. S8492
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate December 12, 2011:
+
+
+                          DEPARTMENT OF STATE
+
+       NORMAN L. EISEN, OF THE DISTRICT OF COLUMBIA, TO BE 
+     AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO THE CZECH REPUBLIC, TO WHICH POSITION HE 
+     WAS APPOINTED DURING THE RECESS OF THE SENATE FROM DECEMBER 
+     22, 2010, TO JANUARY 5, 2011.
+```
