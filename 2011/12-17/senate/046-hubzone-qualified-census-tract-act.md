@@ -1,0 +1,103 @@
+---
+granule: CREC-2011-12-17-pt1-PgS8780-5
+date: 2011-12-17
+edition: CREC
+section: SENATE
+page: S8780
+citation: 157 Cong. Rec. S8780
+---
+
+# HUBZONE QUALIFIED CENSUS TRACT ACT
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S. 1874
+
+```
+                   HUBZONE QUALIFIED CENSUS TRACT ACT
+
+  Mr. REID. Mr. President, I ask unanimous consent the Banking 
+Committee be discharged from further consideration of S. 1874 and the 
+Senate proceed to its consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered. The clerk 
+will report the bill by title.
+
+[[Page S8781]]
+
+  The assistant legislative clerk read as follows:
+
+       A bill (S. 1874) to require the timely identification of 
+     qualified census tracts for purposes of the HUBZone program, 
+     and for other purposes.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. REID. Mr. President, I ask unanimous consent the bill be read a 
+third time, passed, the motion to reconsider be laid upon the table, 
+with no intervening action or debate, and any statements be printed in 
+the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (S. 1874) was ordered to be engrossed for a third reading, 
+was read the third time, and passed, as follows:
+
+                                S. 1874
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``HUBZone Qualified Census 
+     Tract Act of 2011''.
+
+     SEC. 2. DESIGNATION OF QUALIFIED CENSUS TRACTS.
+
+       (a) Identification of HUBZone Qualified Census Tracts.--Not 
+     later than 2 months after the date on which the Secretary of 
+     Housing and Urban Development receives from the Census Bureau 
+     the data obtained from each decennial census relating to 
+     census tracts necessary for such identification, the 
+     Secretary of Housing and Urban Development shall identify and 
+     publish the list of census tracts that meet the requirements 
+     of section 42(d)(5)(B)(ii) of the Internal Revenue Code of 
+     1986.
+       (b) Specification of Effective Dates of Designation.--
+       (1) HUBZone effective date.--The Secretary of Housing and 
+     Urban Development, after consultation with the Administrator 
+     of the Small Business Administration, shall designate a date 
+     that is not later than 3 months after the publication of the 
+     list of qualified census tracts under subsection (a) upon 
+     which the list published under subsection (a) becomes 
+     effective for areas that qualify as HUBZones under section 
+     3(p)(1)(A) of the Small Business Act (15 U.S.C. 
+     632(p)(1)(A)).
+       (2) Section 42 effective date.--The Secretary of Housing 
+     and Urban Development shall designate a date, which may 
+     differ from the HUBZone effective date under paragraph (1), 
+     upon which the list of qualified census tracts published 
+     under subsection (a) shall become effective for purposes of 
+     section 42(d)(5)(B)(ii) of the Internal Revenue Code of 1986.
+       (c) Rule of Construction.--Nothing in this section may be 
+     construed to affect the method used by the Secretary of 
+     Housing and Urban Development to designate census tracts as 
+     qualified census tracts in a year in which the Secretary of 
+     Housing and Urban Development receives no data from the 
+     Census Bureau relating to census tract boundaries.
+
+     SEC. 3. REPORT.
+
+       Not later than 1 year after the date of enactment of this 
+     Act, the Administrator of the Small Business Administration 
+     shall submit to the Committee on Small Business and 
+     Entrepreneurship of the Senate and the Committee on Small 
+     Business of the House of Representatives a report that--
+       (1) describes the benefits and drawbacks of using qualified 
+     census tract data to designate HUBZones under section 3(p) of 
+     the Small Business Act (15 U.S.C. 632(p));
+       (2) describes any problems encountered by the Administrator 
+     in using qualified census tract data to designate HUBZones; 
+     and
+       (3) includes recommendations, if any, for ways to improve 
+     the process of designating HUBZones.
+
+                          ____________________
+```
