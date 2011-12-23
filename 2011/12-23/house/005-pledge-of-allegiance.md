@@ -1,0 +1,24 @@
+---
+granule: CREC-2011-12-23-pt1-PgH10021-4
+date: 2011-12-23
+edition: CREC
+section: HOUSE
+page: H10021
+citation: 157 Cong. Rec. H10021
+---
+
+# PLEDGE OF ALLEGIANCE
+
+```
+                          PLEDGE OF ALLEGIANCE
+
+  The SPEAKER. Will the gentlewoman from Missouri (Mrs. Emerson) come 
+forward and lead the House in the Pledge of Allegiance.
+  Mrs. EMERSON led the Pledge of Allegiance as follows:
+
+       I pledge allegiance to the Flag of the United States of 
+     America, and to the Republic for which it stands, one nation 
+     under God, indivisible, with liberty and justice for all.
+
+                          ____________________
+```
