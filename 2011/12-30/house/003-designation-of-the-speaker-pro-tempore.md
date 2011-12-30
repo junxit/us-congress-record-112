@@ -1,0 +1,27 @@
+---
+granule: CREC-2011-12-30-pt1-PgH10031-2
+date: 2011-12-30
+edition: CREC
+section: HOUSE
+page: H10031
+citation: 157 Cong. Rec. H10031
+---
+
+# DESIGNATION OF THE SPEAKER PRO TEMPORE
+
+```
+                 DESIGNATION OF THE SPEAKER PRO TEMPORE
+
+  The SPEAKER pro tempore laid before the House the following 
+communication from the Speaker:
+
+                                               Washington, DC,
+
+                                                December 30, 2011.
+       I hereby appoint the Honorable Thomas J. Rooney to act as 
+     Speaker pro tempore on this day.
+                                                  John A. Boehner,
+     Speaker of the House of Representatives.
+
+                          ____________________
+```
