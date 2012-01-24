@@ -1,0 +1,77 @@
+---
+granule: CREC-2012-01-24-pt1-PgS77
+date: 2012-01-24
+edition: CREC
+section: SENATE
+page: S77
+citation: 158 Cong. Rec. S77
+---
+
+# SENATE RESOLUTION 353--CONGRATULATING THE NORTH DAKOTA STATE UNIVERSITY FOOTBALL TEAM FOR WINNING THE 2011 NATIONAL COLLEGIATE ATHLETIC ASSOCIATION DIVISION I FOOTBALL CHAMPIONSHIP SUBDIVISION TITLE
+
+**Measures:** S.Res. 353
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+SENATE RESOLUTION 353--CONGRATULATING THE NORTH DAKOTA STATE UNIVERSITY 
+    FOOTBALL TEAM FOR WINNING THE 2011 NATIONAL COLLEGIATE ATHLETIC 
+     ASSOCIATION DIVISION I FOOTBALL CHAMPIONSHIP SUBDIVISION TITLE
+
+  Mr. CONRAD (for himself and Mr. Hoeven) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 353
+
+       Whereas the North Dakota State University (referred to in 
+     this preamble as ``NDSU'') Bison won the 2011 National 
+     Collegiate Athletic Association Division I Football 
+     Championship Subdivision title game in Frisco, Texas, on 
+     January 7, 2012, in a hard fought victory over the Sam 
+     Houston State University Bearkats by a score of 17 to 6;
+       Whereas the NDSU Bison and coach Craig Bohl had an 
+     incredible 2011 season with a record of 14 wins and 1 defeat;
+       Whereas the Bison had a season full of highlights, 
+     including a 37 to 24 win over the University of Minnesota 
+     Gophers on September 24, 2011;
+       Whereas, during the championship game, the NDSU Bison 
+     offense scored 17 points against the Sam Houston State 
+     Bearkats, led by key plays from quarterback Brock Jensen, 
+     running back D.J. McNorton, and punter Matt Voigtlander;
+       Whereas the stifling Bison defense shut down the Bearkats, 
+     limiting the Bearkats to just 2 field goals;
+       Whereas Bison linebacker Travis Beck, the Most Outstanding 
+     Player of the game, secured a momentum-changing interception 
+     in the final minutes of the game to preserve the win for the 
+     Bison;
+       Whereas the Bison, who were previously a dominant force in 
+     the National Collegiate Athletic Association Division II, 
+     have continued to strive for excellence since moving up a 
+     division in 2004 and have proven they are able to compete and 
+     win in Division I;
+       Whereas Coach Bohl and his staff have instilled character 
+     and confidence in the NDSU players and have done an 
+     outstanding job with the Bison football program;
+       Whereas the leadership of President Dean Bresciani and 
+     Athletic Director Gene Taylor has helped bring both academic 
+     and athletic excellence to NDSU;
+       Whereas the 2011 National Collegiate Athletic Association 
+     Division I Football Championship Subdivision title was a 
+     victory not only for the NDSU football team, but also for the 
+     entire State of North Dakota: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) congratulates the North Dakota State University 
+     football team, the 2011 National Collegiate Athletic 
+     Association Division I Football Championship Subdivision 
+     champions;
+       (2) commends the North Dakota State University players, 
+     coaches, and staff for their hard work and dedication; and
+       (3) recognizes the students, alumni, and loyal fans for 
+     supporting the Bison on their successful quest to capture the 
+     first Division I trophy for North Dakota State University.
+
+                          ____________________
+```
