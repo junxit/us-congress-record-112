@@ -1,0 +1,104 @@
+---
+granule: CREC-2012-01-26-pt1-PgS134
+date: 2012-01-26
+edition: CREC
+section: SENATE
+page: S134
+citation: 158 Cong. Rec. S134
+---
+
+# SENATE RESOLUTION 354--HONORING THE LIFE OF DISSIDENT AND DEMOCRACY ACTIVIST WILMAN VILLAR MENDOZA AND CONDEMNING THE CASTRO REGIME FOR THE DEATH OF WILMAN VILLAR MENDOZA
+
+**Measures:** S.Res. 354
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+  SENATE RESOLUTION 354--HONORING THE LIFE OF DISSIDENT AND DEMOCRACY 
+ACTIVIST WILMAN VILLAR MENDOZA AND CONDEMNING THE CASTRO REGIME FOR THE 
+                     DEATH OF WILMAN VILLAR MENDOZA
+
+  Mr. MENENDEZ (for himself, Mr. Rubio and Mr. Nelson of Florida) 
+submitted the following resolution; which was referred to the Committee 
+on Foreign Relations:
+
+                              S. Res. 354
+
+       Whereas, on Thursday, January 19, 2012, 31-year-old Cuban 
+     dissident Wilman Villar Mendoza died, following a 56-day 
+     hunger strike to highlight his arbitrary arrest and the 
+     repression of basic human and civil rights in Cuba by the 
+     Castro regime;
+       Whereas, on November 2, 2011, Wilman Villar Mendoza was 
+     detained by security forces of the Government of Cuba for 
+     participating in a peaceful demonstration in Cuba calling for 
+     greater political freedom and respect for human rights;
+       Whereas Wilman Villar Mendoza was sentenced to 4 years in 
+     prison after a hearing that lasted less than 1 hour and 
+     during which Wilman Villar Mendoza was neither represented by 
+     counsel nor given the opportunity to speak in his defense;
+       Whereas, on November 25, 2011, Wilman Villar Mendoza was 
+     placed in solitary confinement after initiating a hunger 
+     strike to protest his unjust trial and imprisonment;
+       Whereas Wilman Villar Mendoza was a member of the Union 
+     Patriotica de Cuba, a dissident group the Cuban regime 
+     considers illegitimate because members express views critical 
+     of the regime;
+       Whereas security forces of the Government of Cuba have 
+     harassed Maritza Pelegrino Cabrales, the wife of Villar 
+     Mendoza and a member of the Ladies in White (Damas de 
+     Blanco), and have threatened to take away her children if she 
+     continues to work with the Ladies in White;
+       Whereas Human Rights Watch, which documented the case of 
+     Wilman Villar Mendoza, stated, ``Arbitrary arrests, sham 
+     trials, inhumane imprisonment, and harassment of dissidents' 
+     families--these are the tactics used to silence critics.'';
+       Whereas Amnesty International stated, ``The responsibility 
+     for Wilman Villar Mendoza's death in custody lies squarely 
+     with the Cuban authorities, who summarily judged and jailed 
+     him for exercising his right to freedom of expression.'';
+       Whereas Orlando Zapata Tamayo, another prisoner of 
+     conscience jailed after the ``Black Spring'' crackdown on 
+     opposition groups in March 2003, died in prison on February 
+     23, 2010, after a 90-day hunger strike;
+       Whereas, according to the Cuban Commission on Human Rights, 
+     the unrelenting tyranny of the Castro regime has led to more 
+     than 4,000 political detentions and arrests in 2011; and
+       Whereas Cuba is a member of the United Nations Human Rights 
+     Council despite numerous documented violations of human 
+     rights every year in Cuba: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) condemns the Cuban regime for the death of Wilman 
+     Villar Mendoza on January 19, 2011, following a hunger strike 
+     to protest his incarceration for participating in a peaceful 
+     protest and to highlight the plight of the Cuban people;
+       (2) condemns the repression of basic human and civil rights 
+     by the Castro regime in Cuba that resulted in more than 4,000 
+     detentions and arrests of activists in 2011;
+       (3) honors the life of Wilman Villar Mendoza and his 
+     sacrifice on behalf of the cause of freedom in Cuba;
+       (4) extends condolences to Maritza Pelegrino Cabrales, the 
+     wife of Wilman Villar Mendoza, and their children;
+       (5) urges the United Nations Human Rights Council to 
+     suspend Cuba from its position on the Council;
+       (6) urges the General Assembly of the United Nations to 
+     vote to suspend the rights of membership of Cuba to the Human 
+     Rights Council;
+       (7) urges the international community to condemn the 
+     harassment and repression of peaceful activists by the Cuban 
+     regime; and
+       (8) calls on the governments of all democratic countries to 
+     insist on the release of all political prisoners and the 
+     cessation of violence, arbitrary arrests, and threats against 
+     peaceful demonstrators in Cuba, including threats against 
+     Maritza Pelegrino Cabrales
+
+[[Page S135]]
+
+     and members of the Ladies in White (Damas de Blanco).
+
+                          ____________________
+```
