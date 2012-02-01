@@ -1,0 +1,27 @@
+---
+granule: CRECB-2012-pt1-Pg602
+date: 2012-02-01
+edition: CRECB
+section: SENATE
+page: 602
+---
+
+# WITHDRAWALS
+
+```
+[[Page 602]]
+
+                              WITHDRAWALS
+
+  Executive Message transmitted by the President to the Senate on 
+February 1, 2012 withdrawing from further Senate consideration the 
+following nominations:
+       ALAN D. BERSIN, OF CALIFORNIA, TO BE COMMISSIONER OF 
+     CUSTOMS, DEPARTMENT OF HOMELAND SECURITY, VICE W. RALPH 
+     BASHAM, WHICH WAS SENT TO THE SENATE ON JANUARY 26, 2011.
+       JOHN D. PODESTA, OF THE DISTRICT OF COLUMBIA, TO BE A 
+     MEMBER OF THE BOARD OF DIRECTORS OF THE CORPORATION FOR 
+     NATIONAL AND COMMUNITY SERVICE FOR A TERM EXPIRING OCTOBER 6, 
+     2014, VICE ALAN D. SOLOMONT, RESIGNED, WHICH WAS SENT TO THE 
+     SENATE ON JANUARY 26, 2011.
+```
