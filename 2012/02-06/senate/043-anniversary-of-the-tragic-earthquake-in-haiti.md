@@ -1,0 +1,142 @@
+---
+granule: CREC-2012-02-06-pt1-PgS358-2
+date: 2012-02-06
+edition: CREC
+section: SENATE
+page: S358
+citation: 158 Cong. Rec. S358
+---
+
+# ANNIVERSARY OF THE TRAGIC EARTHQUAKE IN HAITI
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+**Measures:** S.Res. 392, S.Res. 368
+
+```
+             ANNIVERSARY OF THE TRAGIC EARTHQUAKE IN HAITI
+
+  Mr. DURBIN. Madam President, I ask unanimous consent that the Senate 
+proceed to S. Res. 368, submitted earlier today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 368) recognizing the anniversary of 
+     the tragic earthquake in Haiti on January 12, 2010, honoring 
+     those who lost their lives in the earthquake, and expressing 
+     continued solidarity with the people of Haiti.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. DURBIN. Madam President, I ask unanimous consent that the 
+resolution be agreed to, the preamble be agreed to, and the motions to 
+reconsider be laid upon the table; that there be no intervening action 
+or debate; and that any statements be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 368) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 368
+
+       Whereas, on January 12, 2010, an earthquake measuring 7.0 
+     on the Richter scale struck the country of Haiti;
+       Whereas, according to the United States Geological Survey, 
+     the epicenter of the earthquake was located approximately 15 
+     miles southwest of Port-au-Prince, the capital of Haiti;
+       Whereas, according to the Government of Haiti, more than 
+     220,000 people died as a result of the earthquake, and more 
+     than 300,000 people were injured;
+       Whereas, according to the United Nations and the 
+     International Organization for Migration an estimated 
+     3,000,000 people, or nearly \1/3\ of the population of Haiti 
+     were directly affected by the disaster, and an estimated 
+     1,500,000 people were displaced from their homes;
+       Whereas a Post Disaster Needs Assessment conducted by the 
+     Government of Haiti, the United Nations, the World Bank, the 
+     Inter-American Development Bank, and other experts, estimated 
+     that damage and economic losses totaled $7,800,000,000, which 
+     amounted to approximately 120 percent of the gross domestic 
+     product of Haiti in 2009;
+       Whereas the response of the United States Government, led 
+     by the United States Agency for International Development and 
+     United States Southern Command, was swift and resolute;
+       Whereas individuals, businesses, and philanthropic 
+     organizations throughout the United States and the 
+     international community responded to the crisis by supporting 
+     Haiti and its people through innovative ways, such as 
+     fundraising through text messaging;
+       Whereas the Haitian diaspora in the United States was 
+     integral to emergency relief efforts and continues to make 
+     significant financial contributions to Haiti and seeks 
+     opportunities to participate in the rebuilding of Haiti;
+       Whereas the International Organization for Migration 
+     estimates that approximately 550,000 people remain in 
+     spontaneous and organized camps in Haiti;
+       Whereas, at the time of the January 2010 earthquake, Haiti 
+     was the poorest, least developed country in the Western 
+     Hemisphere, and more than 70 percent of the population in 
+     Haiti lived on less than $2 per day;
+       Whereas, before the earthquake, Haiti was making 
+     encouraging improvement in recovering from a catastrophic 
+     series of hurricanes and tropical storms, food shortages, 
+     rising commodity prices, and political instability;
+       Whereas, in January 21, 2010, the Senate adopted by 
+     unanimous consent Senate Resolution 392 (111th Congress), 
+     expressing its profound sympathy and unwavering support for 
+     the people of Haiti and urging all nations to commit to 
+     assisting the people of Haiti with their long-term needs;
+       Whereas, on October 19, 2010, an outbreak of cholera was 
+     detected in the lower Artibonite region of Haiti, which 
+     according to the Haitian Ministry of Public Health and 
+     Population had affected more than 500,000 people and caused 
+     the death of more than 6,700 people nationwide by November 
+     30, 2011;
+       Whereas, as of December 2011, the United States Government 
+     had provided technical assistance and contributed more than 
+     $73,000,000 in purified drinking water, soap, and oral 
+     rehydration salts to combat the spread of cholera in Haiti; 
+     and
+       Whereas, since the January 12, 2010, earthquake, the people 
+     of Haiti have demonstrated unwavering resilience, dignity, 
+     and courage: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) mourns the loss of lives as a result of the tragic 
+     earthquake in Haiti on January 12, 2010;
+       (2) honors the service of United States personnel in the 
+     United States Embassy in Port-au-Prince, the United States 
+     Coast Guard, United States Armed Forces, and other United 
+     States Government agencies, and all members of international 
+     organizations who have persevered through adverse local 
+     conditions and continue to serve Haiti and the Haitian 
+     people;
+       (3) reaffirms its solidarity with the people of Haiti as 
+     they work to rebuild their country and livelihoods;
+       (4) reaffirms its commitment to support the people of 
+     Haiti, in partnership with the Government of Haiti and in 
+     coordination with other donors, in long-term reconstruction;
+       (5) urges the United States Government, international 
+     donors, and non-governmental organizations in Haiti to work 
+     in full partnership with authorities, civil society, and the 
+     private sector in Haiti and to prioritize sustainable 
+     projects with greater opportunity for capacity building; and
+       (6) encourages the United States Government, the Government 
+     of Haiti, and international donors--
+       (A) to give priority to policies that would enhance the 
+     ability of the Government of Haiti to attract private sector 
+     investment and meaningful diaspora participation, including 
+     judicial reform, civil registry, enterprise fund, and land 
+     tenure reform;
+
+[[Page S359]]
+
+       (B) to develop, improve, and scale-up communications and 
+     participatory mechanisms to more substantially involve civil 
+     society in Haiti at all stages of the cholera and post-
+     earthquake responses; and
+       (C) to give priority to programs that protect and involve 
+     vulnerable populations, including internally displaced 
+     persons, children, and persons with disabilities.
+
+                          ____________________
+```
