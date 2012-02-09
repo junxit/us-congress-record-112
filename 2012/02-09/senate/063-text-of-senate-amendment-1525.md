@@ -1,0 +1,49 @@
+---
+granule: CREC-2012-02-09-pt1-PgS540-2
+date: 2012-02-09
+edition: CREC
+section: SENATE
+page: S540
+citation: 158 Cong. Rec. S540
+---
+
+# Text of Senate Amendment 1525
+
+**Speaking:** Paul, Rand (P000603) [R-KY]
+
+```
+  SA 1525. Mr. PAUL submitted an amendment intended to be proposed by 
+him to the bill S. 1813, to reauthorize Federal-aid highway and highway 
+safety construction programs, and for other purposes; which was ordered 
+to lie on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. ___. EXEMPTIONS FOR PROJECTS CARRIED OUT WITH NON-
+                   FEDERAL FUNDS.
+
+       Notwithstanding any other provision of law, a road, 
+     highway, or bridge project carried out only using State or 
+     other non-Federal funds shall be exempt from any 
+     environmental reviews, approvals, licensing, and permit 
+     requirements under--
+       (1) the National Historic Preservation Act (16 U.S.C. 470 
+     et seq.);
+       (2) the Fish and Wildlife Coordination Act (16 U.S.C. 661 
+     et seq.);
+       (3) the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.);
+       (4) the Wild and Scenic Rivers Act (16 U.S.C. 1271 et 
+     seq.);
+       (5) the Endangered Species Act of 1973 (16 U.S.C. 1531 et 
+     seq.), except when the reconstruction occurs in designated 
+     critical habitat for threatened and endangered species;
+       (6) sections 402 and 404 of the Federal Water Pollution 
+     Control Act (33 U.S.C. 1342, 1344);
+       (7) the National Environmental Policy Act of 1969 (42 
+     U.S.C. 4321 et seq.);
+       (8) Executive Order 11990 (42 U.S.C. 4321 note; relating to 
+     the protection of wetlands); and
+       (9) any Federal law (including regulations) requiring no 
+     net loss of wetlands.
+                                 ______
+```
