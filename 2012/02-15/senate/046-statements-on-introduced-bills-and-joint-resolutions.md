@@ -1,0 +1,438 @@
+---
+granule: CRECB-2012-pt2-Pg1718
+date: 2012-02-15
+edition: CRECB
+section: SENATE
+page: 1718
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+      By Mr. LEAHY:
+
+[[Page 1719]]
+
+  S. 2111. A bill to enhance punishment for identity theft and other 
+violations of data privacy and security; read the first time.
+  Mr. LEAHY. Mr. President, today, I am pleased to introduce the Cyber 
+Crime Protection Security Act, a bill to strengthen our Nation's 
+cybercrime laws. Developing a comprehensive strategy for cybersecurity 
+is one of the most pressing challenges facing our Nation today, and an 
+issue that the Senate will tackle in the coming weeks. A legislative 
+response to the growing threat of cyber crime must be a part of that 
+conversation.
+  Protecting American consumers and businesses from cyber crime and 
+other threats in cyberspace has long been a priority of the Senate 
+Judiciary Committee. In September, the Committee favorably reported 
+legislation which included a provision essentially identical to this 
+bill as a part of the Personal Data Privacy and Security Act. Since 
+then, I have worked closely with Senator Grassley to advance cyber 
+crime legislation that will have strong bipartisan support.
+  Cyber crime impacts all of us, regardless of political party or 
+ideology. Recently, several Republican Senators stated the following in 
+an opinion piece about the Senate's cybersecurity legislation: ``In 
+addition, our nation's criminal laws must be updated to account for the 
+growing number of cybercrimes. We support legislation to clarify and 
+expand the Computer Fraud and Abuse Act--including increasing existing 
+penalties, defining new offenses and clarifying the scope of current 
+criminal conduct. These changes will ensure that our criminal laws keep 
+pace with the ever-evolving threats posed by cybercriminals.'' I could 
+not agree more. I hope that all Senators will support this bill and I 
+urge the Senate to quickly pass this important legislation.
+  We simply cannot afford to ignore the growing threat of cyber crime. 
+A study released by Symantec Corp estimates that the cost of cybercrime 
+globally is $114 billion a year. During the past year, we have 
+witnessed major data breaches at Sony, Epsilon, RSA, the International 
+Monetary Fund, and Lockheed Martin, just to name a few. In addition, 
+our Government computer networks have not been spared, as evidenced by 
+the hacking incidents involving the websites of the Senate and Central 
+Intelligence Agency.
+  The Cyber Crime Protection Security Act takes several important steps 
+to combat cyber crime. First, the bill updates the Federal RICO statute 
+to add violations of the Computer Fraud and Abuse Act to the definition 
+of racketeering activity, so that the Government can better prosecute 
+organized criminal activity involving computer fraud. Second, the bill 
+streamlines and enhances the penalty structure under the Computer Fraud 
+and Abuse Act. To address cyber crime involving the trafficking of 
+consumers' passwords, the bill also expands the scope of the offense 
+for trafficking in passwords under title 18, United States Code, 
+section 1030(a)(6) to include passwords used to access a protected 
+Government or non-government computer, and to include any other means 
+of unauthorized access to a Government computer.
+  In addition, the bill clarifies that both conspiracy and attempt to 
+commit a computer hacking offense are subject to the same penalties as 
+completed, substantive offenses, and the bill adds new forfeiture tools 
+to help the Government recover the proceeds of illegal activity.
+  This legislation also strengthens the legal tools available to law 
+enforcement to protect our nation's critical infrastructure, by adding 
+a new criminal offense that would make it a felony to damage a computer 
+that manages or controls national defense, national security, 
+transportation, public health and safety, or other critical 
+infrastructure systems or information. Lastly, the bill clarifies that 
+relatively innocuous conduct, such as violating a terms of use 
+agreement, should not be prosecuted under the Computer Fraud and Abuse 
+Act.
+  The bill is strongly supported by the Department of Justice, which is 
+on the front lines of the battle against cybercrime. In fact, the 
+criminal law updates in this bill were a part of the cybersecurity 
+proposal that President Obama delivered to Congress last May. We must 
+give the dedicated prosecutors and investigators in our Government the 
+tools that they need to address criminal activity in cyberspace.
+  To build a secure future for our Nation and its citizens in 
+cyberspace, Congress must work together, across party lines and 
+ideology, to address the dangers of cybercrime and other cyber threats. 
+It is in that cooperative spirit that I urge all Senators to support 
+this important cybercrime legislation.
+  Mr. President, I ask unanimous consent that the text of the bill be 
+printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record as follows:
+
+                                S. 2111
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Cyber Crime Protection 
+     Security Act''.
+
+     SEC. 2. ORGANIZED CRIMINAL ACTIVITY IN CONNECTION WITH 
+                   UNAUTHORIZED ACCESS TO PERSONALLY IDENTIFIABLE 
+                   INFORMATION.
+
+       Section 1961(1) of title 18, United States Code, is amended 
+     by inserting ``section 1030 (relating to fraud and related 
+     activity in connection with computers) if the act is a 
+     felony,'' before ``section 1084''.
+
+     SEC. 3. PENALTIES FOR FRAUD AND RELATED ACTIVITY IN 
+                   CONNECTION WITH COMPUTERS.
+
+       Section 1030(c) of title 18, United States Code, is amended 
+     to read as follows:
+       ``(c) The punishment for an offense under subsection (a) or 
+     (b) of this section is--
+       ``(1) a fine under this title or imprisonment for not more 
+     than 20 years, or both, in the case of an offense under 
+     subsection (a)(1) of this section;
+       ``(2)(A) except as provided in subparagraph (B), a fine 
+     under this title or imprisonment for not more than 3 years, 
+     or both, in the case of an offense under subsection (a)(2); 
+     or
+       ``(B) a fine under this title or imprisonment for not more 
+     than ten years, or both, in the case of an offense under 
+     paragraph (a)(2) of this section, if--
+       ``(i) the offense was committed for purposes of commercial 
+     advantage or private financial gain;
+       ``(ii) the offense was committed in the furtherance of any 
+     criminal or tortious act in violation of the Constitution or 
+     laws of the United States, or of any State; or
+       ``(iii) the value of the information obtained, or that 
+     would have been obtained if the offense was completed, 
+     exceeds $5,000;
+       ``(3) a fine under this title or imprisonment for not more 
+     than 1 year, or both, in the case of an offense under 
+     subsection (a)(3) of this section;
+       ``(4) a fine under this title or imprisonment of not more 
+     than 20 years, or both, in the case of an offense under 
+     subsection (a)(4) of this section;
+       ``(5)(A) except as provided in subparagraph (D), a fine 
+     under this title, imprisonment for not more than 20 years, or 
+     both, in the case of an offense under subsection (a)(5)(A) of 
+     this section, if the offense caused--
+       ``(i) loss to 1 or more persons during any 1-year period 
+     (and, for purposes of an investigation, prosecution, or other 
+     proceeding brought by the United States only, loss resulting 
+     from a related course of conduct affecting 1 or more other 
+     protected computers) aggregating at least $5,000 in value;
+       ``(ii) the modification or impairment, or potential 
+     modification or impairment, of the medical examination, 
+     diagnosis, treatment, or care of 1 or more individuals;
+       ``(iii) physical injury to any person;
+       ``(iv) a threat to public health or safety;
+       ``(v) damage affecting a computer used by, or on behalf of, 
+     an entity of the United States Government in furtherance of 
+     the administration of justice, national defense, or national 
+     security; or
+       ``(vi) damage affecting 10 or more protected computers 
+     during any 1-year period;
+       ``(B) a fine under this title, imprisonment for not more 
+     than 10 years, or both, in the case of an offense under 
+     subsection (a)(5)(B), if the offense caused a harm provided 
+     in clause (i) through (vi) of subparagraph (A) of this 
+     subsection;
+       ``(C) if the offender attempts to cause or knowingly or 
+     recklessly causes death from conduct in violation of 
+     subsection (a)(5)(A), a fine under this title, imprisonment 
+     for any term of years or for life, or both; or
+       ``(D) a fine under this title, imprisonment for not more 
+     than 1 year, or both, for any other offense under subsection 
+     (a)(5);
+       ``(6) a fine under this title or imprisonment for not more 
+     than 10 years, or both, in the case of an offense under 
+     subsection (a)(6) of this section; or
+       ``(7) a fine under this title or imprisonment for not more 
+     than 10 years, or both, in the case of an offense under 
+     subsection (a)(7) of this section..''.
+
+[[Page 1720]]
+
+
+
+     SEC. 4. TRAFFICKING IN PASSWORDS.
+
+       Section 1030(a) of title 18, United States Code, is amended 
+     by striking paragraph (6) and inserting the following:
+       ``(6) knowingly and with intent to defraud traffics (as 
+     defined in section 1029) in--
+       ``(A) any password or similar information or means of 
+     access through which a protected computer as defined in 
+     subparagraphs (A) and (B) of subsection (e)(2) may be 
+     accessed without authorization; or
+       ``(B) any means of access through which a protected 
+     computer as defined in subsection (e)(2)(A) may be accessed 
+     without authorization.''.
+
+     SEC. 5. CONSPIRACY AND ATTEMPTED COMPUTER FRAUD OFFENSES.
+
+       Section 1030(b) of title 18, United States Code, is amended 
+     by inserting ``for the completed offense'' after ``punished 
+     as provided''.
+
+     SEC. 6. CRIMINAL AND CIVIL FORFEITURE FOR FRAUD AND RELATED 
+                   ACTIVITY IN CONNECTION WITH COMPUTERS.
+
+       Section 1030 of title 18, United States Code, is amended by 
+     striking subsections (i) and (j) and inserting the following:
+       ``(i) Criminal Forfeiture.--
+       ``(1) The court, in imposing sentence on any person 
+     convicted of a violation of this section, or convicted of 
+     conspiracy to violate this section, shall order, in addition 
+     to any other sentence imposed and irrespective of any 
+     provision of State law, that such person forfeit to the 
+     United States--
+       ``(A) such person's interest in any property, real or 
+     personal, that was used, or intended to be used, to commit or 
+     facilitate the commission of such violation; and
+       ``(B) any property, real or personal, constituting or 
+     derived from any gross proceeds, or any property traceable to 
+     such property, that such person obtained, directly or 
+     indirectly, as a result of such violation.
+       ``(2) The criminal forfeiture of property under this 
+     subsection, including any seizure and disposition of the 
+     property, and any related judicial or administrative 
+     proceeding, shall be governed by the provisions of section 
+     413 of the Comprehensive Drug Abuse Prevention and Control 
+     Act of 1970 (21 U.S.C. 853), except subsection (d) of that 
+     section.
+       ``(j) Civil Forfeiture.--
+       ``(1) The following shall be subject to forfeiture to the 
+     United States and no property right, real or personal, shall 
+     exist in them:
+       ``(A) Any property, real or personal, that was used, or 
+     intended to be used, to commit or facilitate the commission 
+     of any violation of this section, or a conspiracy to violate 
+     this section.
+       ``(B) Any property, real or personal, constituting or 
+     derived from any gross proceeds obtained directly or 
+     indirectly, or any property traceable to such property, as a 
+     result of the commission of any violation of this section, or 
+     a conspiracy to violate this section.
+       ``(2) Seizures and forfeitures under this subsection shall 
+     be governed by the provisions in chapter 46 of title 18, 
+     United States Code, relating to civil forfeitures, except 
+     that such duties as are imposed on the Secretary of the 
+     Treasury under the customs laws described in section 981(d) 
+     of title 18, United States Code, shall be performed by such 
+     officers, agents and other persons as may be designated for 
+     that purpose by the Secretary of Homeland Security or the 
+     Attorney General.''.
+
+     SEC. 7. DAMAGE TO CRITICAL INFRASTRUCTURE COMPUTERS.
+
+       (a) In General.--Chapter 47 of title 18, United States 
+     Code, is amended by inserting after section 1030 the 
+     following:
+
+     ``SEC. 1030A. AGGRAVATED DAMAGE TO A CRITICAL INFRASTRUCTURE 
+                   COMPUTER.
+
+       ``(a) Definitions.--In this section--
+       ``(1) the terms `computer' and `damage' have the meanings 
+     given such terms in section 1030; and
+       ``(2) the term `critical infrastructure computer' means a 
+     computer that manages or controls systems or assets vital to 
+     national defense, national security, national economic 
+     security, public health or safety, or any combination of 
+     those matters, whether publicly or privately owned or 
+     operated, including--
+       ``(A) gas and oil production, storage, and delivery 
+     systems;
+       ``(B) water supply systems;
+       ``(C) telecommunication networks;
+       ``(D) electrical power delivery systems;
+       ``(E) finance and banking systems;
+       ``(F) emergency services;
+       ``(G) transportation systems and services; and
+       ``(H) government operations that provide essential services 
+     to the public.
+       ``(b) Offense.--It shall be unlawful to, during and in 
+     relation to a felony violation of section 1030, intentionally 
+     cause or attempt to cause damage to a critical infrastructure 
+     computer, and such damage results in (or, in the case of an 
+     attempt, would, if completed have resulted in) the 
+     substantial impairment--
+       ``(1) of the operation of the critical infrastructure 
+     computer; or
+       ``(2) of the critical infrastructure associated with the 
+     computer.
+       ``(c) Penalty.--Any person who violates subsection (b) 
+     shall be fined under this title, imprisoned for not less than 
+     3 years nor more than 20 years, or both.
+       ``(d) Consecutive Sentence.--Notwithstanding any other 
+     provision of law--
+       ``(1) a court shall not place on probation any person 
+     convicted of a violation of this section;
+       ``(2) except as provided in paragraph (4), no term of 
+     imprisonment imposed on a person under this section shall run 
+     concurrently with any other term of imprisonment, including 
+     any term of imprisonment imposed on the person under any 
+     other provision of law, including any term of imprisonment 
+     imposed for the felony violation section 1030;
+       ``(3) in determining any term of imprisonment to be imposed 
+     for a felony violation of section 1030, a court shall not in 
+     any way reduce the term to be imposed for such crime so as to 
+     compensate for, or otherwise take into account, any separate 
+     term of imprisonment imposed or to be imposed for a violation 
+     of this section; and
+       ``(4) a term of imprisonment imposed on a person for a 
+     violation of this section may, in the discretion of the 
+     court, run concurrently, in whole or in part, only with 
+     another term of imprisonment that is imposed by the court at 
+     the same time on that person for an additional violation of 
+     this section, provided that such discretion shall be 
+     exercised in accordance with any applicable guidelines and 
+     policy statements issued by the United States Sentencing 
+     Commission pursuant to section 994 of title 28.''.
+       (b) Technical and Conforming Amendment.--The table of 
+     sections for chapter 47 of title 18, United States Code, is 
+     amended by inserting after the item relating to section 1030 
+     the following:
+
+``Sec. 1030A. Aggravated damage to a critical infrastructure 
+              computer.''.
+
+     SEC. 8. LIMITATION ON ACTIONS INVOLVING UNAUTHORIZED USE.
+
+       Section 1030(e)(6) of title 18, United States Code, is 
+     amended by striking ``alter;'' and inserting ``alter, but 
+     does not include access in violation of a contractual 
+     obligation or agreement, such as an acceptable use policy or 
+     terms of service agreement, with an Internet service 
+     provider, Internet website, or non-government employer, if 
+     such violation constitutes the sole basis for determining 
+     that access to a protected computer is unauthorized;''.
+                                 ______
+                                 
+      By Mrs. HAGAN:
+  S. 2113. A bill to empower the Food and Drug Administration to ensure 
+a clear and effective pathway that will encourage innovative products 
+to benefit patients and improve public health; to the Committee on 
+Health, Education, Labor, and Pensions.
+  Mrs. HAGAN. Mr. President, today I am proud to introduce the 
+Transforming the Regulatory Environment to Accelerate Access to 
+Treatments, TREAT, Act.
+  This bill empowers the Food and Drug Administration to ensure 
+consistent processes and a clear and effective pathway that will 
+encourage the development of innovative treatments to benefit patients, 
+particularly subpopulations and those with rare diseases, and improve 
+the public health.
+  Without question, the FDA plays a critical role in helping to ensure 
+that new medicines are safe and effective. At the same time, by 
+promoting investment in and development of innovative treatments for 
+unmet medical needs, the FDA can positively influence our national 
+strategy to identify and treat serious and life-threatening diseases 
+and improve the quality of life for millions of Americans.
+  In order for FDA to accomplish this goal, however, Congress needs to 
+give the agency the tools necessary to transcend existing barriers, 
+reform its processes, and provide greater clarity, consistency, and 
+transparency to industry.
+  The bill accomplishes this in three ways.
+  First, it provides the FDA with the authorities and tools that are 
+reflective of the agency's responsibilities and that are necessary to 
+ensure maximum operational excellence by updating FDA's mission 
+statement and creating a management review board.
+  Second, it advances regulatory science and innovation within FDA to 
+ensure that evaluations of innovative treatments, therapies, and 
+diagnostics are conducted by those who have the best available 
+knowledge. To do this, the bill creates a chief innovation officer and 
+chief medical policy officers, and expands participation on advisory 
+committees by those experts most familiar with the disease being 
+considered.
+  Finally, the bill promotes the utilization of modern scientific tools 
+and methodologies to ensure patients have timely access to innovative 
+products by creating a clinical informatics coordinator, providing more 
+information to drug sponsors when an application has
+
+[[Page 1721]]
+
+not been approved, and enhancing and codifying the accelerated approval 
+process.
+  In the nearly 2 decades since the accelerated approval mechanism was 
+established by FDA to more expeditiously approve treatments, advances 
+in medical sciences, including genomics, molecular biology, and 
+bioinformatics, have provided scientists with an unprecedented 
+understanding of the underlying biological mechanisms and pathogenesis 
+of disease.
+  A new generation of modern, targeted, personalized medicines is 
+currently under development to treat serious and life-threatening 
+diseases. Some apply drug development strategies based on biomarkers or 
+pharmacogenomics, predictive toxicology, clinical trial enrichment 
+techniques, and novel clinical trial designs, such as adaptive clinical 
+trials that can be altered based on observed patient outcomes in the 
+interim.
+  In order to ensure these scientific advances are translated into 
+treatments that benefit patients, Congress should allow FDA to 
+implement a more effective process for the expedited development and 
+review of innovative new medicines intended to address unmet medical 
+needs for serious or life-threatening diseases or conditions.
+  FDA is already doing this, to some extent. However, application of 
+the accelerated approval process has been somewhat limited, largely to 
+HIV and oncology drugs, and inconsistently applied to other disease 
+targets. For example, a 2011 report by the National Organization for 
+Rare Disorders compared the approval process for 135 non-cancer orphan 
+therapies approved by FDA from 1983 through June 2010. The report found 
+that 45 went through the conventional approval process; 32 were 
+approved with some sort of administrative flexibility; and 58 were 
+approved on a case-by-case flexibility process. This report illustrates 
+that while FDA does have the authority to approve these treatments with 
+some flexibility, there does not appear to be uniformity or consistency 
+in employing this flexibility.
+  The TREAT Act allows FDA to tap into modern scientific advances by 
+using a broad range of surrogate or clinical endpoints and modern 
+scientific tools earlier in the drug development cycle, when 
+appropriate, to approve treatments for patients. Employing these modern 
+scientific tools may result in fewer, smaller, or shorter clinical 
+trials for the intended patient population or targeted subpopulation 
+without compromising or altering FDA's existing high standards for the 
+approval of drugs.
+  It is the patients suffering from these serious and life-threatening 
+diseases that benefit from expedited access to safe and effective 
+innovative therapies. For the 30 million Americans living with rare 
+diseases, new advances in science and medicine cannot come fast enough. 
+That is why I am proud that this bill has the support of the National 
+Organization for Rare Disorders (NORD) and Friends of Cancer Research. 
+The TREAT Act provides FDA with the tools needed to modernize its 
+processes and encourage the development of innovative products to 
+benefit patients, particularly subpopulations and those with rare 
+diseases.
+  I urge my other colleagues to join us in supporting this important 
+bill.
+
+                          ____________________
+```
