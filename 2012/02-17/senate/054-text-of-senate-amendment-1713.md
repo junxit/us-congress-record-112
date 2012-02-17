@@ -1,0 +1,1016 @@
+---
+granule: CREC-2012-02-17-pt1-PgS919
+date: 2012-02-17
+edition: CREC
+section: SENATE
+page: S919
+citation: 158 Cong. Rec. S919
+---
+
+# Text of Senate Amendment 1713
+
+**Speaking:** Hatch, Orrin G. (H000338) [R-UT]
+
+```
+  SA 1713. Mr. HATCH submitted an amendment intended to be proposed by 
+him to the bill S. 1813, to reauthorize Federal-aid highway and highway 
+safety construction programs, and for other purposes; which was ordered 
+to lie on the table; as follows:
+
+       Strike titles II and III of division D and insert the 
+     following:
+
+                      TITLE II--REVENUE PROVISIONS
+
+     SEC. 40201. TRANSFER FROM LEAKING UNDERGROUND STORAGE TANK 
+                   TRUST FUND TO HIGHWAY TRUST FUND.
+
+       (a) In General.--Subsection (c) of section 9508 of the 
+     Internal Revenue Code of 1986 is amended--
+       (1) by striking ``Amounts'' and inserting:
+       ``(1) In general.--Except as provided in paragraph (2), 
+     amounts'', and
+       (2) by adding at the end the following new paragraph:
+       ``(2) Transfer to highway trust fund.--Out of amounts in 
+     the Leaking Underground Storage Tank Trust Fund there is 
+     hereby appropriated $3,000,000,000 to be transferred under 
+     section 9503(f)(3) to the Highway Trust Fund.''.
+       (b) Transfer to Highway Trust Fund.--
+       (1) In general.--Subsection (f) of section 9503 of the 
+     Internal Revenue Code of 1986 is amended by inserting after 
+     paragraph (2) the following new paragraph:
+       ``(3) Increase in fund balance.--There is hereby 
+     transferred to the Highway Trust Fund amounts appropriated 
+     from the Leaking Underground Storage Tank Trust Fund under 
+     section 9508(c)(2).''.
+       (2) Conforming amendments.--Paragraph (4) of section 
+     9503(f) of such Code is amended--
+       (A) by inserting ``or transferred'' after ``appropriated'', 
+     and
+       (B) by striking ``appropriated'' in the heading thereof.
+
+     SEC. 40202. PORTION OF LEAKING UNDERGROUND STORAGE TANK TRUST 
+                   FUND FINANCING RATE TRANSFERRED TO HIGHWAY 
+                   TRUST FUND.
+
+       (a) In General.--Subsection (b) of section 9503 of the 
+     Internal Revenue Code of 1986 is amended by inserting after 
+     paragraph (2) the following new paragraph:
+       ``(3) Portion of leaking underground storage tank trust 
+     fund financing rate.--There are hereby appropriated to the 
+     Highway Trust Fund amounts equivalent to one-third of the 
+     taxes received in the Treasury under--
+       ``(A) section 4041(d) (relating to additional taxes on 
+     motor fuels),
+       ``(B) section 4081 (relating to tax on gasoline, diesel 
+     fuel, and kerosene) to the extent attributable to the Leaking 
+     Underground Storage Tank Trust Fund financing rate under such 
+     section, and
+       ``(C) section 4042 (relating to tax on fuel used in 
+     commercial transportation on inland
+
+[[Page S920]]
+
+     waterways) to the extent attributable to the Leaking 
+     Underground Storage Tank Trust Fund financing rate under such 
+     section.
+
+     For purposes of this paragraph, there shall not be taken into 
+     account the taxes imposed by sections 4041 and 4081 on diesel 
+     fuel sold for use or used as fuel in a diesel-powered 
+     boat.''.
+       (b) Conforming Amendments.--
+       (1) Paragraphs (1), (2), and (3) of section 9508(b) of the 
+     Internal Revenue Code of 1986 are each amended by inserting 
+     ``two-thirds of the'' before ``taxes''.
+       (2) Paragraph (4) of section 9503(b) of such Code is 
+     amended by striking subparagraphs (A) and (B) and by 
+     redesignating subparagraphs (C) and (D) as subparagraphs (A) 
+     and (B), respectively.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to taxes received after the date of the enactment 
+     of this Act.
+
+     SEC. 40203. INTERNAL REVENUE SERVICE LEVIES AND THRIFT 
+                   SAVINGS PLAN ACCOUNTS.
+
+       Section 8437(e)(3) of title 5, United States Code, is 
+     amended by inserting ``, the enforcement of a Federal tax 
+     levy as provided in section 6331 of the Internal Revenue Code 
+     of 1986,'' after ``(42 U.S.C. 659)''.
+
+     SEC. 40204. RESCISSION OF FUNDS FOR THE ADVANCED TECHNOLOGY 
+                   VEHICLES MANUFACTURING INCENTIVE PROGRAM.
+
+       Effective on the date of enactment of this Act, there are 
+     rescinded all unobligated balances of the amounts made 
+     available for the advanced technology vehicles manufacturing 
+     incentive program established under section 136 of the Energy 
+     Independence and Security Act of 2007 (42 U.S.C. 17013).
+
+     SEC. 40205. RESCISSION OF UNSPENT FEDERAL FUNDS.
+
+       (a) In General.--Notwithstanding any other provision of 
+     law, of all available unobligated funds on the date of 
+     enactment of this Act, there are rescinded such amounts as 
+     are equal to the difference between--
+       (1) the amounts necessary to carry out this Act; and
+       (2) the total amount of offsets provided by this title 
+     (other than this section) and division E.
+       (b) Implementation.--
+       (1) In general.--The Director of the Office of Management 
+     and Budget shall determine and identify--
+       (A) from which appropriation accounts the rescission under 
+     subsection (a) shall be made; and
+       (B) the amount of such rescission that shall be made to 
+     each account identified under subparagraph (A).
+       (2) Report.--Not later than 60 days after the date of 
+     enactment of this Act, the Director of the Office of 
+     Management and Budget shall submit a report to the Secretary 
+     of the Treasury and Congress of the accounts and amounts 
+     determined and identified for rescission under paragraph (1).
+       (c) Exception.--This section shall not apply to the 
+     unobligated funds of the Department of Defense, the 
+     Department of Homeland Security, or the Department of 
+     Veterans Affairs.
+
+     SEC. 40206. DEPOSIT IN HIGHWAY TRUST FUND.
+
+       There shall be deposited in the Highway Trust Fund
+       (1) any amounts rescinded under this title; and
+       (2) any amounts collected by the United States under this 
+     title or division E (including an amendment made by this 
+     title or division E).
+
+                     DIVISION E--ENERGY DEVELOPMENT
+
+             TITLE I--EXPANDING OFFSHORE ENERGY DEVELOPMENT
+
+     SEC. 51001. OUTER CONTINENTAL SHELF LEASING PROGRAM.
+
+       Section 18(a) of the Outer Continental Shelf Lands Act (43 
+     U.S.C. 1344(a)) is amended by adding at the end the 
+     following:
+       ``(5)(A) In each oil and gas leasing program under this 
+     section, the Secretary shall make available for leasing and 
+     conduct lease sales including--
+       ``(i) at least 50 percent of the available unleased acreage 
+     within each outer Continental Shelf planning area considered 
+     to have the largest undiscovered, technically recoverable oil 
+     and gas resources (on a total btu basis) based upon the most 
+     recent national geologic assessment of the outer Continental 
+     Shelf, with an emphasis on offering the most geologically 
+     prospective parts of the planning area; and
+       ``(ii) any State subdivision of an outer Continental Shelf 
+     planning area that the Governor of the State that represents 
+     that subdivision requests be made available for leasing.
+       ``(B) In this paragraph the term `available unleased 
+     acreage' means that portion of the outer Continental Shelf 
+     that is not under lease at the time of a proposed lease sale, 
+     and that has not otherwise been made unavailable for leasing 
+     by law.
+       ``(6)(A) In the 2012 2017 5-year oil and gas leasing 
+     program, the Secretary shall make available for leasing any 
+     outer Continental Shelf planning areas that--
+       ``(i) are estimated to contain more than 2,500,000,000 
+     barrels of oil; or
+       ``(ii) are estimated to contain more than 7,500,000,000,000 
+     cubic feet of natural gas.
+       ``(B) To determine the planning areas described in 
+     subparagraph (A), the Secretary shall use the document 
+     entitled `Minerals Management Service Assessment of 
+     Undiscovered Technically Recoverable Oil and Gas Resources of 
+     the Nation's Outer Continental Shelf, 2006'.''.
+
+     SEC. 51002. DOMESTIC OIL AND NATURAL GAS PRODUCTION GOAL.
+
+       Section 18(b) of the Outer Continental Shelf Lands Act (43 
+     U.S.C. 1344(b)) is amended to read as follows:
+       ``(b) Domestic Oil and Natural Gas Production Goal.--
+       ``(1) In general.--In developing a 5-year oil and gas 
+     leasing program, and subject to paragraph (2), the Secretary 
+     shall determine a domestic strategic production goal for the 
+     development of oil and natural gas as a result of that 
+     program. Such goal shall be--
+       ``(A) the best estimate of the possible increase in 
+     domestic production of oil and natural gas from the outer 
+     Continental Shelf;
+       ``(B) focused on meeting domestic demand for oil and 
+     natural gas and reducing the dependence of the United States 
+     on foreign energy; and
+       ``(C) focused on the production increases achieved by the 
+     leasing program at the end of the 15-year period beginning on 
+     the effective date of the program.
+       ``(2) 2012 2017 program goal.--For purposes of the 2012 
+     2017 5-year oil and gas leasing program, the production goal 
+     referred to in paragraph (1) shall be an increase by 2027 
+     of--
+       ``(A) no less than 3,000,000 barrels in the amount of oil 
+     produced per day; and
+       ``(B) no less than 10,000,000,000 cubic feet in the amount 
+     of natural gas produced per day.
+       ``(3) Reporting.--The Secretary shall report annually, 
+     beginning at the end of the 5-year period for which the 
+     program applies, to the Committee on Natural Resources of the 
+     House of Representatives and the Committee on Energy and 
+     Natural Resources of the Senate on the progress of the 
+     program in meeting the production goal. The Secretary shall 
+     identify in the report projections for production and any 
+     problems with leasing, permitting, or production that will 
+     prevent meeting the goal.''.
+
+            TITLE II--CONDUCTING PROMPT OFFSHORE LEASE SALES
+
+     SEC. 52001. REQUIREMENT TO CONDUCT PROPOSED OIL AND GAS LEASE 
+                   SALE 216 IN THE CENTRAL GULF OF MEXICO.
+
+       (a) In General.--The Secretary of the Interior shall 
+     conduct offshore oil and gas Lease Sale 216 under section 8 
+     of the Outer Continental Shelf Lands Act (33 U.S.C. 1337) as 
+     soon as practicable, but not later than 4 months after the 
+     date of enactment of this Act.
+       (b) Environmental Review.--For the purposes of that lease 
+     sale, the Environmental Impact Statement for the 2007 2012 5 
+     Year OUTER CONTINENTAL SHELF Plan and the Multi-Sale 
+     Environmental Impact Statement are deemed to satisfy the 
+     requirements of the National Environmental Policy Act of 1969 
+     (42 U.S.C. 4321 et seq.).
+
+     SEC. 52002. REQUIREMENT TO CONDUCT PROPOSED OIL AND GAS LEASE 
+                   SALE 220 ON THE OUTER CONTINENTAL SHELF 
+                   OFFSHORE VIRGINIA.
+
+       (a) In General.--Notwithstanding the inclusion of Lease 
+     Sale 220 in the fiscal years 2012 through fiscal year 2017 5 
+     Year Outer Continental Shelf Oil and Gas Leasing Program, the 
+     Secretary shall conduct offshore oil and gas Lease Sale 220 
+     under section 8 of the Outer Continental Shelf Lands Act (33 
+     U.S.C. 1337) as soon as practicable, but not later than one 
+     year after the date of enactment of this Act.
+       (b) Prohibition on Conflicts With Military Operations.--No 
+     person may engage in any exploration, development, or 
+     production of oil or natural gas off the coast of Virginia 
+     that would conflict with any military operation, as 
+     determined in accordance with the Memorandum of Agreement 
+     between the Department of Defense and the Department of the 
+     Interior on Mutual Concerns on the Outer Continental Shelf 
+     signed July 20, 1983, and any revision or replacement for 
+     that agreement that is agreed to by the Secretary of Defense 
+     and the Secretary of the Interior after that date but before 
+     the date of issuance of the lease under which such 
+     exploration, development, or production is conducted.
+
+     SEC. 52003. REQUIREMENT TO CONDUCT PROPOSED OIL AND GAS LEASE 
+                   SALE 222 IN THE CENTRAL GULF OF MEXICO.
+
+       (a) In General.--The Secretary shall conduct offshore oil 
+     and gas Lease Sale 222 under section 8 of the Outer 
+     Continental Shelf Lands Act (33 U.S.C. 1337) as soon as 
+     practicable, but not later than September 1, 2012.
+       (b) Environmental Review.--For the purposes of that lease 
+     sale, the Environmental Impact Statement for the 2007 2012 5 
+     Year OUTER CONTINENTAL SHELF Plan and the Multi-Sale 
+     Environmental Impact Statement are deemed to satisfy the 
+     requirements of the National Environmental Policy Act of 1969 
+     (42 U.S.C. 4321 et seq.).
+
+     SEC. 52004. ADDITIONAL LEASES.
+
+       Section 18 of the Outer Continental Shelf Lands Act (43 
+     U.S.C. 1344) is amended by adding at the end the following:
+       ``(i) Additional Lease Sales.--In addition to lease sales 
+     in accordance with a leasing program in effect under this 
+     section, the Secretary may hold lease sales for areas 
+     identified by the Secretary to have the greatest potential 
+     for new oil and gas development as a result of local support, 
+     new seismic findings, or nomination by interested persons.''.
+
+     SEC. 52005. DEFINITIONS.
+
+       In this title:
+
+[[Page S921]]
+
+       (1) The term ``Environmental Impact Statement for the 2007 
+     2012 5 Year OUTER CONTINENTAL SHELF Plan'' means the Final 
+     Environmental Impact Statement for Outer Continental Shelf 
+     Oil and Gas Leasing Program: 2007 2012 (April 2007) prepared 
+     by the Secretary.
+       (2) The term ``Multi-Sale Environmental Impact Statement'' 
+     means the Environmental Impact Statement for Proposed Western 
+     Gulf of Mexico OUTER CONTINENTAL SHELF Oil and Gas Lease 
+     Sales 204, 207, 210, 215, and 218, and Proposed Central Gulf 
+     of Mexico OUTER CONTINENTAL SHELF Oil and Gas Lease Sales 
+     205, 206, 208, 213, 216, and 222 (September 2008) prepared by 
+     the Secretary.
+       (3) The term ``Secretary'' means the Secretary of the 
+     Interior.
+
+                TITLE III--LEASING IN NEW OFFSHORE AREAS
+
+     SEC. 53001. LEASING IN THE EASTERN GULF OF MEXICO.
+
+       Section 104 of division C of the Tax Relief and Health Care 
+     Act of 2006 (Public Law 109 432; 120 Stat. 3003) is repealed.
+
+     SEC. 53002. LEASING OFFSHORE OF TERRITORIES OF THE UNITED 
+                   STATES.
+
+       Section 2(a) of the Outer Continental Shelf Lands Act (43 
+     U.S.C. 1331) is amended, by inserting after ``control'' the 
+     following: ``or lying within the United States' exclusive 
+     economic zone and the Continental Shelf adjacent to the 
+     Commonwealth of Puerto Rico, the Commonwealth of the Northern 
+     Mariana Islands, the Virgin Islands, American Samoa, Guam, or 
+     the other territories of the United States''.
+
+           TITLE IV--OUTER CONTINENTAL SHELF REVENUE SHARING
+
+     SEC. 54001. DISPOSITION OF OUTER CONTINENTAL SHELF REVENUES.
+
+       Section 9 of the Outer Continental Shelf Lands Act (43 
+     U.S.C. 1338) is amended--
+       (1) in the existing text--
+       (A) in the first sentence, by striking ``All rentals,'' and 
+     inserting the following:
+       ``(c) Disposition of Revenue Under Old Leases.--All 
+     rentals,''; and
+       (B) in subsection (c) (as designated by the amendment made 
+     by subparagraph (A) of this paragraph), by striking ``for the 
+     period from June 5, 1950, to date, and thereafter'' and 
+     inserting ``in the period beginning June 5, 1950, and ending 
+     on the date of enactment of the Moving Ahead for Progress in 
+     the 21st Century Act'';
+       (2) by adding after subsection (c) (as so designated) the 
+     following:
+       ``(d)  New Leasing Revenues Defined.--In this section the 
+     term `new leasing revenues' means amounts received by the 
+     United States as bonuses, rents, and royalties under leases 
+     for oil and gas, wind, tidal, or other energy exploration, 
+     development, and production that are awarded under this Act 
+     after the date of enactment of the Moving Ahead for Progress 
+     in the 21st Century Act.''; and
+       (3) by inserting before subsection (c) (as so designated) 
+     the following:
+       ``(a) Payment of New Leasing Revenues to Coastal States, 
+     Generally.--
+       ``(1) In general.--Of the amount of new leasing revenues 
+     received by the United States each fiscal year that is 
+     described in paragraph (2), 37.5 percent shall be allocated 
+     and paid in accordance with subsection (b) to coastal States 
+     that are affected States with respect to the leases under 
+     which those revenues are received by the United States.
+       ``(2) Phase-in.--The amount of new leasing revenues 
+     referred to in paragraph (1) is the sum determined by 
+     adding--
+       ``(A) 35 percent of new leasing revenues received by the 
+     United States in the fiscal year under--
+       ``(i) leases awarded under the first leasing program under 
+     section 18(a) that takes effect after the date of enactment 
+     of the Moving Ahead for Progress in the 21st Century Act; and
+       ``(ii) other leases issued as a result of the enactment of 
+     that Act;
+       ``(B) 70 percent of new leasing revenues received by the 
+     United States in the fiscal year under leases awarded under 
+     the second such leasing program; and
+       ``(C) 100 percent of new leasing revenues received by the 
+     United States under leases awarded under the third such 
+     leasing program or any such leasing program taking effect 
+     thereafter.
+       ``(b) Allocation of Payments to Coastal States.--
+       ``(1) In general.--The amount of new leasing revenues 
+     received by the United States with respect to a leased tract 
+     that are required to be paid to coastal States in accordance 
+     with this subsection each fiscal year shall be allocated 
+     among and paid to such States that are within 200 miles of 
+     the leased tract, in amounts that are inversely proportional 
+     to the respective distances between the point on the 
+     coastline of each such State that is closest to the 
+     geographic center of the lease tract, as determined by the 
+     Secretary.
+       ``(2) Minimum and maximum allocation.--The amount allocated 
+     to a coastal State under paragraph (1) each fiscal year with 
+     respect to a leased tract shall be--
+       ``(A) in the case of a coastal State that is the nearest 
+     State to the geographic center of the leased tract, not less 
+     than 25 percent of the total amounts allocated with respect 
+     to the leased tract; and
+       ``(B) in the case of any other coastal State, not less than 
+     10 percent, and not more than 15 percent, of the total 
+     amounts allocated with respect to the leased tract.
+       ``(3) Administration.--Amounts allocated to a coastal State 
+     under this subsection--
+       ``(A) shall be available to the State without further 
+     appropriation;
+       ``(B) shall remain available until expended; and
+       ``(C) shall be in addition to any other amounts available 
+     to the State under this Act.
+       ``(4) Use of funds.--
+       ``(A) In general.--Except as provided in subparagraph (B), 
+     a coastal State may use funds allocated and paid to it under 
+     this subsection for any purpose as determined by State law.
+       ``(B) Restriction on use for matching.--Funds allocated and 
+     paid to a coastal State under this subsection may not be used 
+     as matching funds for any other Federal program.''.
+
+                         TITLE V--COASTAL PLAIN
+
+     SEC. 55001. DEFINITIONS.
+
+       In this title:
+       (1) Coastal plain.--The term ``Coastal Plain'' means that 
+     area described in appendix I to part 37 of title 50, Code of 
+     Federal Regulations.
+       (2) Peer reviewed.--The term ``peer reviewed'' means 
+     reviewed--
+       (A) by individuals chosen by the National Academy of 
+     Sciences with no contractual relationship with or those who 
+     have an application for a grant or other funding pending with 
+     the Federal agency with leasing jurisdiction; or
+       (B) if individuals described in subparagraph (A) are not 
+     available, by the top individuals in the specified biological 
+     fields, as determined by the National Academy of Sciences.
+       (3) Secretary.--The term ``Secretary'', except as otherwise 
+     provided, means the Secretary of the Interior or the 
+     Secretary's designee.
+
+     SEC. 55002. LEASING PROGRAM FOR LANDS WITHIN THE COASTAL 
+                   PLAIN.
+
+       (a) In General.--The Secretary shall take such actions as 
+     are necessary--
+       (1) to establish and implement, in accordance with this 
+     title and acting through the Director of the Bureau of Land 
+     Management in consultation with the Director of the United 
+     States Fish and Wildlife Service, a competitive oil and gas 
+     leasing program that will result in the exploration, 
+     development, and production of the oil and gas resources of 
+     the Coastal Plain; and
+       (2) to administer the provisions of this title through 
+     regulations, lease terms, conditions, restrictions, 
+     prohibitions, stipulations, and other provisions that ensure 
+     the oil and gas exploration, development, and production 
+     activities on the Coastal Plain will result in no significant 
+     adverse effect on fish and wildlife, their habitat, 
+     subsistence resources, and the environment, including, in 
+     furtherance of this goal, by requiring the application of the 
+     best commercially available technology for oil and gas 
+     exploration, development, and production to all exploration, 
+     development, and production operations under this title in a 
+     manner that ensures the receipt of fair market value by the 
+     public for the mineral resources to be leased.
+       (b) Repeal of Existing Restriction.--
+       (1) Repeal.--Section 1003 of the Alaska National Interest 
+     Lands Conservation Act of 1980 (16 U.S.C. 3143) is repealed.
+       (2) Conforming amendment.--The table of contents in section 
+     1 of such Act is amended by striking the item relating to 
+     section 1003.
+       (c) Compliance With Requirements Under Certain Other 
+     Laws.--
+       (1) Compatibility.--For purposes of the National Wildlife 
+     Refuge System Administration Act of 1966 (16 U.S.C. 668dd et 
+     seq.), the oil and gas leasing program and activities 
+     authorized by this section in the Coastal Plain are deemed to 
+     be compatible with the purposes for which the Arctic National 
+     Wildlife Refuge was established, and no further findings or 
+     decisions are required to implement this determination.
+       (2) Adequacy of the department of the interior's 
+     legislative environmental impact statement.--The ``Final 
+     Legislative Environmental Impact Statement'' (April 1987) on 
+     the Coastal Plain prepared pursuant to section 1002 of the 
+     Alaska National Interest Lands Conservation Act of 1980 (16 
+     U.S.C. 3142) and section 102(2)(C) of the National 
+     Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) is 
+     deemed to satisfy the requirements under the National 
+     Environmental Policy Act of 1969 that apply with respect to 
+     prelease activities under this title, including actions 
+     authorized to be taken by the Secretary to develop and 
+     promulgate the regulations for the establishment of a leasing 
+     program authorized by this title before the conduct of the 
+     first lease sale.
+       (3) Compliance with nepa for other actions.--Before 
+     conducting the first lease sale under this title, the 
+     Secretary shall prepare an environmental impact statement 
+     under the National Environmental Policy Act of 1969 with 
+     respect to the actions authorized by this title that are not 
+     referred to in paragraph (2). Notwithstanding any other law, 
+     the Secretary is not required to identify nonleasing 
+     alternative courses of action or to analyze the environmental 
+     effects of such courses of action. The Secretary shall only 
+     identify a preferred action for such leasing and a single 
+     leasing alternative, and analyze the environmental effects 
+     and potential mitigation measures for those two alternatives. 
+     The identification of the preferred action and related 
+     analysis for the first lease sale under this title shall be 
+     completed within 18 months after the date of enactment of 
+     this Act. The Secretary shall only consider
+
+[[Page S922]]
+
+     public comments that specifically address the Secretary's 
+     preferred action and that are filed within 20 days after 
+     publication of an environmental analysis. Notwithstanding any 
+     other law, compliance with this paragraph is deemed to 
+     satisfy all requirements for the analysis and consideration 
+     of the environmental effects of proposed leasing under this 
+     title.
+       (d) Relationship to State and Local Authority.--Nothing in 
+     this title shall be considered to expand or limit State and 
+     local regulatory authority.
+       (e) Special Areas.--
+       (1) In general.--The Secretary, after consultation with the 
+     State of Alaska, the city of Kaktovik, and the North Slope 
+     Borough, may designate up to a total of 45,000 acres of the 
+     Coastal Plain as a Special Area if the Secretary determines 
+     that the Special Area is of such unique character and 
+     interest so as to require special management and regulatory 
+     protection. The Secretary shall designate as such a Special 
+     Area the Sadlerochit Spring area, comprising approximately 
+     4,000 acres.
+       (2) Management.--Each such Special Area shall be managed so 
+     as to protect and preserve the area's unique and diverse 
+     character including its fish, wildlife, and subsistence 
+     resource values.
+       (3) Exclusion from leasing or surface occupancy.--The 
+     Secretary may exclude any Special Area from leasing. If the 
+     Secretary leases a Special Area, or any part thereof, for 
+     purposes of oil and gas exploration, development, production, 
+     and related activities, there shall be no surface occupancy 
+     of the lands comprising the Special Area.
+       (4) Directional drilling.--Notwithstanding the other 
+     provisions of this subsection, the Secretary may lease all or 
+     a portion of a Special Area under terms that permit the use 
+     of horizontal drilling technology from sites on leases tracts 
+     located outside the Special Area.
+       (f) Limitation on Closed Areas.--The Secretary's sole 
+     authority to close lands within the Coastal Plain to oil and 
+     gas leasing and to exploration, development, and production 
+     is that set forth in this title.
+       (g) Regulations.--
+       (1) In general.--The Secretary shall prescribe such 
+     regulations as may be necessary to carry out this title, 
+     including regulations relating to protection of the fish and 
+     wildlife, their habitat, subsistence resources, and 
+     environment of the Coastal Plain, by no later than 15 months 
+     after the date of enactment of this Act.
+       (2) Revision of regulations.--The Secretary shall, through 
+     a rule making conducted in accordance with section 553 of 
+     title 5, United States Code, periodically review and, if 
+     appropriate, revise the regulations issued under subsection 
+     (a) to reflect a preponderance of the best available 
+     scientific evidence that has been peer reviewed and obtained 
+     by following appropriate, documented scientific procedures, 
+     the results of which can be repeated using those same 
+     procedures.
+
+     SEC. 55003. LEASE SALES.
+
+       (a) In General.--Lands may be leased under this title to 
+     any person qualified to obtain a lease for deposits of oil 
+     and gas under the Mineral Leasing Act (30 U.S.C. 181 et 
+     seq.).
+       (b) Procedures.--The Secretary shall, by regulation and no 
+     later than 180 days after the date of enactment of this 
+     title, establish procedures for--
+       (1) receipt and consideration of sealed nominations for any 
+     area of the Coastal Plain for inclusion in, or exclusion (as 
+     provided in subsection (c)) from, a lease sale;
+       (2) the holding of lease sales after such nomination 
+     process; and
+       (3) public notice of and comment on designation of areas to 
+     be included in, or excluded from, a lease sale.
+       (c) Lease Sale Bids.--Lease sales under this title may be 
+     conducted through an Internet leasing program, if the 
+     Secretary determines that such a system will result in 
+     savings to the taxpayer, an increase in the number of bidders 
+     participating, and higher returns than oral bidding or a 
+     sealed bidding system.
+       (d) Sale Acreages and Schedule.--
+       (1) The Secretary shall offer for lease under this title 
+     those tracts the Secretary considers to have the greatest 
+     potential for the discovery of hydrocarbons, taking into 
+     consideration nominations received pursuant to subsection 
+     (b)(1).
+       (2) The Secretary shall offer for lease under this title no 
+     less than 50,000 acres for lease within 22 months after the 
+     date of the enactment of this Act.
+       (3) The Secretary shall offer for lease under this title no 
+     less than an additional 50,000 acres at 6-, 12-, and 18-month 
+     intervals following offering under paragraph (2).
+       (4) The Secretary shall conduct four additional sales under 
+     the same terms and schedule no later than two years after the 
+     date of the last sale under paragraph (3), if sufficient 
+     interest in leasing exists to warrant, in the Secretary's 
+     judgment, the conduct of such sales.
+       (5) The Secretary shall evaluate the bids in each sale and 
+     issue leases resulting from such sales, within 90 days after 
+     the date of the completion of such sale.
+
+     SEC. 55004. GRANT OF LEASES BY THE SECRETARY.
+
+       (a) In General.--The Secretary may grant to the highest 
+     responsible qualified bidder in a lease sale conducted under 
+     section 55003 any lands to be leased on the Coastal Plain 
+     upon payment by the such bidder of such bonus as may be 
+     accepted by the Secretary.
+       (b) Subsequent Transfers.--No lease issued under this title 
+     may be sold, exchanged, assigned, sublet, or otherwise 
+     transferred except with the approval of the Secretary. Prior 
+     to any such approval the Secretary shall consult with, and 
+     give due consideration to the views of, the Attorney General.
+
+     SEC. 55005. LEASE TERMS AND CONDITIONS.
+
+       (a) In General.--An oil or gas lease issued under this 
+     title shall--
+       (1) provide for the payment of a royalty of not less than 
+     12\1/2\ percent in amount or value of the production removed 
+     or sold under the lease, as determined by the Secretary under 
+     the regulations applicable to other Federal oil and gas 
+     leases;
+       (2) provide that the Secretary may close, on a seasonal 
+     basis, portions of the Coastal Plain to exploratory drilling 
+     activities as necessary to protect caribou calving areas and 
+     other species of fish and wildlife based on a preponderance 
+     of the best available scientific evidence that has been peer 
+     reviewed and obtained by following appropriate, documented 
+     scientific procedures, the results of which can be repeated 
+     using those same procedures;
+       (3) require that the lessee of lands within the Coastal 
+     Plain shall be fully responsible and liable for the 
+     reclamation of lands within the Coastal Plain and any other 
+     Federal lands that are adversely affected in connection with 
+     exploration, development, production, or transportation 
+     activities conducted under the lease and within the Coastal 
+     Plain by the lessee or by any of the subcontractors or agents 
+     of the lessee;
+       (4) provide that the lessee may not delegate or convey, by 
+     contract or otherwise, the reclamation responsibility and 
+     liability to another person without the express written 
+     approval of the Secretary;
+       (5) provide that the standard of reclamation for lands 
+     required to be reclaimed under this title shall be, as nearly 
+     as practicable, a condition capable of supporting the uses 
+     which the lands were capable of supporting prior to any 
+     exploration, development, or production activities, or upon 
+     application by the lessee, to a higher or better use as 
+     certified by the Secretary;
+       (6) contain terms and conditions relating to protection of 
+     fish and wildlife, their habitat, subsistence resources, and 
+     the environment as required pursuant to section 55002(a)(2);
+       (7) provide that the lessee, its agents, and its 
+     contractors use best efforts to provide a fair share, as 
+     determined by the level of obligation previously agreed to in 
+     the 1974 agreement implementing section 29 of the Federal 
+     Agreement and Grant of Right of Way for the Operation of the 
+     Trans-Alaska Pipeline, of employment and contracting for 
+     Alaska Natives and Alaska Native corporations from throughout 
+     the State;
+       (8) prohibit the export of oil produced under the lease; 
+     and
+       (9) contain such other provisions as the Secretary 
+     determines necessary to ensure compliance with this title and 
+     the regulations issued under this title.
+
+     SEC. 55006. COASTAL PLAIN ENVIRONMENTAL PROTECTION.
+
+       (a) No Significant Adverse Effect Standard To Govern 
+     Authorized Coastal Plain Activities.--The Secretary shall, 
+     consistent with the requirements of section 55002, administer 
+     this title through regulations, lease terms, conditions, 
+     restrictions, prohibitions, stipulations, and other 
+     provisions that--
+       (1) ensure the oil and gas exploration, development, and 
+     production activities on the Coastal Plain will result in no 
+     significant adverse effect on fish and wildlife, their 
+     habitat, and the environment;
+       (2) require the application of the best commercially 
+     available technology for oil and gas exploration, 
+     development, and production on all new exploration, 
+     development, and production operations; and
+       (3) ensure that the maximum amount of surface acreage 
+     covered by production and support facilities, including 
+     airstrips and any areas covered by gravel berms or piers for 
+     support of pipelines, does not exceed 10,000 acres on the 
+     Coastal Plain for each 100,000 acres of area leased.
+       (b) Site-Specific Assessment and Mitigation.--The Secretary 
+     shall also require, with respect to any proposed drilling and 
+     related activities, that--
+       (1) a site-specific analysis be made of the probable 
+     effects, if any, that the drilling or related activities will 
+     have on fish and wildlife, their habitat, subsistence 
+     resources, and the environment;
+       (2) a plan be implemented to avoid, minimize, and mitigate 
+     (in that order and to the extent practicable) any significant 
+     adverse effect identified under paragraph (1); and
+       (3) the development of the plan shall occur after 
+     consultation with the agency or agencies having jurisdiction 
+     over matters mitigated by the plan.
+       (c) Regulations To Protect Coastal Plain Fish and Wildlife 
+     Resources, Subsistence Users, and the Environment.--Before 
+     implementing the leasing program authorized by this title, 
+     the Secretary shall prepare and promulgate regulations, lease 
+     terms, conditions, restrictions, prohibitions, stipulations, 
+     and other measures designed to ensure that the activities 
+     undertaken on the Coastal Plain under this title are 
+     conducted in a manner consistent with the purposes and 
+     environmental requirements of this title.
+
+[[Page S923]]
+
+       (d) Compliance With Federal and State Environmental Laws 
+     and Other Requirements.--The proposed regulations, lease 
+     terms, conditions, restrictions, prohibitions, and 
+     stipulations for the leasing program under this title shall 
+     require compliance with all applicable provisions of Federal 
+     and State environmental law, and shall also require the 
+     following:
+       (1) Standards at least as effective as the safety and 
+     environmental mitigation measures set forth in items 1 
+     through 29 at pages 167 through 169 of the ``Final 
+     Legislative Environmental Impact Statement'' (April 1987) on 
+     the Coastal Plain.
+       (2) Seasonal limitations on exploration, development, and 
+     related activities, where necessary, to avoid significant 
+     adverse effects during periods of concentrated fish and 
+     wildlife breeding, denning, nesting, spawning, and migration 
+     based on a preponderance of the best available scientific 
+     evidence that has been peer reviewed and obtained by 
+     following appropriate, documented scientific procedures, the 
+     results of which can be repeated using those same procedures.
+       (3) That exploration activities, except for surface 
+     geological studies, be limited to the period between 
+     approximately November 1 and May 1 each year and that 
+     exploration activities shall be supported, if necessary, by 
+     ice roads, winter trails with adequate snow cover, ice pads, 
+     ice airstrips, and air transport methods, except that such 
+     exploration activities may occur at other times if the 
+     Secretary finds that such exploration will have no 
+     significant adverse effect on the fish and wildlife, their 
+     habitat, and the environment of the Coastal Plain.
+       (4) Design safety and construction standards for all 
+     pipelines and any access and service roads, that--
+       (A) minimize, to the maximum extent possible, adverse 
+     effects upon the passage of migratory species such as 
+     caribou; and
+       (B) minimize adverse effects upon the flow of surface water 
+     by requiring the use of culverts, bridges, and other 
+     structural devices.
+       (5) Prohibitions on general public access and use on all 
+     pipeline access and service roads.
+       (6) Stringent reclamation and rehabilitation requirements, 
+     consistent with the standards set forth in this title, 
+     requiring the removal from the Coastal Plain of all oil and 
+     gas development and production facilities, structures, and 
+     equipment upon completion of oil and gas production 
+     operations, except that the Secretary may exempt from the 
+     requirements of this paragraph those facilities, structures, 
+     or equipment that the Secretary determines would assist in 
+     the management of the Arctic National Wildlife Refuge and 
+     that are donated to the United States for that purpose.
+       (7) Appropriate prohibitions or restrictions on access by 
+     all modes of transportation.
+       (8) Appropriate prohibitions or restrictions on sand and 
+     gravel extraction.
+       (9) Consolidation of facility siting.
+       (10) Appropriate prohibitions or restrictions on use of 
+     explosives.
+       (11) Avoidance, to the extent practicable, of springs, 
+     streams, and river systems; the protection of natural surface 
+     drainage patterns, wetlands, and riparian habitats; and the 
+     regulation of methods or techniques for developing or 
+     transporting adequate supplies of water for exploratory 
+     drilling.
+       (12) Avoidance or minimization of air traffic-related 
+     disturbance to fish and wildlife.
+       (13) Treatment and disposal of hazardous and toxic wastes, 
+     solid wastes, reserve pit fluids, drilling muds and cuttings, 
+     and domestic wastewater, including an annual waste management 
+     report, a hazardous materials tracking system, and a 
+     prohibition on chlorinated solvents, in accordance with 
+     applicable Federal and State environmental law.
+       (14) Fuel storage and oil spill contingency planning.
+       (15) Research, monitoring, and reporting requirements.
+       (16) Field crew environmental briefings.
+       (17) Avoidance of significant adverse effects upon 
+     subsistence hunting, fishing, and trapping by subsistence 
+     users.
+       (18) Compliance with applicable air and water quality 
+     standards.
+       (19) Appropriate seasonal and safety zone designations 
+     around well sites, within which subsistence hunting and 
+     trapping shall be limited.
+       (20) Reasonable stipulations for protection of cultural and 
+     archeological resources.
+       (21) All other protective environmental stipulations, 
+     restrictions, terms, and conditions deemed necessary by the 
+     Secretary.
+       (e) Considerations.--In preparing and promulgating 
+     regulations, lease terms, conditions, restrictions, 
+     prohibitions, and stipulations under this section, the 
+     Secretary shall consider the following:
+       (1) The stipulations and conditions that govern the 
+     National Petroleum Reserve-Alaska leasing program, as set 
+     forth in the 1999 Northeast National Petroleum Reserve-Alaska 
+     Final Integrated Activity Plan/Environmental Impact 
+     Statement.
+       (2) The environmental protection standards that governed 
+     the initial Coastal Plain seismic exploration program under 
+     parts 37.31 to 37.33 of title 50, Code of Federal 
+     Regulations.
+       (3) The land use stipulations for exploratory drilling on 
+     the KIC ASRC private lands that are set forth in appendix 2 
+     of the August 9, 1983, agreement between Arctic Slope 
+     Regional Corporation and the United States.
+       (f) Facility Consolidation Planning.--
+       (1) In general.--The Secretary shall, after providing for 
+     public notice and comment, prepare and update periodically a 
+     plan to govern, guide, and direct the siting and construction 
+     of facilities for the exploration, development, production, 
+     and transportation of Coastal Plain oil and gas resources.
+       (2) Objectives.--The plan shall have the following 
+     objectives:
+       (A) Avoiding unnecessary duplication of facilities and 
+     activities.
+       (B) Encouraging consolidation of common facilities and 
+     activities.
+       (C) Locating or confining facilities and activities to 
+     areas that will minimize impact on fish and wildlife, their 
+     habitat, and the environment.
+       (D) Utilizing existing facilities wherever practicable.
+       (E) Enhancing compatibility between wildlife values and 
+     development activities.
+       (g) Access to Public Lands.--The Secretary shall--
+       (1) manage public lands in the Coastal Plain subject to of 
+     section 811 of the Alaska National Interest Lands 
+     Conservation Act (16 U.S.C. 3121); and
+       (2) ensure that local residents shall have reasonable 
+     access to public lands in the Coastal Plain for traditional 
+     uses.
+
+     SEC. 55007. EXPEDITED JUDICIAL REVIEW.
+
+       (a) Filing of Complaint.--
+       (1) Deadline.--Subject to paragraph (2), any complaint 
+     seeking judicial review--
+       (A) of any provision of this title shall be filed by not 
+     later than 1 year after the date of enactment of this Act; or
+       (B) of any action of the Secretary under this title shall 
+     be filed--
+       (i) except as provided in clause (ii), within the 90-day 
+     period beginning on the date of the action being challenged; 
+     or
+       (ii) in the case of a complaint based solely on grounds 
+     arising after such period, within 90 days after the 
+     complainant knew or reasonably should have known of the 
+     grounds for the complaint.
+       (2) Venue.--Any complaint seeking judicial review of any 
+     provision of this title or any action of the Secretary under 
+     this title may be filed only in the United States Court of 
+     Appeals for the District of Columbia.
+       (3) Limitation on scope of certain review.--Judicial review 
+     of a Secretarial decision to conduct a lease sale under this 
+     title, including the environmental analysis thereof, shall be 
+     limited to whether the Secretary has complied with this title 
+     and shall be based upon the administrative record of that 
+     decision. The Secretary's identification of a preferred 
+     course of action to enable leasing to proceed and the 
+     Secretary's analysis of environmental effects under this 
+     title shall be presumed to be correct unless shown otherwise 
+     by clear and convincing evidence to the contrary.
+       (b) Limitation on Other Review.--Actions of the Secretary 
+     with respect to which review could have been obtained under 
+     this section shall not be subject to judicial review in any 
+     civil or criminal proceeding for enforcement.
+       (c) Limitation on Attorneys' Fees and Court Costs.--No 
+     person seeking judicial review of any action under this title 
+     shall receive payment from the Federal Government for their 
+     attorneys' fees and other court costs, including under any 
+     provision of law enacted by the Equal Access to Justice Act 
+     (5 U.S.C. 504 note).
+
+     SEC. 55008. TREATMENT OF REVENUES.
+
+       Notwithstanding any other provision of law, 50 percent of 
+     the amount of bonus, rental, and royalty revenues from 
+     Federal oil and gas leasing and operations authorized under 
+     this title shall be deposited in the Treasury.
+
+     SEC. 55009. RIGHTS-OF-WAY ACROSS THE COASTAL PLAIN.
+
+       (a) In General.--The Secretary shall issue rights-of-way 
+     and easements across the Coastal Plain for the transportation 
+     of oil and gas produced under leases under this title--
+       (1) except as provided in paragraph (2), under section 28 
+     of the Mineral Leasing Act (30 U.S.C. 185), without regard to 
+     title XI of the Alaska National Interest Lands Conservation 
+     Act (16 U.S.C. 3161 et seq.); and
+       (2) under title XI of the Alaska National Interest Lands 
+     Conservation Act (30 U.S.C. 3161 et seq.), for access 
+     authorized by sections 1110 and 1111 of that Act (16 U.S.C. 
+     3170 and 3171).
+       (b) Terms and Conditions.--The Secretary shall include in 
+     any right-of-way or easement issued under subsection (a) such 
+     terms and conditions as may be necessary to ensure that 
+     transportation of oil and gas does not result in a 
+     significant adverse effect on the fish and wildlife, 
+     subsistence resources, their habitat, and the environment of 
+     the Coastal Plain, including requirements that facilities be 
+     sited or designed so as to avoid unnecessary duplication of 
+     roads and pipelines.
+       (c) Regulations.--The Secretary shall include in 
+     regulations under section 55002(g) provisions granting 
+     rights-of-way and easements described in subsection (a) of 
+     this section.
+
+     SEC. 55010. CONVEYANCE.
+
+       In order to maximize Federal revenues by removing clouds on 
+     title to lands and clarifying land ownership patterns within 
+     the Coastal Plain, the Secretary, notwithstanding section 
+     1302(h)(2) of the Alaska National Interest Lands Conservation 
+     Act (16 U.S.C. 3192(h)(2)), shall convey--
+       (1) to the Kaktovik Inupiat Corporation the surface estate 
+     of the lands described in paragraph 1 of Public Land Order 
+     6959, to the
+
+[[Page S924]]
+
+     extent necessary to fulfill the Corporation's entitlement 
+     under sections 12 and 14 of the Alaska Native Claims 
+     Settlement Act (43 U.S.C. 1611 and 1613) in accordance with 
+     the terms and conditions of the Agreement between the 
+     Department of the Interior, the United States Fish and 
+     Wildlife Service, the Bureau of Land Management, and the 
+     Kaktovik Inupiat Corporation dated January 22, 1993; and
+       (2) to the Arctic Slope Regional Corporation the remaining 
+     subsurface estate to which it is entitled pursuant to the 
+     August 9, 1983, agreement between the Arctic Slope Regional 
+     Corporation and the United States of America.
+
+               TITLE VI--OIL SHALE AND TAR SANDS LEASING
+
+     SEC. 56001. EFFECTIVENESS OF OIL SHALE REGULATIONS, 
+                   AMENDMENTS TO RESOURCE MANAGEMENT PLANS, AND 
+                   RECORD OF DECISION.
+
+       (a) Regulations.--Notwithstanding any other law or 
+     regulation to the contrary, the final regulations regarding 
+     oil shale management published by the Bureau of Land 
+     Management on November 18, 2008 (73 Fed. Reg. 69,414) are 
+     deemed to satisfy all legal and procedural requirements under 
+     any law, including the Federal Land Policy and Management Act 
+     of 1976 (43 U.S.C. 1701 et seq.), the Endangered Species Act 
+     of 1973 (16 U.S.C. 1531 et seq.), the National Environmental 
+     Policy Act of 1969 (42 U.S.C. 4321 et seq.), and the Energy 
+     Policy Act of 2005 (Public Law 109 58), and the Secretary of 
+     the Interior shall implement those regulations, including the 
+     oil shale and tar sands leasing program authorized by the 
+     regulations, without any other administrative action 
+     necessary.
+       (b) Amendments to Resource Management Plans and Record of 
+     Decision.--Notwithstanding any other law or regulation to the 
+     contrary, the November 17, 2008 U.S. Bureau of Land 
+     Management Approved Resource Management Plan Amendments/
+     Record of Decision for Oil Shale and Tar Sands Resources to 
+     Address Land Use Allocations in Colorado, Utah, and Wyoming 
+     and Final Programmatic Environmental Impact Statement are 
+     deemed to satisfy all legal and procedural requirements under 
+     any law, including the Federal Land Policy and Management Act 
+     of 1976 (43 U.S.C. 1701 et seq.), the Endangered Species Act 
+     of 1973 (16 U.S.C. 1531 et seq.), the National Environmental 
+     Policy Act of 1969 (42 U.S.C. 4321 et seq.), and the Energy 
+     Policy Act of 2005 (Public Law 109 58), and the Secretary of 
+     the Interior shall implement the oil shale and tar sands 
+     leasing program authorized by the regulations referred to in 
+     subsection (a) in those areas covered by the resource 
+     management plans amended by such amendments, and covered by 
+     such record of decision, without any other administrative 
+     action necessary.
+
+     SEC. 56002. OIL SHALE AND TAR SANDS LEASING.
+
+       (a) Additional Research and Development Lease Sales.--The 
+     Secretary of the Interior shall hold a lease sale within 180 
+     days after the date of enactment of this Act offering an 
+     additional 10 parcels for lease for research, development, 
+     and demonstration of oil shale or tar sands resources, under 
+     the terms offered in the solicitation of bids for such leases 
+     published on January 15, 2009 (74 Fed. Reg. 10).
+       (b) Commercial Lease Sales.--No later than January 1, 2016, 
+     the Secretary of the Interior shall hold no less than 5 
+     separate commercial lease sales in areas considered to have 
+     the most potential for oil shale or tar sands development, as 
+     determined by the Secretary, in areas nominated through 
+     public comment. Each lease sale shall be for an area of not 
+     less than 25,000 acres, and in multiple lease blocs.
+       (c) Reduced Payments To Ensure Production.--The Secretary 
+     of the Interior may temporarily reduce royalties, fees, 
+     rentals, bonus, or other payments for leases of Federal lands 
+     for the development and production of oil shale resources as 
+     necessary to incentivize and encourage development of such 
+     resources, if the Secretary determines that the royalties, 
+     fees, rentals, bonus bids, and other payments otherwise 
+     authorized by law are hindering production of such resources.
+                                 ______
+```
