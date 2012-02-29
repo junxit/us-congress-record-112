@@ -1,0 +1,976 @@
+---
+granule: CREC-2012-02-29-pt1-PgS1151-3
+date: 2012-02-29
+edition: CREC
+section: SENATE
+page: S1151
+citation: 158 Cong. Rec. S1151
+---
+
+# TEXT OF AMENDMENTS
+
+**Measures:** S. 1813
+
+```
+                           TEXT OF AMENDMENTS
+
+  SA 1751. Mr. SCHUMER submitted an amendment intended to be proposed 
+to amendment SA 1730 proposed by Mr. Reid to the bill S. 1813, to 
+reauthorize Federal-aid highway and highway safety construction 
+programs, and for other purposes; which was ordered to lie on the 
+table; as follows:
+
+       On page 586, line 10, strike ``Section'' and insert the 
+     following:
+       (a) Safety Reviews.--Section
+       On page 586, line 20, insert ``through a simple and 
+     understandable rating system that allows motorcoach 
+     passengers to compare the safety performance of motorcoach 
+     operators'' before the semicolon.
+       On page 587, line 25, strike ``shall reassess'' and insert 
+     the following ``shall--
+       ``(A) reassess
+       On page 588, line 2, strike the period at the end and 
+     insert the following: ``; and
+       ``(B) annually assess the safety fitness of certain 
+     providers of motorcoach services that serve primarily urban 
+     areas with high passenger loads.
+       On page 588, between lines 7 and 8, insert the following:
+       (b) Disclosure of Safety Performance Ratings of Motorcoach 
+     Services and Operations.--
+       (1) In general.--Subchapter I of chapter 141 of title 49, 
+     United States Code, is amended by adding at the end the 
+     following:
+
+     ``Sec.  14105. Safety performance ratings of motorcoach 
+       services and operations
+
+       ``(a) Definitions.--In this section:
+       ``(1) Motorcoach.--
+       ``(A) In general.--Except as provided in subparagraph (B), 
+     the term `motorcoach' has the meaning given to the term 
+     `over-the-road bus' in section 3038(a)(3) of the 
+     Transportation Equity Act for the 21st Century (49 U.S.C. 
+     5310 note).
+       ``(B) Exclusions.--The term `motorcoach' does not include--
+       ``(i) a bus used in public transportation that is provided 
+     by a State or local government; or
+       ``(ii) a school bus (as defined in section 30125(a)(1)), 
+     including a multifunction school activity bus.
+       ``(2) Motorcoach services and operations.--The term 
+     `motorcoach services and operations' means passenger 
+     transportation by a motorcoach for compensation.
+       ``(3) Point of sale.--The term `point of sale' means any 
+     website, telephonic transaction, or ticket window through 
+     which the sale of transportation occurs or where broker 
+     service is provided.
+       ``(b) Display of Motor Carrier Identification.--
+       ``(1) Requirement.--Beginning on the date that is 1 year 
+     after the date of the enactment of the Moving Ahead for 
+     Progress in the 21st Century Act, no person may sell or offer 
+     to sell interstate motorcoach transportation services, or 
+     provide broker services related to such transportation, 
+     unless the person, at the point of sale or provision of 
+     broker services, conspicuously displays or, in the case of 
+     telephonic transactions, verbally provides--
+       ``(A) the legal name and USDOT number of the single motor 
+     carrier responsible for the transportation and for compliance 
+     with the Federal Motor Carrier Safety Regulations under parts 
+     350 through 399 of title 49, Code of Federal Regulations; and
+       ``(B) the URL for the Federal Motor Carrier Safety 
+     Administration's public website where the Administration has 
+     posted motor carrier and commercial motor vehicle driver 
+     scores in the Safety Measurement System.
+       ``(2) Civil penalties.--A person who violates paragraph (1) 
+     shall be liable for civil penalties to the same extent as a 
+     person who does not prepare a record in the form and manner 
+     prescribed under section 14901(a).
+       ``(c) Rulemaking.--
+       ``(1) In general.--Not later than 2 years after the date on 
+     which the safety fitness determination rule is implemented, 
+     the Secretary shall require, by regulation--
+       ``(A) each motor carrier that owns or leases 1 or more 
+     motorcoaches that transport passengers subject to the 
+     Secretary's jurisdiction under section 13501 to prominently 
+     display the safety fitness rating assigned under section 
+     31144(j)(1)(A)(ii)--
+       ``(i) in each terminal of departure;
+       ``(ii) in the motorcoach and visible from a position 
+     exterior to the vehicle at the point of departure, if the 
+     motorcoach does not depart from a terminal; and
+       ``(iii) at all points of sale for such motorcoach services 
+     and operations; and
+       ``(B) any person who sells tickets for motorcoach services 
+     and operations to display the rating system described in 
+     subparagraph (A) at all points of sale for such motorcoach 
+     services and operations.
+       ``(2) Items included in the rulemaking.--In promulgating 
+     safety performance ratings for motorcoaches pursuant to the 
+     rulemaking required under paragraph (1), the Secretary shall 
+     consider--
+       ``(A) the need and extent to which safety performance 
+     ratings should be made available in languages other than 
+     English; and
+       ``(B) penalties authorized under section 521.
+       ``(3) Insufficient inspections.--Any motor carrier for 
+     which insufficient safety data is available shall display a 
+     label that states that the carrier has sufficiently passed 
+     the preauthorization safety audit required under section 
+     13902(b)(1)(A).
+       ``(d) Effect on State and Local Law.--Nothing in this 
+     section may be construed to preempt a State, or a political 
+     subdivision of a State, from enforcing any requirements 
+     concerning the manner and content of consumer information 
+     provided by motor carriers that are not subject to the 
+     Secretary's jurisdiction under section 13501.''.
+       (2) Clerical amendment.--The analysis of chapter 141 of 
+     title 49, United States Code, is amended by inserting after 
+     the item relating to section 14104 the following:
+
+``Sec. 14105. Safety performance ratings of motorcoach services and 
+              operations.''.
+
+[[Page S1152]]
+
+                                 ______
+                                 
+  SA 1752. Ms. SNOWE (for herself, Mr. Cardin, Ms. Klobuchar, Mr. 
+Rubio, Mr. Rockefeller, Mr. Wicker, Mr. Merkley, Mr. Blumenthal, and 
+Mr. Tester) submitted an amendment intended to be proposed by her to 
+the bill S. 1813, to reauthorize Federal-aid highway and highway safety 
+construction programs, and for other purposes; which was ordered to lie 
+on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. _____. IMPROVING AND EXPEDITING SAFETY ASSESSMENTS IN 
+                   THE COMMERCIAL DRIVER'S LICENSE APPLICATION 
+                   PROCESS FOR MEMBERS AND FORMER MEMBERS OF THE 
+                   ARMED FORCES.
+
+       (a) Study.--
+       (1) In general.--Not later than 90 days after the date of 
+     enactment of this Act, the Secretary of Transportation, in 
+     coordination with the Secretary of Defense, and in 
+     consultation with the States and other relevant stakeholders, 
+     shall commence a study to assess Federal and State 
+     regulatory, economic, and administrative challenges faced by 
+     members and former members of the Armed Forces who received 
+     safety training and operated qualifying motor vehicles during 
+     their service in obtaining commercial driver's licenses (as 
+     defined in section 31301(3) of title 49, United States Code).
+       (2) Requirements.--The study shall--
+       (A) identify written and behind-the-wheel safety training, 
+     qualification standards, knowledge and skills tests, or other 
+     operating experience members of the Armed Forces must meet 
+     that satisfy the minimum standards prescribed by the 
+     Secretary of Transportation for the operation of commercial 
+     motor vehicles under section 31305 of title 49, United States 
+     Code;
+       (B) compare the alcohol and controlled substances testing 
+     requirements for members of the Armed Forces with those 
+     required for holders of a commercial driver's license;
+       (C) evaluate the cause of delays in reviewing applications 
+     for commercial driver's licenses of members and former 
+     members of the Armed Forces;
+       (D) identify duplicative application costs;
+       (E) identify residency, domicile, training and testing 
+     requirements, and other safety or health assessments that 
+     affect or delay the issuance of commercial driver's licenses 
+     to members and former members of the Armed Forces; and
+       (F) other factors the Secretary deems appropriate to meet 
+     the requirements of the study.
+       (b) Report.--
+       (1) In general.--Not later than 180 days after the 
+     commencement of the study under subsection (a), the Secretary 
+     of Transportation shall submit to the Committee on Commerce, 
+     Science, and Transportation of the Senate and the Committee 
+     on Transportation and Infrastructure of the House of 
+     Representatives a report that provides findings and 
+     recommendations on the study.
+       (2) Elements.--The report under paragraph (1) shall 
+     include--
+       (A) findings related to the study requirements under 
+     subsection (a)(2);
+       (B) recommendations for the Federal and State legislative, 
+     regulatory, and administrative actions necessary to address 
+     challenges identified in subparagraph (A); and
+       (C) a plan to implement the recommendations for which the 
+     Secretary of Transportation has authority.
+       (c) Implementation.--Upon completion of the report under 
+     subsection (b), the Secretary of Transportation shall 
+     implement the plan under subsection (b)(2)(C).
+                                 ______
+                                 
+  SA 1753. Ms. KLOBUCHAR (for herself and Mr. Alexander) submitted an 
+amendment intended to be proposed by her to the bill S. 1813, to 
+reauthorize Federal-aid highway and highway safety construction 
+programs, and for other purposes; which was ordered to lie on the 
+table; as follows:
+
+       On page 326, strike lines 9 through 17, and insert the 
+     following:
+       ``(A) In general.--Each State shall provide to--
+       ``(i) nonmetropolitan local elected officials an 
+     opportunity to participate in accordance with subparagraph 
+     (B)(i); and
+       ``(ii) affected individuals, public agencies, and other 
+     interested parties notice and a reasonable opportunity to 
+     comment on the statewide transportation plan and statewide 
+     transportation improvement program.
+       ``(B) Methods.--In carrying out this paragraph, the State 
+     shall--
+       ``(i) develop and document a consultative process to carry 
+     out subparagraph (A)(i) that is separate and discrete from 
+     the public involvement process developed under clause 
+     (ii);''.
+       Beginning on page 326, line 18, through page 327, line 14, 
+     redesignate clauses (i) through (iv) as clauses (ii) through 
+     (v), respectively.
+       On page 348, lines 14 and 15, strike ``applicable Federal 
+     law'' and insert ``this section and applicable Federal law 
+     (including rules and regulations)''.
+       On page 348, line 16, insert ``not later than 180 days 
+     after the date of enactment of the MAP-21 and'' after 
+     ``certify,''.
+       On page 348, line 17, insert ``thereafter'' after 
+     ``years''.
+       On page 349, strike lines 20 through 23 and insert the 
+     following:
+       ``(4) Public involvement.--
+       ``(A) In general.--In making a determination regarding 
+     certification under this subsection, the Secretary shall 
+     ensure that a State--
+       ``(i) reviews and solicits comments from nonmetropolitan 
+     local elected officials and other interested parties for a 
+     period of not less than 60 days regarding the effectiveness 
+     of the consultation process and any proposed modifications to 
+     the process as part of the certification under paragraph 
+     (1)(B); and
+       ``(ii) provides an opportunity for other public involvement 
+     that is appropriate to the State under review.
+       ``(B) Modifications.--
+       ``(i) In general.--The State may adopt any modification to 
+     the consultation process proposed under subparagraph (A).
+       ``(ii) Rationale for nonadoption.--If the State elects not 
+     to adopt a proposed modification under subparagraph (A), the 
+     State shall make publicly available a description of the 
+     rationale of the State for not adopting the proposed 
+     modification.''.
+                                 ______
+                                 
+  SA 1754. Mr. ROCKEFELLER (for himself and Mr. Manchin) submitted an 
+amendment intended to be proposed by him to the bill S. 1813, to 
+reauthorize Federal-aid highway and highway safety construction 
+programs, and for other purposes; which was ordered to lie on the 
+table; as follows:
+
+       On page 89, line 7, insert ``and for local access roads 
+     under section 14501 of title 40'' after ``subsection (c)''.
+       On page 93, line 8, strike the closing quotation marks and 
+     the following period.
+       On page 93, between lines 8 and 9, insert the following:
+       ``(i) Appalachian Development Highway System.--
+       ``(1) In general.--For each of fiscal years 2012 and 2013, 
+     of the amounts apportioned to a State under section 
+     104(b)(2), the State shall obligate for the Appalachian 
+     development highway system not less the amount that was 
+     apportioned by the Appalachian Regional Commission to the 
+     State for the construction of designated corridors of the 
+     Appalachian development highway system in the State for 
+     fiscal year 2010.
+       ``(2) Access roads.--Funds obligated under subsection 
+     (c)(1) shall be available to construct highways and access 
+     roads in accordance with section 1116 of the Safe, 
+     Accountable, Flexible, Efficient Transportation Equity Act: A 
+     Legacy for Users (119 Stat. 1177).''.
+                                 ______
+                                 
+  SA 1755. Mr. ROCKEFELLER (for himself and Mr. Manchin) submitted an 
+amendment intended to be proposed by him to the bill S. 1813, to 
+reauthorize Federal-aid highway and highway safety construction 
+programs, and for other purposes; which was ordered to lie on the 
+table; as follows:
+
+       On page 89, line 7, insert ``and for local access roads 
+     under section 14501 of title 40'' after ``subsection (c)''.
+       On page 93, line 8, strike the closing quotation marks and 
+     the following period.
+       On page 93, between lines 8 and 9, insert the following:
+       ``(i) Appalachian Development Highway System.--
+       ``(1) In general.--Not later than 1 year after the date of 
+     enactment of the MAP 21, each State represented on the 
+     Appalachian Regional Commission shall establish a plan for 
+     the completion of the designated corridors of the Appalachian 
+     development highway system within the State, including annual 
+     performance targets, with a target completion date of not 
+     later than January 1, 2035.
+       ``(2) Performance targets.--If the Secretary determines 
+     that a State has not met or made significant progress toward 
+     meeting the performance targets of the State established by 
+     the plan of the State under paragraph (1) for a fiscal year, 
+     the State shall obligate for the subsequent fiscal year for 
+     construction of the Appalachian development highway system 
+     within the State an amount equal to at least 105 percent of 
+     the amount of funds the State received for the Appalachian 
+     development highway system for fiscal year 2009.
+       ``(3) Access roads.--Funds obligated under subsection 
+     (c)(1) shall be available to construct highways and access 
+     roads in accordance with section 1116 of the Safe, 
+     Accountable, Flexible, Efficient Transportation Equity Act: A 
+     Legacy for Users (119 Stat. 1177).''.
+                                 ______
+                                 
+  SA 1756. Mr. DeMINT submitted an amendment intended to be proposed by 
+him to the bill S. 1813, to reauthorize Federal-aid highway and highway 
+safety construction programs, and for other purposes; which was ordered 
+to lie on the table; as follows:
+
+       Beginning on page 1, strike line 4 and all that follows 
+     through the end of the bill and, at the appropriate place, 
+     insert the following:
+
+     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This Act may be cited as the 
+     ``Transportation Empowerment Act''.
+       (b) Table of Contents.--The table of contents of this Act 
+     is as follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Findings and purposes.
+Sec. 3. Limitation on expenditures.
+
+[[Page S1153]]
+
+Sec. 3. Funding for core highway programs.
+Sec. 4. Infrastructure Special Assistance Fund.
+Sec. 5. Return of excess tax receipts to States.
+Sec. 6. Reduction in taxes on gasoline, diesel fuel, kerosene, and 
+              special fuels funding Highway Trust Fund.
+Sec. 7. Report to Congress.
+Sec. 8. Effective date contingent on certification of deficit 
+              neutrality.
+
+     SEC. 2. FINDINGS AND PURPOSES.
+
+       (a) Findings.--Congress finds that--
+       (1) the objective of the Federal highway program has been 
+     to facilitate the construction of a modern freeway system 
+     that promotes efficient interstate commerce by connecting all 
+     States;
+       (2) that objective has been attained, and the Interstate 
+     System connecting all States is near completion;
+       (3) each State has the responsibility of providing an 
+     efficient transportation network for the residents of the 
+     State;
+       (4) each State has the means to build and operate a network 
+     of transportation systems, including highways, that best 
+     serves the needs of the State;
+       (5) each State is best capable of determining the needs of 
+     the State and acting on those needs;
+       (6) the Federal role in highway transportation has, over 
+     time, usurped the role of the States by taxing motor fuels 
+     used in the States and then distributing the proceeds to the 
+     States based on the Federal Government's perceptions of what 
+     is best for the States;
+       (7) the Federal Government has used the Federal motor fuels 
+     tax revenues to force all States to take actions that are not 
+     necessarily appropriate for individual States;
+       (8) the Federal distribution, review, and enforcement 
+     process wastes billions of dollars on unproductive 
+     activities;
+       (9) Federal mandates that apply uniformly to all 50 States, 
+     regardless of the different circumstances of the States, 
+     cause the States to waste billions of hard-earned tax dollars 
+     on projects, programs, and activities that the States would 
+     not otherwise undertake; and
+       (10) Congress has expressed a strong interest in reducing 
+     the role of the Federal Government by allowing each State to 
+     manage its own affairs.
+       (b) Purposes.--The purposes of this Act are--
+       (1) to return to the individual States maximum 
+     discretionary authority and fiscal responsibility for all 
+     elements of the national surface transportation systems that 
+     are not within the direct purview of the Federal Government;
+       (2) to preserve Federal responsibility for the Dwight D. 
+     Eisenhower National System of Interstate and Defense 
+     Highways;
+       (3) to preserve the responsibility of the Department of 
+     Transportation for--
+       (A) design, construction, and preservation of 
+     transportation facilities on Federal public land;
+       (B) national programs of transportation research and 
+     development and transportation safety; and
+       (C) emergency assistance to the States in response to 
+     natural disasters;
+       (4) to eliminate to the maximum extent practicable Federal 
+     obstacles to the ability of each State to apply innovative 
+     solutions to the financing, design, construction, operation, 
+     and preservation of Federal and State transportation 
+     facilities; and
+       (5) with respect to transportation activities carried out 
+     by States, local governments, and the private sector, to 
+     encourage--
+       (A) competition among States, local governments, and the 
+     private sector; and
+       (B) innovation, energy efficiency, private sector 
+     participation, and productivity.
+
+     SEC. 3. LIMITATION ON EXPENDITURES.
+
+       Notwithstanding any other provision of law, if the 
+     Secretary of Transportation determines for any fiscal year 
+     that the aggregate amount required to carry out 
+     transportation programs and projects under this Act and 
+     amendments made by this Act exceeds the estimated aggregate 
+     amount in the Highway Trust Fund available for those programs 
+     and projects for the fiscal year, each amount made available 
+     for such a program or project shall be reduced by the pro 
+     rata percentage required to reduce the aggregate amount 
+     required to carry out those programs and projects to an 
+     amount equal to that available for those programs and 
+     projects in the Highway Trust Fund for the fiscal year.
+
+     SEC. 4. FUNDING FOR CORE HIGHWAY PROGRAMS.
+
+       (a) In General.--
+       (1) Funding.--For the purpose of carrying out title 23, 
+     United States Code, the following sums are authorized to be 
+     appropriated out of the Highway Trust Fund:
+       (A) Interstate maintenance program.--For the Interstate 
+     maintenance program under section 119 of title 23, United 
+     States Code, $5,200,000,000 for fiscal year 2014, 
+     $5,280,000,000 for fiscal year 2015, $5,360,000,000 for 
+     fiscal year 2016, $5,440,000,000 for fiscal year 2017, and 
+     $5,520,000,000 for fiscal year 2018.
+       (B) Emergency relief.--For emergency relief under section 
+     125 of that title, $100,000,000 for each of fiscal years 2014 
+     through 2018.
+       (C) Interstate bridge program.--For the Interstate bridge 
+     program under section 144 of that title, $2,527,000,000 for 
+     fiscal year 2014, $2,597,000,000 for fiscal year 2015, 
+     $2,667,000,000 for fiscal year 2016, $2,737,000,000 for 
+     fiscal year 2017, and $2,807,000,000 for fiscal year 2018.
+       (D) Federal lands highways program.--
+       (i) Indian reservation roads.--For Indian reservation roads 
+     under section 204 of that title, $470,000,000 for fiscal year 
+     2014, $510,000,000 for fiscal year 2015, $550,000,000 for 
+     fiscal year 2016, $590,000,000 for fiscal year 2017, and 
+     $630,000,000 for fiscal year 2018.
+       (ii) Public lands highways.--For public lands highways 
+     under section 204 of that title, $300,000,000 for fiscal year 
+     2014, $310,000,000 for fiscal year 2015, $320,000,000 for 
+     fiscal year 2016, $330,000,000 for fiscal year 2017, and 
+     $340,000,000 for fiscal year 2018.
+       (iii) Parkways and park roads.--For parkways and park roads 
+     under section 204 of that title, $255,000,000 for fiscal year 
+     2014, $270,000,000 for fiscal year 2015, $285,000,000 for 
+     fiscal year 2016, $300,000,000 for fiscal year 2017, and 
+     $315,000,000 for fiscal year 2018.
+       (iv) Refuge roads.--For refuge roads under section 204 of 
+     that title, $32,000,000 for each of fiscal years 2014 through 
+     2018.
+       (E) Highway safety programs.--
+       (i) In general.--For highway safety programs under section 
+     402 of that title, $170,000,000 for each of fiscal years 2014 
+     through 2018.
+       (ii) Highway safety research and development.--For highway 
+     safety research and development under section 403 of that 
+     title, $35,000,000 for each of fiscal years 2014 through 
+     2018.
+       (F) Surface transportation research.--For cooperative 
+     agreements with nonprofit research organizations to carry out 
+     applied pavement research under section 502 of that title, 
+     $200,000,000 for each of fiscal years 2014 through 2018.
+       (G) Administrative expenses.--For administrative expenses 
+     incurred in carrying out the programs referred to in 
+     subparagraphs (A) through (F), $92,890,000 for fiscal year 
+     2014, $95,040,000 for fiscal year 2015, $97,190,000 for 
+     fiscal year 2016, $99,340,000 for fiscal year 2017, and 
+     $101,490,000 for fiscal year 2018.
+       (2) Transferability of funds.--Section 104 of title 23, 
+     United States Code, is amended by striking subsection (g) and 
+     inserting the following:
+       ``(g) Transferability of Funds.--
+       ``(1) In general.--To the extent that a State determines 
+     that funds made available under this title to the State for a 
+     purpose are in excess of the needs of the State for that 
+     purpose, the State may transfer the excess funds to, and use 
+     the excess funds for, any surface transportation (including 
+     mass transit and rail) purpose in the State.
+       ``(2) Enforcement.--If the Secretary determines that a 
+     State has transferred funds under paragraph (1) to a purpose 
+     that is not a surface transportation purpose as described in 
+     paragraph (1), the amount of the improperly transferred funds 
+     shall be deducted from any amount the State would otherwise 
+     receive from the Highway Trust Fund for the fiscal year that 
+     begins after the date of the determination.''.
+       (3) Federal-aid system.--Section 103(a) of title 23, United 
+     States Code, is amended by striking ``systems are the 
+     Interstate System and the National Highway System'' and 
+     inserting ``system is the Interstate System''.
+       (4) Interstate maintenance program.--Section 104(b) of 
+     title 23, United States Code, is amended by striking 
+     paragraph (4) and inserting the following:
+       ``(4) Interstate maintenance component.--For each of fiscal 
+     years 2014 through 2018, for the Interstate maintenance 
+     program under section 119, 1 percent to the Virgin Islands, 
+     Guam, American Samoa, and the Commonwealth of the Northern 
+     Mariana Islands and the remaining 99 percent apportioned as 
+     follows:
+       ``(A)(i) For each State with an average population density 
+     of 20 persons or fewer per square mile, and each State with a 
+     population of 1,500,000 persons or fewer and with a land area 
+     of 10,000 square miles or less, the greater of--
+       ``(I) a percentage share of apportionments equal to the 
+     percentage for the State described in clause (ii); or
+       ``(II) a share determined under subparagraph (B).
+       ``(ii) The percentage referred to in clause (i)(I) for a 
+     State for a fiscal year shall be the percentage calculated 
+     for the State for fiscal year 2009 under section 105(b) of 
+     title 23, United States Code.
+       ``(B) For each State not described in subparagraph (A), a 
+     share of the apportionments remaining determined in 
+     accordance with the following formula:
+       ``(i) \1/9\ in the ratio that the total rural lane miles in 
+     each State bears to the total rural lane miles in all States 
+     with an average population density greater than 20 persons 
+     per square mile and all States with a population of more than 
+     1,500,000 persons and with a land area of more than 10,000 
+     square miles.
+       ``(ii) \1/9\ in the ratio that the total rural vehicle 
+     miles traveled in each State bears to the total rural vehicle 
+     miles traveled in all States described in clause (i).
+       ``(iii) \2/9\ in the ratio that the total urban lane miles 
+     in each State bears to the total urban lane miles in all 
+     States described in clause (i).
+       ``(iv) \2/9\ in the ratio that the total urban vehicle 
+     miles traveled in each State bears to the total urban vehicle 
+     miles traveled in all States described in clause (i).
+
+[[Page S1154]]
+
+       ``(v) \3/9\ in the ratio that the total diesel fuel used in 
+     each State bears to the total diesel fuel used in all States 
+     described in clause (i).''.
+       (5) Interstate bridge program.--Section 144 of title 23, 
+     United States Code, is amended--
+       (A) in subsection (d)--
+       (i) by inserting ``on the Federal-aid system or described 
+     in subsection (c)(3)'' after ``highway bridge'' each place it 
+     appears; and
+       (ii) by inserting ``on the Federal-aid system or described 
+     in subsection (c)(3)'' after ``highway bridges'' each place 
+     it appears;
+       (B) in the second sentence of subsection (e)--
+       (i) in paragraph (1), by adding ``and'' at the end;
+       (ii) in paragraph (2), by striking the comma at the end and 
+     inserting a period; and
+       (iii) by striking paragraphs (3) and (4);
+       (C) in the first sentence of subsection (k), by inserting 
+     ``on the Federal-aid system or described in subsection 
+     (c)(3)'' after ``any bridge'';
+       (D) in subsection (l)(1), by inserting ``on the Federal-aid 
+     system or described in subsection (c)(3)'' after ``construct 
+     any bridge''; and
+       (E) in the first sentence of subsection (m), by inserting 
+     ``for each of fiscal years 1991 through 2013,'' after ``of 
+     law,''.
+       (6) National defense highways.--Section 311 of title 23, 
+     United States Code, is amended--
+       (A) in the first sentence, by striking ``under subsection 
+     (a) of section 104 of this title'' and inserting ``to carry 
+     out this section''; and
+       (B) by striking the second sentence.
+       (7) Federalization and defederalization of projects.--
+     Notwithstanding any other provision of law, beginning on 
+     October 1, 2013--
+       (A) a highway construction or improvement project shall not 
+     be considered to be a Federal highway construction or 
+     improvement project unless and until a State expends Federal 
+     funds for the construction portion of the project;
+       (B) a highway construction or improvement project shall not 
+     be considered to be a Federal highway construction or 
+     improvement project solely by reason of the expenditure of 
+     Federal funds by a State before the construction phase of the 
+     project to pay expenses relating to the project, including 
+     for any environmental document or design work required for 
+     the project; and
+       (C)(i) a State may, after having used Federal funds to pay 
+     all or a portion of the costs of a highway construction or 
+     improvement project, reimburse the Federal Government in an 
+     amount equal to the amount of Federal funds so expended; and
+       (ii) after completion of a reimbursement described in 
+     clause (i), a highway construction or improvement project 
+     described in that clause shall no longer be considered to be 
+     a Federal highway construction or improvement project.
+       (8) Reporting requirements.--No reporting requirement, 
+     other than a reporting requirement in effect as of the date 
+     of enactment of this Act, shall apply on or after October 1, 
+     2013, to the use of Federal funds for highway projects by a 
+     public-private partnership.
+       (b) Expenditures From Highway Trust Fund.--
+       (1) Expenditures for core programs.--Section 9503(c) of the 
+     Internal Revenue Code of 1986 is amended--
+       (A) in paragraph (1), by striking ``Surface Transportation 
+     Extension Act of 2011, Part II'' and inserting 
+     ``Transportation Empowerment Act'';
+       (B) in paragraph (1), by striking ``April 1, 2012'' and 
+     inserting ``October 1, 2018'';
+       (C) in paragraphs (3)(A)(i), (4)(A), and (5), by striking 
+     ``April 1, 2012'' each place it appears and inserting 
+     ``October 1, 2020''; and
+       (D) in paragraph (2), by striking ``January 1, 2013'' and 
+     inserting ``July 1, 2021''.
+       (2) Amounts available for core program expenditures.--
+     Section 9503 of such Code is amended by adding at the end the 
+     following:
+       ``(g) Core Programs Financing Rate.--For purposes of this 
+     section--
+       ``(1) In general.--Except as provided in paragraph (2)--
+       ``(A) in the case of gasoline and special motor fuels the 
+     tax rate of which is the rate specified in section 
+     4081(a)(2)(A)(i), the core programs financing rate is--
+       ``(i) after September 30, 2013, and before October 1, 2014, 
+     18.3 cents per gallon,
+       ``(ii) after September 30, 2014, and before October 1, 
+     2015, 9.6 cents per gallon,
+       ``(iii) after September 30, 2015, and before October 1, 
+     2016, 6.4 cents per gallon,
+       ``(iv) after September 30, 2016, and before October 1, 
+     2017, 5.0 cents per gallon, and
+       ``(v) after September 30, 2017, 3.7 cents per gallon, and
+       ``(B) in the case of kerosene, diesel fuel, and special 
+     motor fuels the tax rate of which is the rate specified in 
+     section 4081(a)(2)(A)(iii), the core programs financing rate 
+     is--
+       ``(i) after September 30, 2013, and before October 1, 2014, 
+     24.3 cents per gallon,
+       ``(ii) after September 30, 2014, and before October 1, 
+     2015, 12.7 cents per gallon,
+       ``(iii) after September 30, 2015, and before October 1, 
+     2016, 8.5 cents per gallon,
+       ``(iv) after September 30, 2016, and before October 1, 
+     2017, 6.6 cents per gallon, and
+       ``(v) after September 30, 2017, 5.0 cents per gallon.
+       ``(2) Application of rate.--In the case of fuels used as 
+     described in paragraph (3)(C), (4)(B), and (5) of subsection 
+     (c), the core programs financing rate is zero.''.
+       (c) Termination of Transfers to Mass Transit Account.--
+     Section 9503(e)(2) of the Internal Revenue Code of 1986 is 
+     amended by inserting ``, and before October 1, 2013'' after 
+     ``March 31, 1983''.
+       (d) Effective Dates.--
+       (1) In general.--Except as provided in paragraph (2), the 
+     amendments made by this section take effect on October 1, 
+     2013.
+       (2) Certain extensions.--The amendments made by subsection 
+     (b)(1) shall take effect on April 1, 2012.
+
+     SEC. 5. INFRASTRUCTURE SPECIAL ASSISTANCE FUND.
+
+       (a) Balance of Core Programs Financing Rate Deposited in 
+     Fund.--Section 9503 of the Internal Revenue Code of 1986 is 
+     amended by adding at the end the following:
+       ``(h) Establishment of Infrastructure Special Assistance 
+     Fund.--
+       ``(1) Creation of fund.--There is established in the 
+     Highway Trust Fund a separate fund to be known as the 
+     `Infrastructure Special Assistance Fund' consisting of such 
+     amounts as may be transferred or credited to the 
+     Infrastructure Special Assistance Fund as provided in this 
+     subsection or section 9602(b).
+       ``(2) Transfers to infrastructure special assistance 
+     fund.--On the first day of each fiscal year, the Secretary, 
+     in consultation with the Secretary of Transportation, shall 
+     determine the excess (if any) of--
+       ``(A) the sum of--
+       ``(i) the amounts appropriated in such fiscal year to the 
+     Highway Trust Fund under subsection (b) which are 
+     attributable to the core programs financing rate for such 
+     year, plus
+       ``(ii) the amounts appropriated in such fiscal year to the 
+     Highway Trust Fund under subsection (b) which are 
+     attributable to taxes under sections 4051, 4071, and 4481 for 
+     such year, over
+       ``(B) the amount appropriated under subsection (c) for such 
+     fiscal year,
+
+     and shall transfer such excess to the Infrastructure Special 
+     Assistance Fund.
+       ``(3) Expenditures from infrastructure special assistance 
+     fund.--
+       ``(A) Transitional assistance.--
+       ``(i) In general.--Except as provided in clause (iii), 
+     during fiscal years 2014 through 2017, $1,000,000,000 in the 
+     Infrastructure Special Assistance Fund shall be available to 
+     States for transportation-related program expenditures.
+       ``(ii) State share.--Each State is entitled to a share of 
+     the amount specified in clause (i) determined in the 
+     following manner:
+
+       ``(I) Multiply the percentage of the amounts appropriated 
+     in the latest fiscal year for which such data are available 
+     to the Highway Trust Fund under subsection (b) which is 
+     attributable to taxes paid by highway users in the State, by 
+     the amount specified in clause (i). If the result does not 
+     exceed $15,000,000, the State's share equals $15,000,000. If 
+     the result exceeds $15,000,000, the State's share is 
+     determined under subclause (II).
+       ``(II) Multiply the percentage determined under subclause 
+     (I), by the amount specified in clause (i) reduced by an 
+     amount equal to $15,000,000 times the number of States the 
+     share of which is determined under subclause (I).
+
+       ``(iii) Distribution of remaining amount.--If after 
+     September 30, 2017, a portion of the amount specified in 
+     clause (i) remains, the Secretary, in consultation with the 
+     Secretary of Transportation, shall, on October 1, 2017, 
+     apportion the portion among the States using the percentages 
+     determined under clause (ii)(I) for such States.
+       ``(B) Additional expenditures from fund.--
+       ``(i) In general.--Amounts in the Infrastructure Special 
+     Assistance Fund, in excess of the amount specified in 
+     subparagraph (A)(i), shall be available, as provided by 
+     appropriation Acts, to the States for any surface 
+     transportation (including mass transit and rail) purpose in 
+     such States, and the Secretary shall apportion such excess 
+     amounts among all States using the percentages determined 
+     under clause (ii)(I) for such States.
+       ``(ii) Enforcement.--If the Secretary determines that a 
+     State has used amounts under clause (i) for a purpose which 
+     is not a surface transportation purpose as described in 
+     clause (i), the improperly used amounts shall be deducted 
+     from any amount the State would otherwise receive from the 
+     Highway Trust Fund for the fiscal year which begins after the 
+     date of the determination.''.
+       (b) Effective Date.--The amendment made by this section 
+     takes effect on October 1, 2013.
+
+     SEC. 6. RETURN OF EXCESS TAX RECEIPTS TO STATES.
+
+       (a) In General.--Section 9503(c) of the Internal Revenue 
+     Code of 1986 is amended by adding at the end the following:
+       ``(6) Return of excess tax receipts to states for surface 
+     transportation purposes.--
+       ``(A) In general.--On the first day of each of fiscal years 
+     2014, 2015, 2016, and 2017, the Secretary, in consultation 
+     with the Secretary of Transportation, shall--
+       ``(i) determine the excess (if any) of--
+
+       ``(I) the amounts appropriated in such fiscal year to the 
+     Highway Trust Fund under subsection (b) which are 
+     attributable to the taxes described in paragraphs (1) and (2) 
+     thereof (after the application of paragraph (4) thereof) over 
+     the sum of--
+
+[[Page S1155]]
+
+       ``(II) the amounts so appropriated which are equivalent 
+     to--
+
+       ``(aa) such amounts attributable to the core programs 
+     financing rate for such year, plus
+       ``(bb) the taxes described in paragraphs (3)(C), (4)(B), 
+     and (5) of subsection (c), and
+       ``(ii) allocate the amount determined under clause (i) 
+     among the States (as defined in section 101(a) of title 23, 
+     United States Code) for surface transportation (including 
+     mass transit and rail) purposes so that--
+
+       ``(I) the percentage of that amount allocated to each 
+     State, is equal to
+       ``(II) the percentage of the amount determined under clause 
+     (i)(I) paid into the Highway Trust Fund in the latest fiscal 
+     year for which such data are available which is attributable 
+     to highway users in the State.
+
+       ``(B) Enforcement.--If the Secretary determines that a 
+     State has used amounts under subparagraph (A) for a purpose 
+     which is not a surface transportation purpose as described in 
+     subparagraph (A), the improperly used amounts shall be 
+     deducted from any amount the State would otherwise receive 
+     from the Highway Trust Fund for the fiscal year which begins 
+     after the date of the determination.''.
+       (b) Effective Date.--The amendment made by this section 
+     takes effect on October 1, 2013.
+
+     SEC. 7. REDUCTION IN TAXES ON GASOLINE, DIESEL FUEL, 
+                   KEROSENE, AND SPECIAL FUELS FUNDING HIGHWAY 
+                   TRUST FUND.
+
+       (a) Reduction in Tax Rate.--
+       (1) In general.--Section 4081(a)(2)(A) of the Internal 
+     Revenue Code of 1986 is amended--
+       (A) in clause (i), by striking ``18.3 cents'' and inserting 
+     ``3.7 cents''; and
+       (B) in clause (iii), by striking ``24.3 cents'' and 
+     inserting ``5.0 cents''.
+       (2) Conforming amendments.--
+       (A) Section 4081(a)(2)(D) of such Code is amended--
+       (i) by striking ``19.7 cents'' and inserting ``4.1 cents'', 
+     and
+       (ii) by striking ``24.3 cents'' and inserting ``5.0 
+     cents''.
+       (B) Section 6427(b)(2)(A) of such Code is amended by 
+     striking ``7.4 cents'' and inserting ``1.5 cents''.
+       (b) Additional Conforming Amendments.--
+       (1) Section 4041(a)(1)(C)(iii)(I) of the Internal Revenue 
+     Code of 1986 is amended by striking ``7.3 cents per gallon 
+     (4.3 cents per gallon after March 31, 2012)'' and inserting 
+     ``1.4 cents per gallon (zero after September 30, 2020)''.
+       (2) Section 4041(a)(2)(B)(ii) of such Code is amended by 
+     striking ``24.3 cents'' and inserting ``5.0 cents''.
+       (3) Section 4041(a)(3)(A) of such Code is amended by 
+     striking ``18.3 cents'' and inserting ``3.7 cents''.
+       (4) Section 4041(m)(1) of such Code is amended--
+       (A) in subparagraph (A), by striking ``April 1, 2012'' and 
+     inserting ``October 1, 2020,'';
+       (B) in subparagraph (A)(i), by striking ``9.15 cents'' and 
+     inserting ``1.8 cents'';
+       (C) in subparagraph (A)(ii), by striking ``11.3 cents'' and 
+     inserting ``2.3 cents''; and
+       (D) by striking subparagraph (B) and inserting the 
+     following:
+       ``(B) zero after September 30, 2020.''.
+       (5) Section 4081(d)(1) of such Code is amended by striking 
+     ``4.3 cents per gallon after March 31, 2012'' and inserting 
+     ``zero after September 30, 2020''.
+       (6) Section 9503(b) of such Code is amended--
+       (A) in paragraphs (1) and (2), by striking ``April 1, 
+     2012'' both places it appears and inserting ``October 1, 
+     2020'';
+       (B) in the heading of paragraph (2), by striking ``April 1, 
+     2012'' and inserting ``October 1, 2020'';
+       (C) in paragraph (2), by striking ``after March 31, 2012, 
+     and before January 1, 2013'' and inserting ``after September 
+     30, 2020, and before July 1, 2021''; and
+       (D) in paragraph (6)(B), by striking ``April 1, 2012'' and 
+     inserting ``October 1, 2018''.
+       (c) Floor Stock Refunds.--
+       (1) In general.--If--
+       (A) before October 1, 2017, tax has been imposed under 
+     section 4081 of the Internal Revenue Code of 1986 on any 
+     liquid; and
+       (B) on such date such liquid is held by a dealer and has 
+     not been used and is intended for sale;
+
+     there shall be credited or refunded (without interest) to the 
+     person who paid such tax (in this subsection referred to as 
+     the ``taxpayer'') an amount equal to the excess of the tax 
+     paid by the taxpayer over the amount of such tax which would 
+     be imposed on such liquid had the taxable event occurred on 
+     such date.
+       (2) Time for filing claims.--No credit or refund shall be 
+     allowed or made under this subsection unless--
+       (A) claim therefor is filed with the Secretary of the 
+     Treasury before April 1, 2018; and
+       (B) in any case where liquid is held by a dealer (other 
+     than the taxpayer) on October 1, 2017--
+       (i) the dealer submits a request for refund or credit to 
+     the taxpayer before January 1, 2018; and
+       (ii) the taxpayer has repaid or agreed to repay the amount 
+     so claimed to such dealer or has obtained the written consent 
+     of such dealer to the allowance of the credit or the making 
+     of the refund.
+       (3) Exception for fuel held in retail stocks.--No credit or 
+     refund shall be allowed under this subsection with respect to 
+     any liquid in retail stocks held at the place where intended 
+     to be sold at retail.
+       (4) Definitions.--For purposes of this subsection, the 
+     terms ``dealer'' and ``held by a dealer'' have the respective 
+     meanings given to such terms by section 6412 of such Code; 
+     except that the term ``dealer'' includes a producer.
+       (5) Certain rules to apply.--Rules similar to the rules of 
+     subsections (b) and (c) of section 6412 and sections 6206 and 
+     6675 of such Code shall apply for purposes of this 
+     subsection.
+       (d) Effective Dates.--
+       (1) In general.--Except as provided in paragraph (2), the 
+     amendments made by this section shall apply to fuel removed 
+     after September 30, 2017.
+       (2) Certain conforming amendments.--The amendments made by 
+     subsections (b)(1), (b)(4), (b)(5), and (b)(6) shall apply to 
+     fuel removed after September 30, 2011.
+
+     SEC. 8. REPORT TO CONGRESS.
+
+       Not later than 180 days after the date of enactment of this 
+     Act, after consultation with the appropriate committees of 
+     Congress, the Secretary of Transportation shall submit a 
+     report to Congress describing such technical and conforming 
+     amendments to titles 23 and 49, United States Code, and such 
+     technical and conforming amendments to other laws, as are 
+     necessary to bring those titles and other laws into 
+     conformity with the policy embodied in this Act and the 
+     amendments made by this Act.
+
+     SEC. 9. EFFECTIVE DATE CONTINGENT ON CERTIFICATION OF DEFICIT 
+                   NEUTRALITY.
+
+       (a) Purpose.--The purpose of this section is to ensure 
+     that--
+       (1) this Act will become effective only if the Director of 
+     the Office of Management and Budget certifies that this Act 
+     is deficit neutral;
+       (2) discretionary spending limits are reduced to capture 
+     the savings realized in devolving transportation functions to 
+     the State level pursuant to this Act; and
+       (3) the tax reduction made by this Act is not scored under 
+     pay-as-you-go and does not inadvertently trigger a 
+     sequestration.
+       (b) Effective Date Contingency.--Notwithstanding any other 
+     provision of this Act, this Act and the amendments made by 
+     this Act shall take effect only if--
+       (1) the Director of the Office of Management and Budget 
+     (referred to in this section as the ``Director'') submits the 
+     report as required in subsection (c); and
+       (2) the report contains a certification by the Director 
+     that, based on the required estimates, the reduction in 
+     discretionary outlays resulting from the reduction in 
+     contract authority is at least as great as the reduction in 
+     revenues for each fiscal year through fiscal year 2018.
+       (c) OMB Estimates and Report.--
+       (1) Requirements.--Not later than 5 calendar days after the 
+     date of enactment of this Act, the Director shall--
+       (A) estimate the net change in revenues resulting from this 
+     Act for each fiscal year through fiscal year 2018;
+       (B) estimate the net change in discretionary outlays 
+     resulting from the reduction in contract authority under this 
+     Act for each fiscal year through fiscal year 2018;
+       (C) determine, based on those estimates, whether the 
+     reduction in discretionary outlays is at least as great as 
+     the reduction in revenues for each fiscal year through fiscal 
+     year 2018; and
+       (D) submit to Congress a report setting forth the estimates 
+     and determination.
+       (2) Applicable assumptions and guidelines.--
+       (A) Revenue estimates.--The revenue estimates required 
+     under paragraph (1)(A) shall be predicated on the same 
+     economic and technical assumptions and scorekeeping 
+     guidelines that would be used for estimates made pursuant to 
+     section 252(d) of the Balanced Budget and Emergency Deficit 
+     Control Act of 1985 (2 U.S.C. 902(d)).
+       (B) Outlay estimates.--The outlay estimates required under 
+     paragraph (1)(B) shall be determined by comparing the level 
+     of discretionary outlays resulting from this Act with the 
+     corresponding level of discretionary outlays projected in the 
+     baseline under section 257 of the Balanced Budget and 
+     Emergency Deficit Control Act of 1985 (2 U.S.C. 907).
+       (d) Conforming Adjustment to Discretionary Spending 
+     Limits.--On compliance with the requirements specified in 
+     subsection (b), the Director shall adjust the adjusted 
+     discretionary spending limits for each fiscal year through 
+     fiscal year 2013 under section 601(a)(2) of the Congressional 
+     Budget Act of 1974 (2 U.S.C. 665(a)(2)) by the estimated 
+     reductions in discretionary outlays under subsection 
+     (c)(1)(B).
+       (e) Paygo Interaction.--On compliance with the requirements 
+     specified in subsection (b), no changes in revenues estimated 
+     to result from the enactment of this Act shall be counted for 
+     the purposes of section 252(d) of the Balanced Budget and 
+     Emergency Deficit Control Act of 1985 (2 U.S.C. 902(d)).
+
+                          ____________________
+```
