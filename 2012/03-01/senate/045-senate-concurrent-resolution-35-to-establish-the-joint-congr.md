@@ -1,0 +1,53 @@
+---
+granule: CREC-2012-03-01-pt1-PgS1209
+date: 2012-03-01
+edition: CREC
+section: SENATE
+page: S1209
+citation: 158 Cong. Rec. S1209
+---
+
+# SENATE CONCURRENT RESOLUTION 35--TO ESTABLISH THE JOINT CONGRESSIONAL COMMITTEE ON INAUGURAL CEREMONIES FOR THE INAUGURATION OF THE PRESIDENT-ELECT AND VICE PRESIDENT-ELECT OF THE UNITED STATES ON...
+
+**Measures:** S. 35, S.Con.Res. 35
+
+```
+ SENATE CONCURRENT RESOLUTION 35--TO ESTABLISH THE JOINT CONGRESSIONAL 
+     COMMITTEE ON INAUGURAL CEREMONIES FOR THE INAUGURATION OF THE 
+   PRESIDENT-ELECT AND VICE PRESIDENT-ELECT OF THE UNITED STATES ON 
+                            JANUARY 21, 2013
+
+  Mr. SCHUMER (for himself and Mr. Alexander) submitted the following 
+concurrent resolution; which was considered and agreed to:
+
+                            S. Con. Res. 35
+
+       Resolved by the Senate (the House of Representatives 
+     concurring),
+
+     SECTION 1. ESTABLISHMENT OF JOINT COMMITTEE.
+
+       There is established a Joint Congressional Committee on 
+     Inaugural Ceremonies (in this resolution referred to as the 
+     ``joint committee'') consisting of 3 Senators and 3 Members 
+     of the House of Representatives, to be appointed by the 
+     President of the Senate and the Speaker of the House of 
+     Representatives, respectively. The joint committee is 
+     authorized to make the necessary arrangements for the 
+     inauguration of the President-elect and Vice President-elect 
+     of the United States on January 21, 2013.
+
+     SEC. 2. SUPPORT OF THE JOINT COMMITTEE.
+
+       The joint committee--
+       (1) is authorized to utilize appropriate equipment and the 
+     services of appropriate personnel of departments and agencies 
+     of the Federal Government, under arrangements between the 
+     joint committee and the heads of those departments and 
+     agencies, in connection with the inaugural proceedings and 
+     ceremonies; and
+       (2) may accept gifts and donations of goods and services to 
+     carry out its responsibilities.
+
+                          ____________________
+```
