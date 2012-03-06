@@ -1,0 +1,23 @@
+---
+granule: CRECB-2012-pt2-Pg2945-4
+date: 2012-03-06
+edition: CRECB
+section: SENATE
+page: 2945
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate March 6, 2012:
+
+
+                             THE JUDICIARY
+
+       MARY ELIZABETH PHILLIPS, OF MISSOURI, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE WESTERN DISTRICT OF MISSOURI.
+       THOMAS OWEN RICE, OF WASHINGTON, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE EASTERN DISTRICT OF WASHINGTON.
+```
