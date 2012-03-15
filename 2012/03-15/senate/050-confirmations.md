@@ -1,0 +1,23 @@
+---
+granule: CRECB-2012-pt3-Pg3550-5
+date: 2012-03-15
+edition: CRECB
+section: SENATE
+page: 3550
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate March 15, 2012:
+
+
+                             THE JUDICIARY
+
+       GINA MARIE GROH, OF WEST VIRGINIA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF WEST VIRGINIA.
+       MICHAEL WALTER FITZGERALD, OF CALIFORNIA, TO BE UNITED 
+     STATES DISTRICT JUDGE FOR THE CENTRAL DISTRICT OF CALIFORNIA.
+```
