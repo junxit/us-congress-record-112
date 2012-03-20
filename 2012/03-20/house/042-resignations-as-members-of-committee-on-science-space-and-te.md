@@ -1,0 +1,65 @@
+---
+granule: CRECB-2012-pt3-Pg3723-2
+date: 2012-03-20
+edition: CRECB
+section: HOUSE
+page: 3723
+---
+
+# RESIGNATIONS AS MEMBERS OF COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+```
+ RESIGNATIONS AS MEMBERS OF COMMITTEE ON SCIENCE, SPACE, AND TECHNOLOGY
+
+  The SPEAKER pro tempore (Mr. West) laid before the House the 
+following resignations as members of the Committee on Science, Space, 
+and Technology:
+
+                                         House of Representatives,
+
+
+                                               Washington, DC,
+
+                                                   March 20, 2012.
+     Hon. John Boehner,
+     Speaker, House of Representatives,
+     Washington, DC.
+       Dear Speaker Boehner: In order to rejoin the Committee on 
+     Energy and Commerce, I hereby resign my seat on the Science, 
+     Space, and Technology Committee and the Natural Resources 
+     Committee, effective today.
+           Sincerely,
+                                                 John P. Sarbanes,
+     Member of Congress.
+                                  ____
+
+                                         House of Representatives,
+
+
+                                               Washington, DC,
+
+                                                   March 20, 2012.
+     Hon. John Boehner,
+     Speaker, House of Representatives,
+     Washington, DC.
+       Dear Mr. Speaker: Please accept my resignation from the 
+     House Committee on Science, Space, and Technology (SST), 
+     effective immediately. I have been pleased to serve on the 
+     SST Committee during the 112th Congress. However, this 
+     resignation is necessitated by the recent vacancy on, and my 
+     assignment to, the House Committee on Education and the 
+     Workforce.
+
+[[Page 3724]]
+
+       Thank you.
+           Best Regards,
+                                                  Marcia L. Fudge,
+                                               Member of Congress.
+
+  The SPEAKER pro tempore. Without objection, the resignations are 
+accepted.
+  There was no objection.
+
+                          ____________________
+```
