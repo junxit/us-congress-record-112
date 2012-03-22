@@ -1,0 +1,39 @@
+---
+granule: CREC-2012-03-22-pt1-PgH1500
+date: 2012-03-22
+edition: CREC
+section: HOUSE
+page: H1500
+citation: 158 Cong. Rec. H1500
+---
+
+# HEALTH ACT OF 2011
+
+**Speaking:** Flake, Jeff (F000444) [R-AZ]
+
+```
+                           HEALTH ACT OF 2011
+
+  (Mr. FLAKE asked and was given permission to address the House for 1 
+minute.)
+  Mr. FLAKE. Madam Speaker, I rise today in support of the legislation 
+we'll vote on shortly to repeal the Independent Payment Advisory Board 
+created under the Patient Protection and Affordable Care Act. This is 
+something that simply should not have been done. These are unelected 
+board members, 15 of them, appointed by the President, tasked for 
+finding savings and making recommendations.
+  Unfortunately, because of the limitations of what the board can cut, 
+the majority of spending reductions will come from cutting 
+reimbursements for doctors and those who care for Medicare patients. 
+The ultimate result will be fewer options for patients when doctors are 
+driven out of the Medicare system.
+  We were told when the Affordable Care Act was passed that it would 
+lead to a reduction in premiums. It's done exactly the opposite.
+  This kind of board and these kinds of decisions made by unelected 
+officials will simply drive the cost up further, and we cannot afford 
+to do that.
+  My only regret in today's action is that we're not repealing the 
+entire act. I hope that comes soon.
+
+                          ____________________
+```
