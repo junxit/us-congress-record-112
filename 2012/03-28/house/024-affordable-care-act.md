@@ -1,0 +1,37 @@
+---
+granule: CRECB-2012-pt3-Pg4363-3
+date: 2012-03-28
+edition: CRECB
+section: HOUSE
+page: 4363
+---
+
+# AFFORDABLE CARE ACT
+
+```
+                          AFFORDABLE CARE ACT
+
+  (Mr. COHEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. COHEN. Mr. Speaker, the chaplain of the day asked God to look 
+over this Congress. I ask God and think the preacher should have asked 
+for direction a little bit further, to look over the Supreme Court, 
+because the Supreme Court has in its hands the Affordable Care Act.
+  A report was just issued yesterday that said in my home city of 
+Memphis, African American women are twice as likely to die of breast 
+cancer than Caucasian women. That's unacceptable.
+  Part of that is because they don't get the health care they need. The 
+Affordable Care Act will see to it that everybody gets access to 
+affordable health care, that there won't be a disparity of twice as 
+much for the cost of insurance for women than men, and that mammograms 
+will be offered to people, ladies, without a co-pay.
+  If the Affordable Care Act passes, that disparity in health between 
+white women and black women in my city and in America will end. That is 
+wrong.
+  Part of what's happened in my city is a vestige of Jim Crow, and even 
+though those laws have been repealed, we still suffer from them, and 
+there is a lot in the Affordable Care Act that will end those. I hope 
+the Supreme Court rules on the side of life.
+
+                          ____________________
+```
