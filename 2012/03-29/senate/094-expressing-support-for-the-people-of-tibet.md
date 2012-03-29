@@ -1,0 +1,281 @@
+---
+granule: CREC-2012-03-29-pt1-PgS2276-2
+date: 2012-03-29
+edition: CREC
+section: SENATE
+page: S2276
+citation: 158 Cong. Rec. S2276
+---
+
+# EXPRESSING SUPPORT FOR THE PEOPLE OF TIBET
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S.Res. 356
+
+```
+               EXPRESSING SUPPORT FOR THE PEOPLE OF TIBET
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Senate now 
+proceed to consideration of Calendar No. 347, S. Res. 356.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 356) expressing support for the 
+     people of Tibet.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution, which had been reported by the Committee on Foreign 
+Relations without amendment and an amendment to the preamble, as 
+follows:
+  [Omit the part printed in boldface brackets and insert the part 
+printed in Italic.]
+
+                              S. Res. 356
+
+       Whereas Tibet is the center of Tibetan Buddhism, and His 
+     Holiness the Dalai Lama, Tenzin Gyatso, is the most revered 
+     figure in Tibetan Buddhism;
+       Whereas the Government of the People's Republic of China 
+     continues to enforce policies that infringe on fundamental 
+     freedoms of Tibetans, including punitive security measures 
+     against monasteries, mass arrests, and restrictions on 
+     freedom to practice religion;
+       Whereas both the Dalai Lama and the Kalon Tripa, Dr. 
+     Lobsang Sangay, the prime minister democratically elected by 
+     the Tibetan exile community, have specifically stated that 
+     they do not seek independence for Tibet from China;
+       Whereas, in his inaugural address on August 8, 2011, Kalon 
+     Tripa Sangay stated that he will ``continue the Middle-Way 
+     policy, which seeks genuine autonomy for Tibet within the 
+     People's Republic of China'';
+       Whereas, according to the Department of State's 2011 Report 
+     on Tibet Negotiations, since 2002, nine rounds of talks 
+     between the Government of the People's Republic of China and 
+     envoys of the Dalai Lama ``have not borne concrete results'';
+       Whereas, despite persistent efforts by the Dalai Lama and 
+     his representatives, the Government of the People's Republic 
+     of China and envoys of the Dalai Lama have not held any 
+     formal dialogue since January 2010;
+       [Whereas, since March 2011, at least 16 Tibetans have set 
+     themselves on fire, and at least 12 have died;]
+        Whereas, since March 2011, more than two dozen Tibetans 
+     have set themselves on fire, and at least 19 have died;
+       Whereas the repressive policies of the Government of the 
+     People's Republic of China have created an environment of 
+     despair, hopelessness, and frustration among many Tibetans;
+       Whereas, on November 1, 2011, the United Nations Special 
+     Rapporteur on Freedom of Religion or Belief, Heiner 
+     Bielefeldt, expressed concern over ``restrictive measures'' 
+     implemented by the Government of the People's Republic of 
+     China in Tibetan monasteries, stating that such measures 
+     ``not only curtail the right to freedom of religion or 
+     belief, but further exacerbate the existing tensions, and are 
+     counterproductive'' and affirming that ``the right of members 
+     of the
+
+[[Page S2277]]
+
+     monastic community, and the wider community to freely 
+     practice their religion, should be fully respected and 
+     guaranteed by the Chinese Government'';
+       Whereas, on January 24, 2012, Maria Otero, Under Secretary 
+     for Civilian Security, Democracy and Human Rights, and United 
+     States Special Coordinator for Tibetan Issues, issued a 
+     statement expressing concern about ``reports of violence and 
+     continuing heightened tensions in Tibetan areas of China, 
+     including reports of security forces in Sichuan province 
+     opening fire on protesters, killing some and injuring 
+     others'';
+       Whereas the Constitution of the People's Republic of China 
+     guarantees freedom of religious belief for all citizens, but 
+     the July-December 2010 International Religious Freedom Report 
+     of the Department of State states that ``the [Chinese] 
+     government's repression of religious freedom remained severe 
+     in the Tibet Autonomous Region and other Tibetan areas'';
+       Whereas, on March 10, 2011, His Holiness the Dalai Lama 
+     announced that he would relinquish his last remaining 
+     governmental duties in the Central Tibetan Administration, 
+     and would turn over political authority to the leadership 
+     democratically elected by Tibetans in exile;
+       Whereas, on March 20, 2011, the Tibetan government in exile 
+     conducted competitive democratic elections that were 
+     monitored by international observers and deemed free, fair, 
+     and consistent with international standards;
+       Whereas nearly 50,000 people in over 30 countries, more 
+     than half of all the eligible Tibetan exiles voters, 
+     participated in the March 20, 2011, elections;
+       Whereas Dr. Lobsang Sangay was elected Kalon Tripa, or 
+     prime minister, of the Central Tibetan Administration after 
+     receiving 55 percent of votes in the March 20, 2011, election 
+     and was inaugurated on August 8, 2011;
+       Whereas Kalon Tripa Sangay was selected to study in the 
+     United States under the Department of State's Tibetan 
+     Scholarship Program, earning a doctorate in law from Harvard 
+     University, and served as a Senior Fellow at the East Asian 
+     Legal Studies Program at Harvard Law School;
+       Whereas Kalon Tripa Sangay, while at Harvard University, 
+     promoted dialogue among Tibetan exiles and Chinese students 
+     and visiting Chinese scholars to enhance mutual understanding 
+     and advance the prospects for reconciliation; and
+       Whereas it is the objective of the United States 
+     Government, consistent across administrations of different 
+     political parties and as articulated in the Tibetan Policy 
+     Act of 2002 (subtitle B of title VI of Public Law 107 228; 22 
+     U.S.C. 6901 note) to promote a substantive dialogue between 
+     the Government of the People's Republic of China and the 
+     Dalai Lama or his representatives in order to secure genuine 
+     autonomy for the Tibetan people within China:
+
+  Mr. REID. I ask unanimous consent that the Senate proceed to a vote 
+on this matter.
+  The PRESIDING OFFICER. Without objection, the question is on agreeing 
+to the resolution.
+  The resolution (No. 356) was agreed to.
+  Mr. REID. I ask unanimous consent that the committee-reported 
+amendment to the preamble be agreed to; the preamble, as amended, be 
+agreed to; the motions to reconsider be laid upon the table, with no 
+intervening action or debate; and any statements relating to the 
+resolution be printed in the Record.
+  The committee-reported amendment to the preamble was agreed to.
+  The preamble, as amended, was agreed to.
+  The resolution, with its preamble, as amended, reads as follows:
+
+                              S. Res. 356
+
+       Whereas Tibet is the center of Tibetan Buddhism, and His 
+     Holiness the Dalai Lama, Tenzin Gyatso, is the most revered 
+     figure in Tibetan Buddhism;
+       Whereas the Government of the People's Republic of China 
+     continues to enforce policies that infringe on fundamental 
+     freedoms of Tibetans, including punitive security measures 
+     against monasteries, mass arrests, and restrictions on 
+     freedom to practice religion;
+       Whereas both the Dalai Lama and the Kalon Tripa, Dr. 
+     Lobsang Sangay, the prime minister democratically elected by 
+     the Tibetan exile community, have specifically stated that 
+     they do not seek independence for Tibet from China;
+       Whereas, in his inaugural address on August 8, 2011, Kalon 
+     Tripa Sangay stated that he will ``continue the Middle-Way 
+     policy, which seeks genuine autonomy for Tibet within the 
+     People's Republic of China'';
+       Whereas according to the Department of State's 2011 Report 
+     on Tibet Negotiations, since 2002, nine rounds of talks 
+     between the Government of the People's Republic of China and 
+     envoys of the Dalai Lama ``have not borne concrete results'';
+       Whereas despite persistent efforts by the Dalai Lama and 
+     his representatives, the Government of the People's Republic 
+     of China and envoys of the Dalai Lama have not held any 
+     formal dialogue since January 2010;
+       Whereas, since March 2011, more than two dozen Tibetans 
+     have set themselves on fire, and at least 19 have died;
+       Whereas the repressive policies of the Government of the 
+     People's Republic of China have created an environment of 
+     despair, hopelessness, and frustration among many Tibetans;
+       Whereas, on November 1, 2011, the United Nations Special 
+     Rapporteur on Freedom of Religion or Belief, Heiner 
+     Bielefeldt, expressed concern over ``restrictive measures'' 
+     implemented by the Government of the People's Republic of 
+     China in Tibetan monasteries, stating that such measures 
+     ``not only curtail the right to freedom of religion or 
+     belief, but further exacerbate the existing tensions, and are 
+     counterproductive'' and affirming that ``the right of members 
+     of the monastic community, and the wider community to freely 
+     practice their religion, should be fully respected and 
+     guaranteed by the Chinese Government'';
+       Whereas, on January 24, 2012, Maria Otero, Under Secretary 
+     for Civilian Security, Democracy and Human Rights, and United 
+     States Special Coordinator for Tibetan Issues, issued a 
+     statement expressing concern about ``reports of violence and 
+     continuing heightened tensions in Tibetan areas of China, 
+     including reports of security forces in Sichuan province 
+     opening fire on protesters, killing some and injuring 
+     others'';
+       Whereas the Constitution of the People's Republic of China 
+     guarantees freedom of religious belief for all citizens, but 
+     the July-December 2010 International Religious Freedom Report 
+     of the Department of State states that ``the [Chinese] 
+     government's repression of religious freedom remained severe 
+     in the Tibet Autonomous Region and other Tibetan areas'';
+       Whereas, on March 10, 2011, His Holiness the Dalai Lama 
+     announced that he would relinquish his last remaining 
+     governmental duties in the Central Tibetan Administration, 
+     and would turn over political authority to the leadership 
+     democratically elected by Tibetans in exile;
+       Whereas, on March 20, 2011, the Tibetan government in exile 
+     conducted competitive democratic elections that were 
+     monitored by international observers and deemed free, fair, 
+     and consistent with international standards;
+       Whereas nearly 50,000 people in over 30 countries, more 
+     than half of all the eligible Tibetan exiles voters, 
+     participated in the March 20, 2011, elections;
+       Whereas Dr. Lobsang Sangay was elected Kalon Tripa, or 
+     prime minister, of the Central Tibetan Administration after 
+     receiving 55 percent of votes in the March 20, 2011, election 
+     and was inaugurated on August 8, 2011;
+       Whereas Kalon Tripa Sangay was selected to study in the 
+     United States under the Department of State's Tibetan 
+     Scholarship Program, earning a doctorate in law from Harvard 
+     University, and served as a Senior Fellow at the East Asian 
+     Legal Studies Program at Harvard Law School;
+       Whereas Kalon Tripa Sangay, while at Harvard University, 
+     promoted dialogue among Tibetan exiles and Chinese students 
+     and visiting Chinese scholars to enhance mutual understanding 
+     and advance the prospects for reconciliation; and
+       Whereas it is the objective of the United States 
+     Government, consistent across administrations of different 
+     political parties and as articulated in the Tibetan Policy 
+     Act of 2002 (subtitle B of title VI of Public Law 107 228; 22 
+     U.S.C. 6901 note) to promote a substantive dialogue between 
+     the Government of the People's Republic of China and the 
+     Dalai Lama or his representatives in order to secure genuine 
+     autonomy for the Tibetan people within China: Now, therefore, 
+     be it
+       Resolved, That the Senate--
+       (1) mourns the death of Tibetans who have self-immolated 
+     and deplores the repressive policies targeting Tibetans;
+       (2) calls on the Government of the People's Republic of 
+     China to suspend implementation of religious control 
+     regulations, reassess religious and security policies 
+     implemented since 2008 in Tibet, and resume a dialogue with 
+     Tibetan Buddhist leaders, including the Dalai Lama or his 
+     representatives, to resolve underlying grievances;
+       (3) calls on the Government of the People's Republic of 
+     China to release all persons that have been arbitrarily 
+     detained; to cease the intimidation, harassment and detention 
+     of peaceful protestors; and to allow unrestricted access to 
+     journalists, foreign diplomats, and international 
+     organizations to Tibet;
+       (4) calls on the Secretary of State to seek from the 
+     Government of the People's Republic of China a full 
+     accounting of the forcible removal of monks from Kirti 
+     Monastery, including an explanation of the pretext or 
+     conditions under which monks were removed and their current 
+     whereabouts;
+       (5) commends His Holiness the Dalai Lama for his decision 
+     to devolve his political power in favor of a democratic 
+     system;
+       (6) congratulates Tibetans living in exile for holding, on 
+     March 20, 2011, a competitive, multi-candidate election that 
+     was free, fair, and met international electoral standards;
+       (7) reaffirms the unwavering friendship between the people 
+     of the United States and the people of Tibet; and
+       (8) both--
+       (A) calls on the Department of State to fully implement the 
+     Tibetan Policy Act of 2002 (subtitle B of title VI of Public 
+     Law 107 228; 22 U.S.C. 6901 note), including the stipulation 
+     that the Secretary of State seek ``to
+
+[[Page S2278]]
+
+     establish an office in Lhasa, Tibet, to monitor political, 
+     economic, and cultural developments in Tibet'', and also to 
+     provide consular protection and citizen services in 
+     emergencies; and
+       (B) urges that the agreement to permit China to open 
+     further diplomatic missions in the United States should be 
+     contingent upon the establishment of a United States 
+     Government consulate in Lhasa, Tibet.
+
+                          ____________________
+```
