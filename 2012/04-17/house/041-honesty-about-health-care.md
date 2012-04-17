@@ -1,0 +1,42 @@
+---
+granule: CRECB-2012-pt4-Pg4936-5
+date: 2012-04-17
+edition: CRECB
+section: HOUSE
+page: 4936
+---
+
+# HONESTY ABOUT HEALTH CARE
+
+```
+                       HONESTY ABOUT HEALTH CARE
+
+  (Mr. YARMUTH asked and was given permission to address the House for 
+1 minute.)
+  Mr. YARMUTH. Mr. Speaker, my friends across the aisle like to say 
+they support small business owners, but other than keeping fact-
+checkers employed, Republican leaders are holding back those businesses 
+by continuing to make false claims about the Affordable Care Act.
+  In my Louisville district, more than 15,000 small businesses could 
+qualify for tax credits to help offset the cost of providing health 
+insurance for their employees. A small business with 24 employees 
+paying average health care costs could receive almost $40,000 a year in 
+tax credits right now under the Affordable Care Act, but only 530 out 
+of those 15,000 businesses have taken advantage of it. The situation is 
+like that across the country.
+  Why is that? Could it be that the people they elected to represent 
+them in Congress have repeatedly told them that this law is bad for 
+business?
+
+[[Page 4937]]
+
+  As Members of Congress, I believe it is our responsibility to give 
+our constituents an honest and accurate picture of what Federal laws 
+and policies will do to affect their lives. And yet more than 2 years 
+after the Affordable Care Act became law, Republican leaders continue 
+to make false claims about it.
+  Mr. Speaker, the small business owners in my district appreciate 
+knowing the truth about how Federal laws can benefit them.
+
+                          ____________________
+```
