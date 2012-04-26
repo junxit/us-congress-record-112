@@ -1,0 +1,261 @@
+---
+granule: CRECB-2012-pt4-Pg5861-3
+date: 2012-04-26
+edition: CRECB
+section: SENATE
+page: 5861
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                DEFENSE NUCLEAR FACILITIES SAFETY BOARD
+
+       SEAN SULLIVAN, OF CONNECTICUT, TO BE A MEMBER OF THE 
+     DEFENSE NUCLEAR FACILITIES SAFETY BOARD FOR A TERM EXPIRING 
+     OCTOBER 18, 2015, VICE LARRY W. BROWN, RESIGNED.
+
+
+                          DEPARTMENT OF STATE
+
+       TIMOTHY M. BROAS, OF MARYLAND, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO THE KINGDOM OF THE NETHERLANDS.
+       RICHARD L. MORNINGSTAR, OF MASSACHUSETTS, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO THE REPUBLIC OF AZERBAIJAN.
+
+
+                            FOREIGN SERVICE
+
+       THE FOLLOWING-NAMED PERSONS OF THE DEPARTMENT OF STATE FOR 
+     APPOINTMENT AS FOREIGN SERVICE OFFICERS OF THE CLASSES 
+     STATED.
+       THE FOLLOWING-NAMED MEMBERS OF THE FOREIGN SERVICE TO BE 
+     CONSULAR OFFICERS OR CONSULAR OFFICERS AND SECRETARIES IN THE 
+     DIPLOMATIC SERVICE OF THE UNITED STATES OF AMERICA:
+MICHAEL C. AHO, of Virginia
+ERIC AMES, of New Mexico
+CAROLYN WIRTH ANDERSON, of Virginia
+THOMAS W. ARMSTRONG, of Virginia
+BRIAN L. BACKER, of Virginia
+DANIEL R. BALDWIN, of Virginia
+NEIL J. BECK, of Virginia
+BRIAN BEDSWORTH, of the District of Columbia
+CHARLES A. BENTLEY III, of the District of Columbia
+DALMITA D. BENTON, of Virginia
+ELIZABETH L. BIERMANN, of Alabama
+SHANTHINI M. BLACK, of Guam
+MARK A. BLAND, of Florida
+CARTER A. BOHN, of Virginia
+MICHAEL CASEY BONFIELD, of Alabama
+LEILA BORAZJANI, of the District of Columbia
+KAREINA BRAZENOR, of California
+PHILIP J. BRINKMAN, of Virginia
+BRANDY L. BRUCKERT, of Virginia
+DANIEL B. BUDIK, of Maryland
+RAUL A. BURGOS, of Virginia
+CRISTINA R. BUSACCA, of Virginia
+ADAM K. CARDWELL, of Virginia
+MOLLY C. CHAMBERS, of Virginia
+ERIC S. CICORA, of the District of Columbia
+GERALD J. CINTRON, of Maryland
+MICHAEL CARL COKER, of Arizona
+ANDREW R. DALSHIEM, of Virginia
+ELISABETH L. DAVIDSON, of Washington
+CARMEN W. DOWLING, of Florida
+WILLIAM M. DRAXLER, of Virginia
+M. JOHN DUDTE, of Virginia
+DANIEL A. DYMOND, of Virginia
+DORI ANNE ENDERLE, of Texas
+WOODRUFF J. ENGLISH III, of the District of Columbia
+ANA H. ESQUIVEL, of Virginia
+CHRISTIAN A. FARRELL, of Virginia
+KRISTEN ASTRID FARRELL, of the District of Columbia
+RYAN ALLEN PATRICK FEEBACK, of Indiana
+TIMOTHY L. FINNEGAN, of Virginia
+JULIANA K. FINUCANE, of California
+DOUGLAS R. FURLETTI, of Maryland
+REBECCA L. GALEK, of Virginia
+ASHLEY L. GALLO, of Virginia
+KATHERINE R. GALM, of Virginia
+DAVID D. GENTILLI, of Virginia
+PARAMJIT K. GILL, of Virginia
+SZE YONG GOH, of Maryland
+ERIKA S. GRAMS, of Virginia
+SARAH B. GREYWALL, of Vermont
+JULIE R. GRIER, of South Carolina
+BENJAMIN MILLER GULLETT, of North Carolina
+CHRISTOPHER JAMES HALLETT, of Virginia
+HALLIE A. HASSAKIS, of the District of Columbia
+MATTHEW HERGOTT, of Colorado
+MICHAEL C. HILLER, of Virginia
+RACHEL L. HOLMES, of Virginia
+CHRISTOPHER S. JANSEN, of Virginia
+CANDACE R. JENDOUBI, of Virginia
+ANDREW M. JENKINS, of Virginia
+JOSHUA JOHNSON, of the District of Columbia
+EDWARD T. JONES, of Maryland
+BRAPHUS ELLIOTT KAALUND, of Tennessee
+NICHOLAS C. KALMBACH, of Virginia
+ABIGAIL J. KAPUR, of Virginia
+ERICH J. KAUSSEN, of the District of Columbia
+MARIOS M. KENDRICK, of Virginia
+ROBERT S. KINNEAR, of Washington
+TODD A. KOLODZINSKI, of Virginia
+MICHAEL K. KOSTICK, of Virginia
+VICKY KU, of New York
+CHRISTINA E. KYRIAKOU, of Virginia
+SECHYI LAIU, of California
+MICHAEL W. LEACH, of Texas
+MICAH LEBSON, of Maryland
+BOA LEE, of Minnesota
+BIC HOANG LEU, of Connecticut
+JOSHUA A. LEWIS, of Maryland
+NATHANIAL S. LINDSEY, of Virginia
+WILLIAM S. LIVINGSTONE, of Virginia
+DAVID T. LOMERSON, of Virginia
+TERRY L. LONG, of Virginia
+DOUGLAS LORENSON, of Virginia
+FREDRICK W. LOWERY, of Virginia
+R. SCOTT MACINTOSH, of Missouri
+NICKOLAS E. MAGLIS, of Virginia
+OLIVER S. MAINS, of California
+KENNETH W. MANGIN, of Virginia
+AMANDA E. MATTEIS, of the District of Columbia
+CARLA M. MCBANE, of Virginia
+RYAN MCCHRISTIAN, of Virginia
+ALEXANDER HOPKINS MEARS, of Pennsylvania
+SHANNON MILLER, of Virginia
+SAGE MOON, of Washington
+MICHAEL J. MORIARTY, of Virginia
+ROGER A. NASSAR, of Virginia
+MICHAEL D. NORD, of Maryland
+MONIQUE NOWICKI, of Virginia
+MARIKO NOYES-SHIMOMURA, of Virginia
+SAMAN NOZARI, of North Carolina
+JEAN T. OLSON, of Wisconsin
+SETH M. OPPENHEIM, of the District of Columbia
+CALLAN ORDOYNE, of Minnesota
+FANTA N. ORR, of Virginia
+BENJAMIN OSLAND, of Virginia
+JESSICA PANCHATHA, of Connecticut
+BARRETT CARLTON PARKER, of Virginia
+BENJAMIN D. PARTINGTON, of Virginia
+ROBERT PASTORE, of Vermont
+HILDE LYNN PEARSON, of Washington
+EDWARD J. PIOTROWICZ, of Virginia
+JEFFREY C. PLANTE, of Virginia
+MICHAEL R. PROSSER, of the District of Columbia
+TONYA D. PRUITT, of Virginia
+IAN B. PULSIPHER, of Virginia
+ZAHID M. RAJA, of Michigan
+ANNE REDALEN FRASER, of Minnesota
+MELISSA S. REED, of Virginia
+ROBYN REMEIKA, of Maryland
+ERIK R. RIKANSRUD, of Virginia
+SCOTT A. RISWOLD, of Virginia
+ERIN E. ROBINSON, of Virginia
+YOULIANA SADOWSKI, of Virginia
+SALAMA J. SALAMA, of Virginia
+MARY E. SAWYER, of Connecticut
+MARILYN S. SCHNEIDER, of Maryland
+SAMUEL D. SIPES, of Texas
+LEE R. SMITH, of Virginia
+RACHEL K. SNELL, of Virginia
+BENJAMIN T. SNELL-CALLANEN, of the District of Columbia
+LINDSEY J. SOLARSKI, of Virginia
+DEVIN R. SPRINGER, of Virginia
+JOSHUA E. STERN, of Virginia
+ELIZABETH M. STICKNEY, of Maryland
+HOLLY S. STOFA, of Maryland
+STEVEN JAMES STOIBER, of Florida
+LARA A. SULLIVAN, of Virginia
+JOHN SZYPULA, of Colorado
+GABRIEL ELIJAH TAMES, of California
+RICHARD F. TAYLOR, of Maryland
+ELIE MEYER TEICHMAN, of Maryland
+MOIRA KATHARINE THOMAS, of Virginia
+JAMES C. THORN, of Missouri
+PHILLIP C. TISSUE, JR., of Pennsylvania
+CHRISTINA A. TOMASETTI, of Virginia
+LAURA TRAVIS, of Virginia
+LUKE RICHARDSON TULLBERG, of New York
+ROBERT J. VANDERHORST, of Florida
+JEFFREY S. VANDORN, of Iowa
+VITALIY VOZNYAK, of Virginia
+SUSAN A. WATERMAN, of Virginia
+WILLIAM L. WHEELEHAN, of Kentucky
+ERINN CATHERINE WHITAKER, of the District of Columbia
+MATTHEW M. WILLS, of Virginia
+T. ANDREW WILSON, of New York
+MARION J. WOHLERS, of Washington
+TYSON SCOTT WOODRUFF, of Virginia
+MALCOLM F. WRIGHT, of Virginia
+RONALD K. YIU, of Virginia
+MICHAEL G. ZIDEK, of Virginia
+       THE FOLLOWING-NAMED CAREER MEMBER OF THE FOREIGN SERVICE OF 
+     THE DEPARTMENT OF STATE FOR PROMOTION INTO THE SENIOR FOREIGN 
+     SERVICE TO THE CLASS INDICATED, EFFECTIVE JANUARY 1, 2012: 
+     CAREER MEMBER OF THE SENIOR FOREIGN SERVICE OF THE UNITED 
+     STATES OF AMERICA, CLASS OF MINISTER-COUNSELOR:
+KENNETH E. GROSS, JR., of Virginia
+       CAREER MEMBER OF THE SENIOR FOREIGN SERVICE OF THE UNITED 
+     STATES OF AMERICA, CLASS OF COUNSELOR:
+MICHAEL L. YODER, of Texas
+
+
+                         PUBLIC HEALTH SERVICE
+
+       THE FOLLOWING CANDIDATES FOR PERSONNEL ACTION IN THE 
+     REGULAR CORPS OF THE COMMISSIONED CORPS OF THE U.S. PUBLIC 
+     HEALTH SERVICE SUBJECT TO QUALIFICATIONS THEREFORE AS 
+     PROVIDED BY LAW AND REGULATIONS:
+
+                             To be surgeon
+
+JOSEPH R. FONTANA
+RAKHEE S. PALEKAR
+CHRISTOPHER L. PERDUE
+
+                     To be senior assistant surgeon
+
+PAMELA J. HORN
+
+                          To be dental officer
+
+SCOTT W. BROWN
+DEBORAH L. FULLER
+
+                 To be senior assistant dental officer
+
+ALEXANDER D. GAMBER
+
+                     To be assistant dental officer
+
+ERIKA A. CRAWFORD
+ANTONIO S. PARAMESWARAN
+
+                     To be assistant nurse officer
+
+OMORONKE O. ADEGBUJI
+MARK E. ARENA
+MICHAEL J. REED
+
+                   To be assistant scientist officer
+
+BRANDY E. HELLMAN
+
+                To be assistant health services officer
+
+GEORGE S. CHOW
+SARAH M. LEE
+JOY A. MOBLEY
+
+                          ____________________
+```
