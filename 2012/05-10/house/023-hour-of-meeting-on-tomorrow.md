@@ -1,0 +1,27 @@
+---
+granule: CREC-2012-05-10-pt1-PgH2638
+date: 2012-05-10
+edition: CREC
+section: HOUSE
+page: H2638
+citation: 158 Cong. Rec. H2638
+---
+
+# HOUR OF MEETING ON TOMORROW
+
+**Speaking:** King, Steve (K000362) [R-IA]
+
+```
+                      HOUR OF MEETING ON TOMORROW
+
+  Mr. KING of Iowa. Mr. Speaker, I ask unanimous consent that when the 
+House adjourns today, it adjourn to meet at 11 a.m. tomorrow; and when 
+the House adjourns on that day, it adjourn to meet at noon on Tuesday, 
+May 15, 2012, for morning-hour debate and 2 p.m. for legislative 
+business.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Iowa?
+  There was no objection.
+
+                          ____________________
+```
