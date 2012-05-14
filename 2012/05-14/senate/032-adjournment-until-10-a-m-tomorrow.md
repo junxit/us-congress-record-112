@@ -1,0 +1,21 @@
+---
+granule: CRECB-2012-pt5-Pg6702-4
+date: 2012-05-14
+edition: CRECB
+section: SENATE
+page: 6702
+---
+
+# ADJOURNMENT UNTIL 10 A.M. TOMORROW
+
+```
+                   ADJOURNMENT UNTIL 10 A.M. TOMORROW
+
+  Mr. BROWN of Ohio. Madam President, if there is no further business 
+to come before the Senate, I ask unanimous consent that it adjourn 
+under the previous order.
+  There being no objection, the Senate, at 6:42 p.m., adjourned until 
+Tuesday, May 15, 2012, at 10 a.m.
+
+                          ____________________
+```
