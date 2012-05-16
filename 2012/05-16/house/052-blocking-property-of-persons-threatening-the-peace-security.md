@@ -1,0 +1,67 @@
+---
+granule: CRECB-2012-pt5-Pg6961-2
+date: 2012-05-16
+edition: CRECB
+section: HOUSE
+page: 6961
+---
+
+# BLOCKING PROPERTY OF PERSONS THREATENING THE PEACE, SECURITY, OR STABILITY OF YEMEN--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 112-109)
+
+```
+   BLOCKING PROPERTY OF PERSONS THREATENING THE PEACE, SECURITY, OR 
+STABILITY OF YEMEN--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. 
+                           DOC. NO. 112-109)
+
+  The SPEAKER pro tempore laid before the House the following message 
+from the President of the United States; which was read and, together 
+with the accompanying papers, referred to the Committee on Foreign 
+Affairs and ordered to be printed:
+
+To the Congress of the United States:
+  Pursuant to the International Emergency Economic Powers Act (50 
+U.S.C. 1701 et seq.) (IEEPA), I hereby report that I have issued an 
+Executive Order (the ``order'') declaring a national emergency with 
+respect to the unusual and extraordinary threat to the national 
+security and foreign policy of the United States posed by the actions 
+and policies of certain members of the Government of Yemen and others 
+to threaten Yemen's peace, security, and stability.
+  The order does not target the entire country of Yemen or its 
+government, but rather targets those who threaten the peace, security, 
+or stability of Yemen, including by obstructing the implementation of 
+the agreement of November 23, 2011, between the Government of Yemen and 
+those in opposition to it, which provides for a peaceful transition of 
+power that meets the legitimate demands and aspirations of the Yemeni 
+people for change, or by obstructing the political process in Yemen. 
+The order provides criteria for the blocking of property and interests 
+in property of persons determined by the Secretary of the Treasury, in 
+consultation with the Secretary of State, to: have engaged in acts that 
+directly or indirectly threaten the peace, security, or stability of 
+Yemen, such as acts that obstruct the implementation of the agreement 
+of November 23, 2011, between the Government of Yemen and those in 
+opposition to it, which provides for a peaceful transition of power in 
+Yemen, or that obstruct the political process in Yemen; be a political 
+or military leader of an entity that has engaged in the acts described 
+above; have materially assisted, sponsored, or provided financial, 
+material, or technological support for, or goods or services to or in 
+support of, the acts described above or any person whose property and 
+interests in property are blocked pursuant to the order; or be owned or 
+controlled by, or to have acted or purported to act for or on behalf 
+of, directly or indirectly, any person whose property and interests in 
+property are blocked pursuant to the order.
+  The designation criteria will be applied in accordance with 
+applicable Federal law including, where appropriate, the First 
+Amendment to the United States Constitution.
+  I have delegated to the Secretary of the Treasury, in consultation 
+with the Secretary of State, the authority to take such actions, 
+including the promulgation of rules and regulations, and to employ all 
+powers granted to the President by IEEPA as may be necessary to carry 
+out the purposes of the order. All agencies of the United States 
+Government are directed to take all appropriate measures within their 
+authority to carry out the provisions of the order.
+  I am enclosing a copy of the Executive Order I have issued.
+                                                        Barack Obama.  
+The White House, May 16, 2012.
+
+                          ____________________
+```
