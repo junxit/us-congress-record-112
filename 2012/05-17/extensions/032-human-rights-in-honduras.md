@@ -1,0 +1,63 @@
+---
+granule: CRECB-2012-pt5-Pg7392
+date: 2012-05-17
+edition: CRECB
+section: EXTENSIONS
+page: 7392
+---
+
+# HUMAN RIGHTS IN HONDURAS
+
+```
+                        HUMAN RIGHTS IN HONDURAS
+
+                                 ______
+                                 
+
+                             HON. SAM FARR
+
+                             of california
+
+                    in the house of representatives
+
+                         Thursday, May 17, 2012
+
+  Mr. FARR. Mr. Speaker, I rise today to express my deep concern about 
+the steady deterioration of human rights in Honduras since the June 
+2009 coup d'etat. In recent months, attacks against journalists; 
+lesbian, gay, bisexual, transgender, and intersex (LGBTI) advocates; 
+land rights activists and other vulnerable communities have increased. 
+I want to draw particular attention to a few tragic deaths that 
+occurred just this month: on May 1st, Santos Alberto Dominguez, a 
+member of the Civic Council of Popular and Indigenous Organizations 
+(COPINH), was murdered. On May 8th, Erick Martinez, a well-known LGBTI 
+activist, was found dead in a gutter. And on May 9th, Alfredo 
+Villatoro--a popular radio show host--was kidnapped on his way to work 
+and has not been heard from since.
+  These deaths come amidst numerous reports of abuses committed by 
+Honduran security forces. And yet the vast majority of these abuses as 
+well as Mr. Dominguez and Mr. Martinez's deaths have yet to be 
+investigated and prosecuted. I have repeatedly requested that all U.S. 
+assistance to Honduran police and military forces be suspended as long 
+as Honduran authorities fail to investigate and prosecute these abuses. 
+It is a travesty that U.S. taxpayers, dollars are bolstering abusive 
+security forces.
+  But while the situation in Honduras continues to deteriorate, I am 
+encouraged by the important work of Honduran human rights 
+organizations. These groups are on the frontlines of justice, 
+documenting human rights abuses and offering the support and legal 
+representation that the Honduran state fails to provide. Yet these 
+organizations are receiving threats of sexual violence--particularly 
+targeted at female human rights workers--and death threats without any 
+form of effective protection from the Honduran authorities. There has 
+also been a troubling escalation of threats against international human 
+rights accompaniers. All of these threats must be immediately 
+investigated, and the individuals and groups that are behind them must 
+be brought to justice.
+  Mr. Speaker, I will continue to support human rights in Honduras. The 
+people of Honduras deserve their rights. They deserve their freedoms. 
+And they deserve peace. They have suffered too much. Justice cannot 
+wait a moment longer.
+
+                          ____________________
+```

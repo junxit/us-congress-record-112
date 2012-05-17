@@ -1,0 +1,47 @@
+---
+granule: CRECB-2012-pt5-Pg7082
+date: 2012-05-17
+edition: CRECB
+section: HOUSE
+page: 7082
+---
+
+# CONTINUATION OF THE NATIONAL EMERGENCY WITH RESPECT TO BURMA--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 112-110)
+
+```
+                              {time}  1230
+ CONTINUATION OF THE NATIONAL EMERGENCY WITH RESPECT TO BURMA--MESSAGE 
+     FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 112-110)
+
+  The SPEAKER pro tempore laid before the House the following message 
+from the President of the United States; which was read and referred to 
+the Committee on Foreign Affairs and ordered to be printed:
+
+To the Congress of the United States:
+  Section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)) 
+provides for the automatic termination of a national emergency unless, 
+within 90 days prior to the anniversary date of its declaration, the 
+President publishes in the Federal Register and transmits to the 
+Congress a notice stating that the emergency is to continue in effect 
+beyond the anniversary date. In accordance with this provision, I have 
+sent to the Federal Register for publication the enclosed notice 
+stating that the national emergency with respect to Burma that was 
+declared on May 20, 1997, is to continue in effect beyond May 20, 2012.
+  The Burmese government has made progress in a number of areas 
+including releasing hundreds of political prisoners, pursuing cease-
+fire talks with several armed ethnic groups, and pursuing a substantive 
+dialogue with Burma's leading pro-democracy opposition party. The 
+United States is committed to supporting Burma's reform effort, but the 
+situation in Burma continues to pose an unusual and extraordinary 
+threat to the national security and foreign policy of the United 
+States. Burma has made important strides, but the political opening is 
+nascent, and we continue to have concerns, including remaining 
+political prisoners, ongoing conflict, and serious human rights abuses 
+in ethnic areas. For this reason, I have determined that it is 
+necessary to continue the national emergency with respect to Burma and 
+to maintain in force the sanctions that respond to this threat.
+                                                        Barack Obama.  
+The White House, May 17, 2012.
+
+                          ____________________
+```

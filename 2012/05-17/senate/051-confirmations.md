@@ -1,0 +1,27 @@
+---
+granule: CRECB-2012-pt5-Pg7069-5
+date: 2012-05-17
+edition: CRECB
+section: SENATE
+page: 7069
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate May 17, 2012:
+
+
+                         FEDERAL RESERVE SYSTEM
+
+       JEREMY C. STEIN, OF MASSACHUSETTS, TO BE A MEMBER OF THE 
+     BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM FOR THE 
+     UNEXPIRED TERM OF FOURTEEN YEARS FROM FEBRUARY 1, 2004.
+       JEROME H. POWELL, OF MARYLAND, TO BE A MEMBER OF THE BOARD 
+     OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM FOR THE UNEXPIRED 
+     TERM OF FOURTEEN YEARS FROM FEBRUARY 1, 2000.
+
+                          ____________________
+```
