@@ -1,0 +1,84 @@
+---
+granule: CREC-2012-06-12-pt1-PgS4108
+date: 2012-06-12
+edition: CREC
+section: SENATE
+page: S4108
+citation: 158 Cong. Rec. S4108
+---
+
+# WORLD ELDER ABUSE AWARENESS DAY
+
+**Speaking:** Bennet, Michael F. (B001267) [D-CO]
+
+**Measures:** S.Res. 492
+
+```
+                    WORLD ELDER ABUSE AWARENESS DAY
+
+  Mr. BENNET. Mr. President, I ask unanimous consent that the Senate 
+proceed to the consideration of S. Res. 492, submitted earlier today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 492) designating June 15, 2012, as 
+     ``World Elder Abuse Awareness Day.''
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. BENNET. Mr. President, I ask unanimous consent that the 
+resolution be agreed to, the preamble be agreed to, the motions to 
+reconsider be laid upon the table, with no intervening action or 
+debate, and any related statements be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 492) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 492
+
+       Whereas at least 2,000,000 older adults are maltreated each 
+     year in the United States;
+       Whereas the vast majority of the abuse, neglect, and 
+     exploitation of older adults in the United States goes 
+     unidentified and unreported;
+       Whereas only 1 in 44 cases of financial abuse of older 
+     adults is reported;
+       Whereas at least $2,900,000,000 is taken from older adults 
+     each year due to financial abuse and exploitation;
+       Whereas elder abuse, neglect, and exploitation have no 
+     boundaries and cross all racial, social, class, gender, and 
+     geographic lines;
+       Whereas older adults who are abused are 3 times more likely 
+     to die earlier than older adults of the same age who are not 
+     abused;
+       Whereas the percentage of individuals in the United States 
+     who are 60 years of age or older will nearly double by 2020;
+       Whereas, although all 50 States have laws against elder 
+     abuse, incidents of elder abuse have increased by 150 percent 
+     over the last 10 years;
+       Whereas public awareness has the potential to increase the 
+     identification and reporting of elder abuse by the public, 
+     professionals, and victims, and can act as a catalyst to 
+     promote issue-based education and long-term prevention; and
+       Whereas private individuals and public agencies must work 
+     to combat crime and violence against older adults and 
+     vulnerable adults, particularly in light of continued 
+     reductions in funding for vital services: Now, therefore, be 
+     it
+       Resolved, That the Senate--
+       (1) designates June 15, 2012 as ``World Elder Abuse 
+     Awareness Day'';
+       (2) recognizes judges, lawyers, adult protective services 
+     professionals, law enforcement officers, social workers, 
+     health care providers, victims' advocates, and other 
+     professionals and agencies for their efforts to advance 
+     awareness of elder abuse; and
+       (3) encourages members of the public and professionals who 
+     work with older adults to act as catalysts to promote 
+     awareness and long-term prevention of elder abuse by reaching 
+     out to local adult protective services agencies and by 
+     learning to recognize, report, and respond to elder abuse.
+
+                          ____________________
+```
