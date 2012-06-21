@@ -1,0 +1,794 @@
+---
+granule: CRECB-2012-pt7-Pg9624
+date: 2012-06-21
+edition: CRECB
+section: HOUSE
+page: 9624
+---
+
+# THE PROGRESSIVE MESSAGE
+
+```
+                        THE PROGRESSIVE MESSAGE
+
+  The SPEAKER pro tempore. Under the Speaker's announced policy of 
+January 5, 2011, the gentleman from Ohio (Mr. Kucinich) is recognized 
+for 60 minutes as the designee of the minority leader.
+
+
+     Concern over Re-Licensing the Davis-Besse Nuclear Power Plant
+
+  Mr. KUCINICH. I thank the Speaker.
+  I spoke here a minute ago on the floor of the House concerning my 
+deep and abiding concern about a nuclear power plant in the State of 
+Ohio called the Davis-Besse nuclear power plant.
+  This power plant, from the time it was first licensed, has 
+experienced a series of shutdowns, so much so that there was a period 
+when the companies that originally owned it had massive losses because 
+the plant was not up and running. They had so many difficulties that it 
+became an embarrassment to the nuclear industry, itself.
+  We are now at a point when this plant is trying to get a new license 
+for its nuclear facility. There are over 104 nuclear power plants in 
+America. Some of them have achieved re-licensing. Others are in the 
+process of applying.
+  One of the things that we have to be concerned about, because we are 
+talking about nuclear power plants, is the structural stability of the 
+plants, which includes the shield building and reactor, and that the 
+structural stability of these plants is going to be assured.
+
+                              {time}  1450
+
+  In the case of FirstEnergy, they have a shield building, and there 
+have been questions raised about its structural stability. 
+Unfortunately, FirstEnergy went out of its way to tell one story to the 
+Nuclear Regulatory Commission and another story to the public. They 
+told the public that the cracks that were seen in the shield building 
+were not really substantive, but they told the Nuclear Regulatory 
+Commission another story.
+  Understanding that we have a lack of candor on the part of a nuclear 
+reactor permit holder here, we have to be very concerned about their 
+public statements, about their private disclosures, and about the 
+implications for relicensing.
+  These cracks in the shield building, which are in the circumference 
+of the building, they're telling the Nuclear Regulatory Commission the 
+reason these cracks occurred is because there was this blizzard in 
+1978, where the wind direction was--if I'm correct--primarily out of 
+the southwest, that this is responsible for the cracks. But the cracks 
+are around the whole building. They're not able to explain that.
+  Nor do we know whether or not their sister reactors on the other side 
+of Lake Erie at the Perry nuclear power plant have, in fact, been 
+adequately inspected to see if the same winter storm adversely affected 
+them. If the winter storm did not adversely affect them at the Perry 
+plant, then how is it that you had cracks only at Davis-Besse? And why 
+were the cracks around the circumference of the building, instead of 
+just in one area where the wind was driving the snow?
+  In 2002, FirstEnergy covered up information about a hole in the head 
+of the reactor.
+  I want to ask my friend from Minnesota if he needs any of this time 
+right now, because I can conclude.
+  Mr. Speaker, I yield to the gentleman from Minnesota.
+  Mr. ELLISON. I want to thank the gentleman for claiming the time. I 
+guess I was about 4 minutes behind. And, of course, you've got to be on 
+your toes around here.
+  I had come prepared to do a Special Order.
+  Mr. KUCINICH. I'm going to shortly yield and ask unanimous consent 
+that the gentleman from Minnesota would be able to have the balance of 
+the time.
+  Mr. ELLISON. If the gentleman from Ohio wants to, we can share the 
+time, if you'd like.
+  Mr. KUCINICH. I ask the Chair if it would be possible for me to have 
+unanimous consent to yield the remainder of my time to the gentleman 
+from Minnesota.
+  The SPEAKER pro tempore. Unanimous consent is not required.
+  Under the Speaker's announced policy of January 5, 2011, the 
+gentleman from Minnesota will control the remainder of the hour and 
+yields to the gentleman from Ohio.
+  Mr. KUCINICH. I would just ask for a moment to conclude here.
+  Why am I bringing this up about the Davis-Besse nuclear power plant? 
+Some people would say: Why shouldn't you give FirstEnergy the benefit 
+of the doubt?
+  This is a company that 10 years ago covered up information about the 
+hole in the head of a nuclear reactor. They were this close to having a 
+breach, a fraction of an inch from having a breach of the reactor. They 
+had files that were in a photo, and Federal investigators weren't given 
+access to that. It ended up where this company gets fined $28 million 
+because they weren't candid with the government and could have put the 
+people of Ohio and Michigan and Indiana and Canada and the water of 
+Lake Erie in jeopardy.
+  Many people remember, particularly in cities in the east, that time 
+in August of 2003, where all the lights went out in the east. Remember, 
+some people were sitting on their door steps for the first time with no 
+city lights, looking up at the stars, but it wasn't particularly all 
+that beautiful because what was not beautiful is the fact that there 
+was this massive loss of power all over America's east coast that came 
+about because of a series of technical glitches, the root cause of 
+which was that this company, FirstEnergy, wasn't properly trimming 
+trees because they didn't want to hire the people to do it.
+  This is the same company that's telling us the reason why they have 
+cracks in a shield building is because of a blizzard 34 years ago. 
+Hello.
+  We have to be very careful before we let a company that operates so 
+fast and loose with the truth be in a position to have a license to 
+continue to operate this nuclear power plant. In the alternative, 
+they're going to have to make massive repairs. If they won't make the 
+massive repairs, then the NRC ought to do the right thing for the 
+American people and have this shut down.
+  I do not want to see another Fukushima in the United States of 
+America. I do not want to see the people in my district at risk. I do 
+not want to see the people in Ohio put at risk because you've a got a 
+company like FirstEnergy operating in the shoddy way in which they 
+operate, misrepresenting conditions to the public, and telling the NRC 
+one thing and the people another.
+  I can promise you, Mr. Speaker, I intend to stay on top of this.
+  I appreciate the opportunity here, and I yield the remainder of the 
+time to the gentleman from Minnesota, the co-chair of the Progressive 
+Caucus of the Congress, a person who has done a lot to take the message 
+of the Progressive Caucus across this Nation in a way that's been very 
+dynamic, the Honorable Keith Ellison.
+  The SPEAKER pro tempore. The gentleman from Minnesota is recognized.
+  Mr. ELLISON. As I was listening to the gentleman from Ohio recite the 
+facts and the details of this energy situation, I couldn't help but 
+think to myself that we need massive investment in public 
+infrastructure in this Nation. It's not simply a jobs issue, though it 
+is a jobs issue. It's also a public safety issue.
+  The gentleman talked about Fukushima. That was a catastrophic event, 
+but if we don't take good care of our Nation's infrastructure, a 
+catastrophe will occur. I can testify to that, because I'm from 
+Minnesota. In my State only a few years ago, we saw our bridge fall 
+into the Mississippi River. Thirteen Minnesotans lost their lives,
+
+[[Page 9625]]
+
+100 fell into the Mississippi River 65 feet below and suffered severe 
+back and spinal injuries.
+  Infrastructure, folks, is not simply a jobs issue. Infrastructure is 
+not simply an economic issue. Infrastructure is also a public safety 
+issue. We need to make a demand that our government focus on 
+infrastructure investment at this time.
+  Mr. Speaker, I'm Keith Ellison. I'm the co-chair of the Progressive 
+Caucus. I hope to be joined in this hour by other members of the 
+Progressive Caucus. I think some members of the CBC will be joining me, 
+as well, to talk about the situation involving Attorney General Holder.
+  Today, Mr. Speaker, we're the Progressive Caucus. We come with the 
+progressive message. The progressive message is basically very simple, 
+Mr. Speaker. It is the idea of liberty and justice for all.
+  Mr. Speaker, you know that every morning we in Congress come down to 
+the well, and we're very honored to say the Pledge of Allegiance. And 
+the progressive message of the Progressive Caucus is basically embodied 
+in that pledge:
+  I pledge allegiance to the Flag of the United States of America, and 
+to the Republic for which it stands, one nation under God, indivisible, 
+with liberty and justice for all.
+  We're indivisible.
+
+                              {time}  1500
+
+  Yes. It's true, we come in different colors. We come from different 
+cultures. We come from different religious backgrounds. But we are one 
+Nation. And yes, it's true that it's ``liberty and justice for all.'' 
+No exceptions. Everyone. Old, young, black, white, Latino, Asian, born 
+in America, people who came here to immigrate, people of different 
+religious backgrounds. People who are straight, gay. Americans are 
+Americans are Americans, and they have the freedom to be who they are 
+and have the liberty to pursue happiness as they define it and within 
+the law and consistent with the rights of all others. But that's where 
+it ends.
+  This is the Progressive Caucus, and I'm here to talk about the 
+progressive message. And, Mr. Speaker, our email is right down here: 
+<span class="__cf_email__" data-cfemail="2d4e5d4e6d4a5f44474c415b4c034542585e48034a425b">[email protected]</span>. We encourage people to stay in touch with us 
+because we like to hear what the people have to say. We like to hear 
+their insights, their values, what they think is important. So we 
+encourage people to stay in touch at <span class="__cf_email__" data-cfemail="fe9d8e9dbe998c97949f92889fd096918b8d9bd0999188">[email protected]</span>, the 
+Progressive Caucus Web site.
+  Mr. Speaker, we've been here another week in Congress, another week 
+where we are going to have serious problems going on within a short 
+period of time. I believe today's date is June 21. Within 9 days, on 
+July 1, what we are going to see, Mr. Speaker, is interest rates on 
+student loans double. We are going to see an expiration of our 
+transportation bill. And do you think we took up either one of those 
+issues on the House floor today or yesterday or at any time since 
+Monday, Mr. Speaker? Absolutely not.
+  We urge the Republican majority to think about what's going on with 
+the American middle class. Student loan rates will double on July 1. 
+This could affect literally thousands and thousands of American 
+students, and yet we're not acting on these issues at all.
+  The Democrats have said, Yes, absolutely. Progressives have said, 
+Yes, absolutely. We cannot let student loan rates double at a time when 
+we see colleges all over America experiencing double-digit increases in 
+tuition, when the price of an education has gone sky-high, outpaced 
+inflation manyfold. And now, when the Congress tried to fix it, we're 
+going to let it go back to the bad old days and let student loan 
+interest rates double, costing students perhaps as much as $1,000 a 
+year.
+  And then even though the Republican majority agreed with the Ryan 
+budget, which said we should just let the students have to pay more, 
+they then saw the light and came back and said, Okay, we don't want the 
+student loan rates to double either. But then, Mr. Speaker, what 
+happened was they said, But we want to take the money out of women's 
+health.
+  Of course we couldn't agree to that. We can't pit students versus 
+women. We can't say we're going to help students but we're going to 
+take the money away from women under the health care act, from cervical 
+screenings and such. You can't do that. That wouldn't be right.
+  What if we asked the most wealthy members of our society, the richest 
+Americans, to just do a little bit more so that students could have an 
+affordable education? And our Republican friends said, No, never can we 
+ask rich people to do a little bit more.
+  So now here we stand, Mr. Speaker, 9 days before student interest 
+rates are about to double, and we saw no action on it on the floor this 
+week. This is a horrible tragedy. This is a sad situation.
+  We lost 28,000 construction jobs last month. Congress still hasn't 
+passed a highway bill. The highway bill is due to expire 10 days from 
+now, 9 days from now, and our friends in the majority have not 
+addressed this issue. This is a shame. It is a stain and it is a 
+disgrace.
+  If you hold the majority in the House of Representatives, you have to 
+focus on the needs of the people. And I hope the people are paying 
+attention today, Mr. Speaker, because within this coming week, the 
+student loan interest rates are due to double. Interest rates on 
+student loans are due to double in 10 days, and the highway bill is due 
+to expire in 10 days, but we have not touched these key issues on the 
+House floor. And I'm just asking my Republican majority friends, why 
+won't they pursue a ``jobs'' agenda instead of the ``no jobs'' agenda 
+they've been pursuing.
+  The President laid out a great jobs bill, yet we haven't seen any 
+action on it. Let's have a vote on it, Mr. Speaker, up or down. What is 
+the Republican majority afraid of? Do they fear that there are a few 
+Republicans who really believe that Americans need jobs, who will join 
+with all the Democrats and put America back to work? Put it on the 
+floor. I think that the American people want to vote on jobs.
+  So let me just say, Mr. Speaker--because I think it's so important 
+that we have to restate certain things. If you just tuned in, student 
+loan interest rates will double July 1 if Congress does nothing. This 
+week, we did nothing. So the clock is ticking, and I am a little 
+worried.
+  After losing 28,000 construction jobs last month, Congress hasn't 
+passed a highway bill, and that bill is due to expire because the 
+Republican majority won't pass a long-term transportation bill. This is 
+a mistake, this is bad leadership, and the American people should know 
+about it.
+  But, Mr. Speaker, I know you're thinking, Well, what did we do? If we 
+didn't take care of the issues that are so pressing, what did the 
+Republican majority do this week? They must have done something, 
+because we were here.
+  Well, I'll tell you what they did. We authorized the killing of the 
+sea lions in the Northwest. I don't think that's a key issue we need to 
+focus on.
+  We waived 39 environmental laws within 100 miles of the border. We 
+said, Don't worry about complying anymore with 39 of the environmental 
+laws within 100 miles of the border. So if you're within 100 miles of a 
+border, I guess clean air and clean water just happen. But of course 
+any 6-year-old kid knows that's not true.
+  What else did we do? This area within 100 miles of the border where 
+we waived 39 environmental laws, this includes areas in Minnesota, 
+where I'm from, like the Boundary Waters Wilderness or Voyageurs 
+National Park. These are beautiful, pristine national treasures. And in 
+my opinion, it's a shame to say that environmental laws would not apply 
+there.
+  Thank goodness these bills haven't been taken up by the Senate 
+because the Senate clearly knows that this is bad policy. But it didn't 
+stop the Republican majority from pushing it because the Republican 
+majority believes that all problems will be fixed if we don't regulate 
+industry and if we cut taxes on the very well-to-do. They're mistaken 
+about that, but that's what they believe. And I give them credit for 
+saying it all the time because it gives the American people a chance to 
+know
+
+[[Page 9626]]
+
+what choices they have in front of them.
+  What else did we do, Mr. Speaker? We required Federal agencies to 
+give oil companies 25 percent of all public lands they nominate for 
+drilling. I will say that one again. The House Republican majority 
+required Federal agencies to give oil companies 25 percent of all 
+public lands--that's our lands, my lands, your lands, Mr. Speaker--they 
+nominate for drilling.
+  So they used to say, ``Drill, baby, drill; drill, baby, drill.'' 
+They're not kidding about that. Even after the oil spill in the gulf, 
+which hasn't slowed them down, they are still on this thing about 
+letting drilling happen whenever, however, whatever they want.
+  I think that there ought to be some public lands that are pristine 
+and nice for the American people. And yet the Republican majority 
+passed a provision that required Federal agencies to give oil companies 
+25 percent of all public lands they nominate for drilling.
+  Now, if you think about that, Mr. Speaker, think about this. 
+Regardless of the natural beauty, regardless of the environmental harm, 
+regardless of the fishing or hunting damage, we would mandate that Big 
+Oil gets one-fourth of whatever it wants. That is bad policy, but yet 
+that was what was passed on the House floor this week.
+  What else did the Republican majority do this week, just so the 
+American people know? We weakened the Clean Air Act protections. We 
+required the EPA, the Environmental Protection Agency, to elevate cost 
+concerns above all others.
+  So are you noticing a theme? The Republicans like to say, We have an 
+all-of-the-above strategy for energy. They say, We want oil; we want 
+wind; we want biomass; we want all this, all this, all this.
+
+                              {time}  1510
+
+  But if you look at what they actually put on the floor and voted 
+through with the Republican majority, they don't have an all-of-the-
+above strategy. They have an oil-above-all strategy. Oil above all. 
+There is a theme here. This ``oil above all'' was quite unfortunate. 
+This Congress can do better. We should be taking action now, not 
+delaying until it is too late.
+  And I just want to, Mr. Speaker, this week, as we all are concerned 
+about student loan interest rates doubling on July 1 and we are all 
+concerned about the expiration of the highway bill, knowing that 
+workers will be laid off if that happens, it is a shame we didn't 
+address these critical issues facing the American people. But instead, 
+we spent our time deconstructing environmental and health protections 
+for the American people. I am disappointed about that, but that is what 
+we did. And I think the American people have a right to know about it. 
+So, Mr. Speaker, I am going to tell them about it.
+  But I would like to talk a little bit about what we have been doing 
+not just this week, as I just have, but talk a little bit more globally 
+about what we have been doing this whole 112th Congress, because there 
+is a theme, undeniably, that we have been pursuing. There is a theme 
+that we have been working on. Again, it is: cut taxes for the wealthy, 
+leave taxes for middle class, and cut regulation for industry. Cut 
+important environmental and health protections so that industry can 
+keep more of the money so they don't have to spend it on making sure 
+the air is clean and the water is clean.
+  I'd like to talk a little bit about America's energy future because 
+that has been a theme on the floor we've been fighting up and down. And 
+I mentioned I want to talk about the whole 112th Congress. Because even 
+though that has been a recurring Republican theme, if you ask the 
+American people what they want us to talk about, what you'll see on 
+this chart, Mr. Speaker, is a question. And the question is simple. It 
+simply says: Do you think the government should be doing more to help 
+improve the financial situation of middle class Americans, should it be 
+doing less, or do you think the government is doing the right amount to 
+help improve the financial situation of middle class Americans?
+  So just to put the question out there again, Mr. Speaker, because I 
+kind of went by quickly and the type is kind of small: Do you think the 
+government should be doing more to help improve the financial system of 
+middle class Americans, should it be doing less, or do you think the 
+government is doing the right amount to help improve the financial 
+situation of middle class Americans?
+  Well, this poll, pretty recent, right back in April, only a few 
+months ago, and what Americans have said, Mr. Speaker, 67 percent of 
+them said: do more. Two-thirds said: do more. So they don't think the 
+government is doing enough to help improve the financial situation of 
+the middle class. And, Mr. Speaker, they are right. Because the 
+American people know that if we were to pass a highway bill that would 
+help the middle class. If we would help college affordability, that 
+would help the middle class. If we would do things like invest in our 
+Nation's infrastructure altogether, that would help the middle class. 
+If we would stop selling off public lands, that would help the middle 
+class. If we would help make sure that we have sane and sensible and 
+reasonable environmental protections like there are, but the 
+Republicans want to get rid of, that would help the middle class. But 
+the Republican majority, their argument is that the government should 
+do less.
+  Now they say smaller government, smaller government. Lower taxes, 
+smaller government. They say it so much that I can repeat their mantras 
+in my sleep. They are great at repetition. But the American people say 
+the government should be doing more to help improve the financial 
+situation of middle class Americans. Two-thirds of them think so.
+  So as we can't pass the Buffett rule, we can't do anything about 
+student interest rates, we're letting the highway bill expire, two-
+thirds of Americans think we should not be doing that. We should be 
+doing more, not less. So those people who talk about smaller government 
+and all that, they are not where the American people are.
+  Fifteen percent said: do less. That must be the Koch brothers or 
+something like that. And 14 percent say: do the right amount. So about 
+29 percent say to do less or do nothing more and 3 percent said they 
+didn't know. Two-thirds said the government should be doing more. And 
+they're right, the government should be doing more. So that's why I 
+want that point to be in front as I discuss this issue of America's 
+energy future. We talked about energy today, and I want to discuss that 
+a little more.
+  We need an energy plan, Mr. Speaker, that puts the interests of the 
+American people ahead of the interests of Big Oil. Republicans say they 
+want an all-of-the-above approach to energy. They say that all the 
+time. Again, I credit them for being able to repeat the same theme over 
+and over again. Great discipline on their part. But the only thing 
+they've presented is an oil-above-all approach; oil above all else. Oil 
+above wind. Oil above biomass. Oil above solar. Oil above anything. And 
+they've proven that is their belief by the bill that we were dealing 
+with this week.
+  We should never mistake the interests of Big Oil and the polluters 
+for the interests of the American people. We should always understand 
+that oil is one way to power our country, and for the time being it is 
+going to be a part of our energy portfolio. But we should not be giving 
+them massive subsidies. We should not be giving them massive subsidies 
+when they're making record profits. We should not relieve them of basic 
+health and safety protections to make sure that our natural wonders 
+don't get destroyed, our wildlife doesn't get destroyed, our 
+recreational industries don't get destroyed.
+  The oil spill in the gulf is still fresh in my mind. And I'm 
+outraged, Mr. Speaker, that BP was able to write off the cost of the 
+cleanup. I don't think enough Americans know that BP was allowed to 
+write off the cost of the cleanup of the gulf. In other words, they 
+simply foisted that cost on the American people, which I think is 
+terribly unfortunate.
+  So this week, the Republicans brought an energy bill to the floor 
+that
+
+[[Page 9627]]
+
+simply checks off from Big Oil's wish list. To me, it felt like if Big 
+Oil was to have a wish list, the Republicans just played Santa Claus. 
+And I don't think that's the right thing to do. I think what we should 
+do is recognize the fact that petroleum will be a part of our energy 
+portfolio, but we should minimize it. We should promote other sources--
+green sources of energy: wind, solar, biomass, conservation. We should 
+be investing in innovative approaches, not just subsidizing the fossil 
+fuel industry, as we do, to the tune of about $110 billion every 10 
+years.
+  So as I said, Mr. Speaker, this week Republicans brought an energy 
+bill to the floor that simply checks off from Big Oil's wish list. It 
+weakens public health protections. It forces arbitrary giveaways of 
+public land. As I already mentioned, it puts energy drilling ahead of 
+all other uses of Federal land. The oil, gas, and coal industries are 
+already getting billions in corporate welfare. They will receive at 
+least $110 billion in subsidies over the next 10 years. These subsidies 
+have been won by decades of lobbying. Lobbying.
+  These subsidies have not been won because what they are asking 
+Congress to do is such a great idea. They have had high-paid lobbyists 
+come down here and work over Members of Congress to give them what they 
+wanted. And it has accumulated to the tune of about $110 billion a 
+year. So they have a lot of power around here.
+  But I think that we would not be serving the public properly if we 
+just turned over public lands so they can drill on them and spill on 
+them and make all these mistakes that we ultimately have to pay for 
+because they have won themselves tax breaks which allow them to write 
+off the costs of these spills.
+  In 2011, the oil, gas, and coal industry spent $167 million lobbying 
+the Federal Government. That's $167 million paid to lobbyists by the 
+oil, gas, and coal industry. Now why, if they're right, do they have to 
+spend so much money trying to convince Congress they are so right? If 
+you've got a good idea, we would be able to review the bill and vote 
+your way, if you've got something in the interest of the American 
+people.
+
+                              {time}  1520
+
+  But if you have something that's for the special interests, well, 
+yeah, you know, you've got to pull out the guys in the monogrammed 
+shirts and the $1,500 suits to come tell us why we've just got to give 
+them this loophole--which, by the way, Mr. Speaker, they always promise 
+will bring jobs but rarely does anything other than bring them a lot 
+more profit.
+  But you know what, Mr. Speaker, the renewable energy industry also 
+needs investment, not just the oil industry, which doesn't need it. 
+Clean energy is the fastest growing job sector in the world. America 
+should be leading, not getting left behind. As the world is investing 
+in new energy production methods, America is investing and putting 
+subsidies on fossil fuels.
+  Now, from a scientific point of view, Mr. Speaker, we call the oil, 
+coal, and gas industries fossil fuels. Why? Because these fuels are 
+basically derived from just hundreds of millions of years worth of time 
+going by and organic matter, trees from a million years ago and so 
+forth. This is what fossil fuel is made from. But I think there's 
+another good reason to call oil, gas, and coal fossil fuels. It's 
+because they're the old way of doing stuff.
+  We need some new ways of doing stuff. We need to invest in clean 
+energy. If we want to stay the strongest economy in the world, we need 
+to invest in industries growing the fastest. Experts say that investing 
+in clean energy gets more bang for the buck, Mr. Speaker, in creating 
+jobs than the fossil fuel industry.
+  China has surpassed the United States in clean energy investment. 
+China has surpassed the United States in clean energy investment, 
+spending almost twice as much as we do, and the U.K. and Spain are not 
+far behind.
+  Analysts believe that developing new clean energy techniques, like 
+wind and solar, could support 20 million jobs by 2030 and trillions of 
+dollars in revenue. And yet this week on the energy bill we were 
+dealing with, that was not what we were talking about. On the land bill 
+we dealt with, that's not what we were talking about. We are giving 
+more and more to those who already have too much and an old industry. 
+We need to, yes, recognize that oil is going to be part of our energy 
+portfolio, but it shouldn't dominate it, and we need to invest in new 
+energy where the job growth centers are.
+  Investing in clean energy creates three times as many jobs and more 
+opportunities at every pay grade than traditional energy jobs. Yet 
+we're subsidizing the fossil fuel industry six times the rate of 
+supporting the renewable energy industry.
+  I offered a simple amendment. Last week, Mr. Speaker, I went to the 
+Rules Committee and I offered a simple amendment to the Republican 
+energy bill. It was a commonsense piece that was ruled out of order. 
+And when I saw some of the things that were ruled in order, I was 
+shocked. All my amendment said--that was ruled out of order and we 
+weren't allowed to debate on the floor--is it is the sense of the 
+Congress that the fossil fuel subsidies should be reduced to help 
+control the budget deficit.
+  Now, my friends in the Republican majority are famous for harping on 
+the deficit and the debt. They always talk about our children and our 
+grandchildren. I don't know where they came up with that phrase, but 
+it's remarkable to me that you can get all those politicians to say 
+exactly the same thing all the time. I'm not saying there was some 
+study group or poll. I'm just saying it is a remarkable coincidence.
+  My point is, though, you would think that if I said to you, Hey, 
+look, let's have the $110 billion we give every 10 years to the fossil 
+fuel industry, let's let that be part of deficit reduction, you would 
+think that my deficit hawk friends would be all over that. But, 
+unfortunately, we weren't even allowed to debate that because, of 
+course, that might put some people on the hot seat.
+  We all want to reduce America's deficit, the Progressive Caucus 
+included, but we want to do it in a way that promotes green jobs, 
+reduces our dependency on fossil fuel and hydrocarbon fuels, and 
+increases conservation and green energy. But by maintaining these 
+subsidies, it increases the deficit by $110 billion every 10 years. I 
+hope my colleagues on the other side of the aisle, especially the 
+fiscal conservatives, agree that $110 billion in fossil fuel subsidies 
+to profitable companies doesn't make any sense. We need a true all-of-
+the-above strategy, as President Obama has said, that invests in clean, 
+renewable energy, not this oil-above-all bill that we saw this week. 
+It's very sad and unfortunate.
+  Mr. Speaker, I would now like to turn our attention to another issue 
+which I think is really important and we really need to focus some 
+attention on, and that is the issue of Attorney General Holder.
+  Yesterday, Republicans on the House Oversight and Government Reform 
+Committee voted to hold Attorney General Holder in contempt of 
+Congress. This was a sad occasion because Attorney General Holder is a 
+great American and deserved better treatment than he got from the 
+Republican majority House Oversight and Government Reform Committee.
+  Along with all Americans, I certainly mourn the loss of the Customs 
+and Border Protection agent, Brian Terry. Mr. Terry was a public 
+servant who deserved to live his life, and it is a horrible shame that 
+he was killed in a gunfight in Arizona in December 2010. We all agree 
+that the gun-walking policy, which was a policy started in the Bush 
+administration, and that allowed thousands of guns to be bought by 
+weapons traffickers should be investigated. This program has no signs 
+of merit that I can see, and it is too bad.
+  But here's the thing. This is why it is unfair to hold Attorney 
+General Holder in contempt. As soon as he learned of the tactic, this 
+gun-walking thing, Attorney General Holder condemned the tactic and 
+ordered the Inspector General to investigate. And since then, he has 
+testified before Congress seven times and provided more than 6,000 
+pages of documentation as asked for.
+
+[[Page 9628]]
+
+  At this point, the Oversight and Government Reform Committee was 
+demanding a document, and the Executive, as is the tradition in every 
+administration, said documents that basically are conversations between 
+a client and a lawyer and basically are deliberative documents are not 
+proper stuff for disclosure, and the President asserted executive 
+privilege. And what happens then is the Attorney General gets hit with 
+a contempt of Congress.
+  Instead of working in good faith to investigate what went wrong, it 
+appears that Republicans on the committee, and maybe next week on the 
+House floor, have used this strategy for political gain. Even after 
+Attorney General Holder provided 6,000 pages of documents to Congress, 
+House Republicans subpoenaed highly sensitive documents, including 
+photographs of crime scenes and reports on a confidential informant, in 
+order to score partisan political points. This is a misuse of the 
+gavel.
+  And last week, they withheld funding for our Nation's law enforcement 
+operations in retaliation. We should not withhold funding for our 
+Nation's law enforcement operations simply to score political points. 
+This is a mistake and it is wrong, and I just hope, Mr. Speaker, there 
+is no one in need of law enforcement resources that doesn't get them 
+because of this spat that the chair of the Oversight Committee has 
+going on with Attorney General Holder.
+  There is an African proverb, Mr. Speaker, that I think you might 
+appreciate. It says, when the elephants fight, only the grass gets 
+trampled. And so when the chair of the Oversight Committee wants to 
+fight with the Attorney General, only regular people who need law 
+enforcement resources suffer.
+  So I'm sad that happened, and I hope today we can abandon this time 
+of witch hunts. Last time, the Republicans went after President Clinton 
+a few years ago. It didn't help them. They impeached him but couldn't 
+convict him. It took up a lot of time. We clearly were not able to 
+focus on the needs of the country. I hope that they learn a lesson and 
+refocus on things like interest rates on student loans that are getting 
+ready to go out and the transportation bill. These are things that we 
+need to focus on, not this political stuff that they're trying to use 
+to position themselves for the election. That's all I want to say about 
+that for now, Mr. Speaker.
+
+                              {time}  1530
+
+  I want to talk a little bit also--to change the subject, Mr. 
+Speaker--about money and politics. The Progressive Caucus passed a 
+resolution to support something called Resolution Week. This is when 
+municipalities, city councils all over across America passed 
+resolutions asking Congress to initiate a process to overturn Citizens 
+United v. Federal Election Commission.
+  Now, Citizens United v. Federal Election Commission basically came to 
+the conclusion that money was speech and corporations were people. 
+Corporations are not people. I've never seen a corporation put on a 
+uniform and go to war. They've been contractors, but they are people 
+who go risk their lives. They don't have children, they don't raise 
+families. Corporations don't die. They have limited liability.
+  Basically, a corporation is designed to do one thing and one thing 
+only--make money for its owners. And yet, the Supreme Court said that a 
+corporation is a person, and persons have the right to freedom of 
+speech, and so any money they want to put in any campaign, they can. 
+What this has done is really turned our elections into auctions, and 
+the highest bidder wins. Now, this is a shame. We need to overturn 
+Citizens United.
+  The Progressive Caucus was honored to be part of Resolutions Week, 
+when we saw officials passing resolutions across American cities asking 
+Congress to overturn Citizens United. If we're going to get a 
+constitutional amendment to overturn Citizens United, we need an 
+awesome public display, awesome amount of communities rising up and 
+demanding that this happen. And last week, we saw cities do it.
+  I'm proud that my city of Minneapolis, very honored that Minneapolis 
+passed a resolution calling for the overturn of Citizens United; also 
+honored that the city of St. Paul passed a resolution to overturn 
+Citizens United, honored that Duluth, Minnesota did so several months 
+ago. Also, New York, Los Angeles--Chicago is considering a bill, and 
+there are many, many, many more. Over 1,600 elected public officials, 
+both local, county, State, and Federal, have joined together and said 
+this is bad legislation, and I was very honored that the Progressive 
+Caucus was a part of it.
+  By organizing from the ground up, we can restore democracy to the 
+people, for the people, and by the people. Several Members of Congress 
+have already introduced constitutional amendments to overturn Citizens 
+United.
+  Now, Mr. Speaker, as you may know, the traditional method to get a 
+constitutional amendment--and again, there are now 27 constitutional 
+amendments, we need one more to overturn Citizens United--Congress will 
+pass something, then they will send it to the States, and two-thirds of 
+the States need to pass it, and then the President signs it, and then 
+it's changed. The process, however, needs to be well supported by the 
+public. So we have tried to start this grassroots movement, joining 
+with other leaders like Move to Amend and others, to see Citizens 
+United overturned.
+  We have several Members--as many as 12 Members of Congress have 
+introduced bills to have an overturning of Citizens United. I was very 
+honored that we are partnering with city officials, who are the closest 
+unit of government to the people, very honored to represent 12 cities 
+in my own district, all great public servants there. I hope that we can 
+work together to say that money should not overwhelm the political 
+process.
+  Mr. Speaker, one city official said, look, people may think this is 
+some big national issue, but think about this: If a wealthy individual 
+wants to have a development in a particular part of town where the 
+elected city council says, You know what? This is zoned for parks or 
+residential, whatever; it's not appropriate to go here, a wealthy 
+individual could simply dump as much money as they want to in a city 
+race to the opponent and give money to the opponent of the people 
+opposing this project, and then basically buy off the city council. So 
+this is something that local officials are correctly concerned about. 
+The bottom line, though, is that we've got to move forward, and I'm 
+proud that the Progressive Caucus is part of this effort. So this work 
+we did last week I thought was great.
+  The Progressive Caucus has come up with an important declaration. 
+Since we have all these constitutional amendment proposals--over 12 of 
+them--we had to come in unity some kind of way, and what we decided to 
+do is this: all join on a declaration. And the declaration says this, 
+Mr. Speaker:
+  We declare our support for amending the Constitution of the United 
+States to restore the rights of the American people undermined by 
+Citizens United and related cases to protect the integrity of our 
+elections and limit the corrosive influence of money in our democratic 
+process.
+  So that's what the declaration says. Over 1,600 elected officials, 
+two State legislatures, more than 150 cities and towns, all calling for 
+repeal and overturning of Citizens United.
+  If I could make just an example, we've seen outside spending on 
+campaigns up 1,600 percent since Citizens United came in--up 1,600 
+percent since Citizens United. Quite frankly, it's really something. 
+It's gone crazy, and we've got to do something about it.
+  You might be thinking, Mr. Speaker, well, what do we do between now 
+and when we pass the constitutional amendment? One thing we could do 
+today is we could pass the DISCLOSE Act. This is a piece of legislation 
+by Representative Chris Van Hollen--a very dynamic leader, a gentleman 
+from Maryland--and it requires public reporting of corporate campaign 
+activity so that you can't have secret money.
+  Right now, you could have a situation where some billionaire takes 
+their personal money, dumps it into a super PAC, and then the super PAC 
+spends the money. We don't even know who
+
+[[Page 9629]]
+
+that person is spending the money. So, under the DISCLOSE Act, we would 
+find out the identity of some of these people. So we could do that 
+right now. And by the way, some of the money we see creeping into 
+American elections very well could be money from foreign sources. 
+Senator McCain very correctly pointed out that there's one wealthy 
+individual who has been putting a lot of money into election campaigns, 
+and he is a billionaire and owns a casino in China. He's using his 
+wealth to influence American elections. So that's foreign money, if 
+that's the way it is. So the thing is that we do not want people 
+outside the United States trying to shape the elections in our country, 
+and so this is the thing that we are moving forward.
+  Overturn Citizens United, amend and disclose--amend the Constitution 
+and disclose secret donors.
+  I'll close this section on this point, Mr. Speaker: Corporations are 
+not people. And in America, democracy should never, ever be for sale.
+  Mr. Speaker, how much time do I have remaining?
+  The SPEAKER pro tempore. The gentleman has 11 minutes remaining.
+  Mr. ELLISON. With these last 11 minutes, I would like to take just a 
+few minutes to talk about this college loan issue. I've talked about it 
+a little bit already. I would like to elaborate.
+  College loan rates will double if Congress doesn't act by July 1. 
+I've made that point, I'll make it again. This week, President Obama 
+called on Congress to act. Remarkably, as I said several times tonight, 
+Republicans in Congress are threatening to just allow the doubling of 
+our student loan interest rates.
+  Americans owe more tuition debt, more student loan debt than there's 
+credit card debt, and student loan borrowing is more common now than it 
+would a decade ago. This is because States are sending less money to 
+public universities, so public universities have to make up the money 
+by increasing tuition, and that means students having to borrow more 
+money.
+  At a time when the average student loan debt is about $25,000 and 
+tuition prices continue to rise, students are borrowing more than ever 
+to complete their degrees. Seven million undergraduates would be 
+affected--that's 7 million, Mr. Speaker--by a doubling of student loan 
+interest rates, raising the cost by about $1,000 per person. Our 
+Nation's student loan debt burden is massive and now exceeds $1 
+trillion.
+  After initially blocking any solutions, Republicans are finally 
+hearing calls. As I said before, they did make an offer, a 
+counteroffer--I think I credit them for that--and they said, okay, we 
+don't want to see a doubling of student interest rates, so we'll do 
+something.
+
+                              {time}  1540
+
+  But when they came up, their pay-for, the way they want to pay for 
+it, was to say that they wanted to cut health care services for 
+children and breast cancer screening. So we're not going to hurt kids 
+and women in order to help students, so we couldn't go with that deal.
+  We proposed that we ask the most well-to-do individuals and 
+corporations to help. I guess what I'm saying is, if I went to a 
+billionaire or a billionaire corporation and I said, look, we're about 
+to see 7 million students' costs of education go up. Can you help, 
+since you make so much? And it seems like what they're saying through 
+their representatives is no.
+  This is outrageous. I think the truth is that America, a Nation that 
+has made it possible for BP and ExxonMobil and GE and all these big 
+corporations to do so well, should do well by America. I don't think 
+that's asking too much.
+  It's not right to protect the richest people in America, and let 
+everybody else get by the best they can. This Nation has made it 
+possible for them to earn all that money, and I don't have any problem 
+with people making good money. I just think that if you make good 
+money, and you have used our police force, our military has protected 
+you, our roads and bridges and our transit system have allowed you to 
+move your goods and services around, our EMS system has made sure that 
+if you get sick we'll come help you, our public schools have educated 
+your workforce, then I don't think it's asking too much to say, put in 
+the pot and help some kids have affordable education. I just don't 
+think that's asking too much.
+  Now, somebody said to me, Well, Keith, in my day I paid my way 
+through school. And I said, in your day school didn't cost $28,000 a 
+year.
+  I'm 48 years old. When I went to law school, I graduated and I had 
+$12,000 student loan debt. That's nothing compared to what students are 
+dealing with today. They're graduating with twice that, on average.
+  So I just want to say, as I close out tonight, Mr. Speaker, the 
+Republican majority, elected by the people of their districts, are 
+here, just like the Democrats are, to discharge the duties associated 
+with their office and, that is, to promote the general welfare and to 
+look out for the American people. I think making sure that student 
+interest loan rates don't double is part of that. I think that making 
+sure we have a decent highway bill that will help pay for the 
+construction and maintenance of our roads and bridges and transit 
+system is part of that. And yet this week we haven't done anything to 
+do that.
+  The standard conservative line on the economy right now is that the 
+government has done too much. But, yet, as I have already proven, the 
+American people do not agree. Two-thirds say the government needs to do 
+more than it's doing. So now I think the government has a duty to step 
+up.
+  And, no, I don't think the government is the solution to every 
+problem. And I know my conservative friends like to mischaracterize 
+what progressives say about that. We don't believe government is the 
+solution to every problem, but we do believe government is part of the 
+solution to many problems. And if you cut it back and you scale it down 
+and you make it too small and too weak to do anything to help people, 
+then, of course it won't be able to help people, and that's a shame. 
+The American people have a different set of expectations.
+  I just want to say, as we wind up and I begin to yield back, it's 
+time in America where we recognize that there is an important balance 
+between the private sector and the public sector, and the market 
+fundamentalists who occupy this House on the Republican side of the 
+aisle must begin to recognize that government has an important role to 
+play. And if we abandon our role, America will be poorer for it.
+  If we don't step up to the plate and make sure that tuition interest 
+rates are decent and reasonable and that we're making sure that we have 
+a decent highway system, Americans will suffer. And we cannot allow 
+that to happen in the richest, most powerful Nation in the history of 
+the world.
+  I yield back the balance of my time.
+
+                          ____________________
+```
