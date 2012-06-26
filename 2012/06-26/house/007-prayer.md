@@ -1,0 +1,32 @@
+---
+granule: CRECB-2012-pt7-Pg9955-8
+date: 2012-06-26
+edition: CRECB
+section: HOUSE
+page: 9955
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Patrick J. Conroy, offered the following 
+prayer:
+  Gracious God, we give You thanks for giving us another day.
+  You have blessed us with all good gifts, and with thankful hearts we 
+express our gratitude. You have created us with opportunities to serve 
+other people in their need, to share together in respect and affection, 
+and to be faithful in the responsibilities we have been given.
+  In this moment of prayer, please grant to the Members of this 
+people's House the gifts of wisdom and discernment that, in their words 
+and actions, they will do justice, love with mercy, and walk humbly 
+with You.
+  In this most auspicious week of issues in our Nation's Capital, send 
+Your Spirit of peace and good will, that we all might find in one 
+another our common future.
+  May all that is done this day be for Your greater honor and glory.
+  Amen.
+
+                          ____________________
+```
