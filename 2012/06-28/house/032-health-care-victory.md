@@ -1,0 +1,40 @@
+---
+granule: CRECB-2012-pt8-Pg10252-6
+date: 2012-06-28
+edition: CRECB
+section: HOUSE
+page: 10252
+---
+
+# HEALTH CARE VICTORY
+
+```
+                          HEALTH CARE VICTORY
+
+  (Mr. PALLONE asked and was given permission to address the House for 
+1 minute.)
+  Mr. PALLONE. Mr. Speaker, today is a great day for the American 
+people. The Supreme Court's decision to uphold the Affordable Care Act 
+reaffirms our Nation's commitment to make sure that all Americans have 
+access to quality, affordable health care and health
+
+[[Page 10253]]
+
+insurance. For the millions of Americans who have gone without health 
+insurance; the seniors who have struggled due to inadequate coverage; 
+the women, children, and young adults that have been denied coverage 
+for preexisting conditions, the Court's ruling is not only a victory 
+but a validation that they deserve to have the most basic of human 
+needs met--and that is access to health care.
+  The ACA addressed so many gaps in the American health care system, 
+from closing the Medicare part D doughnut hole to stopping the practice 
+of denying those with preexisting conditions insurance coverage to 
+claiming womanhood as a preexisting health condition to allowing young 
+adults to stay on their parents' coverage.
+  This law has changed the way our country manages and delivers all 
+phases of our health care system, and I'm proud to have been part of 
+its creation, and prouder still today to learn that the Court's 
+decision was to uphold its constitutionality.
+
+                          ____________________
+```
