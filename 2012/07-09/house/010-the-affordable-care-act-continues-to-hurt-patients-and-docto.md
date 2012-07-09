@@ -1,0 +1,49 @@
+---
+granule: CRECB-2012-pt8-Pg10858-11
+date: 2012-07-09
+edition: CRECB
+section: HOUSE
+page: 10858
+---
+
+# THE AFFORDABLE CARE ACT CONTINUES TO HURT PATIENTS AND DOCTORS
+
+```
+     THE AFFORDABLE CARE ACT CONTINUES TO HURT PATIENTS AND DOCTORS
+
+  (Mr. BURGESS asked and was given permission to address the House for 
+1
+
+[[Page 10859]]
+
+minute and to revise and extend his remarks.)
+  Mr. BURGESS. Mr. Speaker, today The Dallas Morning News and the Fort 
+Worth Star-Telegram carried stories that only 31 percent of Texas 
+doctors are accepting new patients who rely on Medicaid. In 2010, the 
+last time the survey was taken, it was 42 percent. In the year 2000, it 
+was 67 percent.
+  The Texas Medical Association conducted the survey and attributes the 
+dropping numbers to a low reimbursement rate for physicians and 
+increasing red tape. Doctors appear to be losing patience with 
+government-funded health plans and government-run health care in 
+general.
+  You know, shortly after the Supreme Court decision, all of the cable 
+talk shows talked about its free riders that are driving up the cost of 
+health care in this country. No, it's not. The biggest freeloader is 
+the Federal Government.
+  The Federal Government, with its Medicare and Medicaid programs being 
+structured the way they are, is actually causing the cost of health 
+care to skyrocket in this country, and that's something that needs to 
+stop. They're freeloading on an underfunded program, and it's costing 
+us money. And more importantly, it's inexcusably hurting patients.
+  The Affordable Care Act is a bad law. We all knew it was bad law when 
+it passed. It was written by lobbyists in secret down at the White 
+House. It was a rough draft passed by the Senate that got forced to the 
+House.
+  This House is going to hold a repeal vote this week. I suspect it 
+will pass. I urge the Senate to take up and pass this repeal vote so we 
+can get on to the important business of reforming the system in this 
+country.
+
+                          ____________________
+```
