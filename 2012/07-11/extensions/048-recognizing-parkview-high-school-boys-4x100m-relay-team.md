@@ -1,0 +1,41 @@
+---
+granule: CREC-2012-07-11-pt1-PgE1236-2
+date: 2012-07-11
+edition: CREC
+section: EXTENSIONS
+page: E1236
+citation: 158 Cong. Rec. E1236
+---
+
+# RECOGNIZING PARKVIEW HIGH SCHOOL BOYS 4X100M RELAY TEAM
+
+**Speaking:** Long, Billy (L000576) [R-MO]
+
+```
+        RECOGNIZING PARKVIEW HIGH SCHOOL BOYS 4X100M RELAY TEAM
+
+                                 ______
+                                 
+
+                            HON. BILLY LONG
+
+                              of missouri
+
+                    in the house of representatives
+
+                        Wednesday, July 11, 2012
+
+  Mr. LONG. Mr. Speaker, I rise today to congratulate the Parkview High 
+School Boys 4x100m Relay Team for winning Missouri Class 4 State Track 
+and Field Championships.
+  The team, which included juniors Christopher Hargrove, AJ Green and 
+Myron Willis, and senior Quintin Smith, won the relay event with a time 
+of 42.17.
+  Coach Jay Miller and his talented coaching staff should be proud of 
+their accomplishment in guiding this group of talented athletes. I 
+commend them all on a job well done.
+  I urge my colleagues to join me in congratulating the Parkview High 
+School State Champion Boys 4x100m Relay team.
+
+                          ____________________
+```
