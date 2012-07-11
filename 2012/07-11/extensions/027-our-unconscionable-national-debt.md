@@ -1,0 +1,35 @@
+---
+granule: CRECB-2012-pt8-Pg11193-2
+date: 2012-07-11
+edition: CRECB
+section: EXTENSIONS
+page: 11193
+---
+
+# OUR UNCONSCIONABLE NATIONAL DEBT
+
+```
+                    OUR UNCONSCIONABLE NATIONAL DEBT
+
+                                 ______
+                                 
+
+                           HON. MIKE COFFMAN
+
+                              of colorado
+
+                    in the house of representatives
+
+                        Wednesday, July 11, 2012
+
+  Mr. COFFMAN of Colorado. Mr. Speaker, on January 20, 2009, the day 
+President Obama took office, the national debt was 
+$10,626,877,048,913.08.
+  Today, on the 208th anniversary of the fatal wounding of Alexander 
+Hamilton in his duel with Aaron Burr, it is $15,879,266,313,073.20. 
+We've added $5,252,389,264,160.12 to our debt in just over 3 years. 
+This is debt our nation, our economy, and our children could have 
+avoided with a balanced budget amendment.
+
+                          ____________________
+```
