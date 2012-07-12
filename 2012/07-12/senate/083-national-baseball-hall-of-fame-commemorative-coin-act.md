@@ -1,0 +1,256 @@
+---
+granule: CREC-2012-07-12-pt1-PgS4980-3
+date: 2012-07-12
+edition: CREC
+section: SENATE
+page: S4980
+citation: 158 Cong. Rec. S4980
+---
+
+# NATIONAL BASEBALL HALL OF FAME COMMEMORATIVE COIN ACT
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** H.R. 2527
+
+```
+         NATIONAL BASEBALL HALL OF FAME COMMEMORATIVE COIN ACT
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Banking 
+Committee be discharged from further consideration of H.R. 2527 and the 
+Senate proceed to its consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the bill by title.
+  The bill clerk read as follows:
+
+       A bill (H.R. 2527) to require the Secretary of the Treasury 
+     to mint coins in recognition and celebration of the National 
+     Baseball Hall of Fame.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. REID. I ask unanimous consent that a Gillibrand substitute 
+amendment, which is at the desk, be agreed to, the bill, as amended, be 
+read a third time and passed, the motion to reconsider be laid upon the 
+table, with no intervening action or debate, and any statements related 
+to the bill be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 2553) was agreed to, as follows:
+
+                (Purpose: In the nature of a substitute)
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the `National Baseball Hall of 
+     Fame Commemorative Coin Act'.
+
+     SEC. 2. FINDINGS.
+
+       The Congress finds the following:
+       (1) On June 12, 1939, the National Baseball Hall of Fame 
+     and Museum opened in Cooperstown, New York. Ty Cobb, Walter 
+     Johnson, Christy Mathewson, Babe Ruth, and Honus Wagner 
+     comprised the inaugural class of inductees. This class set 
+     the standard for all future inductees. Since 1939, just one 
+     percent of all Major League Baseball players have earned 
+     induction into the National Baseball Hall of Fame.
+       (2) The National Baseball Hall of Fame and Museum is 
+     dedicated to preserving history, honoring excellence, and 
+     connecting generations through the rich history of our 
+     national pastime. Baseball has mirrored our Nation's history 
+     since the Civil War, and is now an integral part of our 
+     Nation's heritage.
+
+[[Page S4981]]
+
+       (3) The National Baseball Hall of Fame and Museum 
+     chronicles the history of our national pastime and houses the 
+     world's largest collection of baseball artifacts, including 
+     more than 38,000 three dimensional artifacts, 3,000,000 
+     documents, 500,000 photographs, and 12,000 hours of recorded 
+     media. This collection ensures that baseball history and its 
+     unique connection to American history will be preserved and 
+     recounted for future generations.
+       (4) Since its opening in 1939, more than 14,000,000 
+     baseball fans have visited the National Baseball Hall of Fame 
+     and Museum to learn about the history of our national pastime 
+     and the game's connection to the American experience.
+       (5) The National Baseball Hall of Fame and Museum is an 
+     educational institution, reaching 10,000,000 Americans 
+     annually. Utilizing video conference technology, students and 
+     teachers participate in interactive lessons led by educators 
+     from the National Baseball Hall of Fame Museum. These award-
+     winning educational programs draw upon the wonders of 
+     baseball to reach students in classrooms nationwide. Each 
+     educational program uses baseball as a lens for teaching 
+     young Americans important lessons on an array of topics, 
+     including mathematics, geography, civil rights, women's 
+     history, economics, industrial technology, arts, and 
+     communication.
+
+     SEC. 3. COIN SPECIFICATIONS.
+
+       (a) Denominations.--In recognition and celebration of the 
+     National Baseball Hall of Fame, the Secretary of the Treasury 
+     (hereafter in this Act referred to as the ``Secretary'') 
+     shall mint and issue the following coins:
+       (1) $5 gold coins.--Not more than 50,000 $5 coins, which 
+     shall--
+       (A) weigh 8.359 grams;
+       (B) have diameter of 0.850 inches; and
+       (C) contain 90 percent gold and 10 percent alloy.
+       (2) $1 silver coins.--Not more than 400,000 $1 coins, which 
+     shall--
+       (A) weigh 26.73 grams;
+       (B) have a diameter of 1.500 inches; and
+       (C) contain 90 percent silver and 10 percent copper.
+       (3) Half-dollar clad coins.--Not more than 750,000 half-
+     dollar coins which shall--
+       (A) weigh 11.34 grams;
+       (B) have a diameter of 1.205 inches; and
+       (C) be minted to the specifications for half-dollar coins 
+     contained in section 5112(b) of title 31, United States Code.
+       (b) Legal Tender.--The coins minted under this Act shall be 
+     legal tender, as provided in section 5103 of title 31, United 
+     States Code.
+       (c) Numismatic Items.--For purposes of sections 5134 and 
+     5136 of title 31, United States Code, all coins minted under 
+     this Act shall be considered to be numismatic items.
+       (d) Sense of Congress.--It is the sense of Congress that, 
+     to the extent possible without significantly adding to the 
+     purchase price of the coins, the $1 coins and $5 coins minted 
+     under this Act should be produced in a fashion similar to the 
+     2009 International Year of Astronomy coins issued by Monnaie 
+     de Paris, the French Mint, so that the reverse of the coin is 
+     convex to more closely resemble a baseball and the obverse 
+     concave, providing a more dramatic display of the obverse 
+     design chosen pursuant to section 4(c).
+
+     SEC. 4. DESIGN OF COINS.
+
+       (a) In General.--The design for the coins minted under this 
+     Act shall be--
+       (1) selected by the Secretary after consultation with--
+       (A) the National Baseball Hall of Fame;
+       (B) the Commission of Fine Arts; and
+       (2) reviewed by the Citizens Commemorative Coin Advisory 
+     Committee.
+       (b) Designations and Inscriptions.--On each coin minted 
+     under this Act there shall be--
+       (1) a designation of the value of the coin;
+       (2) an inscription of the year ``2014''; and
+       (3) inscriptions of the words ``Liberty'', ``In God We 
+     Trust'', ``United States of America'', and ``E Pluribus 
+     Unum''.
+       (c) Selection and Approval Process for Obverse Design.--
+       (1) In general.--The Secretary shall hold a competition to 
+     determine the design of the common obverse of the coins 
+     minted under this Act, with such design being emblematic of 
+     the game of baseball.
+       (2) Selection and approval.--Proposals for the design of 
+     coins minted under this Act may be submitted in accordance 
+     with the design selection and approval process developed by 
+     the Secretary in the sole discretion of the Secretary. The 
+     Secretary shall encourage 3-dimensional models to be 
+     submitted as part of the design proposals.
+       (3) Proposals.--As part of the competition described in 
+     this subsection, the Secretary may accept proposals from 
+     artists, engravers of the United States Mint, and members of 
+     the general public.
+       (4) Compensation.--The Secretary shall determine 
+     compensation for the winning design under this subsection, 
+     which shall be not less than $5,000. The Secretary shall take 
+     into account this compensation amount when determining the 
+     sale price described in section 6(a).
+       (d) Reverse Design.--The design on the common reverse of 
+     the coins minted under this Act shall depict a baseball 
+     similar to those used by Major League Baseball.
+
+     SEC. 5. ISSUANCE OF COINS.
+
+       (a) Quality of Coins.--Coins minted under this Act shall be 
+     issued in uncirculated and proof qualities.
+       (b) Period for Issuance.--The Secretary may issue coins 
+     minted under this Act only during the 1-year period beginning 
+     on January 1, 2014.
+
+     SEC. 6. SALE OF COINS.
+
+       (a) Sale Price.--The coins issued under this Act shall be 
+     sold by the Secretary at a price equal to the sum of--
+       (1) the face value of the coins;
+       (2) the surcharge provided in section 7(a) with respect to 
+     such coins; and
+       (3) the cost of designing and issuing the coins (including 
+     labor, materials, dies, use of machinery, winning design 
+     compensation, overhead expenses, marketing, and shipping).
+       (b) Bulk Sales.--The Secretary shall make bulk sales of the 
+     coins issued under this Act at a reasonable discount.
+       (c) Prepaid Orders.--
+       (1) In general.--The Secretary shall accept prepaid orders 
+     for the coins minted under this Act before the issuance of 
+     such coins.
+       (2) Discount.--Sale prices with respect to prepaid orders 
+     under paragraph (1) shall be at a reasonable discount.
+
+     SEC. 7. SURCHARGES.
+
+       (a) In General.--All sales of coins minted under this Act 
+     shall include a surcharge as follows:
+       (1) A surcharge of $35 per coin for the $5 coin.
+       (2) A surcharge of $10 per coin for the $1 coin.
+       (3) A surcharge of $5 per coin for the half-dollar coin.
+       (b) Distribution.--Subject to section 5134(f) of title 31, 
+     United States Code, all surcharges received by the Secretary 
+     from the sale of coins issued under this Act shall be 
+     promptly paid by the Secretary to the National Baseball Hall 
+     of Fame to help finance its operations.
+       (c) Audits.--The National Baseball Hall of Fame shall be 
+     subject to the audit requirements of section 5134(f)(2) of 
+     title 31, United States Code, with regard to the amounts 
+     received under subsection (b).
+       (d) Limitation.--Notwithstanding subsection (a), no 
+     surcharge may be included with respect to the issuance under 
+     this Act of any coin during a calendar year if, as of the 
+     time of such issuance, the issuance of such coin would result 
+     in the number of commemorative coin programs issued during 
+     such year to exceed the annual commemorative coin program 
+     issuance limitation under section 5112(m)(1) of title 31, 
+     United States Code (as in effect on the date of the enactment 
+     of this Act). The Secretary of the Treasury may issue 
+     guidance to carry out this subsection.
+
+     SEC. 8. FINANCIAL ASSURANCES.
+
+       The Secretary shall take such actions as may be necessary 
+     to ensure that--
+       (1) minting and issuing coins under this Act will not 
+     result in any net cost to the United States Government; and
+       (2) no funds, including applicable surcharges, are 
+     disbursed to any recipient designated in section 7 until the 
+     total cost of designing and issuing all of the coins 
+     authorized by this Act (including labor, materials, dies, use 
+     of machinery, winning design compensation, overhead expenses, 
+     marketing, and shipping) is recovered by the United States 
+     Treasury, consistent with sections 5112(m) and 5134(f) of 
+     title 31, United States Code.
+
+     SEC. 9. BUDGET COMPLIANCE.
+
+       The budgetary effects of this Act, for the purpose of 
+     complying with the Statutory Pay-As-You-Go Act of 2010, shall 
+     be determined by reference to the latest statement titled 
+     ``Budgetary Effects of PAYGO Legislation'' for this Act, 
+     submitted for printing in the Congressional Record by the 
+     Chairman of the Committee on the Budget of the House of 
+     Representatives, provided that such statement has been 
+     submitted prior to the vote on passage.
+
+  The amendment was ordered to be engrossed and the bill to be read a 
+third time.
+  The bill (H.R. 2527), as amended, was read the third time and passed.
+
+                          ____________________
+```
