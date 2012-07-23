@@ -1,0 +1,48 @@
+---
+granule: CREC-2012-07-23-pt1-PgE1295-2
+date: 2012-07-23
+edition: CREC
+section: EXTENSIONS
+page: E1295
+citation: 158 Cong. Rec. E1295
+---
+
+# HONORING DE'UNA WILSON
+
+**Speaking:** Thompson, Bennie G. (T000193) [D-MS]
+
+```
+                         HONORING DE'UNA WILSON
+
+                                 ______
+                                 
+
+                        HON. BENNIE G. THOMPSON
+
+                             of mississippi
+
+                    in the house of representatives
+
+                         Monday, July 23, 2012
+
+  Mr. THOMPSON of Mississippi. Mr. Speaker, I rise today to honor Ms. 
+De'Una Wilson, the 2012 Valedictorian at Canton High School, in Canton, 
+Mississippi. De'Una is the daughter of Mr. Derreco, Sr. and Ms. Regenia 
+Wilson. She was born and raised in Canton and attends Canton United 
+Methodist Church.
+  De'Una's accomplishments can be greatly attributed to her desire to 
+fulfill her grandmother's dying wish for her to graduate at the top of 
+her class. To achieve this, De'Una dedicated herself to her academics 
+and completed her senior year with an ``A'' average, earning her the 
+merit of Class Valedictorian. In addition to her academics, De'Una has 
+remained active in her community by volunteering at the Open Door 
+Community Outreach Center at Zion Missionary Baptist Church in Canton, 
+and working a part-time job.
+  De'Una has been accepted into the Engineering Program at Jackson 
+State University where she earned a full scholarship.
+  Mr. Speaker, I ask our colleagues to join me in recognizing Ms. 
+De'Una Wilson in being Valedictorian of Canton High School's 2012 
+graduating class.
+
+                          ____________________
+```
