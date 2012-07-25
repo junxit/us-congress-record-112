@@ -1,0 +1,29 @@
+---
+granule: CREC-2012-07-25-pt1-PgH5289
+date: 2012-07-25
+edition: CREC
+section: HOUSE
+page: H5289
+citation: 158 Cong. Rec. H5289
+---
+
+# OMISSION FROM THE CONGRESSIONAL RECORD OF TUESDAY, JULY 24, 2012, AT PAGE H5198
+
+```
+ OMISSION FROM THE CONGRESSIONAL RECORD OF TUESDAY, JULY 24, 2012, AT 
+                               PAGE H5198
+
+                                 ______
+                                 
+
+                            LEAVE OF ABSENCE
+
+  By unanimous consent, leave of absence was granted to:
+  Ms. Jackson Lee of Texas (at the request of Ms. Pelosi) for today 
+between 1 and 5 p.m. on account of attending a memorial service for her 
+former chief of staff.
+  Mr. Reyes (at the request of Ms. Pelosi) for today on account of 
+medical reasons.
+
+                          ____________________
+```
