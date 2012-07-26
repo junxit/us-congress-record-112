@@ -1,0 +1,21 @@
+---
+granule: CRECB-2012-pt9-Pg12538-7
+date: 2012-07-26
+edition: CRECB
+section: SENATE
+page: 12538
+---
+
+# ADJOURNMENT UNTIL MONDAY, JULY 30, 2012, AT 2 P.M.
+
+```
+           ADJOURNMENT UNTIL MONDAY, JULY 30, 2012, AT 2 P.M.
+
+  Mr. SCHUMER. Mr. President, if there is no further business to come 
+before the Senate, I ask unanimous consent that it adjourn under the 
+previous order.
+  There being no objection, the Senate, at 7 p.m., adjourned until 
+Monday, July 30, 2012, at 2 p.m.
+
+                          ____________________
+```

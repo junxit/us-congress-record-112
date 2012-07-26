@@ -1,0 +1,21 @@
+---
+granule: CRECB-2012-pt9-Pg12314
+date: 2012-07-26
+edition: CRECB
+section: HOUSE
+page: 12314
+---
+
+# ADJOURNMENT TO MONDAY, JULY 30, 2012
+
+```
+                  ADJOURNMENT TO MONDAY, JULY 30, 2012
+
+  Mr. CANTOR. Mr. Speaker, I ask unanimous consent that when the House 
+adjourns today, it adjourn to meet at 2 p.m. on Monday next.
+  The SPEAKER pro tempore (Mr. Poe of Texas). Is there objection to the 
+request of the gentleman from Virginia?
+  There was no objection.
+
+                          ____________________
+```
