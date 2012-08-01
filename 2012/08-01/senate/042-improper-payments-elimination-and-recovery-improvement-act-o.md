@@ -1,0 +1,781 @@
+---
+granule: CRECB-2012-pt9-Pg13048
+date: 2012-08-01
+edition: CRECB
+section: SENATE
+page: 13048
+---
+
+# IMPROPER PAYMENTS ELIMINATION AND RECOVERY IMPROVEMENT ACT OF 2012
+
+```
+   IMPROPER PAYMENTS ELIMINATION AND RECOVERY IMPROVEMENT ACT OF 2012
+
+  Mr. REID. Mr. President, I ask unanimous consent that the Senate 
+proceed to the consideration of Calendar No. 449, S. 1409.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The assistant legislative clerk read as follows:
+
+       A bill (S. 1409) to intensify efforts to identify, prevent, 
+     and recover payment error, waste, fraud, and abuse within 
+     Federal spending.
+
+  There being no objection, the Senate proceeded to consider the bill, 
+which had been reported from the Committee on Homeland Security and 
+Governmental Affairs, with an amendment to strike all after the 
+enacting clause and insert in lieu thereof the following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Improper Payments 
+     Elimination and Recovery Improvement Act of 2012''.
+
+     SEC. 2. DEFINITION.
+
+       In this Act, the term ``agency'' means an executive agency 
+     as that term is defined under section 102 of title 31, United 
+     States Code.
+
+     SEC. 3. IMPROVING THE DETERMINATION OF IMPROPER PAYMENTS BY 
+                   FEDERAL AGENCIES.
+
+       (a) In General.--Section 2 of the Improper Payments 
+     Information Act of 2002 (31 U.S.C. 3321 note) is amended--
+       (1) by redesignating subsections (b) through (g) as 
+     subsections (c) through (h), respectively;
+       (2) by inserting after subsection (a) the following:
+       ``(b) Improving the Determination of Improper Payments.--
+       ``(1) In general.--The Director of the Office of Management 
+     and Budget shall on an annual basis--
+       ``(A) identify a list of high-priority Federal programs for 
+     greater levels of oversight and review--
+       ``(i) in which the highest dollar value or highest 
+     frequency of improper payments occur; or
+       ``(ii) for which there is a higher risk of improper 
+     payments; and
+       ``(B) in coordination with the agency responsible for 
+     administering the high-priority program, establish annual 
+     targets and semi-annual or quarterly actions for reducing 
+     improper payments associated with each high-priority program.
+       ``(2) Report on high-priority improper payments.--
+       ``(A) In general.--Subject to Federal privacy policies and 
+     to the extent permitted by law, each agency with a program 
+     identified under paragraph (1)(A) on an annual basis shall 
+     submit to the Inspector General of that agency, and make 
+     available to the public (including availability through the 
+     Internet), a report on that program.
+       ``(B) Contents.--Each report under this paragraph--
+       ``(i) shall describe--
+
+       ``(I) any action the agency--
+
+       ``(aa) has taken or plans to take to recover improper 
+     payments; and
+       ``(bb) intends to take to prevent future improper payments; 
+     and
+       ``(ii) shall not include any referrals the agency made or 
+     anticipates making to the Department of Justice, or any 
+     information provided in connection with such referrals.
+       ``(C) Public availability on central website.--The Office 
+     of Management and Budget shall make each report submitted 
+     under this paragraph available on a central website.
+       ``(D) Availability of information to inspector general.--
+     Subparagraph (B)(ii) shall not prohibit any referral or 
+     information being made available to an Inspector General as 
+     otherwise provided by law.
+       ``(E) Assessment and recommendations.--The Inspector 
+     General of each agency that submits a report under this 
+     paragraph shall--
+       ``(i) review--
+
+       ``(I) the assessment of the level of risk associated with 
+     the applicable program, and the quality of the improper 
+     payment estimates and methodology of the agency; and
+       ``(II) the oversight or financial controls to identify and 
+     prevent improper payments; and
+
+       ``(ii) provide recommendations, for modifying any plans of 
+     the agency, including improvements for improper payments 
+     determination and estimation methodology.'';
+       (3) in subsection (d) (as redesignated by paragraph (1) of 
+     this subsection), by striking ``subsection (b)'' each place 
+     that term appears and inserting ``subsection (c)''; and
+       (4) in subsection (e) (as redesignated by paragraph (1) of 
+     this subsection), by striking ``subsection (b)'' and 
+     inserting ``subsection (c)''.
+       (b) Improved Estimates.--
+       (1) In general.--Not later than 180 days after the date of 
+     enactment of this Act, the Director of the Office of 
+     Management and Budget shall provide guidance to agencies for 
+     improving the estimates of improper payments under the 
+     Improper Payments Information Act of 2002 (31 U.S.C. 3321 
+     note).
+       (2) Guidance.--Guidance under this subsection shall--
+       (A) strengthen the estimation process of agencies by 
+     setting standards for agencies to follow in determining the 
+     underlying validity of sampled payments to ensure amounts 
+     being billed are proper; and
+       (B) instruct agencies to give the persons or entities 
+     performing improper payments estimates access to all 
+     necessary payment data, including access to relevant 
+     documentation;
+       (C) explicitly bar agencies from relying on self-reporting 
+     by the recipients of agency payments as the sole source basis 
+     for improper payments estimates;
+       (D) require agencies to include all identified improper 
+     payments in the reported estimate, regardless of whether the 
+     improper payment in question has been or is being recovered;
+       (E) include payments to employees, including salary, 
+     locality pay, travel pay, purchase card use, and other 
+     employee payments, as subject to risk assessment and, where 
+     appropriate, improper payment estimation; and
+       (F) require agencies to tailor their corrective actions for 
+     the high-priority programs identified under section 
+     2(b)(1)(A) of the Improper Payments Information Act of 2002 
+     (31 U.S.C. 3321 note) to better reflect the unique processes, 
+     procedures, and risks involved in each specific program.
+       (c) Technical and Conforming Amendments.--The Improper 
+     Payments Elimination and Recovery Act of 2010 (Public Law 
+     111-204; 124 Stat. 2224) is amended--
+       (1) in section 2(h)(1) (31 U.S.C. 3321 note), by striking 
+     ``section 2(f)'' and all that follows and inserting ``section 
+     2(g) of the Improper Payments Information Act of 2002 (31 
+     U.S.C. 3321 note).''; and
+       (2) in section 3(a) (31 U.S.C. 3321 note)--
+       (A) in paragraph (1), by striking ``section 2(f)'' and all 
+     that follows and inserting ``section 2(g) of the Improper 
+     Payments Information Act of 2002 (31 U.S.C. 3321 note).''; 
+     and
+       (B) in paragraph (3)--
+       (i) by striking ``section 2(b)'' each place it appears and 
+     inserting ``section 2(c)''; and
+       (ii) by striking ``section 2(c)'' each place it appears and 
+     inserting ``section 2(d)''.
+
+     SEC. 4. IMPROPER PAYMENTS INFORMATION.
+
+       Section 2(a)(3)(A)(ii) of the Improper Payments Information 
+     Act of 2002 (31 U.S.C. 3321 note) is amended by striking 
+     ``with respect to fiscal years following September 30th of a 
+     fiscal year beginning before fiscal year 2013 as determined 
+     by the Office of Management and Budget'' and inserting ``with 
+     respect to fiscal year 2014 and each fiscal year 
+     thereafter''.
+
+     SEC. 5. DO NOT PAY INITIATIVE.
+
+       (a) Prepayment and Preaward Procedures.--
+       (1) In general.--Each agency shall review prepayment and 
+     preaward procedures and ensure that a thorough review of 
+     available databases with relevant information on eligibility 
+     occurs to determine program or award eligibility and prevent 
+     improper payments before the release of any Federal funds.
+       (2) Databases.--At a minimum and before issuing any payment 
+     and award, each agency shall review as appropriate the 
+     following databases to verify eligibility of the payment and 
+     award:
+       (A) The Death Master File of the Social Security 
+     Administration.
+       (B) The General Services Administration's Excluded Parties 
+     List System.
+       (C) The Debt Check Database of the Department of the 
+     Treasury.
+       (D) The Credit Alert System or Credit Alert Interactive 
+     Voice Response System of the Department of Housing and Urban 
+     Development.
+       (E) The List of Excluded Individuals/Entities of the Office 
+     of Inspector General of the Department of Health and Human 
+     Services.
+       (b) Do Not Pay Initiative.--
+       (1) Establishment.--There is established the Do Not Pay 
+     Initiative which shall consist of--
+       (A) the databases described under subsection (a)(2); and
+       (B) any other database designated by the Director of the 
+     Office of Management and Budget in consultation with 
+     agencies.
+       (2) Other databases.--In making designations of other 
+     databases under paragraph (1)(B), the Director of the Office 
+     of Management and Budget shall consider any database that 
+     assists in preventing improper payments.
+       (3) Access and review by agencies.--For purposes of 
+     identifying and preventing improper payments, each agency 
+     shall have access to, and use of, the Do Not Pay Initiative 
+     to determine payment or award eligibility when the Director 
+     of the Office of Management and Budget determines the Do Not 
+     Pay Initiative is appropriately established for the agency.
+       (4) Payment otherwise required.--When using the Do Not Pay 
+     Initiative, an agency shall recognize that there may be 
+     circumstances under which the law requires a payment or award 
+     to be made to a recipient, regardless of whether that 
+     recipient is on the Do Not Pay Initiative.
+
+[[Page 13049]]
+
+       (c) Database Integration Plan.--Not later than 60 days 
+     after the date of enactment of this Act, the Director of the 
+     Office of Management and Budget shall provide to the Congress 
+     a plan for--
+       (1) inclusion of other databases on the Do Not Pay 
+     Initiative;
+       (2) to the extent permitted by law, agency access to the Do 
+     Not Pay Initiative; and
+       (3) the multilateral data use agreements described under 
+     subsection (e).
+       (d) Initial Working System.--
+       (1) Establishment.--Not later than 90 days after the date 
+     of enactment of this Act, the Director of the Office of 
+     Management and Budget shall establish a working system for 
+     prepayment and preaward review that includes the Do Not Pay 
+     Initiative as described under this section.
+       (2) Working system.--The working system established under 
+     paragraph (1)--
+       (A) may be located within an appropriate agency;
+       (B) shall include not less than 3 agencies as users of the 
+     system; and
+       (C) shall include investigation activities for fraud and 
+     systemic improper payments detection through analytic 
+     technologies and other techniques, which may include 
+     commercial database use or access.
+       (3) Application to all agencies.--Not later than January 1, 
+     2013, each agency shall review all payments and awards for 
+     all programs of that agency through the system established 
+     under this subsection.
+       (e) Multilateral Data Use Agreements.--
+       (1) In general.--Not later than 60 days after the date of 
+     enactment of this Act, the Director of the Office of 
+     Management and Budget shall develop a plan to establish a 
+     multilateral data use agreement authority to carry out this 
+     section, including access to databases such as the New Hire 
+     Database under section 453(j) of the Social Security Act (42 
+     U.S.C. 653(j)).
+       (2) Privacy act matching agreements.--Section 552a(o)(1) of 
+     title 5, United States Code, is amended in the matter 
+     preceding subparagraph (A), by inserting ``or an agreement 
+     governing multiple agencies'' before ``specifying''.
+       (3) General protocols and security.--
+       (A) In general.--In developing the multilateral data use 
+     agreements, the Director of the Office of Management and 
+     Budget shall establish implementing regulations and 
+     guidelines that include streamlined interagency processes to 
+     ensure agency access to data, and provide for appropriate 
+     transfer and storage of any transferred data, in a manner 
+     consistent with relevant privacy, security and disclosure 
+     laws.
+       (B) Consultation.--The Director of the Office of Management 
+     and Budget shall consult with--
+       (i) the Council of Inspectors General on Integrity and 
+     Efficiency before implementing this paragraph; and
+       (ii) the Secretary of Health and Human Services, the Social 
+     Security Administrator, and the head of any other agency, as 
+     appropriate.
+       (f) Development and Access to a Database of Incarcerated 
+     Individuals.--Not later than 1 year after the date of 
+     enactment of this Act, the Attorney General shall submit to 
+     Congress recommendations for increasing the use of, access 
+     to, and the technical feasibility of using data on the 
+     Federal, State, and local conviction and incarceration status 
+     of individuals for purposes of identifying and preventing 
+     improper payments by Federal agencies and programs and fraud.
+       (g) Plan To Curb Federal Improper Payments to Deceased 
+     Individuals by Improving the Quality and Use by Federal 
+     Agencies of the Social Security Administration Death Master 
+     File.--
+       (1) Establishment.--In conjunction with the Commissioner of 
+     Social Security and in consultation with relevant 
+     stakeholders that have an interest in or responsibility for 
+     providing the data, and the States, the Director of the 
+     Office of Management and Budget shall establish a plan for 
+     improving the quality, accuracy, and timeliness of death data 
+     maintained by the Social Security Administration, including 
+     death information reported to the Commissioner under section 
+     205(r) of the Social Security Act (42 U.S.C. 405(r)).
+       (2) Additional actions under plan.--The plan established 
+     under this subsection shall include recommended actions by 
+     agencies to--
+       (A) increase the quality and frequency of access to the 
+     Death Master File and other death data;
+       (B) achieve a goal of at least daily access as appropriate;
+       (C) provide for all States and other data providers to use 
+     improved and electronic means for providing data;
+       (D) identify improved methods by agencies for determining 
+     ineligible payments due to the death of a recipient through 
+     proactive verification means; and
+       (E) address improper payments made by agencies to deceased 
+     individuals as part of Federal retirement programs.
+       (3) Report.--Not later than 120 days after the date of 
+     enactment of this Act, the Director of the Office of 
+     Management and Budget shall submit a report to Congress on 
+     the plan established under this subsection, including 
+     recommended legislation.
+
+     SEC. 6. IMPROVING RECOVERY OF IMPROPER PAYMENTS.
+
+       (a) Definition.--In this section, the term ``recovery 
+     audit'' means a recovery audit described under section 2(h) 
+     of the Improper Payments Elimination and Recovery Act of 
+     2010.
+       (b) In General.--The Director of the Office of Management 
+     and Budget shall determine--
+       (1) current and historical rates and amounts of recovery of 
+     improper payments (or, in cases in which improper payments 
+     are identified solely on the basis of a sample, recovery 
+     rates and amounts estimated on the basis of the applicable 
+     sample), including specific information of amounts and 
+     payments recovered by recovery audit contractors; and
+       (2) targets for recovering improper payments, including 
+     specific information on amounts and payments recovered by 
+     recovery audit contractors.
+       (c) Recovery Audit Contractor Programs.--
+       (1) Establishment.--Not later than 90 days after the date 
+     of enactment of this Act, the Director of the Office of 
+     Management and Budget shall establish a plan for no less than 
+     10 Recovery Audit Contracting programs for the purpose of 
+     identifying and recovering overpayments and underpayments in 
+     10 agencies.
+       (2) Range of recovery audit contracting types.--Programs 
+     established under paragraph (1) shall be representative of 
+     different types of--
+       (A) programs, including programs that differ in size, 
+     payment types, and recipient types (such as beneficiaries and 
+     vendors or contractors) across the Federal Government; and
+       (B) recover audit contracting (including individual 
+     payments review and demographic analysis).
+       (3) Initial operation of programs.--Not later than 1 year 
+     after the plan under paragraph (1) is established, each 
+     applicable agency shall establish the programs included in 
+     that plan which shall be conducted for not more than a 3-year 
+     period.
+       (4) Reports.--
+       (A) In general.--Not later than 2 years after establishing 
+     a program under the plan established under paragraph (1), the 
+     head of the agency conducting the program shall submit a 
+     report on the program to Congress.
+       (B) Contents.--Each report under this paragraph shall 
+     include--
+       (i) a description of the impact of the program on savings 
+     and recoveries; and
+       (ii) such recommendations as the head of the agency 
+     considers appropriate on extending or expanding the program.
+
+  Mr. REID. Mr. President, I ask unanimous consent that the committee-
+reported substitute amendment be considered, the Carper amendment, 
+which is at the desk, be agreed to, the committee-reported amendment, 
+as amended, be agreed to, and the bill, as amended, be read a third 
+time and passed, the motion to reconsider be laid upon the table, with 
+no intervening action or debate, and any related statements be printed 
+in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 2770) was agreed to, as follows:
+
+                (Purpose: In the nature of a substitute)
+
+       In lieu of the matter proposed to be inserted, insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Improper Payments 
+     Elimination and Recovery Improvement Act of 2012''.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act--
+       (1) the term ``agency'' means an executive agency as that 
+     term is defined under section 102 of title 31, United States 
+     Code; and
+       (2) the term ``improper payment'' has the meaning given 
+     that term in section 2(g) of the Improper Payments 
+     Information Act of 2002 (31 U.S.C. 3321 note), as 
+     redesignated by section 3(a)(1) of this Act.
+
+     SEC. 3. IMPROVING THE DETERMINATION OF IMPROPER PAYMENTS BY 
+                   FEDERAL AGENCIES.
+
+       (a) In General.--Section 2 of the Improper Payments 
+     Information Act of 2002 (31 U.S.C. 3321 note) is amended--
+       (1) by redesignating subsections (b) through (g) as 
+     subsections (c) through (h), respectively;
+       (2) by inserting after subsection (a) the following:
+       ``(b) Improving the Determination of Improper Payments.--
+       ``(1) In general.--The Director of the Office of Management 
+     and Budget shall on an annual basis--
+       ``(A) identify a list of high-priority Federal programs for 
+     greater levels of oversight and review--
+       ``(i) in which the highest dollar value or highest rate of 
+     improper payments occur; or
+       ``(ii) for which there is a higher risk of improper 
+     payments; and
+       ``(B) in coordination with the agency responsible for 
+     administering the high-priority program, establish annual 
+     targets and semi-annual or quarterly actions for reducing 
+     improper payments associated with each high-priority program.
+       ``(2) Report on high-priority improper payments.--
+       ``(A) In general.--Subject to Federal privacy policies and 
+     to the extent permitted by law, each agency with a program 
+     identified under paragraph (1)(A) on an annual basis shall 
+     submit to the Inspector General of that agency, and make 
+     available to the public (including availability through the 
+     Internet), a report on that program.
+       ``(B) Contents.--Each report under this paragraph--
+
+[[Page 13050]]
+
+       ``(i) shall describe--
+
+       ``(I) any action the agency--
+
+       ``(aa) has taken or plans to take to recover improper 
+     payments; and
+       ``(bb) intends to take to prevent future improper payments; 
+     and
+       ``(ii) shall not include any referrals the agency made or 
+     anticipates making to the Department of Justice, or any 
+     information provided in connection with such referrals.
+       ``(C) Public availability on central website.--The Office 
+     of Management and Budget shall make each report submitted 
+     under this paragraph available on a central website.
+       ``(D) Availability of information to inspector general.--
+     Subparagraph (B)(ii) shall not prohibit any referral or 
+     information being made available to an Inspector General as 
+     otherwise provided by law.
+       ``(E) Assessment and recommendations.--The Inspector 
+     General of each agency that submits a report under this 
+     paragraph shall, for each program of the agency that is 
+     identified under paragraph (1)(A)--
+       ``(i) review--
+
+       ``(I) the assessment of the level of risk associated with 
+     the program, and the quality of the improper payment 
+     estimates and methodology of the agency relating to the 
+     program; and
+       ``(II) the oversight or financial controls to identify and 
+     prevent improper payments under the program; and
+
+       ``(ii) submit to Congress recommendations, which may be 
+     included in another report submitted by the Inspector General 
+     to Congress, for modifying any plans of the agency relating 
+     to the program, including improvements for improper payments 
+     determination and estimation methodology.'';
+       (3) in subsection (d) (as redesignated by paragraph (1) of 
+     this subsection), by striking ``subsection (b)'' each place 
+     that term appears and inserting ``subsection (c)'';
+       (4) in subsection (e) (as redesignated by paragraph (1) of 
+     this subsection), by striking ``subsection (b)'' and 
+     inserting ``subsection (c)''; and
+       (5) in subsection (g)(3) (as redesignated by paragraph (1) 
+     of this subsection), by inserting ``or a Federal employee'' 
+     after ``non-Federal person or entity''.
+       (b) Improved Estimates.--
+       (1) In general.--Not later than 180 days after the date of 
+     enactment of this Act, the Director of the Office of 
+     Management and Budget shall provide guidance to agencies for 
+     improving the estimates of improper payments under the 
+     Improper Payments Information Act of 2002 (31 U.S.C. 3321 
+     note).
+       (2) Guidance.--Guidance under this subsection shall--
+       (A) strengthen the estimation process of agencies by 
+     setting standards for agencies to follow in determining the 
+     underlying validity of sampled payments to ensure amounts 
+     being billed are proper; and
+       (B) instruct agencies to give the persons or entities 
+     performing improper payments estimates access to all 
+     necessary payment data, including access to relevant 
+     documentation;
+       (C) explicitly bar agencies from relying on self-reporting 
+     by the recipients of agency payments as the sole source basis 
+     for improper payments estimates;
+       (D) require agencies to include all identified improper 
+     payments in the reported estimate, regardless of whether the 
+     improper payment in question has been or is being recovered;
+       (E) include payments to employees, including salary, 
+     locality pay, travel pay, purchase card use, and other 
+     employee payments, as subject to risk assessment and, where 
+     appropriate, improper payment estimation; and
+       (F) require agencies to tailor their corrective actions for 
+     the high-priority programs identified under section 
+     2(b)(1)(A) of the Improper Payments Information Act of 2002 
+     (31 U.S.C. 3321 note) to better reflect the unique processes, 
+     procedures, and risks involved in each specific program.
+       (c) Technical and Conforming Amendments.--The Improper 
+     Payments Elimination and Recovery Act of 2010 (Public Law 
+     111-204; 124 Stat. 2224) is amended--
+       (1) in section 2(h)(1) (31 U.S.C. 3321 note), by striking 
+     ``section 2(f)'' and all that follows and inserting ``section 
+     2(g) of the Improper Payments Information Act of 2002 (31 
+     U.S.C. 3321 note).''; and
+       (2) in section 3(a) (31 U.S.C. 3321 note)--
+       (A) in paragraph (1), by striking ``section 2(f)'' and all 
+     that follows and inserting ``section 2(g) of the Improper 
+     Payments Information Act of 2002 (31 U.S.C. 3321 note).''; 
+     and
+       (B) in paragraph (3)--
+       (i) by striking ``section 2(b)'' each place it appears and 
+     inserting ``section 2(c)''; and
+       (ii) by striking ``section 2(c)'' each place it appears and 
+     inserting ``section 2(d)''.
+
+     SEC. 4. IMPROPER PAYMENTS INFORMATION.
+
+       Section 2(a)(3)(A)(ii) of the Improper Payments Information 
+     Act of 2002 (31 U.S.C. 3321 note) is amended by striking 
+     ``with respect to fiscal years following September 30th of a 
+     fiscal year beginning before fiscal year 2013 as determined 
+     by the Office of Management and Budget'' and inserting ``with 
+     respect to fiscal year 2014 and each fiscal year 
+     thereafter''.
+
+     SEC. 5. DO NOT PAY INITIATIVE.
+
+       (a) Prepayment and Preaward Procedures.--
+       (1) In general.--Each agency shall review prepayment and 
+     preaward procedures and ensure that a thorough review of 
+     available databases with relevant information on eligibility 
+     occurs to determine program or award eligibility and prevent 
+     improper payments before the release of any Federal funds.
+       (2) Databases.--At a minimum and before issuing any payment 
+     and award, each agency shall review as appropriate the 
+     following databases to verify eligibility of the payment and 
+     award:
+       (A) The Death Master File of the Social Security 
+     Administration.
+       (B) The General Services Administration's Excluded Parties 
+     List System.
+       (C) The Debt Check Database of the Department of the 
+     Treasury.
+       (D) The Credit Alert System or Credit Alert Interactive 
+     Voice Response System of the Department of Housing and Urban 
+     Development.
+       (E) The List of Excluded Individuals/Entities of the Office 
+     of Inspector General of the Department of Health and Human 
+     Services.
+       (b) Do Not Pay Initiative.--
+       (1) Establishment.--There is established the Do Not Pay 
+     Initiative which shall include--
+       (A) use of the databases described under subsection (a)(2); 
+     and
+       (B) use of other databases designated by the Director of 
+     the Office of Management and Budget in consultation with 
+     agencies and in accordance with paragraph (2).
+       (2) Other databases.--In making designations of other 
+     databases under paragraph (1)(B), the Director of the Office 
+     of Management and Budget shall--
+       (A) consider any database that substantially assists in 
+     preventing improper payments; and
+       (B) provide public notice and an opportunity for comment 
+     before designating a database under paragraph (1)(B).
+       (3) Access and review by agencies.--For purposes of 
+     identifying and preventing improper payments, each agency 
+     shall have access to, and use of, the Do Not Pay Initiative 
+     to verify payment or award eligibility in accordance with 
+     subsection (a) when the Director of the Office of Management 
+     and Budget determines the Do Not Pay Initiative is 
+     appropriately established for the agency.
+       (4) Payment otherwise required.--When using the Do Not Pay 
+     Initiative, an agency shall recognize that there may be 
+     circumstances under which the law requires a payment or award 
+     to be made to a recipient, regardless of whether that 
+     recipient is identified as potentially ineligible under the 
+     Do Not Pay Initiative.
+       (5) Annual report.--The Director of the Office of 
+     Management and Budget shall submit to Congress an annual 
+     report, which may be included as part of another report 
+     submitted to Congress by the Director, regarding the 
+     operation of the Do Not Pay Initiative, which shall--
+       (A) include an evaluation of whether the Do Not Pay 
+     Initiative has reduced improper payments or improper awards; 
+     and
+       (B) provide the frequency of corrections or identification 
+     of incorrect information.
+       (c) Database Integration Plan.--Not later than 60 days 
+     after the date of enactment of this Act, the Director of the 
+     Office of Management and Budget shall provide to the Congress 
+     a plan for--
+       (1) inclusion of other databases on the Do Not Pay 
+     Initiative;
+       (2) to the extent permitted by law, agency access to the Do 
+     Not Pay Initiative; and
+       (3) the multilateral data use agreements described under 
+     subsection (e).
+       (d) Initial Working System.--
+       (1) Establishment.--Not later than 90 days after the date 
+     of enactment of this Act, the Director of the Office of 
+     Management and Budget shall establish a working system for 
+     prepayment and preaward review that includes the Do Not Pay 
+     Initiative as described under this section.
+       (2) Working system.--The working system established under 
+     paragraph (1)--
+       (A) may be located within an appropriate agency;
+       (B) shall include not less than 3 agencies as users of the 
+     system; and
+       (C) shall include investigation activities for fraud and 
+     systemic improper payments detection through analytic 
+     technologies and other techniques, which may include 
+     commercial database use or access.
+       (3) Application to all agencies.--Not later than June 1, 
+     2013, each agency shall review all payments and awards for 
+     all programs of that agency through the system established 
+     under this subsection.
+       (e) Facilitating Data Access by Federal Agencies and 
+     Offices of Inspectors General for Purposes of Program 
+     Integrity.--
+       (1) Definition.--In this subsection, the term ``Inspector 
+     General'' means an Inspector General described in 
+     subparagraph (A), (B), or (I) of section 11(b)(1) of the 
+     Inspector General Act of 1978 (5 U.S.C. App.).
+       (2) Computer matching by federal agencies for purposes of 
+     investigation and prevention of improper payments and 
+     fraud.--
+       (A) In general.--Except as provided in this paragraph, in 
+     accordance with section 552a of title 5, United States Code 
+     (commonly known as the Privacy Act of 1974), each Inspector 
+     General and the head of each agency
+
+[[Page 13051]]
+
+     may enter into computer matching agreements that allow 
+     ongoing data matching (which shall include automated data 
+     matching) in order to assist in the detection and prevention 
+     of improper payments.
+       (B) Review.--Not later than 60 days after a proposal for an 
+     agreement under subparagraph (A) has been presented to a Data 
+     Integrity Board established under section 552a(u) of title 5, 
+     United States Code, for consideration, the Data Integrity 
+     Board shall respond to the proposal.
+       (C) Termination date.--An agreement under subparagraph 
+     (A)--
+       (i) shall have a termination date of less than 3 years; and
+       (ii) during the 3-month period ending on the date on which 
+     the agreement is scheduled to terminate, may be renewed by 
+     the agencies entering the agreement for not more than 3 
+     years.
+       (D) Multiple agencies.--For purposes of this paragraph, 
+     section 552a(o)(1) of title 5, United States Code, shall be 
+     applied by substituting ``between the source agency and the 
+     recipient agency or non-Federal agency or an agreement 
+     governing multiple agencies'' for ``between the source agency 
+     and the recipient agency or non-Federal agency'' in the 
+     matter preceding subparagraph (A).
+       (E) Cost-benefit analysis.--A justification under section 
+     552a(o)(1)(B) of title 5, United States Code, relating to an 
+     agreement under subparagraph (A) is not required to contain a 
+     specific estimate of any savings under the computer matching 
+     agreement.
+       (F) Guidance by the office of management and budget.--Not 
+     later than 6 months after the date of enactment of this Act, 
+     and in consultation with the Council of Inspectors General on 
+     Integrity and Efficiency, the Secretary of Health and Human 
+     Services, the Commissioner of Social Security, and the head 
+     of any other relevant agency, the Director of the Office of 
+     Management and Budget shall--
+       (i) issue guidance for agencies regarding implementing this 
+     paragraph, which shall include standards for--
+
+       (I) reimbursement of costs, when necessary, between 
+     agencies;
+       (II) retention and timely destruction of records in 
+     accordance with section 552a(o)(1)(F) of title 5, United 
+     States Code;
+       (III) prohibiting duplication and redisclosure of records 
+     in accordance with section 552a(o)(1)(H) of title 5, United 
+     States Code;
+
+       (ii) review the procedures of the Data Integrity Boards 
+     established under section 552a(u) of title 5, United States 
+     Code, and develop new guidance for the Data Integrity Boards 
+     to--
+
+       (I) improve the effectiveness and responsiveness of the 
+     Data Integrity Boards; and
+       (II) ensure privacy protections in accordance with section 
+     552a of title 5, United States Code (commonly known as the 
+     Privacy Act of 1974); and
+       (III) establish standard matching agreements for use when 
+     appropriate; and
+
+       (iii) establish and clarify rules regarding what 
+     constitutes making an agreement entered under subparagraph 
+     (A) available upon request to the public for purposes of 
+     section 552a(o)(2)(A)(ii) of title 5, United States Code, 
+     which shall include requiring publication of the agreement on 
+     a public website.
+       (G) Corrections.--The Director of the Office of Management 
+     and Budget shall establish procedures providing for the 
+     correction of data in order to ensure--
+       (i) compliance with section 552a(p) of title 5, United 
+     States Code; and
+       (ii) that corrections are made in any Do Not Pay Initiative 
+     database and in any relevant source databases designated by 
+     the Director of the Office of Management and Budget under 
+     subsection (b)(1).
+       (H) Compliance.--The head of each agency, in consultation 
+     with the Inspector General of the agency, shall ensure that 
+     any information provided to an individual or entity under 
+     this subsection is provided in accordance with protocols 
+     established under this subsection.
+       (I) Rule of construction.--Nothing in this subsection shall 
+     be construed to affect the rights of an individual under 
+     section 552a(p) of title 5, United States Code.
+       (f) Development and Access to a Database of Incarcerated 
+     Individuals.--Not later than 1 year after the date of 
+     enactment of this Act, the Attorney General shall submit to 
+     Congress recommendations for increasing the use of, access 
+     to, and the technical feasibility of using data on the 
+     Federal, State, and local conviction and incarceration status 
+     of individuals for purposes of identifying and preventing 
+     improper payments by Federal agencies and programs and fraud.
+       (g) Plan To Curb Federal Improper Payments to Deceased 
+     Individuals by Improving the Quality and Use by Federal 
+     Agencies of the Social Security Administration Death Master 
+     File.--
+       (1) Establishment.--In conjunction with the Commissioner of 
+     Social Security and in consultation with relevant 
+     stakeholders that have an interest in or responsibility for 
+     providing the data, and the States, the Director of the 
+     Office of Management and Budget shall establish a plan for 
+     improving the quality, accuracy, and timeliness of death data 
+     maintained by the Social Security Administration, including 
+     death information reported to the Commissioner under section 
+     205(r) of the Social Security Act (42 U.S.C. 405(r)).
+       (2) Additional actions under plan.--The plan established 
+     under this subsection shall include recommended actions by 
+     agencies to--
+       (A) increase the quality and frequency of access to the 
+     Death Master File and other death data;
+       (B) achieve a goal of at least daily access as appropriate;
+       (C) provide for all States and other data providers to use 
+     improved and electronic means for providing data;
+       (D) identify improved methods by agencies for determining 
+     ineligible payments due to the death of a recipient through 
+     proactive verification means; and
+       (E) address improper payments made by agencies to deceased 
+     individuals as part of Federal retirement programs.
+       (3) Report.--Not later than 120 days after the date of 
+     enactment of this Act, the Director of the Office of 
+     Management and Budget shall submit a report to Congress on 
+     the plan established under this subsection, including 
+     recommended legislation.
+
+     SEC. 6. IMPROVING RECOVERY OF IMPROPER PAYMENTS.
+
+       (a) Definition.--In this section, the term ``recovery 
+     audit'' means a recovery audit described under section 2(h) 
+     of the Improper Payments Elimination and Recovery Act of 
+     2010.
+       (b) Review.--The Director of the Office of Management and 
+     Budget shall determine--
+       (1) current and historical rates and amounts of recovery of 
+     improper payments (or, in cases in which improper payments 
+     are identified solely on the basis of a sample, recovery 
+     rates and amounts estimated on the basis of the applicable 
+     sample), including a list of agency recovery audit contract 
+     programs and specific information of amounts and payments 
+     recovered by recovery audit contractors; and
+       (2) targets for recovering improper payments, including 
+     specific information on amounts and payments recovered by 
+     recovery audit contractors.
+  The committee-reported substitute, as amended, was agreed to.
+  The bill (S. 1409), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and passed.
+
+                          ____________________
+```
