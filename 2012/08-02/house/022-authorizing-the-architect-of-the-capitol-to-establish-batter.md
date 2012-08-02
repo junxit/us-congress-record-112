@@ -1,0 +1,123 @@
+---
+granule: CRECB-2012-pt10-Pg13206-2
+date: 2012-08-02
+edition: CRECB
+section: HOUSE
+page: 13206
+---
+
+# AUTHORIZING THE ARCHITECT OF THE CAPITOL TO ESTABLISH BATTERY RECHARGING STATIONS UNDER JURISDICTION OF HOUSE
+
+```
+     AUTHORIZING THE ARCHITECT OF THE CAPITOL TO ESTABLISH BATTERY 
+            RECHARGING STATIONS UNDER JURISDICTION OF HOUSE
+
+  Mr. DANIEL E. LUNGREN of California. Mr. Speaker, I ask unanimous 
+consent to take from the Speaker's table the bill (H.R. 1402) to 
+authorize the Architect of the Capitol to establish battery recharging 
+stations for privately owned vehicles in parking areas under the 
+jurisdiction of the House of Representatives at no net cost to the 
+Federal Government, and ask for its immediate consideration in the 
+House.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from California?
+  There was no objection.
+  The text of the bill is as follows:
+
+                               H.R. 1402
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. BATTERY RECHARGING STATIONS FOR PRIVATELY OWNED 
+                   VEHICLES IN PARKING AREAS UNDER THE 
+                   JURISDICTION OF THE HOUSE OF REPRESENTATIVES AT 
+                   NO NET COST TO THE FEDERAL GOVERNMENT.
+
+       (a) Definition.--In this Act, the term ``covered employee'' 
+     means--
+       (1) an employee whose pay is disbursed by the Chief 
+     Administrative Officer of the House of Representatives; or
+       (2) any other individual who is authorized to park in any 
+     parking area under the jurisdiction of the House of 
+     Representatives on Capitol Grounds.
+       (b) Authority.--
+       (1) In general.--Subject to paragraph (3), funds 
+     appropriated to the Architect of the Capitol under the 
+     heading ``Capitol Power Plant'' under the heading ``ARCHITECT 
+     OF THE CAPITOL'' in any fiscal year are available to 
+     construct, operate, and maintain on a reimbursable basis 
+     battery recharging stations in parking areas under the 
+     jurisdiction of the House of Representatives on Capitol 
+     Grounds for use by privately owned vehicles used by Members 
+     of the House of Representatives (including the Delegates or 
+     Resident Commissioner to the Congress) or covered employees.
+       (2) Vendors authorized.--In carrying out paragraph (1), the 
+     Architect of the Capitol may use 1 or more vendors on a 
+     commission basis.
+       (3) Approval of construction.--The Architect of the Capitol 
+     may construct or direct the construction of battery 
+     recharging stations described under paragraph (1) after--
+       (A) submission of written notice detailing the numbers and 
+     locations of the battery recharging stations to the Committee 
+     on House Administration of the House of Representatives; and
+       (B) approval by that Committee.
+       (c) Fees and Charges.--
+       (1) In general.--Subject to paragraph (2), the Architect of 
+     the Capitol shall charge fees or charges for electricity 
+     provided to Members and covered employees sufficient to cover 
+     the costs to the Architect of the Capitol to carry out this 
+     section, including costs to any vendors or other costs 
+     associated with maintaining the battery recharging stations.
+       (2) Approval of fees or charges.--The Architect of the 
+     Capitol may establish and adjust fees or charges under 
+     paragraph (1) after--
+       (A) submission of written notice detailing the amount of 
+     the fee or charge to be established or adjusted to the 
+     Committee on House Administration of the House of 
+     Representatives; and
+       (B) approval by that Committee.
+       (d) Deposit and Availability of Fees, Charges, and 
+     Commissions.--Any fees, charges, or commissions collected by 
+     the Architect of the Capitol under this section shall be--
+       (1) deposited in the Treasury to the credit of the 
+     appropriations account described under subsection (b); and
+       (2) available for obligation without further appropriation 
+     during--
+       (A) the fiscal year collected; and
+       (B) the fiscal year following the fiscal year collected.
+       (e) Annual Reports.--Not later than 30 days after the end 
+     of each fiscal year, the Architect of the Capitol shall 
+     submit a report on the financial administration and cost 
+     recovery of activities under this section with respect to 
+     that fiscal year to the Committee on House Administration of 
+     the House of Representatives.
+
+[[Page 13207]]
+
+       (f) Effective Date.--This Act shall apply with respect to 
+     fiscal year 2011 and each fiscal year thereafter.
+
+
+        Amendment Offered by Mr. Daniel E. Lungren of California
+
+  Mr. DANIEL E. LUNGREN of California. Mr. Speaker, I have an amendment 
+to the bill at the desk.
+  The SPEAKER pro tempore. The Clerk will report the amendment.
+  The Clerk read as follows:
+
+       Amend section 1(e) to read as follows:
+  Mr. DANIEL E. LUNGREN of California (during the reading). Mr. 
+Speaker, I ask unanimous consent that the reading of the amendment be 
+dispensed with.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from California?
+  There was no objection.
+  The amendment was agreed to.
+  The bill was ordered to be engrossed and read a third time, was read 
+the third time, and passed, and a motion to reconsider was laid on the 
+table.
+
+                          ____________________
+```
