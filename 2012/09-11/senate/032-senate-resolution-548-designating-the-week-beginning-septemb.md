@@ -1,0 +1,100 @@
+---
+granule: CREC-2012-09-11-pt1-PgS6109
+date: 2012-09-11
+edition: CREC
+section: SENATE
+page: S6109
+citation: 158 Cong. Rec. S6109
+---
+
+# SENATE RESOLUTION 548--DESIGNATING THE WEEK BEGINNING SEPTEMBER 9, 2012, AS "NATIONAL DIRECT SUPPORT PROFESSIONAL RECOGNITION WEEK"
+
+**Measures:** S.Res. 548
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+  SENATE RESOLUTION 548--DESIGNATING THE WEEK BEGINNING SEPTEMBER 9, 
+   2012, AS ``NATIONAL DIRECT SUPPORT PROFESSIONAL RECOGNITION WEEK''
+
+  Mr. NELSON of Nebraska (for himself and Ms. Collins) submitted the 
+following resolution; which was considered and agreed to:
+
+                              S. Res. 548
+
+       Whereas direct support professionals, direct care workers, 
+     personal assistants, personal attendants, in-home support 
+     workers, and paraprofessionals (referred to in this preamble 
+     as ``direct support professionals'') are the primary 
+     providers of publicly funded long term supports and services 
+     for millions of individuals with disabilities;
+       Whereas a direct support professional must build a close, 
+     trusted relationship with an individual with disabilities;
+       Whereas a direct support professional assists an individual 
+     with disabilities with the most intimate needs on a daily 
+     basis;
+       Whereas direct support professionals perform a broad range 
+     of activities for individuals with disabilities, including 
+     preparing meals, managing medications, bathing, dressing, 
+     helping with mobility, providing transportation to school, 
+     work, and religious and recreational activities, and helping 
+     with general daily affairs;
+       Whereas a direct support professional provides essential 
+     support to help keep an individual with disabilities 
+     connected to the family and community of the individual;
+       Whereas direct support professionals enable individuals 
+     with disabilities to live meaningful, productive lives;
+       Whereas direct support professionals are the key to 
+     allowing an individual with disabilities to live successfully 
+     in the community and avoid more costly institutional care;
+       Whereas the majority of direct support professionals are 
+     female, and many are the sole breadwinners of their families;
+       Whereas, although direct support professionals work and pay 
+     taxes, many are impoverished and are eligible for the same 
+     Federal and State public assistance programs that individuals 
+     with disabilities depend on;
+       Whereas Federal policies, State policies, and the opinion 
+     of the Supreme Court in Olmstead v. L.C., 527 U.S. 581 (1999) 
+     assert the right of an individual to live in his or her home 
+     and community;
+       Whereas the majority of direct support professionals are 
+     employed in home and community-based settings, and the 
+     percentage of direct support professionals employed in such 
+     settings is projected to increase during this decade;
+       Whereas there is a documented critical and growing shortage 
+     of direct support professionals in every community throughout 
+     the United States; and
+       Whereas many direct support professionals are forced to 
+     leave jobs due to inadequate wages and benefits, creating 
+     high turnover and vacancy rates, which, research 
+     demonstrates, adversely affects the quality of supports 
+     provided to individuals with disabilities: Now, therefore, be 
+     it
+         Resolved, That the Senate--
+         (1) designates the week beginning September 9, 2012, as 
+     ``National Direct Support Professionals Recognition Week'';
+         (2) recognizes the dedication and vital role of direct 
+     support professionals, direct care workers, personal 
+     assistants, personal attendants, in-home support workers, and 
+     paraprofessionals (referred to in this resolution as ``direct 
+     support professionals'') in enhancing the lives of 
+     individuals of all ages with disabilities;
+         (3) appreciates the contribution of direct support 
+     professionals in serving needs that are beyond the capacity 
+     of millions of families in the United States;
+         (4) commends direct support professionals as integral 
+     participants in the long-term support and services system of 
+     the United States; and
+         (5) finds that the successful implementation of the 
+     public policies of the United
+
+[[Page S6110]]
+
+     States depends on the dedication of direct support 
+     professionals.
+
+                          ____________________
+```
