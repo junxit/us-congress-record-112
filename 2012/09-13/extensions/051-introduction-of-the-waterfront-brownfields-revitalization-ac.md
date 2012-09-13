@@ -1,0 +1,96 @@
+---
+granule: CRECB-2012-pt10-Pg14210-3
+date: 2012-09-13
+edition: CRECB
+section: EXTENSIONS
+page: 14210
+---
+
+# INTRODUCTION OF THE WATERFRONT BROWNFIELDS REVITALIZATION ACT
+
+```
+     INTRODUCTION OF THE WATERFRONT BROWNFIELDS REVITALIZATION ACT
+
+                                 ______
+                                 
+
+                     HON. LOUISE McINTOSH SLAUGHTER
+
+                              of new york
+
+                    in the house of representatives
+
+                      Thursday, September 13, 2012
+
+  Ms. SLAUGHTER. Mr. Speaker, today I am proud to reintroduce the 
+Waterfront Brownfields Revitalization Act. This bill will authorize a 
+much needed grant program to assist communities that are overcoming the 
+unique challenges of waterfront brownfields and fostering innovative 
+approaches to remediation.
+  America's industrial heritage was established along the banks of its 
+rivers, lakes and coasts. Our nation's vast and interconnected natural 
+water system helped provide the power that fueled our rise to 
+international prominence, and allowed us to move our manufactured goods 
+efficiently to all corners of the country. However, that legacy also 
+includes many decades of environmental contamination on the waterfront. 
+Abandoned factories, dilapidated mills and underutilized ports can be 
+found along the shores of many metropolitan areas. As localities seek 
+to reconnect with their waterfronts and revitalize their downtowns, 
+brownfield barriers threaten to derail community efforts to create 
+jobs, promote recreational opportunities, restore the ecology, increase 
+tourism, and grow their tax base.
+  Waterfront brownfields present challenges beyond typical 
+environmental assessment and cleanup projects. Hydrology, water 
+quality, wetlands, endangered species, habitat, dredged materials, 
+flooding, environmental infrastructure, navigation, and other 
+considerations must be carefully addressed so as not to exacerbate 
+existing site contamination. Typically, waterfront brownfields require 
+the involvement of multiple governmental agencies. As such, waterfront 
+brownfields require special attention and resources to overcome their 
+larger hurdles.
+  In my own district, the City of Rochester, NY is currently working to 
+revitalize its beautiful waterfront, while attempting to cope with the 
+unique challenges that waterfront brownfields present. The city is 
+undertaking a major community revitalization strategy to redevelop its 
+port and waterfront area into a mixed use development, which will 
+include housing, commercial, retail, and educational uses, enhanced 
+recreation, new parks and open space, and improved public access to 
+Lake Ontario, the Genesee River and the surrounding ecosystem. However, 
+because the Port of Rochester and surrounding waterways were used 
+extensively for industrial purposes from the late 1800s into the first 
+half of the 20th century, significant environmental remediation will be 
+required prior to redevelopment.
+  Mr. Speaker, Rochester is not alone in facing these types of 
+complicated and expensive challenges to redevelopment. Cities all 
+across the country are dealing with similar roadblocks as they try to 
+engage corporate waterfront real estate into their redevelopment plans, 
+from Yuma, AZ and Portland, OR in the west, to Savannah, GA, and 
+Philadelphia, PA in the east, and almost everywhere in between where 
+lakes and rivers exist.
+  My bill recognizes that the federal government can be an effective 
+partner to communities interested in reconnecting with their 
+waterfronts. Specifically, this legislation would authorize the U.S. 
+Environmental Protection Agency to establish a waterfront brownfields 
+pilot demonstration program to provide localities and other eligible 
+entities with up to $500,000 to assess and cleanup waterfront 
+brownfields. The bill would also establish an interagency taskforce on 
+waterfront brownfields restoration to identify barriers and
+
+[[Page 14211]]
+
+potential solutions to waterfront brownfields revitalization, and seek 
+methods for federal interagency collaboration on such projects.
+  As cities across the country struggle to thrive in a changing global 
+economy, and as our communities work to rebuild local economies, it is 
+imperative that Congress do all that it can to help these cities 
+redevelop and succeed. Industrialization and manufacturing helped make 
+this country the power that it is today and remediating the 
+contamination left behind will revive areas in cities across the nation 
+that once were feared to be lost. This legislation will give these 
+cities the flexibility and support they need to redevelop in an 
+environmentally safe way, and utilize their waterfront as an incredible 
+economic asset. I urge my colleagues to show their support for these 
+communities by supporting this bill.
+
+                          ____________________
+```
