@@ -1,0 +1,54 @@
+---
+granule: CREC-2012-09-19-pt1-PgE1557-4
+date: 2012-09-19
+edition: CREC
+section: EXTENSIONS
+page: E1557
+citation: 158 Cong. Rec. E1557
+---
+
+# IN HONOR OF CLEVELAND CITY COUNCILWOMAN PHYLLIS CLEVELAND
+
+**Speaking:** Kucinich, Dennis J. (K000336) [D-OH]
+
+```
+       IN HONOR OF CLEVELAND CITY COUNCILWOMAN PHYLLIS CLEVELAND
+
+                                 ______
+                                 
+
+                        HON. DENNIS J. KUCINICH
+
+                                of ohio
+
+                    in the house of representatives
+
+                     Wednesday, September 19, 2012
+
+  Mr. KUCINICH. Mr. Speaker, I rise today in honor of Cleveland City 
+Councilwoman Phyllis Cleveland, who has been serving the Ward 5 
+community since being elected to the Cleveland City Council in 2005.
+  Councilwoman Cleveland has been a longtime resident of the community 
+which she now represents, which includes the Central, North Broadway 
+and Kinsman Union neighborhoods. The Councilwoman has spent her life in 
+public and community service, working for the Cleveland Tenants 
+Organization advocating for fair and affordable housing for Cuyahoga 
+County residents. In 2009, Councilwoman Cleveland was chosen by Council 
+President Martin J. Sweeney to serve as Majority Leader in the City 
+Council.
+  Councilwoman Cleveland's goal for Ward 5 has always been to build a 
+strong connection between residents and the community by keeping the 
+neighborhood safe, clean, and affordable. To do this, she has supported 
+programs to clear the city of vacant and abandoned housing, replacing 
+it with new houses and businesses. She has continued the community and 
+economic development started by Mayor Frank G. Jackson when he was the 
+Ward 5 Councilman.
+  Mr. Speaker and Colleagues, please join me in honoring the 
+accomplishments of Councilwoman Phyllis Cleveland.
+
+[[Page E1558]]
+
+
+
+                          ____________________
+```
