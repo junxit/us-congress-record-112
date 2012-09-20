@@ -1,0 +1,33 @@
+---
+granule: CREC-2012-09-20-pt1-PgH6162-2
+date: 2012-09-20
+edition: CREC
+section: HOUSE
+page: H6162
+citation: 158 Cong. Rec. H6162
+---
+
+# GOODLETTSVILLE LITTLE LEAGUE BASEBALL TEAM
+
+**Speaking:** Black, Diane (B001273) [R-TN]
+
+```
+               GOODLETTSVILLE LITTLE LEAGUE BASEBALL TEAM
+
+  (Mrs. BLACK asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Mrs. BLACK. From a small town in middle Tennessee, 13 young men 
+recently became the 2012 Little League World Series U.S. Champions. 
+These All-Stars from Goodlettsville, Tennessee, played with 
+sportsmanship and talent beyond their years. In the U.S. championship 
+game, Goodlettsville racked up 21 runs to become the first Tennessee 
+team in history to clinch a U.S. title. This achievement is a testimony 
+to their dedication and perseverance--qualities that will serve them 
+well throughout their life.
+  They have made their hometown, their parents, their coaches, and 
+their Congressman very proud. I am confident that this achievement is 
+just the beginning of more great things to come from each of them.
+  Congratulations, boys.
+
+                          ____________________
+```
