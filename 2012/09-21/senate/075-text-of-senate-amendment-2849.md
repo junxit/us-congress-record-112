@@ -1,0 +1,170 @@
+---
+granule: CREC-2012-09-21-pt1-PgS6636-2
+date: 2012-09-21
+edition: CREC
+section: SENATE
+page: S6636
+citation: 158 Cong. Rec. S6636
+---
+
+# Text of Senate Amendment 2849
+
+**Speaking:** Paul, Rand (P000603) [R-KY]
+
+```
+  SA 2849. Mr. PAUL submitted an amendment intended to be proposed by 
+him to the bill S. 3576, to provide limitations on United States 
+assistance, and for other purposes; which was ordered to lie on the 
+table; as follows:
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. LIMITATION ON FOREIGN ASSISTANCE.
+
+       (a) Prohibition.--
+       (1) In general.--Except as provided under paragraph (2), 
+     beginning 60 days after the date of the enactment of this 
+     Act, no amounts may be obligated or expended to provide any 
+     direct United States assistance, loan guarantee, or debt 
+     relief to a Government described under subsection (b).
+       (2) Exception.--With respect to the Government of Pakistan, 
+     the prohibition under paragraph (1) shall be effective as of 
+     the date of the enactment of this Act.
+       (b) Covered Governments.--The Governments referred to in 
+     subsection (a) are as follows:
+       (1) The Government of Libya.
+       (2) The Government of Egypt.
+       (3) The Government of Pakistan.
+       (c) Certification.--The President may certify to Congress 
+     that a Government described under subsection (b)--
+       (1) is cooperating or has cooperated fully with 
+     investigations into an attack, trespass, breach, or attempted 
+     attack, trespass, or breach;
+       (2) is facilitating or has facilitated any security 
+     improvements at United States diplomatic facilities, as 
+     requested by the United States Government; and
+       (3) is taking or has taken sufficient steps to strengthen 
+     and improve reliability of local security in order to prevent 
+     any future attack, trespass, or breach.
+       (d) Request To Suspend Prohibition on Foreign Assistance.--
+       (1) In general.--Except as provided under paragraph (2), 
+     upon submitting a certification under subsection (c) with 
+     respect to a Government described under subsection (b), the 
+     President may submit a request to Congress to suspend the 
+     prohibition on foreign assistance to the Government.
+       (2) Pakistan.--No request under paragraph (1) may be 
+     submitted with respect to the Government of Pakistan until--
+       (A) Dr. Shakil Afridi has been released alive from prison 
+     in Pakistan;
+       (B) any criminal charges brought against Dr. Afridi, 
+     including treason, have been dropped; and
+       (C) if necessary to ensure his freedom, Dr. Afridi has been 
+     allowed to leave Pakistan alive.
+       (e) Expedited Consideration of Presidential Request.--
+       (1) In general.--For purposes of this subsection, the term 
+     ``joint resolution'' means only a joint resolution introduced 
+     in the period beginning on the date on which a request under 
+     subsection (d) is received by Congress and ending 60 days 
+     thereafter (excluding days either House of Congress is 
+     adjourned for more than 3 days during a session of Congress), 
+     the matter after the resolving clause of which is as follows: 
+     ``That Congress approves the request submitted by the 
+     President to suspend the prohibition on foreign assistance to 
+     the Government of __ in effect since __, and such prohibition 
+     shall have no force or effect.''(The blank spaces being 
+     appropriately filled in).
+       (2) Referral.--A joint resolution described in paragraph 
+     (1) shall be referred to the committees in each House of 
+     Congress with jurisdiction.
+       (3) Submission date defined.--For purposes of this section, 
+     the term ``submission date'' means the date on which a House 
+     of Congress receives the request submitted under subsection 
+     (d).
+       (4) Discharge of senate committee.--In the Senate, if the 
+     committee to which is referred a joint resolution described 
+     in paragraph (1) has not reported such joint resolution (or 
+     an identical joint resolution) at the end of 20 calendar days 
+     after the submission date, such committee may be discharged 
+     from further consideration of such joint resolution upon a 
+     petition supported in writing by 30 Senators, and such joint 
+     resolution shall be placed on the calendar.
+       (5) Senate consideration of resolution.--
+       (A) Motions.--In the Senate, when the committee to which a 
+     joint resolution is referred has reported, or when a 
+     committee is discharged (under paragraph (4)) from further 
+     consideration of a joint resolution described in paragraph 
+     (1), it is at any time thereafter in order (even though a 
+     previous motion to the same effect has been disagreed to) for 
+     a motion to proceed to the consideration of the joint 
+     resolution, and all points of order against the joint 
+     resolution (and against consideration of the joint 
+     resolution) are waived. The motion is not subject to 
+     amendment, or to a motion to postpone, or to a motion to 
+     proceed to the consideration of other business. A motion to 
+     reconsider the vote by which the motion is agreed to or 
+     disagreed to shall not be in order. If a motion to proceed to 
+     the consideration of the joint resolution is agreed to, the 
+     joint resolution shall remain the unfinished business of the 
+     Senate until disposed of.
+       (B) Debate.--In the Senate, debate on the joint resolution, 
+     and on all debatable motions and appeals in connection 
+     therewith, shall be limited to not more than 10 hours, which 
+     shall be divided equally between those favoring and those 
+     opposing the joint resolution. A motion further to limit 
+     debate is in order and not debatable. An amendment to, or a 
+     motion to postpone, or a motion to proceed to the 
+     consideration of other business, or a motion to recommit the 
+     joint resolution is not in order.
+       (C) Vote on final passage.--In the Senate, immediately 
+     following the conclusion of the debate on a joint resolution 
+     described in paragraph (1), and a single quorum call at the 
+     conclusion of the debate if requested in accordance with the 
+     rules of the Senate, the vote on final passage of the joint 
+     resolution shall occur.
+       (D) Appeals of decisions of the chair.--Appeals from the 
+     decisions of the Chair relating to the application of the 
+     rules of the Senate to the procedure relating to a joint 
+     resolution described in paragraph (1) shall be decided 
+     without debate.
+       (6) Inapplicability of certain provisions.--In the Senate, 
+     the procedures specified in paragraph (4) or (5) shall not 
+     apply to the consideration of a joint resolution respecting a 
+     request--
+       (A) after the expiration of the 60 session days beginning 
+     with the applicable submission date; or
+       (B) if the request submitted under subsection (d) was 
+     submitted during the period beginning on the date occurring--
+       (i) in the case of the Senate, 60 session days, or
+       (ii) in the case of the House of Representatives, 60 
+     legislative days,
+
+     before the date the Congress adjourns a session of Congress 
+     through the date on which the same or succeeding Congress 
+     first convenes its next session, after the expiration of the 
+     60 session days beginning on the 15th session day after the 
+     succeeding session of Congress first convenes.
+       (7) Receipt of joint resolution from other house.--If, 
+     before the passage by one House of a joint resolution of that 
+     House described in paragraph (1), that House receives from 
+     the other House a joint resolution described in paragraph 
+     (1), then the following procedures shall apply:
+       (A) The joint resolution of the other House shall not be 
+     referred to a committee.
+       (B) With respect to a joint resolution described in 
+     paragraph (1) of the House receiving the joint resolution--
+       (i) the procedure in that House shall be the same as if no 
+     joint resolution had been received from the other House; but
+       (ii) the vote on final passage shall be on the joint 
+     resolution of the other House.
+       (f) Report on Unsecured Weapons in Libya.--Not later than 
+     90 days after the date of the enactment of this Act, the 
+     President shall submit a report to Congress examining the 
+     extent to which advanced weaponry remaining unsecured after 
+     the fall of Moammar Qaddafi was used by the individuals 
+     responsible for the September 11, 2012, attack on the United 
+     States consulate in Benghazi, Libya.
+       (g) Rule of Construction.--Nothing in this section may be 
+     construed as an authorization for the use of military force.
+                                 ______
+```

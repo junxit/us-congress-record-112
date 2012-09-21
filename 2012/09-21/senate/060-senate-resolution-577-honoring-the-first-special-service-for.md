@@ -1,0 +1,107 @@
+---
+granule: CREC-2012-09-21-pt1-PgS6630-2
+date: 2012-09-21
+edition: CREC
+section: SENATE
+page: S6630
+citation: 158 Cong. Rec. S6630
+---
+
+# SENATE RESOLUTION 577--HONORING THE FIRST SPECIAL SERVICE FORCE, IN RECOGNITION OF ITS SUPERIOR SERVICE DURING WORLD WAR II
+
+**Measures:** S.Res. 577
+
+```
+  SENATE RESOLUTION 577--HONORING THE FIRST SPECIAL SERVICE FORCE, IN 
+        RECOGNITION OF ITS SUPERIOR SERVICE DURING WORLD WAR II
+
+  Mr. BAUCUS (for himself, Mr. Kerry, Mrs. Murray, Mr. Tester, and Ms. 
+Murkowski) submitted the following resolution; which was:
+
+                              S. Res. 577
+
+       Whereas the First Special Service Force (referred to in 
+     this preamble as the ``Force''), a military unit composed of 
+     volunteers from the United States and Canada, was activated 
+     in July 1942 at Fort Harrison near Helena, Montana;
+       Whereas the Force was initially intended to target military 
+     and industrial installations that were supporting the German 
+     war effort, including important hydroelectric plants, which 
+     would severely limit the production of strategic materials 
+     used by the Axis powers;
+       Whereas, from July 1942 through June 1943, volunteers of 
+     the Force trained in hazardous, arctic conditions in the 
+     mountains of western Montana, and in the waterways of Camp 
+     Bradford, Virginia;
+       Whereas the combat echelon of the Force totaled 1,800 
+     soldiers, half from the United States and half from Canada;
+       Whereas the Force also contained a service battalion, 
+     composed of 800 members from the United States, that provided 
+     important support for the combat troops;
+       Whereas a special bond developed between the Canadian and 
+     United States soldiers, who were not segregated by country, 
+     although the commander of the Force was a United States 
+     colonel;
+       Whereas the Force was the only unit formed during World War 
+     II that consisted of troops from Canada and the United 
+     States;
+       Whereas, in October 1943, the Force went to Italy, where it 
+     fought in battles south of Cassino, including Monte La 
+     Difensa and Monte Majo, two mountain peaks that were a 
+     critical anchor of the German defense line;
+       Whereas, during the night of December 3, 1943, the Force 
+     ascended to the top of the precipitous face of Monte La 
+     Difensa, where the Force suffered heavy casualties and 
+     overcame fierce resistance to overtake the German line;
+       Whereas, after the battle for La Difensa, the Force 
+     continued to fight tough battles at high altitudes, in rugged 
+     terrain, and in severe weather;
+       Whereas, after battles on the strongly defended Italian 
+     peaks of Sammucro, Vischiataro, and Remetanea, the size of 
+     the Force had been reduced from 1,800 soldiers to fewer than 
+     500;
+       Whereas, for 4 months in 1944, the Force engaged in raids 
+     and aggressive patrols at the Anzio Beachhead;
+       Whereas, on June 4, 1944, members of the Force were among 
+     the first Allied troops to liberate Rome;
+       Whereas, after liberating Rome, the Force moved to southern 
+     Italy and prepared to assist in the liberation of France;
+       Whereas, during the early morning of August 15, 1944, 
+     members of the Force made silent landings on Les Iles 
+     D'Hyeres, small islands in the Mediterranean Sea along the 
+     southern coast of France;
+       Whereas the Force faced a sustained and withering assault 
+     from the German garrisons as the Force progressed from the 
+     islands to the Franco-Italian border;
+       Whereas, after the Allied forces secured the Franco-Italian 
+     border, the United States Army ordered the disbandment of the 
+     Force on December 5, 1944, in Nice, France;
+       Whereas, during 251 days of combat, the Force suffered 
+     2,314 casualties, or 134 percent of its authorized strength, 
+     captured thousands of prisoners, won 5 United States campaign 
+     stars and 8 Canadian battle honors, and never failed a 
+     mission;
+       Whereas the United States is forever indebted to the acts 
+     of bravery and selflessness of the troops of the Force, who 
+     risked their lives for the cause of freedom;
+
+[[Page S6631]]
+
+       Whereas the efforts of the Force along the seas and skies 
+     of Europe were critical in repelling the advance of Nazi 
+     Germany and liberating numerous communities in France and 
+     Italy;
+       Whereas the bond between the members of the Force from the 
+     United States and those from Canada has endured over the 
+     decades, as the members meet every year for a reunion, 
+     alternating between the United States and Canada; and
+       Whereas the traditions and honors exhibited by the Force 
+     are carried on by 2 outstanding active units of 2 great 
+     democracies, the Special Forces of the United States and the 
+     Canadian Special Operations Regiment: Now, therefore, be it
+       Resolved, That the Senate recognizes and honors the 
+     superior service of the First Special Service Force during 
+     World War II.
+
+                          ____________________
+```
