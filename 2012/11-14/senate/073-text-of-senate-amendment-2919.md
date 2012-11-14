@@ -1,0 +1,279 @@
+---
+granule: CREC-2012-11-14-pt1-PgS6822-7
+date: 2012-11-14
+edition: CREC
+section: SENATE
+page: S6822
+citation: 158 Cong. Rec. S6822
+---
+
+# Text of Senate Amendment 2919
+
+**Speaking:** Murkowski, Lisa (M001153) [R-AK]
+
+```
+  SA 2919. Ms. MURKOWSKI submitted an amendment intended to be proposed 
+to amendment SA 2875 proposed by Mr. Reid (for Mr. Tester) to the bill 
+S. 3525, to protect and enhance opportunities for recreational hunting, 
+fishing, and shooting, and for other purposes; which was ordered to lie 
+on the table; as follows:
+
+       At the end of subtitle A of title I, add the following:
+
+     SEC. 104. HERITAGE OF RECREATIONAL FISHING, HUNTING, AND 
+                   RECREATIONAL SHOOTING ON FEDERAL LAND.
+
+       (a) Definitions.--In this section:
+       (1) Federal public land.--
+       (A) In general.--Except as provided in subparagraph (B), 
+     the term ``Federal public land'' means any land or water that 
+     is--
+       (i) owned by the United States; and
+       (ii) managed by a Federal agency (including the Department 
+     of the Interior and the Forest Service) for purposes that 
+     include the conservation of natural resources.
+       (B) Exclusions.--The term ``Federal public land'' does not 
+     include--
+       (i) land or water held or managed in trust for the benefit 
+     of Indians or other Native Americans;
+       (ii) land managed by the Director of the National Park 
+     Service or the Director of the United States Fish and 
+     Wildlife Service;
+       (iii) fish hatcheries; or
+       (iv) conservation easements on private land.
+       (2) Hunting.--
+       (A) In general.--Except as provided in subparagraph (B), 
+     the term ``hunting'' means use of a firearm, bow, or other 
+     authorized means in the lawful--
+       (i) pursuit, shooting, capture, collection, trapping, or 
+     killing of wildlife; or
+       (ii) attempt to pursue, shoot, capture, collect, trap, or 
+     kill wildlife.
+       (B) Exclusion.--The term ``hunting'' does not include the 
+     use of skilled volunteers to cull excess animals (as defined 
+     by other Federal law).
+       (3) Recreational fishing.--The term ``recreational 
+     fishing'' means--
+       (A) an activity for sport or for pleasure that involves--
+       (i) the lawful catching, taking, or harvesting of fish; or
+       (ii) the lawful attempted catching, taking, or harvesting 
+     of fish; or
+       (B) any other activity for sport or pleasure that can 
+     reasonably be expected to result in the lawful catching, 
+     taking, or harvesting of fish.
+       (4) Recreational shooting.--The term ``recreational 
+     shooting'' means any form of sport, training, competition, or 
+     pastime, whether formal or informal, that involves the 
+     discharge of a rifle, handgun, or shotgun, or the use of a 
+     bow and arrow.
+       (b) Recreational Fishing, Hunting, and Recreational 
+     Shooting.--
+       (1) In general.--Subject to valid existing rights, and in 
+     cooperation with the respective State and fish and wildlife 
+     agency, a
+
+[[Page S6823]]
+
+     Federal public land management official shall exercise the 
+     authority of the official under existing law (including 
+     provisions regarding land use planning) to facilitate use of 
+     and access to Federal public land for recreational fishing, 
+     hunting, and recreational shooting except as limited by--
+       (A) any law that authorizes action or withholding action 
+     for reasons of national security, public safety, or resource 
+     conservation;
+       (B) any other Federal law that precludes recreational 
+     fishing, hunting, or recreational shooting on specific 
+     Federal public land or water or units of Federal public land; 
+     and
+       (C) discretionary limitations on recreational fishing, 
+     hunting, and recreational shooting determined to be necessary 
+     and reasonable as supported by the best scientific evidence 
+     and advanced through a transparent public process.
+       (2) Management.--Consistent with paragraph (1), the head of 
+     each Federal public land management agency shall exercise the 
+     land management discretion of the head--
+       (A) in a manner that supports and facilitates recreational 
+     fishing, hunting, and recreational shooting opportunities;
+       (B) to the extent authorized under applicable State law; 
+     and
+       (C) in accordance with applicable Federal law.
+       (3) Planning.--
+       (A) Effects of plans and activities.--
+       (i) Evaluation of effects on opportunities to engage in 
+     recreational fishing, hunting, or recreational shooting.--
+     Federal public land planning documents (including land 
+     resources management plans, resource management plans, travel 
+     management plans, and energy development plans) shall include 
+     a specific evaluation of the effects of the plans on 
+     opportunities to engage in recreational fishing, hunting, or 
+     recreational shooting.
+       (ii) Other activity not considered.--
+
+       (I) In general.--Federal public land management officials 
+     shall not be required to consider the existence or 
+     availability of recreational fishing, hunting, or 
+     recreational shooting opportunities on private or public land 
+     that is located adjacent to, or in the vicinity of, Federal 
+     public land for purposes of--
+
+       (aa) planning for or determining which units of Federal 
+     public land are open for recreational fishing, hunting, or 
+     recreational shooting; or
+       (bb) setting the levels of use for recreational fishing, 
+     hunting, or recreational shooting on Federal public land.
+
+       (II) Enhanced opportunities.--Federal public land 
+     management officials may consider the opportunities described 
+     in subclause (I) if the combination of those opportunities 
+     would enhance the recreational fishing, hunting, or shooting 
+     opportunities available to the public.
+
+       (B) Use of volunteers.--If hunting is prohibited by law, 
+     all Federal public land planning document described in 
+     subparagraph (A)(i) of an agency shall, after appropriate 
+     coordination with State fish and wildlife agencies, allow the 
+     participation of skilled volunteers in the culling and other 
+     management of wildlife populations on Federal public land 
+     unless the head of the agency demonstrates, based on the best 
+     scientific data available or applicable Federal law, why 
+     skilled volunteers should not be used to control 
+     overpopulation of wildlife on the land that is the subject of 
+     the planning document.
+       (4) Bureau of land management and forest service land.--
+       (A) Land open.--
+       (i) In general.--Land under the jurisdiction of the Bureau 
+     of Land Management or the Forest Service (including a 
+     component of the National Wilderness Preservation System, 
+     land designated as a wilderness study area or 
+     administratively classified as wilderness eligible or 
+     suitable, and primitive or semiprimitive areas, but excluding 
+     land on the outer Continental Shelf) shall be open to 
+     recreational fishing, hunting, and recreational shooting 
+     unless the managing Federal public land agency acts to close 
+     the land to such activity.
+       (ii) Motorized access.--Nothing in this subparagraph 
+     authorizes or requires motorized access or the use of 
+     motorized vehicles for recreational fishing, hunting, or 
+     recreational shooting purposes within land designated as a 
+     wilderness study area or administratively classified as 
+     wilderness eligible or suitable.
+       (B) Closure or restriction.--Land described in subparagraph 
+     (A) may be subject to closures or restrictions if determined 
+     by the head of the agency to be necessary and reasonable and 
+     supported by facts and evidence for purposes including 
+     resource conservation, public safety, energy or mineral 
+     production, energy generation or transmission infrastructure, 
+     water supply facilities, protection of other permittees, 
+     protection of private property rights or interests, national 
+     security, or compliance with other law, as determined 
+     appropriate by the Director of the Bureau of Land Management 
+     or the Chief of the Forest Service, as applicable.
+       (C) Shooting ranges.--
+       (i) In general.--Except as provided in clause (iii), the 
+     head of each Federal public land agency may use the 
+     authorities of the head, in a manner consistent with this 
+     section and other applicable law--
+
+       (I) to lease or permit use of land under the jurisdiction 
+     of the head for shooting ranges; and
+       (II) to designate specific land under the jurisdiction of 
+     the head for recreational shooting activities.
+
+       (ii) Limitation on liability.--Any designation under clause 
+     (i)(II) shall not subject the United States to any civil 
+     action or claim for monetary damages for injury or loss of 
+     property or personal injury or death caused by any 
+     recreational shooting activity occurring at or on the 
+     designated land.
+       (iii) Exception.--The head of each Federal public land 
+     agency shall not lease or permit use of Federal public land 
+     for shooting ranges or designate land for recreational 
+     shooting activities within including a component of the 
+     National Wilderness Preservation System, land designated as a 
+     wilderness study area or administratively classified as 
+     wilderness eligible or suitable, and primitive or 
+     semiprimitive areas.
+       (5) Report.--Not later than October 1 of every other year, 
+     beginning with the second October 1 after the date of 
+     enactment of this Act, the head of each Federal public land 
+     agency who has authority to manage Federal public land on 
+     which recreational fishing, hunting, or recreational shooting 
+     occurs shall submit to the Committee on Natural Resources of 
+     the House of Representatives and the Committee on Energy and 
+     Natural Resources of the Senate a report that describes--
+       (A) any Federal public land administered by the agency head 
+     that was closed to recreational fishing, hunting, or 
+     recreational shooting at any time during the preceding year; 
+     and
+       (B) the reason for the closure.
+       (6) Closures or significant restrictions of 1,280 or more 
+     acres.--
+       (A) In general.--Other than closures established or 
+     prescribed by land planning actions referred to in paragraph 
+     (4)(B) or emergency closures described in subparagraph (C), a 
+     permanent or temporary withdrawal, change of classification, 
+     or change of management status of Federal public land or 
+     water that effectively closes or significantly restricts 
+     1,280 or more contiguous acres of Federal public land or 
+     water to access or use for recreational fishing or hunting or 
+     activities relating to fishing or hunting shall take effect 
+     only if, before the date of withdrawal or change, the head of 
+     the Federal public land agency that has jurisdiction over the 
+     Federal public land or water--
+       (i) publishes appropriate notice of the withdrawal or 
+     change, respectively;
+       (ii) demonstrates that coordination has occurred with a 
+     State fish and wildlife agency; and
+       (iii) submits to the Committee on Natural Resources of the 
+     House of Representatives and the Committee on Energy and 
+     Natural Resources of the Senate written notice of the 
+     withdrawal or change, respectively.
+       (B) Aggregate or cumulative effects.--If the aggregate or 
+     cumulative effect of separate withdrawals or changes 
+     effectively closes or significant restrictions affects 1,280 
+     or more acres of land or water, the withdrawals and changes 
+     shall be treated as a single withdrawal or change for 
+     purposes of subparagraph (A).
+       (C) Emergency closures.--
+       (i) In general.--Nothing in this section prohibits a 
+     Federal public land management agency from establishing or 
+     implementing emergency closures or restrictions of the 
+     smallest practicable area of Federal public land to provide 
+     for public safety, resource conservation, national security, 
+     or other purposes authorized by law.
+       (ii) Termination.--An emergency closure under clause (i) 
+     shall terminate after a reasonable period of time unless the 
+     temporary closure is converted to a permanent closure 
+     consistent with this subsection.
+       (7) No priority.--Nothing in this section requires a 
+     Federal agency to give preference to recreational fishing, 
+     hunting, or recreational shooting over other uses of Federal 
+     public land or over land or water management priorities 
+     established by other Federal law.
+       (8) Consultation with councils.--In carrying out this 
+     section, the heads of Federal public land agencies shall 
+     consult with the appropriate advisory councils established 
+     under Executive Order 12962 (16 U.S.C. 1801 note; relating to 
+     recreational fisheries) and Executive Order 13443 (16 U.S.C. 
+     661 note; relating to facilitation of hunting heritage and 
+     wildlife conservation).
+       (9) Authority of states.--
+       (A) In general.--Nothing in this section interferes with, 
+     diminishes, or conflicts with the authority, jurisdiction, or 
+     responsibility of any State to manage, control, or regulate 
+     fish and wildlife under State law (including regulations) on 
+     land or water within the State, including on Federal public 
+     land.
+       (B) Federal licenses.--
+       (i) In general.--Except as provided in clause (ii), nothing 
+     in this section authorizes the head of a Federal public land 
+     agency head to require a license, fee, or permit to fish, 
+     hunt, or trap on land or water in a State, including on 
+     Federal public land in the State.
+       (ii) Migratory bird stamps.--This subparagraph shall not 
+     affect any migratory bird stamp requirement of the Migratory 
+     Bird Hunting and Conservation Stamp Act (16 U.S.C. 718a et 
+     seq.).
+                                 ______
+```
