@@ -1,0 +1,175 @@
+---
+granule: CREC-2012-11-15-pt1-PgS6870-2
+date: 2012-11-15
+edition: CREC
+section: SENATE
+page: S6870
+citation: 158 Cong. Rec. S6870
+---
+
+# NATIONAL MITOCHONDRIAL AWARENESS WEEK
+
+**Speaking:** Landrieu, Mary L. (L000550) [D-LA]
+
+**Measures:** S.Res. 490
+
+```
+                 NATIONAL MITOCHONDRIAL AWARENESS WEEK
+
+  Ms. LANDRIEU. Mr. President, I ask unanimous consent the HELP 
+Committee be discharged from further consideration of S. Res. 490, and 
+the Senate proceed to its immediate consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the resolution by title.
+  The assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 490) designating the week of 
+     September 16, 2012, as ``Mitochondrial Disease Awareness 
+     Week,'' reaffirming the importance of an enhanced and 
+     coordinated research effort on mitochondrial diseases, and 
+     commending the National Institutes of Health for its efforts 
+     to improve the understanding of mitochondrial diseases.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Ms. LANDRIEU. Mr. President, I ask unanimous consent the resolution 
+be agreed to, the preamble be agreed to, the motions to reconsider be 
+considered made and laid upon the table, with no intervening action or 
+debate and that any statements relating to this measure be printed in 
+the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 490) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 490
+
+       Whereas Brittany Wilkinson, the first Youth Ambassador of 
+     the United Mitochondrial Disease Foundation, joined other 
+     Youth Ambassadors of the United Mitochondrial Disease 
+     Foundation in working tirelessly to raise awareness about 
+     mitochondrial diseases;
+       Whereas mitochondrial diseases result from a defect that 
+     reduces the ability of the mitochondria in a cell to produce 
+     energy;
+       Whereas, as mitochondria fail to produce enough energy, 
+     cells cease to function properly and eventually die, leading 
+     to the failure of organ systems and possibly the death of the 
+     affected individuals;
+       Whereas mitochondrial diseases can present themselves at 
+     any age, and mortality rates vary depending upon the 
+     particular disease;
+       Whereas the most severe mitochondrial diseases result in 
+     the progressive loss of function in multiple organs, 
+     including the loss of neurological and muscle function, and 
+     death within several years;
+       Whereas mitochondrial diseases are a relatively newly 
+     identified group of diseases, first recognized in the late 
+     1960s, and diagnosis of mitochondrial diseases is extremely 
+     difficult;
+       Whereas there are more than 100 identified primary 
+     mitochondrial diseases, but researchers believe there are 
+     several hundred other types of unidentified mitochondrial 
+     diseases and further research is necessary to help identify 
+     those diseases;
+       Whereas mitochondrial dysfunction is associated with many 
+     diseases, such as Parkinson's disease, Alzheimer's disease, 
+     amyotrophic lateral sclerosis, autism, diabetes, cancer, and 
+     many other diseases associated with aging;
+       Whereas research into primary mitochondrial diseases can 
+     provide applications to biomedical research and a window into 
+     our understanding of many other diseases, including possible 
+     treatments and cures for diseases such as Parkinson's 
+     disease, Alzheimer's disease, amyotrophic lateral sclerosis, 
+     autism, diabetes, cancer, and many other diseases associated 
+     with aging;
+       Whereas researchers estimate that one in 4,000 children 
+     will develop a mitochondrial disease related to an inherited 
+     mutation by 10 years of age, and recent studies of umbilical 
+     cord blood samples show that one in 200 people could develop 
+     a mitochondrial disease in their lifetime;
+       Whereas researchers also believe that those numbers could 
+     be much higher, given the difficulty associated with 
+     diagnosing mitochondrial disease and the many cases that are 
+     either misdiagnosed or never diagnosed;
+       Whereas there are no cures for mitochondrial diseases, nor 
+     are there specific treatments for any of those diseases;
+       Whereas human energy production involves multiple organ 
+     systems, and therefore primary mitochondrial diseases 
+     research involves many Institutes at the National Institutes 
+     of Health;
+       Whereas, according to the National Institutes of Health, 
+     more than $600,000,000 is being spent on research related to 
+     mitochondrial functions, of which $18,000,000
+
+[[Page S6871]]
+
+     is being spent on actual primary mitochondrial diseases 
+     research;
+       Whereas the National Institutes of Health has taken an 
+     increased interest in primary mitochondrial diseases and has 
+     sponsored a number of activities in recent years aimed at 
+     advancing mitochondrial medicine, including incorporating 
+     research into functional variations in mitochondria in the 
+     Transformative Research Awards Initiative;
+       Whereas, in March 2012, the National Institutes of Health 
+     convened a 2-day symposium entitled ``Translational Research 
+     in Primary Mitochondrial Diseases: Obstacles and 
+     Opportunities'', which brought together leading government 
+     and private sector researchers and drug developers to share 
+     information related to primary mitochondrial diseases, 
+     develop systems to facilitate future collaboration, survey 
+     obstacles, needs, and priorities of primary mitochondrial 
+     diseases research, and develop mechanisms to enhance 
+     translation of basic science discoveries to diagnostics and 
+     therapeutics; and
+       Whereas, as a consequence of the symposium, a white paper 
+     has been developed that identifies current research 
+     challenges and impediments and a suggested course of action 
+     to address those challenges: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates the week of September 16, 2012, as 
+     ``Mitochondrial Disease Awareness Week'';
+       (2) reaffirms the importance of an enhanced and coordinated 
+     research effort aimed at improving the understanding of 
+     primary mitochondrial diseases and the development of 
+     treatments and cures;
+       (3) commends the National Institutes of Health for its 
+     efforts to organize the symposium entitled ``Translational 
+     Research in Primary Mitochondrial Disease: Obstacles and 
+     Opportunities'' to improve the understanding of mitochondrial 
+     diseases and to enhance collaboration and chart a course for 
+     the future with respect to research on mitochondrial 
+     diseases;
+       (4) encourages the National Institutes of Health to place a 
+     greater priority on research into primary mitochondrial 
+     diseases, to continue to explore the connections between 
+     mitochondrial dysfunction and other systemic diseases, and to 
+     promote collaboration and coordination among the Institutes 
+     of the National Institutes of Health and with other 
+     organizations; and
+       (5) encourages the National Institutes of Health to 
+     consider the recommendations and address research directions 
+     identified in the white paper developed from the symposium 
+     described in paragraph (3), including--
+       (A) enhanced emphasis on research regarding basic 
+     mitochondrial physiology, variations in mitochondrial 
+     function in different body tissues, and improvements in the 
+     manipulation of mitochondrial DNA;
+       (B) supporting research that will provide the basis for 
+     drug development, including improved mouse models, efforts to 
+     achieve breakthroughs in in vivo research capability, 
+     consensus development around assays, and next generation 
+     sequencing;
+       (C) expansion and support of stable, long-term patient 
+     registries and biospecimen repositories in collaboration with 
+     patient advocacy groups to promote enrollment and ultimately 
+     pave the way for natural history trials; and
+       (D) the establishment of a working group to develop a 
+     system for the continued interaction among the Institutes 
+     within the National Institutes of Health and with other 
+     organizations and the establishment of a website on research 
+     on primary mitochondrial diseases.
+
+                          ____________________
+```
