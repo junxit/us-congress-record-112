@@ -1,0 +1,79 @@
+---
+granule: CRECB-2012-pt11-Pg15897
+date: 2012-11-29
+edition: CRECB
+section: SENATE
+page: 15897
+---
+
+# SUBMITTED RESOLUTIONS
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+  SENATE RESOLUTION 603--DESIGNATING THE WEEK OF NOVEMBER 26 THROUGH 
+    NOVEMBER 30, 2012, AS NATIONAL NURSE-MANAGED HEALTH CLINIC WEEK
+
+  Mr. INOUYE (for himself and Mr. Alexander) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 603
+
+       Whereas nurse-managed health clinics are nonprofit 
+     community-based health care sites that offer primary care and 
+     wellness services based on the nursing model;
+       Whereas the nursing model emphasizes the protection, 
+     promotion, and optimization of health, the prevention of 
+     illness, the alleviation of suffering, and the diagnosis and 
+     treatment of illness;
+       Whereas nurse-managed health clinics are led by advanced 
+     practice nurses and staffed by an interdisciplinary team of 
+     highly qualified health care professionals;
+       Whereas nurse-managed health clinics offer a broad scope of 
+     services, including treatment for acute and chronic 
+     illnesses, routine physical exams, immunizations for adults 
+     and children, disease screenings, health education, prenatal 
+     care, dental care, and drug and alcohol treatment;
+       Whereas, as of June 2011, more than 200 nurse-managed 
+     health clinics provided care across the United States and 
+     recorded more than 2,000,000 client encounters annually;
+       Whereas nurse-managed health clinics serve a unique dual 
+     role as both health care safety net access points and health 
+     workforce development sites, given that the majority of 
+     nurse-managed health clinics are affiliated with schools of 
+     nursing and serve as clinical education sites for students 
+     entering the health profession;
+       Whereas nurse-managed health clinics strengthen the health 
+     care safety net by expanding access to primary care and 
+     chronic disease management services for vulnerable and 
+     medically underserved populations in diverse rural, urban, 
+     and suburban communities;
+       Whereas research has shown that nurse-managed health 
+     clinics experience high patient retention and patient 
+     satisfaction rates, and nurse-managed health clinic patients 
+     experience higher rates of generic medication fills and lower 
+     hospitalization rates when compared to similar safety net 
+     providers;
+       Whereas the 2011 report of the Institute of Medicine on the 
+     future of nursing highlights the work nurse-managed health 
+     clinics are doing to reduce health disparities by bringing 
+     evidence-based care to individuals who may not otherwise 
+     receive needed services; and
+       Whereas nurse-managed health clinics offering both primary 
+     care and wellness services provide quality care in a cost-
+     effective manner: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates the week of November 26 through November 30, 
+     2012, as ``National Nurse-Managed Health Clinic Week'';
+       (2) supports the ideals and goals of National Nurse-Managed 
+     Health Clinic Week; and
+       (3) encourages the expansion of nurse-managed health 
+     clinics so that nurse-managed health clinics may continue to 
+     serve as health care workforce development sites for the next 
+     generation of primary care providers.
+
+                          ____________________
+```
