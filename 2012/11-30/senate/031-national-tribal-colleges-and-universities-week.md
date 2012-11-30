@@ -1,0 +1,87 @@
+---
+granule: CRECB-2012-pt12-Pg16053-2
+date: 2012-11-30
+edition: CRECB
+section: SENATE
+page: 16053
+---
+
+# NATIONAL TRIBAL COLLEGES AND UNIVERSITIES WEEK
+
+```
+             NATIONAL TRIBAL COLLEGES AND UNIVERSITIES WEEK
+
+  Mr. LEVIN. Mr. President, I ask unanimous consent that the Senate 
+proceed to the consideration of S. Res. 605, submitted earlier today.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 605) designating the week beginning 
+     November 26, 2012 as National Tribal Colleges and 
+     Universities Week.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. LEVIN. I ask unanimous consent that the resolution be agreed to, 
+the preamble be agreed to, the motions to reconsider be laid upon the 
+table, with no intervening action or debate, and that any related 
+statements be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 605) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                              S. Res. 605
+
+       Whereas there are 37 tribal colleges and universities 
+     operating on more than 75 campuses in 15 States;
+       Whereas tribal colleges and universities are tribally or 
+     federally chartered institutions of higher education and 
+     therefore have a unique relationship with the Federal 
+     Government;
+       Whereas tribal colleges and universities serve students 
+     from more than 250 federally recognized Indian tribes;
+       Whereas tribal colleges and universities offer students 
+     access to knowledge and skills grounded in cultural 
+     traditions and values, including indigenous languages, which 
+     enhance Indian communities and enrich the United States as a 
+     whole;
+       Whereas tribal colleges and universities provide access to 
+     high quality higher education opportunities for American 
+     Indians/
+
+[[Page 16054]]
+
+     Alaska Natives, and other individuals living in some of the 
+     most rural and economically depressed areas in the United 
+     States;
+       Whereas tribal colleges and universities are accredited 
+     institutions of higher education that effectively prepare 
+     students to succeed in a global and highly competitive 
+     workforce;
+       Whereas tribal colleges and universities have open 
+     enrollment policies that have resulted in 17 percent of 
+     students at tribal colleges and universities being non-
+     Indians;
+       Whereas tribal colleges and universities are simply and 
+     effectively providing access to quality higher education 
+     opportunities to residents of reservation communities and the 
+     North Slope;
+       Whereas the American Indian Higher Education Consortium, 
+     the national organization established in 1973 by tribal 
+     colleges and universities, will be celebrating its 40th 
+     anniversary as the collective spirit and unifying voice of 
+     tribal colleges and universities of the United States; and
+       Whereas the mission and achievements of tribal colleges and 
+     universities deserve national recognition: Now, therefore, be 
+     it
+       Resolved, That the Senate--
+       (1) designates the week beginning November 26, 2012, as 
+     ``National Tribal Colleges and Universities Week''; and
+       (2) calls on the people of the United States and interested 
+     groups to observe the week with appropriate ceremonies, 
+     activities, and programs to demonstrate support for tribal 
+     colleges and universities.
+
+                          ____________________
+```
