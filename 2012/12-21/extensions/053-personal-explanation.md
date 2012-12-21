@@ -1,0 +1,45 @@
+---
+granule: CREC-2012-12-21-pt1-PgE1997-3
+date: 2012-12-21
+edition: CREC
+section: EXTENSIONS
+page: E1997
+citation: 158 Cong. Rec. E1997
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Griffin, Tim (G000567) [R-AR]
+
+**Measures:** H.Res. 827, H.R. 4053, H.R. 4310, H.R. 6190
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                            HON. TIM GRIFFIN
+
+                              of arkansas
+
+                    in the house of representatives
+
+                       Friday, December 21, 2012
+
+  Mr. GRIFFIN of Arkansas. Mr. Speaker, I was ill with the flu and 
+missed seven votes: on Tuesday, December 11, 2012, rollcall vote No. 
+620; on Wednesday, December 12, 2012, rollcall vote No. 621, rollcall 
+vote No. 622, and rollcall vote No. 623; and, on Thursday, December 13, 
+2012, I missed rollcall vote No. 624, rollcall vote No. 625, and 
+rollcall vote No. 626.
+  If I had been present, I would have voted ``nay'' on rollcall Vote 
+No. 620 (Approval of the Journal). I also would have voted ``aye'' for 
+each of the following: rollcall vote No. 621 (H. Res. 827 Previous 
+Question), rollcall vote No. 622 (H. Res. 827), rollcall vote No. 623 
+(H.R. 6190), rollcall vote No. 624 (H.R. 4310, On Motion to Instruct 
+Conferees), rollcall vote No. 625 (H.R. 4310, On Motion to Ito Permit 
+Closed Conference Meetings), and rollcall No. 626 (H.R. 4053).
+
+                          ____________________
+```

@@ -1,0 +1,184 @@
+---
+granule: CREC-2012-12-21-pt1-PgS8377-3
+date: 2012-12-21
+edition: CREC
+section: SENATE
+page: S8377
+citation: 158 Cong. Rec. S8377
+---
+
+# DRYWALL SAFETY ACT OF 2012
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** H.R. 4212
+
+```
+                       DRYWALL SAFETY ACT OF 2012
+
+  Mr. REID. Mr. President, I now ask unanimous consent the Committee on 
+Commerce be discharged from further consideration of H.R. 4212, and we 
+now proceed to this matter.
+  The PRESIDING OFFICER . Without objection, it is so ordered. The 
+clerk will report the bill by title.
+  The legislative clerk read as follows:
+
+       A bill (H.R. 4212) to prevent the introduction into 
+     commerce of unsafe drywall, to ensure the manufacturer of 
+     drywall is readily identifiable, to ensure that problematic 
+     drywall removed from homes is not reused, and for other 
+     purposes.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. REID. Mr. President, I ask unanimous consent that the Vitter 
+substitute amendment which is at the desk be agreed to, the bill as 
+amended be read a third time and passed, the motions to reconsider be 
+considered made and laid on the table, and any statements be printed in 
+the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 3432) was agreed to, as follows:
+
+                (Purpose: In the nature of a substitute)
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Drywall Safety Act of 
+     2012''.
+
+     SEC. 2. SENSE OF CONGRESS.
+
+       It is the sense of Congress that--
+       (1) the Secretary of Commerce should insist that the 
+     Government of the People's Republic of China, which has 
+     ownership interests in the companies that manufactured and 
+     exported problematic drywall to the United States, facilitate 
+     a meeting between the companies and representatives of the 
+     United States Government on remedying homeowners that have 
+     problematic drywall in their homes; and
+       (2) the Secretary of Commerce should insist that the 
+     Government of the People's Republic of China direct the 
+     companies that manufactured and exported problematic drywall 
+     to submit to jurisdiction in United States Federal Courts and 
+     comply with any decisions issued by the Courts for homeowners 
+     with problematic drywall.
+
+     SEC. 3. DRYWALL LABELING REQUIREMENT.
+
+       (a) Labeling Requirement.--Beginning 180 days after the 
+     date of the enactment of this Act, the gypsum board labeling 
+     provisions of standard ASTM C1264-11 of ASTM International, 
+     as in effect on the day before the date of the enactment of 
+     this Act, shall be treated as a rule promulgated by the 
+     Consumer Product Safety Commission under section 14(c) of the 
+     Consumer Product Safety Act (15 U.S.C. 2063(c)).
+       (b) Revision of Standard.--If the gypsum board labeling 
+     provisions of the standard referred to in subsection (a) are 
+     revised on or after the date of the enactment of this Act, 
+     ASTM International shall notify the Commission of such 
+     revision no later than 60 days after final approval of the 
+     revision by ASTM International. The revised provisions shall 
+     be treated as a rule promulgated by the Commission under 
+     section 14(c) of such Act (15 U.S.C. 2063(c)), in lieu of the 
+     prior version, effective 180 days after the Commission is 
+     notified of the revision (or such later date as the 
+     Commission considers appropriate), unless within 90 days 
+     after receiving that notice the Commission determines that 
+     the revised provisions do not adequately identify gypsum 
+     board by manufacturer and month and year of manufacture, in 
+     which case the Commission shall continue to enforce the prior 
+     version.
+
+     SEC. 4. SULFUR CONTENT IN DRYWALL STANDARD.
+
+       (a) Rule on Sulfur Content in Drywall Required.--Except as 
+     provided in subsection (c), not later than 2 years after the 
+     date of the enactment of this Act, the Consumer Product 
+     Safety Commission shall promulgate a final rule pertaining to 
+     drywall manufactured or imported for use in the United
+
+[[Page S8378]]
+
+     States that limits sulfur content to a level not associated 
+     with elevated rates of corrosion in the home.
+       (b) Rule Making; Consumer Product Safety Standard.--A rule 
+     under subsection (a)--
+       (1) shall be promulgated in accordance with section 553 of 
+     title 5, United States Code; and
+       (2) shall be treated as a consumer product safety rule 
+     promulgated under section 9 of the Consumer Product Safety 
+     Act (15 U.S.C. 2058).
+       (c) Exception.--
+       (1) Voluntary standard.--Subsection (a) shall not apply if 
+     the Commission determines that--
+       (A) a voluntary standard pertaining to drywall manufactured 
+     or imported for use in the United States limits sulfur 
+     content to a level not associated with elevated rates of 
+     corrosion in the home;
+       (B) such voluntary standard is or will be in effect not 
+     later than two years after the date of enactment of this Act; 
+     and
+       (C) such voluntary standard is developed by Subcommittee 
+     C11.01 on Specifications and Test Methods for Gypsum Products 
+     of ASTM International.
+       (2) Federal register.--Any determination made under 
+     paragraph (1) shall be published in the Federal Register.
+       (d) Treatment of Voluntary Standard for Purposes of 
+     Enforcement.--If the Commission determines that a voluntary 
+     standard meets the conditions in subsection (c)(1), the 
+     sulfur content limit in such voluntary standard shall be 
+     treated as a consumer product safety rule promulgated under 
+     section 9 of the Consumer Product Safety Act (15 U.S.C. 2058) 
+     beginning on the date that is the later of--
+       (1) 180 days after publication of the Commission's 
+     determination under subsection (c); or
+       (2) the effective date contained in the voluntary standard.
+       (e) Revision of Voluntary Standard.--If the sulfur content 
+     limit of a voluntary standard that met the conditions of 
+     subsection (c)(1) is subsequently revised, the organization 
+     responsible for the standard shall notify the Commission no 
+     later than 60 days after final approval of the revision. The 
+     sulfur content limit of the revised voluntary standard shall 
+     become enforceable as a Commission rule promulgated under 
+     section 9 of the Consumer Product Safety Act (15 U.S.C. 
+     2058), in lieu of the prior version, effective 180 days after 
+     the Commission is notified of the revision (or such later 
+     date as the Commission considers appropriate), unless within 
+     90 days after receiving that notice the Commission determines 
+     that the sulfur content limit of the revised voluntary 
+     standard does not meet the requirements of subsection 
+     (c)(1)(A), in which case the Commission shall continue to 
+     enforce the prior version.
+       (f) Future Rulemaking.--The Commission, at any time 
+     subsequent to publication of the consumer product safety rule 
+     required by subsection (a) or a determination under 
+     subsection (c), may initiate a rulemaking in accordance with 
+     section 553 of title 5, United States Code, to modify the 
+     sulfur content limit or to include any provision relating 
+     only to the composition or characteristics of drywall that 
+     the Commission determines is reasonably necessary to protect 
+     public health or safety. Any rule promulgated under this 
+     subsection shall be treated as a consumer product safety rule 
+     promulgated under section 9 of the Consumer Product Safety 
+     Act (15 U.S.C. 2058).
+
+     SEC. 5. REVISION OF REMEDIATION GUIDANCE FOR DRYWALL DISPOSAL 
+                   REQUIRED.
+
+       Not later than 120 days after the date of the enactment of 
+     this Act, the Consumer Product Safety Commission shall revise 
+     its guidance entitled ``Remediation Guidance for Homes with 
+     Corrosion from Problem Drywall'' to specify that problematic 
+     drywall removed from homes pursuant to the guidance should 
+     not be reused or used as a component in production of new 
+     drywall.
+
+  The amendment was ordered to be engrossed and the bill to be read a 
+third time.
+  The bill (H.R. 4212), as amended, was read the third time, and 
+passed.
+
+                          ____________________
+```
