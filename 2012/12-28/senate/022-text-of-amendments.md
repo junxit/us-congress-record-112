@@ -1,0 +1,1127 @@
+---
+granule: CRECB-2012-pt13-Pg18330-2
+date: 2012-12-28
+edition: CRECB
+section: SENATE
+page: 18330
+---
+
+# TEXT OF AMENDMENTS
+
+```
+                           TEXT OF AMENDMENTS
+
+  SA 3439. Mr. WYDEN (for himself, Mr. Udall of Colorado, Mr. Lee, Mr. 
+Durbin, Mr. Merkley, Mr. Udall of New Mexico, Mr. Begich, Mr. Franken, 
+Mr. Webb, Mrs. Shaheen, Mr. Tester, Mr. Bingaman, Mr. Lautenberg, Mr. 
+Coons, and Mr. Baucus) proposed an amendment to the bill H.R. 5949, to 
+extend the FISA Amendments Act of 2008 for five years; as follows:
+
+       At the end, add the following:
+
+     SEC. 5. REPORT ON THE IMPACT OF THE FISA AMENDMENTS ACT OF 
+                   2008 ON THE PRIVACY OF THE PEOPLE OF THE UNITED 
+                   STATES.
+
+       (a) Findings.--Congress makes the following findings:
+       (1) The central provision of the FISA Amendments of 2008 
+     (Public Law 110-261; 122 Stat. 2436) enacted section 702 of 
+     the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 
+     1881a) which provides the government authority to collect the 
+     communications of persons reasonably believed to be citizens 
+     of foreign countries who are located outside the United 
+     States.
+       (2) Such section 702 contained restrictions regarding the 
+     acquisition of the communications of United States persons 
+     which were intended to protect the privacy of United States 
+     persons and prevent intelligence agencies from using the 
+     authority in such section to deliberately read or listen to 
+     the communications of specific United States persons without 
+     obtaining a warrant or emergency authorization to do so.
+
+[[Page 18331]]
+
+       (3) Estimating the total number of communications to or 
+     from the United States collected under the authority in such 
+     section 702 would provide an indication of the degree to 
+     which collection carried out under such section has impacted 
+     the privacy of United States persons.
+       (4) Estimating the number of wholly domestic communications 
+     collected under the authority in such section 702 would 
+     provide a particularly significant indication of the degree 
+     to which collection carried out under this authority has 
+     impacted the privacy of United States persons.
+       (5) While Congress did not intend to provide authority in 
+     such section 702 for elements of the intelligence community 
+     to deliberately review the communications of specific United 
+     States persons without obtaining individual warrants or 
+     emergency authorizations to do so, such section 702 does not 
+     include a specific prohibition against this action, and the 
+     people of the United States have a right to know whether 
+     elements of the intelligence community have deliberately 
+     searched through communications collected under such section 
+     702 to find the communications of specific United States 
+     persons.
+       (6) Despite requests from numerous Senators, the Director 
+     of National Intelligence has declined to state publicly 
+     whether--
+       (A) any entity has made an estimate of the number of United 
+     States communications that have been collected under such 
+     section 702;
+       (B) any wholly domestic communications have been collected 
+     under such section 702; or
+       (C) any element of the intelligence community has attempted 
+     to search through communications collected under such section 
+     702 in a deliberate effort to review the communications of a 
+     specific United States person without obtaining a warrant or 
+     emergency authorization permitting such a search.
+       (7) In public remarks in July 2012, the Director of the 
+     National Security Agency stated that ``the story that we have 
+     millions or hundreds of millions of dossiers on people is 
+     absolutely false''.
+       (b) Report.--
+       (1) Requirement.--Not later than 90 days after the date of 
+     the enactment of this Act, the Director of National 
+     Intelligence shall submit to Congress a report on the impact 
+     of the amendments made by the FISA Amendments Act of 2008 
+     (Public Law 110-261; 122 Stat. 2436) and other surveillance 
+     authorities on the privacy of United States persons.
+       (2) Content.--The report required by paragraph (1) shall 
+     include the following:
+       (A) A determination of whether any government entity has 
+     produced any estimate regarding--
+       (i) the total number of communications that--
+
+       (I) originated from or were directed to a location in the 
+     United States; and
+       (II) have been collected under the authority of section 702 
+     of the Foreign Intelligence Surveillance Act of 1978 (50 
+     U.S.C. 1881a); or
+
+       (ii) the total number of wholly domestic communications 
+     that have been collected under such authority.
+       (B) If any estimate described in subparagraph (A) was 
+     produced, such estimate.
+       (C) An assessment of whether any wholly domestic 
+     communications have been collected under the authority of 
+     section 702 of the Foreign Intelligence Surveillance Act of 
+     1978 (50 U.S.C. 1881a).
+       (D) A determination of whether any element of the 
+     intelligence community has ever attempted to search through 
+     communications collected under section 702 of the Foreign 
+     Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a) in a 
+     deliberate effort to find the communications of a specific 
+     United States person, without obtaining a warrant or 
+     emergency authorization to do so.
+       (E) A determination of whether the National Security Agency 
+     has collected any type of personally identifiable data 
+     pertaining to more than 1,000,000 United States persons.
+       (c) Form of Report.--
+       (1) Public availability of report.--The report required by 
+     subsection (b) shall be made available to the public not 
+     later than 15 days after the date such report is submitted to 
+     Congress.
+       (2) Redactions.--If the President believes that public 
+     disclosure of information in the report required by 
+     subsection (b) could cause significant harm to national 
+     security, the President may redact such information from the 
+     report made available to the public.
+       (3) Submission to congress.--If the President redacts 
+     information under paragraph (2), not later than 30 days after 
+     the date the report required by subsection (b) is made 
+     available to the public under paragraph (1), the President 
+     shall submit to the Select Committee on Intelligence of the 
+     Senate and the Permanent Select Committee on Intelligence of 
+     the House of Representatives a statement explaining the 
+     specific harm to national security that the disclosure of 
+     such information could cause.
+                                 ______
+                                 
+  SA 3440. Mr. REID (for Ms. Mikulski) proposed an amendment to the 
+bill H.R. 1, making appropriations for disaster relief for the fiscal 
+year ending September 30, 2013, and for other purposes; as follows:
+
+       Amend the title to read:
+       ``An Act making appropriations for disaster relief for the 
+     fiscal year ending September 30, 2013, and for other 
+     purposes.''
+                                 ______
+                                 
+  SA 3441. Mr. REID (for Mrs. Feinstein (for herself and Mr. 
+Chambliss)) proposed an amendment to the bill S. 3454, to authorize 
+appropriations for fiscal year 2013 for intelligence and intelligence-
+related activities of the United States Government and the Office of 
+the Director of National Intelligence, the Central Intelligence Agency 
+Retirement and Disability System, and for other purposes; as follows:
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This Act may be cited as the 
+     ``Intelligence Authorization Act for Fiscal Year 2013''.
+       (b) Table of Contents.--The table of contents for this Act 
+     is as follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+
+              TITLE I--BUDGET AND PERSONNEL AUTHORIZATIONS
+
+Sec. 101. Authorization of appropriations.
+Sec. 102. Classified Schedule of Authorizations.
+Sec. 103. Personnel ceiling adjustments.
+Sec. 104. Intelligence Community Management Account.
+
+ TITLE II--CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY SYSTEM
+
+Sec. 201. Authorization of appropriations.
+
+           TITLE III--GENERAL INTELLIGENCE COMMUNITY MATTERS
+
+Sec. 301. Restriction on conduct of intelligence activities.
+Sec. 302. Increase in employee compensation and benefits authorized by 
+              law.
+Sec. 303. Non-reimbursable details.
+Sec. 304. Automated insider threat detection program.
+Sec. 305. Software licensing.
+Sec. 306. Strategy for security clearance reciprocity.
+Sec. 307. Improper Payments Elimination and Recovery Act of 2010 
+              compliance.
+Sec. 308. Subcontractor notification process.
+Sec. 309. Modification of reporting schedule.
+Sec. 310. Repeal of certain reporting requirements.
+
+     TITLE IV--MATTERS RELATING TO THE CENTRAL INTELLIGENCE AGENCY
+
+Sec. 401. Working capital fund amendments.
+
+                         TITLE V--OTHER MATTERS
+
+Sec. 501. Homeland Security Intelligence Program.
+Sec. 502. Extension of National Commission for the Review of the 
+              Research and Development Programs of the United States 
+              Intelligence Community.
+Sec. 503. Protecting the information technology supply chain of the 
+              United States.
+Sec. 504. Notification regarding the authorized public disclosure of 
+              national intelligence.
+Sec. 505. Technical amendments related to the Office of the Director of 
+              National Intelligence.
+Sec. 506. Technical amendment for definition of intelligence agency.
+Sec. 507. Budgetary effects.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) Congressional intelligence committees.--The term 
+     ``congressional intelligence committees'' means--
+       (A) the Select Committee on Intelligence of the Senate; and
+       (B) the Permanent Select Committee on Intelligence of the 
+     House of Representatives.
+       (2) Intelligence community.--The term ``intelligence 
+     community'' has the meaning given that term in section 3(4) 
+     of the National Security Act of 1947 (50 U.S.C. 401a(4)).
+
+              TITLE I--BUDGET AND PERSONNEL AUTHORIZATIONS
+
+     SEC. 101. AUTHORIZATION OF APPROPRIATIONS.
+
+       Funds are hereby authorized to be appropriated for fiscal 
+     year 2013 for the conduct of the intelligence and 
+     intelligence-related activities of the following elements of 
+     the United States Government:
+       (1) The Office of the Director of National Intelligence.
+       (2) The Central Intelligence Agency.
+       (3) The Department of Defense.
+       (4) The Defense Intelligence Agency.
+       (5) The National Security Agency.
+       (6) The Department of the Army, the Department of the Navy, 
+     and the Department of the Air Force.
+       (7) The Coast Guard.
+       (8) The Department of State.
+       (9) The Department of the Treasury.
+       (10) The Department of Energy.
+       (11) The Department of Justice.
+       (12) The Federal Bureau of Investigation.
+       (13) The Drug Enforcement Administration.
+       (14) The National Reconnaissance Office.
+       (15) The National Geospatial-Intelligence Agency.
+
+[[Page 18332]]
+
+       (16) The Department of Homeland Security.
+
+     SEC. 102. CLASSIFIED SCHEDULE OF AUTHORIZATIONS.
+
+       (a) Specifications of Amounts and Personnel Levels.--The 
+     amounts authorized to be appropriated under section 101 and, 
+     subject to section 103, the authorized personnel ceilings as 
+     of September 30, 2013, for the conduct of the intelligence 
+     activities of the elements listed in paragraphs (1) through 
+     (16) of section 101, are those specified in the classified 
+     Schedule of Authorizations prepared to accompany the bill S. 
+     3454 of the One Hundred Twelfth Congress.
+       (b) Availability of Classified Schedule of 
+     Authorizations.--
+       (1) Availability to committees of congress.--The classified 
+     Schedule of Authorizations referred to in subsection (a) 
+     shall be made available to the Committee on Appropriations of 
+     the Senate, the Committee on Appropriations of the House of 
+     Representatives, and to the President.
+       (2) Distribution by the president.--Subject to paragraph 
+     (3), the President shall provide for suitable distribution of 
+     the classified Schedule of Authorizations, or of appropriate 
+     portions of the Schedule, within the executive branch.
+       (3) Limits on disclosure.--The President shall not publicly 
+     disclose the classified Schedule of Authorizations or any 
+     portion of such Schedule except--
+       (A) as provided in section 601(a) of the Implementing 
+     Recommendations of the 9/11 Commission Act of 2007 (50 U.S.C. 
+     415c);
+       (B) to the extent necessary to implement the budget; or
+       (C) as otherwise required by law.
+
+     SEC. 103. PERSONNEL CEILING ADJUSTMENTS.
+
+       (a) Authority for Increases.--The Director of National 
+     Intelligence may authorize the employment of civilian 
+     personnel in excess of the number of positions for fiscal 
+     year 2013 authorized by the classified Schedule of 
+     Authorizations referred to in section 102(a) if the Director 
+     of National Intelligence determines that such action is 
+     necessary to the performance of important intelligence 
+     functions, except that the number of personnel employed in 
+     excess of the number authorized under such section may not, 
+     for any element of the intelligence community, exceed 3 
+     percent of the number of civilian personnel authorized under 
+     such section for such element.
+       (b) Treatment of Certain Personnel.--The Director of 
+     National Intelligence shall establish guidelines that govern, 
+     for each element of the intelligence community, the treatment 
+     under the personnel levels authorized under section 102(a), 
+     including any exemption from such personnel levels, of 
+     employment or assignment in--
+       (1) a student program, trainee program, or similar program;
+       (2) a reserve corps or as a reemployed annuitant; or
+       (3) details, joint duty, or long term, full-time training.
+       (c) Notice to Congressional Intelligence Committees.--The 
+     Director of National Intelligence shall notify the 
+     congressional intelligence committees in writing at least 15 
+     days prior to the initial exercise of an authority described 
+     in subsection (a).
+
+     SEC. 104. INTELLIGENCE COMMUNITY MANAGEMENT ACCOUNT.
+
+       (a) Authorization of Appropriations.--There is authorized 
+     to be appropriated for the Intelligence Community Management 
+     Account of the Director of National Intelligence for fiscal 
+     year 2013 the sum of $540,721,000. Within such amount, funds 
+     identified in the classified Schedule of Authorizations 
+     referred to in section 102(a) for advanced research and 
+     development shall remain available until September 30, 2014.
+       (b) Authorized Personnel Levels.--The elements within the 
+     Intelligence Community Management Account of the Director of 
+     National Intelligence are authorized 835 positions as of 
+     September 30, 2013. Personnel serving in such elements may be 
+     permanent employees of the Office of the Director of National 
+     Intelligence or personnel detailed from other elements of the 
+     United States Government.
+       (c) Classified Authorizations.--
+       (1) Authorization of appropriations.--In addition to 
+     amounts authorized to be appropriated for the Intelligence 
+     Community Management Account by subsection (a), there are 
+     authorized to be appropriated for the Community Management 
+     Account for fiscal year 2013 such additional amounts as are 
+     specified in the classified Schedule of Authorizations 
+     referred to in section 102(a). Such additional amounts for 
+     advanced research and development shall remain available 
+     until September 30, 2014.
+       (2) Authorization of personnel.--In addition to the 
+     personnel authorized by subsection (b) for elements of the 
+     Intelligence Community Management Account as of September 30, 
+     2013, there are authorized such additional personnel for the 
+     Community Management Account as of that date as are specified 
+     in the classified Schedule of Authorizations referred to in 
+     section 102(a).
+
+ TITLE II--CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY SYSTEM
+
+     SEC. 201. AUTHORIZATION OF APPROPRIATIONS.
+
+       There is authorized to be appropriated for the Central 
+     Intelligence Agency Retirement and Disability Fund for fiscal 
+     year 2013 the sum of $514,000,000.
+
+           TITLE III--GENERAL INTELLIGENCE COMMUNITY MATTERS
+
+     SEC. 301. RESTRICTION ON CONDUCT OF INTELLIGENCE ACTIVITIES.
+
+       The authorization of appropriations by this Act shall not 
+     be deemed to constitute authority for the conduct of any 
+     intelligence activity which is not otherwise authorized by 
+     the Constitution or the laws of the United States.
+
+     SEC. 302. INCREASE IN EMPLOYEE COMPENSATION AND BENEFITS 
+                   AUTHORIZED BY LAW.
+
+       Appropriations authorized by this Act for salary, pay, 
+     retirement, and other benefits for Federal employees may be 
+     increased by such additional or supplemental amounts as may 
+     be necessary for increases in such compensation or benefits 
+     authorized by law.
+
+     SEC. 303. NON-REIMBURSABLE DETAILS.
+
+       Section 113A of the National Security Act of 1947 (50 
+     U.S.C. 404h-1) is amended--
+       (1) by striking ``two years.'' and inserting ``three 
+     years.''; and
+       (2) by adding at the end ``A non-reimbursable detail made 
+     under this section shall not be considered an augmentation of 
+     the appropriations of the receiving element of the 
+     intelligence community.''.
+
+     SEC. 304. AUTOMATED INSIDER THREAT DETECTION PROGRAM.
+
+       Section 402 of the Intelligence Authorization Act for 
+     Fiscal Year 2011 (Public Law 112-18; 50 U.S.C. 403-1 note) is 
+     amended--
+       (1) in subsection (a), by striking ``October 1, 2012,'' and 
+     inserting ``October 1, 2013,''; and
+       (2) in subsection (b), by striking ``October 1, 2013,'' and 
+     inserting ``October 1, 2014,''.
+
+     SEC. 305. SOFTWARE LICENSING.
+
+       (a) In General.--Not later than 120 days after the date of 
+     the enactment of this Act, each chief information officer for 
+     an element of the intelligence community, in consultation 
+     with the Chief Information Officer of the Intelligence 
+     Community, shall--
+       (1) conduct an inventory of software licenses held by such 
+     element, including utilized and unutilized licenses; and
+       (2) report the results of such inventory to the Chief 
+     Information Officer of the Intelligence Community.
+       (b) Reporting to Congress.--The Chief Information Officer 
+     of the Intelligence Community shall--
+       (1) not later than 180 days after the date of the enactment 
+     of this Act, provide to the congressional intelligence 
+     committees a copy of each report received by the Chief 
+     Information Officer under subsection (a)(2), along with any 
+     comments the Chief Information Officer wishes to provide; and
+       (2) transmit any portion of a report submitted under 
+     paragraph (1) involving a component of a department of the 
+     United States Government to the committees of the Senate and 
+     of the House of Representatives with jurisdiction over such 
+     department simultaneously with submission of such report to 
+     the congressional intelligence committees.
+
+     SEC. 306. STRATEGY FOR SECURITY CLEARANCE RECIPROCITY.
+
+       (a) Strategy.--The President shall develop a strategy and a 
+     schedule for carrying out the requirements of section 3001(d) 
+     of the Intelligence Reform and Terrorism Prevention Act of 
+     2004 (50 U.S.C. 435b(d)). Such strategy and schedule shall 
+     include--
+       (1) a process for accomplishing the reciprocity required 
+     under such section for a security clearance issued by a 
+     department or agency of the Federal Government, including 
+     reciprocity for security clearances that are issued to both 
+     persons who are and who are not employees of the Federal 
+     Government; and
+       (2) a description of the specific circumstances under which 
+     a department or agency of the Federal Government may not 
+     recognize a security clearance issued by another department 
+     or agency of the Federal Government.
+       (b) Congressional Notification.--Not later than 180 days 
+     after the date of the enactment of this Act, the President 
+     shall inform Congress of the strategy and schedule developed 
+     under subsection (a).
+
+     SEC. 307. IMPROPER PAYMENTS ELIMINATION AND RECOVERY ACT OF 
+                   2010 COMPLIANCE.
+
+       (a) Plan for Compliance.--
+       (1) In general.--The Director of National Intelligence, the 
+     Director of the Central Intelligence Agency, the Director of 
+     the Defense Intelligence Agency, the Director of the National 
+     Geospatial-Intelligence Agency, and the Director of the 
+     National Security Agency shall each develop a corrective 
+     action plan, with major milestones, that delineates how the 
+     Office of the Director of National Intelligence and each such 
+     Agency will achieve compliance, not later than September 30, 
+     2013, with the Improper Payments Elimination and Recovery Act 
+     of 2010 (Public Law 111-204; 124 Stat. 2224), and the 
+     amendments made by that Act.
+       (2) Submission to congress.--Not later than 45 days after 
+     the date of the enactment of this Act--
+       (A) each Director referred to in paragraph (1) shall submit 
+     to the congressional intelligence committees the corrective 
+     action plan required by such paragraph; and
+
+[[Page 18333]]
+
+       (B) the Director of the Defense Intelligence Agency, the 
+     Director of the National Geospatial-Intelligence Agency, and 
+     the Director of the National Security Agency shall each 
+     submit to the Committee on Armed Services of the Senate and 
+     the Committee on Armed Services of the House of 
+     Representatives the corrective action plan required by 
+     paragraph (1) with respect to the applicable Agency.
+       (b) Review by Inspectors General.--
+       (1) In general.--Not later than 45 days after the 
+     completion of a corrective action plan required by subsection 
+     (a)(1), the Inspector General of each Agency required to 
+     develop such a plan, and in the case of the Director of 
+     National Intelligence, the Inspector General of the 
+     Intelligence Community, shall provide to the congressional 
+     intelligence committees an assessment of such plan that 
+     includes--
+       (A) the assessment of the Inspector General of whether such 
+     Agency or Office is or is not likely to reach compliance with 
+     the requirements of the Improper Payments Elimination and 
+     Recovery Act of 2010 (Public Law 111-204; 124 Stat. 2224), 
+     and the amendments made by that Act, by September 30, 2013; 
+     and
+       (B) the basis of the Inspector General for such assessment.
+       (2) Additional submission of reviews of certain inspectors 
+     general.--Not later than 45 days after the completion of a 
+     corrective action plan required by subsection (a)(1), the 
+     Inspector General of the Defense Intelligence Agency, the 
+     Inspector General of the National Geospatial-Intelligence 
+     Agency, and the Inspector General of the National Security 
+     Agency shall each submit to the Committee on Armed Services 
+     of the Senate and the Committee on Armed Services of the 
+     House of Representatives the assessment of the applicable 
+     plan provided to the congressional intelligence committees 
+     under paragraph (1).
+
+     SEC. 308. SUBCONTRACTOR NOTIFICATION PROCESS.
+
+       Not later than October 1, 2013, the Director of National 
+     Intelligence shall submit to the congressional intelligence 
+     committees a report assessing the method by which contractors 
+     at any tier under a contract entered into with an element of 
+     the intelligence community are granted security clearances 
+     and notified of classified contracting opportunities within 
+     the Federal Government and recommendations for the 
+     improvement of such method. Such report shall include--
+       (1) an assessment of the current method by which 
+     contractors at any tier under a contract entered into with an 
+     element of the intelligence community are notified of 
+     classified contracting opportunities;
+       (2) an assessment of any problems that may reduce the 
+     overall effectiveness of the ability of the intelligence 
+     community to identify appropriate contractors at any tier 
+     under such a contract;
+       (3) an assessment of the role the existing security 
+     clearance process has in enhancing or hindering the ability 
+     of the intelligence community to notify such contractors of 
+     contracting opportunities;
+       (4) an assessment of the role the current security 
+     clearance process has in enhancing or hindering the ability 
+     of contractors at any tier under a contract entered into with 
+     an element of the intelligence community to execute 
+     classified contracts;
+       (5) a description of the method used by the Director of 
+     National Intelligence for assessing the effectiveness of the 
+     notification process of the intelligence community to produce 
+     a talented pool of subcontractors;
+       (6) a description of appropriate goals, schedules, 
+     milestones, or metrics used to measure the effectiveness of 
+     such notification process; and
+       (7) recommendations for improving such notification 
+     process.
+
+     SEC. 309. MODIFICATION OF REPORTING SCHEDULE.
+
+       (a) Inspector General of the Intelligence Community.--
+     Section 103H(k)(1)(A) of the National Security Act of 1947 
+     (50 U.S.C. 403-3h(k)(1)(A)) is amended--
+       (1) by striking ``January 31 and July 31'' and inserting 
+     ``October 31 and April 30''; and
+       (2) by striking ``December 31 (of the preceding year) and 
+     June 30,'' and inserting ``September 30 and March 31,''.
+       (b) Inspector General for the Central Intelligence 
+     Agency.--
+       (1) In general.--Section 17(d)(1) of the Central 
+     Intelligence Agency Act of 1949 (50 U.S.C. 403q(d)(1)) is 
+     amended--
+       (A) by striking ``January 31 and July 31'' and inserting 
+     ``October 31 and April 30'';
+       (B) by striking ``December 31 (of the preceding year) and 
+     June 30,'' and inserting ``September 30 and March 31,''; and
+       (C) by striking ``Not later than the dates each year 
+     provided for the transmittal of such reports in section 507 
+     of the National Security Act of 1947,'' and inserting ``Not 
+     later than 30 days after the date of the receipt of such 
+     reports,''.
+       (2) Conforming amendments.--Section 507(b) of the National 
+     Security Act of 1947 (50 U.S.C. 415b(b)) is amended--
+       (A) by striking paragraph (1); and
+       (B) by redesignating paragraphs (2), (3), and (4), as 
+     paragraphs (1), (2), and (3), respectively.
+
+     SEC. 310. REPEAL OF CERTAIN REPORTING REQUIREMENTS.
+
+       (a) Repeal of Reporting Requirements.--
+       (1) Acquisition of technology relating to weapons of mass 
+     destruction and advanced conventional munitions.--Section 721 
+     of the Intelligence Authorization Act for Fiscal Year 1997 
+     (50 U.S.C. 2366) is repealed.
+       (2) Safety and security of russian nuclear facilities and 
+     nuclear military forces.--Section 114 of the National 
+     Security Act of 1947 (50 U.S.C. 404i) is amended--
+       (A) by striking subsections (a) and (d); and
+       (B) by redesignating subsections (b) and (c) as subsections 
+     (a) and (b), respectively.
+       (3) Intelligence community business systems budget 
+     information.--Section 506D of the National Security Act of 
+     1947 (50 U.S.C. 415a-6) is amended by striking subsection 
+     (e).
+       (4) Measures to protect the identities of covert agents.--
+     Title VI of the National Security Act of 1947 (50 U.S.C. 421 
+     et seq.) is amended--
+       (A) by striking section 603; and
+       (B) by redesignating sections 604, 605, and 606 as sections 
+     603, 604, and 605, respectively.
+       (b) Technical and Conforming Amendments.--
+       (1) Report submission dates.--Section 507 of the National 
+     Security Act of 1947 (50 U.S.C. 415b) is amended--
+       (A) in subsection (a)--
+       (i) in paragraph (1)--
+
+       (I) by striking subparagraphs (A), (C), and (D);
+       (II) by redesignating subparagraphs (B), (E), (F), (G), 
+     (H), and (I) as subparagraphs (A), (B), (C), (D), (E), and 
+     (F), respectively; and
+       (III) in subparagraph (D), as so redesignated, by striking 
+     ``section 114(c).'' and inserting ``section 114(a).''; and
+
+       (ii) by amending paragraph (2) to read as follows:
+       ``(2) The date for the submittal to the congressional 
+     intelligence committees of the annual report on the threat of 
+     attack on the United States from weapons of mass destruction 
+     required by section 114(b) shall be the date each year 
+     provided in subsection (c)(1)(B).'';
+       (B) in subsection (c)(1)(B), by striking ``each'' and 
+     inserting ``the''; and
+       (C) in subsection (d)(1)(B), by striking ``an'' and 
+     inserting ``the''.
+       (2) Table of contents of the national security act of 
+     1947.--The table of contents in the first section of the 
+     National Security Act of 1947 is amended by striking the 
+     items relating to sections 603, 604, 605, and 606 and 
+     inserting the following new items:
+
+``Sec. 603. Extraterritorial jurisdiction.
+``Sec. 604. Providing information to Congress.
+``Sec. 605. Definitions.''.
+
+     TITLE IV--MATTERS RELATING TO THE CENTRAL INTELLIGENCE AGENCY
+
+     SEC. 401. WORKING CAPITAL FUND AMENDMENTS.
+
+       Section 21 of the Central Intelligence Agency Act of 1949 
+     (50 U.S.C. 403u) is amended as follows:
+       (1) In subsection (b)--
+       (A) in paragraph (1)--
+       (i) in subparagraph (B), by striking ``and'' at the end;
+       (ii) in subparagraph (C), by striking ``program.'' and 
+     inserting ``program; and''; and
+       (iii) by adding at the end the following:
+       ``(D) authorize such providers to make known their services 
+     to the entities specified in section (a) through Government 
+     communication channels.''; and
+       (B) by adding at the end the following:
+       ``(3) The authority in paragraph (1)(D) does not include 
+     the authority to distribute gifts or promotional items.''; 
+     and
+       (2) in subsection (c)--
+       (A) in paragraph (2)(E), by striking ``from the sale or 
+     exchange of equipment or property of a central service 
+     provider'' and inserting ``from the sale or exchange of 
+     equipment, recyclable materials, or property of a central 
+     service provider.''; and
+       (B) in paragraph (3)(B), by striking ``subsection (f)(2)'' 
+     and inserting ``subsections (b)(1)(D) and (f)(2)''.
+
+                         TITLE V--OTHER MATTERS
+
+     SEC. 501. HOMELAND SECURITY INTELLIGENCE PROGRAM.
+
+       There is established within the Department of Homeland 
+     Security a Homeland Security Intelligence Program. The 
+     Homeland Security Intelligence Program constitutes the 
+     intelligence activities of the Office of Intelligence and 
+     Analysis of the Department that serve predominantly 
+     departmental missions.
+
+     SEC. 502. EXTENSION OF NATIONAL COMMISSION FOR THE REVIEW OF 
+                   THE RESEARCH AND DEVELOPMENT PROGRAMS OF THE 
+                   UNITED STATES INTELLIGENCE COMMUNITY.
+
+       Section 1007(a) of the Intelligence Authorization Act for 
+     Fiscal Year 2003 (Public Law 107-306; 50 U.S.C. 401 note) is 
+     amended by striking ``Not later than one year after the date 
+     on which all members of the Commission are appointed pursuant 
+     to section 701(a)(3) of the Intelligence Authorization Act 
+     for Fiscal Year 2010,'' and inserting ``Not later than March 
+     31, 2013,''.
+
+     SEC. 503. PROTECTING THE INFORMATION TECHNOLOGY SUPPLY CHAIN 
+                   OF THE UNITED STATES.
+
+       (a) Report.--Not later than 90 days after the date of the 
+     enactment of this Act, the
+
+[[Page 18334]]
+
+     Director of National Intelligence shall submit to the 
+     congressional intelligence committees a report that--
+       (1) identifies foreign suppliers of information technology 
+     (including equipment, software, and services) that are linked 
+     directly or indirectly to a foreign government, including--
+       (A) by ties to the military forces of a foreign government;
+       (B) by ties to the intelligence services of a foreign 
+     government; or
+       (C) by being the beneficiaries of significant low interest 
+     or no interest loans, loan forgiveness, or other support by a 
+     foreign government; and
+       (2) assesses the vulnerability to malicious activity, 
+     including cyber crime or espionage, of the telecommunications 
+     networks of the United States due to the presence of 
+     technology produced by suppliers identified under paragraph 
+     (1).
+       (b) Form.--The report required under subsection (a) shall 
+     be submitted in unclassified form, but may include a 
+     classified annex.
+       (c) Telecommunications Networks of the United States 
+     Defined.--In this section, the term ``telecommunications 
+     networks of the United States'' includes--
+       (1) telephone systems;
+       (2) Internet systems;
+       (3) fiber optic lines, including cable landings;
+       (4) computer networks; and
+       (5) smart grid technology under development by the 
+     Department of Energy.
+
+     SEC. 504. NOTIFICATION REGARDING THE AUTHORIZED PUBLIC 
+                   DISCLOSURE OF NATIONAL INTELLIGENCE.
+
+       (a) Notification.--In the event of an authorized disclosure 
+     of national intelligence or intelligence related to national 
+     security to the persons or entities described in subsection 
+     (b), the government official responsible for authorizing the 
+     disclosure shall submit to the congressional intelligence 
+     committees on a timely basis a notification of the disclosure 
+     if--
+       (1) at the time of the disclosure--
+       (A) such intelligence is classified; or
+       (B) is declassified for the purpose of the disclosure; and
+       (2) the disclosure will be made by an officer, employee, or 
+     contractor of the Executive branch.
+       (b) Persons or Entities Described.--The persons or entities 
+     described in this subsection are as follows:
+       (1) Media personnel.
+       (2) Any person or entity, if the disclosure described in 
+     subsection (a) is made with the intent or knowledge that such 
+     information will be made publicly available.
+       (c) Content.--Each notification required under subsection 
+     (a) shall--
+       (1) provide the specific title and authority of the 
+     individual authorizing the disclosure;
+       (2) if applicable, provide the specific title and authority 
+     of the individual who authorized the declassification of the 
+     intelligence disclosed; and
+       (3) describe the intelligence disclosed, including the 
+     classification of the intelligence prior to its disclosure or 
+     declassification and the rationale for making the disclosure.
+       (d) Exception.--The notification requirement in this 
+     section does not apply to a disclosure made--
+       (1) pursuant to any statutory requirement, including to 
+     section 552 of title 5, United States Code (commonly referred 
+     to as the ``Freedom of Information Act'');
+       (2) in connection with a civil, criminal, or administrative 
+     proceeding;
+       (3) as a result of a declassification review process under 
+     Executive Order 13526 (50 U.S.C. 435 note) or any successor 
+     order; or
+       (4) to any officer, employee, or contractor of the Federal 
+     government or member of an advisory committee to an element 
+     of the intelligence community who possesses an active 
+     security clearance and a need to know the specific national 
+     intelligence or intelligence related to national security, as 
+     defined in section 3(5) of the National Security Act of 1947 
+     (50 U.S.C. 401a(5)).
+       (e) Sunset.--The notification requirement of this section 
+     shall cease to be effective for any disclosure described in 
+     subsection (a) that occurs on or after the date that is one 
+     year after the date of the enactment of this Act.
+
+     SEC. 505. TECHNICAL AMENDMENTS RELATED TO THE OFFICE OF THE 
+                   DIRECTOR OF NATIONAL INTELLIGENCE.
+
+       (a) Personnel Practices.--Section 2302(a)(2)(C) of title 5, 
+     United States Code, is amended by striking clause (ii) and 
+     inserting the following:
+       ``(ii)(I) the Federal Bureau of Investigation, the Central 
+     Intelligence Agency, the Defense Intelligence Agency, the 
+     National Geospatial-Intelligence Agency, the National 
+     Security Agency, the Office of the Director of National 
+     Intelligence, and the National Reconnaissance Office; and
+       ``(II) as determined by the President, any executive agency 
+     or unit thereof the principal function of which is the 
+     conduct of foreign intelligence or counterintelligence 
+     activities, provided that the determination be made prior to 
+     a personnel action; or''.
+       (b) Senior Executive Service.--Section 3132(a)(1)(B) of 
+     title 5, United States Code, is amended by inserting ``the 
+     Office of the Director of National Intelligence,'' after 
+     ``the Central Intelligence Agency,''.
+
+     SEC. 506. TECHNICAL AMENDMENT FOR DEFINITION OF INTELLIGENCE 
+                   AGENCY.
+
+       Section 606(5) of the National Security Act of 1947 (50 
+     U.S.C. 426) is amended to read as follows:
+       ``(5) The term `intelligence agency' means the elements of 
+     the intelligence community, as that term is defined in 
+     section 3(4).''.
+
+     SEC. 507. BUDGETARY EFFECTS.
+
+       The budgetary effects of this Act, for the purpose of 
+     complying with the Statutory Pay-As-You-Go-Act of 2010, shall 
+     be determined by reference to the latest statement titled 
+     ``Budgetary Effects of PAYGO Legislation'' for this Act, 
+     submitted for printing in the Congressional Record by the 
+     Chairman of the Senate Budget Committee, provided that such 
+     statement has been submitted prior to the vote on passage.
+                                 ______
+                                 
+  SA 3442. Mr. REID (for Mr. Burr) proposed an amendment to the bill 
+H.R. 1464, to express the sense of Congress regarding North Korean 
+children and children of one North Korean parent and to require the 
+Department of State regularly to brief appropriate congressional 
+committees on efforts to advocate for and develop a strategy to provide 
+assistance in the best interest of these children; as follows:
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``North Korean Child Welfare 
+     Act of 2012''.
+
+     SEC. 2. SENSE OF CONGRESS.
+
+       It is the sense of Congress that--
+       (1) hundreds of thousands of North Korean children suffer 
+     from malnutrition in North Korea, and North Korean children 
+     or children of one North Korean parent who are living outside 
+     of North Korea may face statelessness in neighboring 
+     countries; and
+       (2) the Secretary of State should advocate for the best 
+     interests of these children, including, when possible, 
+     facilitating immediate protection for those living outside 
+     North Korea through family reunification or, if appropriate 
+     and eligible in individual cases, domestic or international 
+     adoption.
+
+     SEC. 3. DEFINITIONS.
+
+       In this Act:
+       (1) Appropriate congressional committees.--The term 
+     ``appropriate congressional committees'' means the Committee 
+     on Foreign Relations of the Senate and the Committee on 
+     Foreign Affairs of the House of Representatives.
+       (2) Hague country.--The term ``Hague country'' means a 
+     country where the Convention on Protection of Children and 
+     Cooperation in Respect of Intercountry Adoption, done at The 
+     Hague May 29, 1993, has entered into force and is fully 
+     implemented.
+       (3) Non-hague country.--The term ``non-Hague country'' 
+     means a country where the Convention on Protection of 
+     Children and Cooperation in Respect of Intercountry Adoption, 
+     done at The Hague May 29, 1993, has not entered into force.
+
+     SEC. 4. BRIEFINGS ON THE WELFARE OF NORTH KOREAN CHILDREN.
+
+       (a) In General.--The Secretary of State shall designate a 
+     representative to regularly brief the appropriate 
+     congressional committees in an unclassified setting on United 
+     States Government efforts to advocate for the best interests 
+     of North Korean children and children of one North Korean 
+     parent, including efforts to address, when appropriate, the 
+     adoption of such children living outside North Korea without 
+     parental care.
+       (b) Contents.--The Secretary's designee shall be prepared 
+     to address in each briefing the following topics:
+       (1) The analysis of the Department of State of the 
+     challenges facing North Korean children residing outside 
+     North Korea and challenges facing children of one North 
+     Korean parent in other countries who are fleeing persecution 
+     or are living as de jure or de facto stateless persons.
+       (2) Department of State efforts to advocate for the best 
+     interest of North Korean children residing outside North 
+     Korea or children of one North Korean parent living in other 
+     countries who are fleeing persecution or are living as de 
+     jure or de facto stateless persons, including, when possible, 
+     efforts to address the immediate care and family 
+     reunification of these children, and, in individual cases 
+     where appropriate, the adoption of eligible North Korean 
+     children living outside North Korea and children of one North 
+     Korean parent living outside North Korea.
+       (3) Department of State efforts to develop a comprehensive 
+     strategy to address challenges that United States citizens 
+     would encounter in attempting to adopt, via intercountry 
+     adoption, North Korean-origin children residing in other 
+     countries or children of one North Korean parent residing 
+     outside North Korea who are fleeing persecution or are living 
+     as de jure or de facto stateless persons, including efforts 
+     to overcome the complexities involved in determining 
+     jurisdiction for best interest determinations and adoption 
+     processing, if appropriate, of those who habitually reside in 
+     a Hague country or a non-Hague country.
+       (4) Department of State diplomatic efforts to encourage 
+     countries in which North Korean children or children of one 
+     North Korean parent are fleeing persecution or reside
+
+[[Page 18335]]
+
+     as de jure or de facto stateless persons to resolve issues of 
+     statelessness of North Koreans residing in that country.
+       (5) Department of State efforts to work with the Government 
+     of the Republic of Korea to establish pilot programs that 
+     identify, provide for the immediate care of, and assist in 
+     the family reunification of North Korean children and 
+     children of one North Korean parent living within South Korea 
+     and other countries who are fleeing persecution or are living 
+     as de jure or de facto stateless persons.
+                                 ______
+                                 
+  SA 3443. Mr. REID (for Mr. Burr) proposed an amendment to the bill 
+H.R. 1464, to express the sense of Congress regarding North Korean 
+children and children of one North Korean parent and to require the 
+Department of State regularly to brief appropriate congressional 
+committees on efforts to advocate for and develop a strategy to provide 
+assistance in the best interest of these children; as follows:
+
+       Amend the title so as to read: ``To express the sense of 
+     Congress regarding North Korean children and children of one 
+     North Korean parent and to require the Department of State 
+     regularly to brief appropriate congressional committees on 
+     efforts to advocate for and develop a strategy to provide 
+     assistance in the best interest of these children.''.
+                                 ______
+                                 
+  SA 3444. Mr. REID (for Mr. Leahy (for himself and Mr. Grassley)) 
+proposed an amendment to the bill H.R. 6621, to correct and improve 
+certain provisions of the Leahy-Smith America Invents Act and title 35, 
+United States Code; as folows.
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. TECHNICAL CORRECTIONS.
+
+       (a) Advice of Counsel.--Notwithstanding section 35 of the 
+     Leahy-Smith America Invents Act (35 U.S.C. 1 note), section 
+     298 of title 35, United States Code, shall apply to any civil 
+     action commenced on or after the date of the enactment of 
+     this Act.
+       (b) Transitional Program for Covered Business Method 
+     Patents.--Section 18 of the Leahy-Smith America Invents Act 
+     (35 U.S.C. 321 note) is amended--
+       (1) in subsection (a)(1)(C)((i), by striking ``of such 
+     title'' the second place it appears; and
+       (2) in subsection (d)(2), by striking ``subsection'' and 
+     inserting ``section''.
+       (c) Joinder of Parties.--Section 299(a) of title 35, United 
+     States Code, is amended in the matter preceding paragraph (1) 
+     by striking ``or counterclaim defendants only if'' and 
+     inserting ``only if''.
+       (d) Dead Zones.--
+       (1) Inter partes review.--Section 311(c) of title 35, 
+     United States Code, shall not apply to a petition to 
+     institute an inter partes review of a patent that is not a 
+     patent described in section 3(n)(1) of the Leahy-Smith 
+     America Invents Act (35 U.S.C. 100 note).
+       (2) Reissue.--Section 311(c)(1) of title 35, United States 
+     Code, is amended by striking ``or issuance of a reissue of a 
+     patent''.
+       (e) Correct Inventor.--
+       (1) In general.--Section 135(e) of title 35, United States 
+     Code, as amended by section 3(i) of the Leahy-Smith America 
+     Invents Act, is amended by striking ``correct inventors'' and 
+     inserting ``correct inventor''.
+       (2) Effective date.--The amendment made by paragraph (1) 
+     shall be effective as if included in the amendment made by 
+     section 3(i) of the Leahy-Smith America Invents Act.
+       (f) Inventor's Oath or Declaration.--Section 115 of title 
+     35, United States Code, as amended by section 4 of the Leahy-
+     Smith America Invents Act, is amended--
+       (1) by striking subsection (f) and inserting the following:
+       ``(f) Time for Filing.--The applicant for patent shall 
+     provide each required oath or declaration under subsection 
+     (a), substitute statement under subsection (d), or recorded 
+     assignment meeting the requirements of subsection (e) no 
+     later than the date on which the issue fee for the patent is 
+     paid.''; and
+       (2) in subsection (g)(1), by striking ``who claims'' and 
+     inserting ``that claims''.
+       (g) Travel Expenses and Payment of Administrative Judges.--
+     Notwithstanding section 35 of the Leahy-Smith America Invents 
+     Act (35 U.S.C. 1 note), the amendments made by section 21 of 
+     the Leahy-Smith America Invents Act (Public Law 112-29; 125 
+     Stat. 335) shall be effective as of September 16, 2011.
+       (h) Patent Term Adjustments.--Section 154(b) of title 35, 
+     United States Code, is amended--
+       (1) in paragraph (1)--
+       (A) in subparagraph (A)(i)(II), by striking ``on which an 
+     international application fulfilled the requirements of 
+     section 371 of this title'' and inserting ``of commencement 
+     of the national stage under section 371 in an international 
+     application''; and
+       (B) in subparagraph (B), in the matter preceding clause 
+     (i), by striking ``the application in the United States'' and 
+     inserting ``the application under section 111(a) in the 
+     United States or, in the case of an international 
+     application, the date of commencement of the national stage 
+     under section 371 in the international application'';
+       (2) in paragraph (3)(B)(i), by striking ``with the written 
+     notice of allowance of the application under section 151'' 
+     and inserting ``no later than the date of issuance of the 
+     patent''; and
+       (3) in paragraph (4)(A)--
+       (A) by striking ``a determination made by the Director 
+     under paragraph (3) shall have remedy'' and inserting ``the 
+     Director's decision on the applicant's request for 
+     reconsideration under paragraph (3)(B)(ii) shall have 
+     exclusive remedy''; and
+       (B) by striking ``the grant of the patent'' and inserting 
+     ``the date of the Director's decision on the applicant's 
+     request for reconsideration''.
+       (i) Improper Applicant.--Section 373 of title 35, United 
+     States Code, and the item relating to that section in the 
+     table of sections for chapter 37 of such title, are repealed.
+       (j) Financial Management Clarifications.--Section 42(c)(3) 
+     of title 35, United States Code, is amended--
+       (1) in subparagraph (A)--
+       (A) by striking ``sections 41, 42, and 376,'' and inserting 
+     ``this title,''; and
+       (B) by striking ``a share of the administrative costs of 
+     the Office relating to patents'' and inserting ``a 
+     proportionate share of the administrative costs of the 
+     Office''; and
+       (2) in subparagraph (B), by striking ``a share of the 
+     administrative costs of the Office relating to trademarks'' 
+     and inserting ``a proportionate share of the administrative 
+     costs of the Office''.
+       (k) Derivation Proceedings.--
+       (1) In general.--Section 135(a) of title 35, United States 
+     Code, as amended by section 3(i) of the Leahy-Smith America 
+     Invents Act, is amended to read as follows:
+       ``(a) Institution of Proceeding.--
+       ``(1) In general.--An applicant for patent may file a 
+     petition with respect to an invention to institute a 
+     derivation proceeding in the Office. The petition shall set 
+     forth with particularity the basis for finding that an 
+     individual named in an earlier application as the inventor or 
+     a joint inventor derived such invention from an individual 
+     named in the petitioner's application as the inventor or a 
+     joint inventor and, without authorization, the earlier 
+     application claiming such invention was filed. Whenever the 
+     Director determines that a petition filed under this 
+     subsection demonstrates that the standards for instituting a 
+     derivation proceeding are met, the Director may institute a 
+     derivation proceeding.
+       ``(2) Time for filing.--A petition under this section with 
+     respect to an invention that is the same or substantially the 
+     same invention as a claim contained in a patent issued on an 
+     earlier application, or contained in an earlier application 
+     when published or deemed published under section 122(b), may 
+     not be filed unless such petition is filed during the 1-year 
+     period following the date on which the patent containing such 
+     claim was granted or the earlier application containing such 
+     claim was published, whichever is earlier.
+       ``(3) Earlier application.--For purposes of this section, 
+     an application shall not be deemed to be an earlier 
+     application with respect to an invention, relative to another 
+     application, unless a claim to the invention was or could 
+     have been made in such application having an effective filing 
+     date that is earlier than the effective filing date of any 
+     claim to the invention that was or could have been made in 
+     such other application.
+       ``(4) No appeal.--A determination by the Director whether 
+     to institute a derivation proceeding under paragraph (1) 
+     shall be final and not appealable.''.
+       (2) Effective date.--The amendment made by paragraph (1) 
+     shall be effective as if included in the amendment made by 
+     section 3(i) of the Leahy-Smith America Invents Act.
+       (3) Review of interference decisions.--The provisions of 
+     sections 6 and 141 of title 35, United States Code, and 
+     section 1295(a)(4)(A) of title 28, United States Code, as in 
+     effect on September 15, 2012, shall apply to interference 
+     proceedings that are declared after September 15, 2012, under 
+     section 135 of title 35, United States Code, as in effect 
+     before the effective date under section 3(n) of the Leahy-
+     Smith America Invents Act. The Patent Trial and Appeal Board 
+     may be deemed to be the Board of Patent Appeals and 
+     Interferences for purposes of such interference proceedings.
+       (l) Patent and Trademark Public Advisory Committees.--
+       (1) In general.--Section 5(a) of title 35, United States 
+     Code, is amended--
+       (A) in paragraph (1), by striking ``Members of'' and all 
+     that follows through ``such appointments.'' and inserting the 
+     following: ``In each year, 3 members shall be appointed to 
+     each Advisory Committee for 3-year terms that shall begin on 
+     December 1 of that year. Any vacancy on an Advisory Committee 
+     shall be filled within 90 days after it occurs. A new member 
+     who is appointed to fill a vacancy shall be appointed to 
+     serve for the remainder of the predecessor's term.'';
+       (B) by striking paragraph (2) and inserting the following:
+       ``(2) Chair.--The Secretary of Commerce, in consultation 
+     with the Director, shall designate a Chair and Vice Chair of 
+     each Advisory Committee from among the members
+
+[[Page 18336]]
+
+     appointed under paragraph (1). If the Chair resigns before 
+     the completion of his or her term, or is otherwise unable to 
+     exercise the functions of the Chair, the Vice Chair shall 
+     exercise the functions of the Chair.''; and
+       (C) by striking paragraph (3).
+       (2) Transition.--
+       (A) In general.--The Secretary of Commerce shall, in the 
+     Secretary's discretion, determine the time and manner in 
+     which the amendments made by paragraph (1) shall take effect, 
+     except that, in each year following the year in which this 
+     Act is enacted, 3 members shall be appointed to each Advisory 
+     Committee (to which such amendments apply) for 3-year terms 
+     that begin on December 1 of that year, in accordance with 
+     section 5(a) of title 35, United States Code, as amended by 
+     paragraph (1) of this subsection.
+       (B) Deemed termination of terms.--In order to implement the 
+     amendments made by paragraph (1), the Secretary of Commerce 
+     may determine that the term of an existing member of an 
+     Advisory Committee under section 5 of title 35, United States 
+     Code, shall be deemed to terminate on December 1 of a year 
+     beginning after the date of the enactment of this Act, 
+     regardless of whether December 1 is before or after the date 
+     on which such member's term would terminate if this Act had 
+     not been enacted.
+       (m) Clerical Amendment.--Section 123(a) of title 35, United 
+     States Code, is amended in the matter preceding paragraph (1) 
+     by inserting ``of this title'' after ``For purposes''.
+       (n) Effective Date.--Except as otherwise provided in this 
+     Act, the amendments made by this Act shall take effect on the 
+     date of enactment of this Act, and shall apply to proceedings 
+     commenced on or after such date of enactment.
+
+                          ____________________
+```
